@@ -49,7 +49,7 @@ npm run build-pages:site
 Script:
 
 - čita `laws-manifest.json`
-- prolazi kroz sve fajlove u `laws-json/`
+- prolazi kroz zakone navedene u `laws-manifest.json` i čita odgovarajuće fajlove iz `laws-json/`
 - pravi `dist-pages/index.html`
 - pravi `dist-pages/<slug>/index.html` za svaki zakon
 - pravi `dist-pages/<slug>/clan-<articleNo>.html` za svaki član
