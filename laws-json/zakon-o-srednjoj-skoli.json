@@ -1,0 +1,69 @@
+{
+  "law": "Zakon o srednjoj školi",
+  "lawSlug": "zakon-o-srednjoj-koli",
+  "category": "srednje_obrazovanje",
+  "sourceDocumentCount": 3,
+  "articleCount": 3,
+  "articles": [
+    {
+      "law": "Zakon o srednjoj školi",
+      "lawSlug": "zakon-o-srednjoj-koli",
+      "article": "Član 23",
+      "articleNo": "23",
+      "section": null,
+      "category": "srednje_obrazovanje",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Osnova za donošenje nastavnog plana i programa stručne i umetničke škole je obrazovni profil.\n\nObrazovni profil, u smislu ovog zakona, obuhvata opšte i stručne sadržaje zasnovane na dostignućima nauke, tehnologije, kulture i umetnosti neophodne za obavljanje poslova određenog stepena složenosti u okviru područja rada, odnosno za dalje školovanje.",
+      "chunks": [
+        {
+          "id": "1f62acf6-cb1a-5401-b885-ada709b5ccd7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Osnova za donošenje nastavnog plana i programa stručne i umetničke škole je obrazovni profil.\n\nObrazovni profil, u smislu ovog zakona, obuhvata opšte i stručne sadržaje zasnovane na dostignućima nauke, tehnologije, kulture i umetnosti neophodne za obavljanje poslova određenog stepena složenosti u okviru područja rada, odnosno za dalje školovanje.",
+          "ragContent": "Ovaj član definiše obrazovni profil kao osnovu za nastavne planove i programe. Član 23. Zakona o srednjoj školi propisuje da obrazovni profil obuhvata opšte i stručne sadržaje potrebne za obavljanje poslova i dalje školovanje.\n\nOsnova za donošenje nastavnog plana i programa stručne i umetničke škole je obrazovni profil.\n\nObrazovni profil, u smislu ovog zakona, obuhvata opšte i stručne sadržaje zasnovane na dostignućima nauke, tehnologije, kulture i umetnosti neophodne za obavljanje poslova određenog stepena složenosti u okviru područja rada, odnosno za dalje školovanje."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o srednjoj školi",
+      "lawSlug": "zakon-o-srednjoj-koli",
+      "article": "Član 24",
+      "articleNo": "24",
+      "section": null,
+      "category": "srednje_obrazovanje",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nastavni plan i program donosi ministar prosvete.",
+      "chunks": [
+        {
+          "id": "7f3f6706-54ba-57f4-9583-c1910067f554",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nastavni plan i program donosi ministar prosvete.",
+          "ragContent": "Ovaj član uređuje donošenje nastavnog plana i programa. Član 24. Zakona o srednjoj školi propisuje da nastavni plan i program donosi ministar prosvete.  Nastavni plan i program donosi ministar prosvete."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o srednjoj školi",
+      "lawSlug": "zakon-o-srednjoj-koli",
+      "article": "Član 26",
+      "articleNo": "26",
+      "section": null,
+      "category": "srednje_obrazovanje",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nastavni plan i program sadrži obavezne, izborne i fakultativne oblike obrazovno-vaspitnog rada.\n\nNastavnim planom utvrđuju se nastavni predmeti, sedmični i godišnji broj časova za svaki predmet i njihov raspored po razredima.",
+      "chunks": [
+        {
+          "id": "b07fcae3-4eab-5496-bf3b-710e511b5be9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nastavni plan i program sadrži obavezne, izborne i fakultativne oblike obrazovno-vaspitnog rada.\n\nNastavnim planom utvrđuju se nastavni predmeti, sedmični i godišnji broj časova za svaki predmet i njihov raspored po razredima.",
+          "ragContent": "Ovaj član uređuje nastavni plan i program u srednjim školama. Član 26. Zakona o srednjoj školi definiše obavezne, izborne i fakultativne oblike obrazovno-vaspitnog rada.\n\nNastavni plan i program sadrži obavezne, izborne i fakultativne oblike obrazovno-vaspitnog rada.\n\nNastavnim planom utvrđuju se nastavni predmeti, sedmični i godišnji broj časova za svaki predmet i njihov raspored po razredima."
+        }
+      ]
+    }
+  ]
+}

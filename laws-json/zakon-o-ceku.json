@@ -1,0 +1,609 @@
+{
+  "law": "Zakon o čeku",
+  "lawSlug": "zakon-o-eku",
+  "category": "hartije_od_vrednosti",
+  "sourceDocumentCount": 30,
+  "articleCount": 30,
+  "articles": [
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček sadrži:\n\n1) označenje da je ček, napisano u samom slogu isprave ili, ako je ova izdana na stranom jeziku, izraz koji na tome jeziku odgovara pojmu čeka;\n\n2) bezuslovni uput da se plati određena svota novca iz trasantovog pokrića;\n\n3) ime onoga koji treba da plati (trasat);\n\n4) mesto gde treba platiti;\n\n5) označenje dana i mesta izdanja čeka;\n\n6) potpis onoga koji je ček izdao (trasant).",
+      "chunks": [
+        {
+          "id": "41ff9700-7ad8-5f7f-98f4-9026879d31b3",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček sadrži:\n\n1) označenje da je ček, napisano u samom slogu isprave ili, ako je ova izdana na stranom jeziku, izraz koji na tome jeziku odgovara pojmu čeka;\n\n2) bezuslovni uput da se plati određena svota novca iz trasantovog pokrića;\n\n3) ime onoga koji treba da plati (trasat);\n\n4) mesto gde treba platiti;\n\n5) označenje dana i mesta izdanja čeka;\n\n6) potpis onoga koji je ček izdao (trasant).",
+          "ragContent": "Ovaj član definiše osnovne elemente koji moraju biti prisutni na čeku. Član 1. Zakona o čeku propisuje šta sve treba da sadrži ček kako bi bio validan.\n\nČek sadrži:\n\n1) označenje da je ček, napisano u samom slogu isprave ili, ako je ova izdana na stranom jeziku, izraz koji na tome jeziku odgovara pojmu čeka;\n\n2) bezuslovni uput da se plati određena svota novca iz trasantovog pokrića;\n\n3) ime onoga koji treba da plati (trasat);\n\n4) mesto gde treba platiti;\n\n5) označenje dana i mesta izdanja čeka;\n\n6) potpis onoga koji je ček izdao (trasant)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Isplata čeka može se za celu čekovnu svotu ili za izvestan njen deo obezbediti jemstvom (avalom).\n\nIzuzimajući trasata, ovo obezbeđenje može dati svako treće lice, pa i ono koje je ček potpisalo.",
+      "chunks": [
+        {
+          "id": "b16f4dae-db7e-5449-8a88-9797239d3fcf",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Isplata čeka može se za celu čekovnu svotu ili za izvestan njen deo obezbediti jemstvom (avalom).\n\nIzuzimajući trasata, ovo obezbeđenje može dati svako treće lice, pa i ono koje je ček potpisalo.",
+          "ragContent": "Ovaj član uređuje obezbeđenje isplate čeka. Član 10. Zakona o čeku propisuje da se isplata čeka može obezbediti jemstvom (avalom) od strane trećih lica.\n\nIsplata čeka može se za celu čekovnu svotu ili za izvestan njen deo obezbediti jemstvom (avalom).\n\nIzuzimajući trasata, ovo obezbeđenje može dati svako treće lice, pa i ono koje je ček potpisalo."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček se plaća po viđenju.\n\nNe vredi kao ček isprava u kojoj bi dospelost bila drukčije naznačena.",
+      "chunks": [
+        {
+          "id": "97581c87-303f-528d-bdc2-82717c030f95",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček se plaća po viđenju.\n\nNe vredi kao ček isprava u kojoj bi dospelost bila drukčije naznačena.",
+          "ragContent": "Ovaj član uređuje način plaćanja čeka. Član 11. Zakona o čeku definiše da se ček plaća po viđenju i da ne može imati drugačije naznačenu dospelost.\n\nČek se plaća po viđenju.\n\nNe vredi kao ček isprava u kojoj bi dospelost bila drukčije naznačena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček koji se ima platiti u našoj zemlji mora se trasatu podneti na isplatu, i to računajući od dana izdanja: 1) u roku od osam dana ako je mesto izdanja i plaćanja u našoj zemlji jedno isto; a u roku od petnaest dana ako su to različita mesta; 2) u roku od dvadeset dana ako je ček izdat u kojoj od evropskih zemalja; 3) u roku od četrdeset dana ako je ček izdat u kojoj zemlji izvan Evrope, i to na obalama Sredozemnog ili Crnog Mora ili na ostrvima u njima; 4) u roku od sedamdeset dana ako je ček izdat u kojoj drugoj zemlji izvan Evrope. Izuzetno od prednjih propisa cirkularni ček može se podneti na isplatu i u roku od šest meseci od dana izdanja. Smatra se da je ček podnet na isplatu i onda kad je podnet nekom obračunskom zavodu čiji je trasat član ili kod koga ima zastupnika.",
+      "chunks": [
+        {
+          "id": "fb9dac88-eb23-5507-a35c-70fa9da557c7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček koji se ima platiti u našoj zemlji mora se trasatu podneti na isplatu, i to računajući od dana izdanja: 1) u roku od osam dana ako je mesto izdanja i plaćanja u našoj zemlji jedno isto; a u roku od petnaest dana ako su to različita mesta; 2) u roku od dvadeset dana ako je ček izdat u kojoj od evropskih zemalja; 3) u roku od četrdeset dana ako je ček izdat u kojoj zemlji izvan Evrope, i to na obalama Sredozemnog ili Crnog Mora ili na ostrvima u njima; 4) u roku od sedamdeset dana ako je ček izdat u kojoj drugoj zemlji izvan Evrope. Izuzetno od prednjih propisa cirkularni ček može se podneti na isplatu i u roku od šest meseci od dana izdanja. Smatra se da je ček podnet na isplatu i onda kad je podnet nekom obračunskom zavodu čiji je trasat član ili kod koga ima zastupnika.",
+          "ragContent": "Ovaj član uređuje rokove za podnošenje čeka na isplatu. Član 12. Zakona o čeku definiše različite rokove za isplatu čeka u zavisnosti od mesta izdanja i plaćanja.\n\nČek koji se ima platiti u našoj zemlji mora se trasatu podneti na isplatu, i to računajući od dana izdanja: 1) u roku od osam dana ako je mesto izdanja i plaćanja u našoj zemlji jedno isto; a u roku od petnaest dana ako su to različita mesta; 2) u roku od dvadeset dana ako je ček izdat u kojoj od evropskih zemalja; 3) u roku od četrdeset dana ako je ček izdat u kojoj zemlji izvan Evrope, i to na obalama Sredozemnog ili Crnog Mora ili na ostrvima u njima; 4) u roku od sedamdeset dana ako je ček izdat u kojoj drugoj zemlji izvan Evrope. Izuzetno od prednjih propisa cirkularni ček može se podneti na isplatu i u roku od šest meseci od dana izdanja. Smatra se da je ček podnet na isplatu i onda kad je podnet nekom obračunskom zavodu čiji je trasat član ili kod koga ima zastupnika."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kada se ček trasira iz jednog mesta na neko drugo mesto i kada u tim mestima ne važe isti kalendari, onda se dan izdanja dovodi na dan koji mu odgovara u kalendaru važećem u mestu plaćanja, pa se prema tome određuje dospelost.",
+      "chunks": [
+        {
+          "id": "5180eea3-df01-50cc-8ab4-80e9b5b4b70b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kada se ček trasira iz jednog mesta na neko drugo mesto i kada u tim mestima ne važe isti kalendari, onda se dan izdanja dovodi na dan koji mu odgovara u kalendaru važećem u mestu plaćanja, pa se prema tome određuje dospelost.",
+          "ragContent": "Ovaj član uređuje uslove trasiranja čeka između različitih mesta. Član 13. Zakona o čeku propisuje da se dan izdanja čeka prilagođava kalendaru mesta plaćanja, što utiče na određivanje dospelosti.\n\nKada se ček trasira iz jednog mesta na neko drugo mesto i kada u tim mestima ne važe isti kalendari, onda se dan izdanja dovodi na dan koji mu odgovara u kalendaru važećem u mestu plaćanja, pa se prema tome određuje dospelost."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nemaju nikakvog uticaja na dejstvo čeka smrt trasantova ni njegova čekovna nesposobnost za obvezivanje, kad nastupe posle izdanja čeka.\n\nTrasat mora odbiti isplatu čeka ako zna da je nad imovinom trasanta otvoren stečaj.",
+      "chunks": [
+        {
+          "id": "81990c59-b304-5eaf-8551-267d83117366",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nemaju nikakvog uticaja na dejstvo čeka smrt trasantova ni njegova čekovna nesposobnost za obvezivanje, kad nastupe posle izdanja čeka.\n\nTrasat mora odbiti isplatu čeka ako zna da je nad imovinom trasanta otvoren stečaj.",
+          "ragContent": "Ovaj član uređuje uticaj smrti trasanta na dejstvo čeka. Član 14. Zakona o čeku propisuje da smrt trasanta i njegova nesposobnost ne utiču na dejstvo čeka, kao i obavezu trasata da odbije isplatu čeka u slučaju otvorenog stečaja nad imovinom trasanta.\n\nNemaju nikakvog uticaja na dejstvo čeka smrt trasantova ni njegova čekovna nesposobnost za obvezivanje, kad nastupe posle izdanja čeka.\n\nTrasat mora odbiti isplatu čeka ako zna da je nad imovinom trasanta otvoren stečaj."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Opozivanje čeka dejstvuje:\n\n1) kad proteče rok koji je određen za podnošenje radi isplate;\n\n2) ako trasant neposredno pošalje ček koji glasi na ime ili „po naredbi” trasatu, sa naređenjem da ga izmiri licu označenom u čeku, a opozivanje stigne trasatu pre nego što je to naređenje izvršeno.\n\nKad nema opozivanja trasatu je dužnost prema trasantu da ček isplati i pošto proteče rok za podnošenje, osim ako ne postoji drukčiji sporazum.\n\nTrasant, koji bi posle isteka roka za podnošenje, raspolagao pokrićem, mada nije punovažno opozvao ček, odgovara za naknadu štete.",
+      "chunks": [
+        {
+          "id": "ccdaed6f-8ad3-5179-a708-0297e4da60f9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Opozivanje čeka dejstvuje:\n\n1) kad proteče rok koji je određen za podnošenje radi isplate;\n\n2) ako trasant neposredno pošalje ček koji glasi na ime ili „po naredbi” trasatu, sa naređenjem da ga izmiri licu označenom u čeku, a opozivanje stigne trasatu pre nego što je to naređenje izvršeno.\n\nKad nema opozivanja trasatu je dužnost prema trasantu da ček isplati i pošto proteče rok za podnošenje, osim ako ne postoji drukčiji sporazum.\n\nTrasant, koji bi posle isteka roka za podnošenje, raspolagao pokrićem, mada nije punovažno opozvao ček, odgovara za naknadu štete.",
+          "ragContent": "Ovaj član uređuje opozivanje čeka i obaveze trasanta. Član 15. Zakona o čeku definiše uslove pod kojima opozivanje čeka deluje i obaveze trasanta prema trasantu.\n\nOpozivanje čeka dejstvuje:\n\n1) kad proteče rok koji je određen za podnošenje radi isplate;\n\n2) ako trasant neposredno pošalje ček koji glasi na ime ili „po naredbi” trasatu, sa naređenjem da ga izmiri licu označenom u čeku, a opozivanje stigne trasatu pre nego što je to naređenje izvršeno.\n\nKad nema opozivanja trasatu je dužnost prema trasantu da ček isplati i pošto proteče rok za podnošenje, osim ako ne postoji drukčiji sporazum.\n\nTrasant, koji bi posle isteka roka za podnošenje, raspolagao pokrićem, mada nije punovažno opozvao ček, odgovara za naknadu štete."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Prilikom isplate čeka trasat može zahtevati da mu imalac preda ček s potvrdom na njemu da je isplaćen.\n\nImalac čeka može odbiti delimičnu isplatu.\n\nU slučaju delimične isplate trasat može zahtevati da se ona zabeleži na čeku i da mu se uz to izda priznanica na isplaćenu svotu.",
+      "chunks": [
+        {
+          "id": "a0fb3e3e-d4ef-55e4-bec4-f3f7473f393d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Prilikom isplate čeka trasat može zahtevati da mu imalac preda ček s potvrdom na njemu da je isplaćen.\n\nImalac čeka može odbiti delimičnu isplatu.\n\nU slučaju delimične isplate trasat može zahtevati da se ona zabeleži na čeku i da mu se uz to izda priznanica na isplaćenu svotu.",
+          "ragContent": "Ovaj član uređuje postupak isplate čeka i prava imalaca. Član 16. Zakona o čeku definiše obaveze trasata i imalaca u vezi sa isplatom čeka.\n\nPrilikom isplate čeka trasat može zahtevati da mu imalac preda ček s potvrdom na njemu da je isplaćen.\n\nImalac čeka može odbiti delimičnu isplatu.\n\nU slučaju delimične isplate trasat može zahtevati da se ona zabeleži na čeku i da mu se uz to izda priznanica na isplaćenu svotu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček koji je s prednje strane precrtan dvema uporednim crtama može imalac čeka naplatiti samo preko banke. Ovo precrtavanje može izvršiti bilo trasant bilo imalac čeka.\n\nPrecrtaj može biti opšti ili poseban.\n\nPrecrtaj je opšti ako između dveju njegovih crta nije ništa naznačeno ili ako je napisano „banka”, odnosno kakav drugi izraz koji znači to isto. Precrtaj je poseban ako je između njegovih crta napisano ime neke određene banke.\n\nOpšti precrtaj može se pretvoriti u poseban, a poseban ne može u opšti.\n\nČek sa posebnim precrtajem može imalac čeka naplatiti samo preko banke označene u precrtaju. Ali ona može odrediti neku drugu banku da tu naplatu izvrši.\n\nBrisanje precrtaja ili imena označene banke smatra se kao da nije izvršeno.\n\nTrasat koji u slučaju opšteg precrtaja ne isplati ček banci, nego kome drugom licu, ili koji u slučaju posebnog precrtaja isplati ček kome drugom a ne u precrtaju označenoj banci, odgovara za prouzrokovanu štetu. Naknada štete ne može biti veća od čekovne svote.",
+      "chunks": [
+        {
+          "id": "6511f5d4-ffc9-51ee-a43c-d111bf7affed",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček koji je s prednje strane precrtan dvema uporednim crtama može imalac čeka naplatiti samo preko banke. Ovo precrtavanje može izvršiti bilo trasant bilo imalac čeka.\n\nPrecrtaj može biti opšti ili poseban.\n\nPrecrtaj je opšti ako između dveju njegovih crta nije ništa naznačeno ili ako je napisano „banka”, odnosno kakav drugi izraz koji znači to isto. Precrtaj je poseban ako je između njegovih crta napisano ime neke određene banke.\n\nOpšti precrtaj može se pretvoriti u poseban, a poseban ne može u opšti.\n\nČek sa posebnim precrtajem može imalac čeka naplatiti samo preko banke označene u precrtaju. Ali ona može odrediti neku drugu banku da tu naplatu izvrši.\n\nBrisanje precrtaja ili imena označene banke smatra se kao da nije izvršeno.\n\nTrasat koji u slučaju opšteg precrtaja ne isplati ček banci, nego kome drugom licu, ili koji u slučaju posebnog precrtaja isplati ček kome drugom a ne u precrtaju označenoj banci, odgovara za prouzrokovanu štetu. Naknada štete ne može biti veća od čekovne svote.",
+          "ragContent": "Ovaj član uređuje precrtavanje čeka i način njegove naplate. Član 17. Zakona o čeku definiše pravila o opštem i posebnom precrtaju čeka, kao i odgovornost trasanta za štetu.\n\nČek koji je s prednje strane precrtan dvema uporednim crtama može imalac čeka naplatiti samo preko banke. Ovo precrtavanje može izvršiti bilo trasant bilo imalac čeka.\n\nPrecrtaj može biti opšti ili poseban.\n\nPrecrtaj je opšti ako između dveju njegovih crta nije ništa naznačeno ili ako je napisano „banka”, odnosno kakav drugi izraz koji znači to isto. Precrtaj je poseban ako je između njegovih crta napisano ime neke određene banke.\n\nOpšti precrtaj može se pretvoriti u poseban, a poseban ne može u opšti.\n\nČek sa posebnim precrtajem može imalac čeka naplatiti samo preko banke označene u precrtaju. Ali ona može odrediti neku drugu banku da tu naplatu izvrši.\n\nBrisanje precrtaja ili imena označene banke smatra se kao da nije izvršeno.\n\nTrasat koji u slučaju opšteg precrtaja ne isplati ček banci, nego kome drugom licu, ili koji u slučaju posebnog precrtaja isplati ček kome drugom a ne u precrtaju označenoj banci, odgovara za prouzrokovanu štetu. Naknada štete ne može biti veća od čekovne svote."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Trasant, a i svaki imalac čeka, može zabraniti da se ček isplati u gotovom novcu. Toga radi on mora da na prednjoj strani čeka, preko sloga napiše „samo za obračun” ili drugi kakav izraz koji znači to isto.\n\nU tom slučaju ček se može izmiriti samo putem obračuna sa trasatom ili sa licem koje ima kod trasata račun ili sa članom obračunskog zavoda koji postoji u mestu plaćanja. Ako trasat nije član takvog zavoda, on može prilikom podnošenja čeka označiti na njemu nekog člana toga zavoda u svrhu obračunavanja. Ovakav obračun vredi kao isplata.\n\nNaznačenje „samo za obračun” ne može se opozvati.\n\nAko ne postupi po odredbi za obračun, trasat odgovara najviše do iznosa čekovne svote za štetu koju bi na ovaj način prouzrokovao.",
+      "chunks": [
+        {
+          "id": "11cf4fdf-f1ef-5460-96d4-2c215ee23be5",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Trasant, a i svaki imalac čeka, može zabraniti da se ček isplati u gotovom novcu. Toga radi on mora da na prednjoj strani čeka, preko sloga napiše „samo za obračun” ili drugi kakav izraz koji znači to isto.\n\nU tom slučaju ček se može izmiriti samo putem obračuna sa trasatom ili sa licem koje ima kod trasata račun ili sa članom obračunskog zavoda koji postoji u mestu plaćanja. Ako trasat nije član takvog zavoda, on može prilikom podnošenja čeka označiti na njemu nekog člana toga zavoda u svrhu obračunavanja. Ovakav obračun vredi kao isplata.\n\nNaznačenje „samo za obračun” ne može se opozvati.\n\nAko ne postupi po odredbi za obračun, trasat odgovara najviše do iznosa čekovne svote za štetu koju bi na ovaj način prouzrokovao.",
+          "ragContent": "Ovaj član uređuje mogućnost zabrane isplate čeka u gotovom novcu. Član 18. Zakona o čeku propisuje da trasant može označiti ček kao \"samo za obračun\".\n\nTrasant, a i svaki imalac čeka, može zabraniti da se ček isplati u gotovom novcu. Toga radi on mora da na prednjoj strani čeka, preko sloga napiše „samo za obračun” ili drugi kakav izraz koji znači to isto.\n\nU tom slučaju ček se može izmiriti samo putem obračuna sa trasatom ili sa licem koje ima kod trasata račun ili sa članom obračunskog zavoda koji postoji u mestu plaćanja. Ako trasat nije član takvog zavoda, on može prilikom podnošenja čeka označiti na njemu nekog člana toga zavoda u svrhu obračunavanja. Ovakav obračun vredi kao isplata.\n\nNaznačenje „samo za obračun” ne može se opozvati.\n\nAko ne postupi po odredbi za obračun, trasat odgovara najviše do iznosa čekovne svote za štetu koju bi na ovaj način prouzrokovao."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Imalac čeka može vršiti regres protiv indosanata, trasanta i avalista ako bude odbijena isplata čeka koji je podnesen na vreme (čl. 12. ovog zakona).\n\nPodnošenje na isplatu i neisplata moraju biti utvrđeni:\n\n1) javnom ispravom („protest zbog neisplate”); ili\n\n2) potpisanom izjavom trasatovom na čeku kojom odbija isplatu, sa naznačenjem dana kada je ček bio podnet; izjava se mora u protestnom roku uneti u registar protesta, o čemu protestni organ stavlja potvrdu na čeku odnosno njegovom alonžu; ili\n\n3) datiranim uverenjem obračunskog zavoda, kojim se utvrđuje da je ček bio podnet na vreme i da nije izmiren obračunom.\n\nProtest zbog neisplate mora se podići pre nego što proteče rok za podnošenje. Ali, za ček podnet na isplatu poslednjeg dana roka za podnošenje, ako ne bude isplaćen, protest se može podići još i prvog radnog dana koji za ovim danom dolazi.",
+      "chunks": [
+        {
+          "id": "a5949034-1136-5fd1-a3f8-e96d6445a5d1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Imalac čeka može vršiti regres protiv indosanata, trasanta i avalista ako bude odbijena isplata čeka koji je podnesen na vreme (čl. 12. ovog zakona).\n\nPodnošenje na isplatu i neisplata moraju biti utvrđeni:\n\n1) javnom ispravom („protest zbog neisplate”); ili\n\n2) potpisanom izjavom trasatovom na čeku kojom odbija isplatu, sa naznačenjem dana kada je ček bio podnet; izjava se mora u protestnom roku uneti u registar protesta, o čemu protestni organ stavlja potvrdu na čeku odnosno njegovom alonžu; ili\n\n3) datiranim uverenjem obračunskog zavoda, kojim se utvrđuje da je ček bio podnet na vreme i da nije izmiren obračunom.\n\nProtest zbog neisplate mora se podići pre nego što proteče rok za podnošenje. Ali, za ček podnet na isplatu poslednjeg dana roka za podnošenje, ako ne bude isplaćen, protest se može podići još i prvog radnog dana koji za ovim danom dolazi.",
+          "ragContent": "Ovaj član uređuje regres imatelja čeka u slučaju neisplate. Član 19. Zakona o čeku propisuje uslove podnošenja na isplatu i neisplate čeka.\n\nImalac čeka može vršiti regres protiv indosanata, trasanta i avalista ako bude odbijena isplata čeka koji je podnesen na vreme (čl. 12. ovog zakona).\n\nPodnošenje na isplatu i neisplata moraju biti utvrđeni:\n\n1) javnom ispravom („protest zbog neisplate”); ili\n\n2) potpisanom izjavom trasatovom na čeku kojom odbija isplatu, sa naznačenjem dana kada je ček bio podnet; izjava se mora u protestnom roku uneti u registar protesta, o čemu protestni organ stavlja potvrdu na čeku odnosno njegovom alonžu; ili\n\n3) datiranim uverenjem obračunskog zavoda, kojim se utvrđuje da je ček bio podnet na vreme i da nije izmiren obračunom.\n\nProtest zbog neisplate mora se podići pre nego što proteče rok za podnošenje. Ali, za ček podnet na isplatu poslednjeg dana roka za podnošenje, ako ne bude isplaćen, protest se može podići još i prvog radnog dana koji za ovim danom dolazi."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček koji je plativ u zemlji može se trasirati samo na banku. Ček plativ van zemlje može se prema zakonu mesta plaćanja trasirati na druga lica.",
+      "chunks": [
+        {
+          "id": "f9f0bab4-11a9-5296-b07b-9654f54356bd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček koji je plativ u zemlji može se trasirati samo na banku. Ček plativ van zemlje može se prema zakonu mesta plaćanja trasirati na druga lica.",
+          "ragContent": "Ovaj član uređuje trasiranje čeka u zemlji i van zemlje. Član 2. Zakona o čeku definiše pravila trasiranja čeka.  Ček koji je plativ u zemlji može se trasirati samo na banku. Ček plativ van zemlje može se prema zakonu mesta plaćanja trasirati na druga lica."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček izdat u zemlji a plativ van nje može se izdati u dva ili više istovetnih primeraka. U slogu savkog primerka mora se staviti njegov tekući broj; ako se to ne učini, svaki primerak važi kao poseban ček.\n\nČek na donosioca ne može se umnožavati.",
+      "chunks": [
+        {
+          "id": "d4cb45fc-d25c-57aa-b989-703105f30c78",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček izdat u zemlji a plativ van nje može se izdati u dva ili više istovetnih primeraka. U slogu savkog primerka mora se staviti njegov tekući broj; ako se to ne učini, svaki primerak važi kao poseban ček.\n\nČek na donosioca ne može se umnožavati.",
+          "ragContent": "Ovaj član uređuje izdavanje čeka u više primeraka. Član 20. Zakona o čeku propisuje da se ček može izdati u više istovetnih primeraka uz obavezno navođenje tekućeg broja.\n\nČek izdat u zemlji a plativ van nje može se izdati u dva ili više istovetnih primeraka. U slogu savkog primerka mora se staviti njegov tekući broj; ako se to ne učini, svaki primerak važi kao poseban ček.\n\nČek na donosioca ne može se umnožavati."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Regresni zahtevi imaoca čeka protiv indosanata i protiv trasanata zastarevaju za šest meseci od proteka roka za podnošenje na isplatu.\n\nRegresni zahtevi indosanata jednih protiv drugih i protiv trasanata zastarevaju za šest meseci od dana kad je indosant iskupio ček ili od dana kad je protiv njega kod suda postupljeno.",
+      "chunks": [
+        {
+          "id": "d205eabf-0c00-53b3-8a2c-371a26616ee4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Regresni zahtevi imaoca čeka protiv indosanata i protiv trasanata zastarevaju za šest meseci od proteka roka za podnošenje na isplatu.\n\nRegresni zahtevi indosanata jednih protiv drugih i protiv trasanata zastarevaju za šest meseci od dana kad je indosant iskupio ček ili od dana kad je protiv njega kod suda postupljeno.",
+          "ragContent": "Ovaj član uređuje rokove zastare regresnih zahteva u vezi sa čekovima. Član 21. Zakona o čeku propisuje da regresni zahtevi zastarevaju za šest meseci.\n\nRegresni zahtevi imaoca čeka protiv indosanata i protiv trasanata zastarevaju za šest meseci od proteka roka za podnošenje na isplatu.\n\nRegresni zahtevi indosanata jednih protiv drugih i protiv trasanata zastarevaju za šest meseci od dana kad je indosant iskupio ček ili od dana kad je protiv njega kod suda postupljeno."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Umesto da podigne regresnu tužbu (čl. 19. ovog zakona), imalac čeka, ako nije drukčije ugovoreno, može uz povraćaj čeka ostvariti u redovnoj parnici protiv trasanta ili svoga neposrednog indosanta tražbinu proisteklu iz pravnog odnosa koji je bio osnov izdavanja ili prenosa čeka.\n\nOstvarenje tražbine iz osnovnog odnosa imalac čeka može vršiti i onda kad nisu ispunjeni uslovi za regres ili je ovaj zastareo. Ali u ovom slučaju imaocu se od njegovog potraživanja odbija iznos štete koju je tuženi dužnik pretrpeo zbog neblagovremeno učinjenog ili zbog propuštenog podnošenja čeka.",
+      "chunks": [
+        {
+          "id": "9747d448-31a8-5fa0-b37e-805487356497",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Umesto da podigne regresnu tužbu (čl. 19. ovog zakona), imalac čeka, ako nije drukčije ugovoreno, može uz povraćaj čeka ostvariti u redovnoj parnici protiv trasanta ili svoga neposrednog indosanta tražbinu proisteklu iz pravnog odnosa koji je bio osnov izdavanja ili prenosa čeka.\n\nOstvarenje tražbine iz osnovnog odnosa imalac čeka može vršiti i onda kad nisu ispunjeni uslovi za regres ili je ovaj zastareo. Ali u ovom slučaju imaocu se od njegovog potraživanja odbija iznos štete koju je tuženi dužnik pretrpeo zbog neblagovremeno učinjenog ili zbog propuštenog podnošenja čeka.",
+          "ragContent": "Ovaj član uređuje mogućnost imalaca čeka da ostvaruju tražbine iz osnovnog odnosa. Član 22. Zakona o čeku omogućava imalcima čeka da umesto regresne tužbe podnesu tužbu protiv trasanta ili indosanta.\nUmesto da podigne regresnu tužbu (čl. 19. ovog zakona), imalac čeka, ako nije drukčije ugovoreno, može uz povraćaj čeka ostvariti u redovnoj parnici protiv trasanta ili svoga neposrednog indosanta tražbinu proisteklu iz pravnog odnosa koji je bio osnov izdavanja ili prenosa čeka.\n\nOstvarenje tražbine iz osnovnog odnosa imalac čeka može vršiti i onda kad nisu ispunjeni uslovi za regres ili je ovaj zastareo. Ali u ovom slučaju imaocu se od njegovog potraživanja odbija iznos štete koju je tuženi dužnik pretrpeo zbog neblagovremeno učinjenog ili zbog propuštenog podnošenja čeka."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 23",
+      "articleNo": "23",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Na ček se, shodno njegovoj prirodi, primenjuju sledeći propisi Zakona o menici:\n\n1) o razlikama u svoti (čl. 6);\n\n2) o punovažnosti potpisa stavljenog na menici koja sadrži potpise pomenute u čl. 7. Zakona o menici, kao i o punovažnosti potpisa lica koje radi bez ovlašćenja ili koje prekorači svoje ovlašćenje (čl. 8);\n\n3) o indosamentu (čl. 12 do 17), sa izuzetkom propisa o akceptiranju i onih iz st. 2. čl. 16. Zakona o menici;\n\n4) o avalu (čl. 30 i 31), s tim da trasatov aval nema čekovno-pravnog dejstva;\n\n5) o plaćanju (čl. 40. i čl. 114. tač. 3);\n\n6) o izveštavanju (čl. 44); o napomeni „bez troškova” (čl. 45); o solidarnoj odgovornosti (čl. 46); o regresnoj svoti (čl. 47. st. 1 i čl. 48); o predaji isprava i prebrisavanju indosamenata (čl. 49); u svima navedenim članovima izuzimaju se propisi o akceptu i o kamati određenoj u ispravi;\n\n7) o višoj sili (č. 53) sa izuzetkom propisa o akceptiranju;\n\n8) o umnožavanju (čl. 64) sa izuzetkom druge rečenice prvog stava;\n\n9) o preinačenju menice (čl. 68) sa izuzetkom propisa o akceptiranju sa dodatkom: Štetu koja proističe iz iskupljenja preinačenog kao i lažnog čeka snosi trasant preinačenog čeka odnosno neistiniti trasant lažnog čeka ako su, bilo ova lica (trasanti), bilo njihovi nameštenici kojima je povereno rukovanje čekovima krivi u pogledu preinačenja čeka odnosno u pogledu izdanja lažnog čeka. U svakom drugom slučaju štetu snosi trasat. Protivna pogodba ne važi;\n\n10) u protestu (čl. 69 do 76 i 77 st. 2) sa izuzetkom propisa o akceptiranju i o protestovanju na osnovu prepisa čeka (čl. 71. tač. 1);\n\n11) o zastarelosti (čl. 79 do 84);\n\n12) o neopravdanom obogaćenju (čl. 85), sa izuzetkom propisa o akceptantu, ali samo ako nema mesta tužbi iz čl. 22. st. 2 ovog zakona;\n\n13) o pravu zaloge i pridržaja (čl. 86 do 89);\n\n14) o amortizaciji (čl. 90 do 93), sa izuzetkom propisa o akceptantu;\n\n15) o sukobima zakona (čl. 94 do 100);\n\n16) opšta naređenja (čl. 101 do 105 i čl. 106 st. 1 i 3), sa izuzetkom propisa o akceptiranju.",
+      "chunks": [
+        {
+          "id": "c48f1a0f-82dd-51ed-b393-0662d50b70f2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Na ček se, shodno njegovoj prirodi, primenjuju sledeći propisi Zakona o menici:\n\n1) o razlikama u svoti (čl. 6);\n\n2) o punovažnosti potpisa stavljenog na menici koja sadrži potpise pomenute u čl. 7. Zakona o menici, kao i o punovažnosti potpisa lica koje radi bez ovlašćenja ili koje prekorači svoje ovlašćenje (čl. 8);\n\n3) o indosamentu (čl. 12 do 17), sa izuzetkom propisa o akceptiranju i onih iz st. 2. čl. 16. Zakona o menici;\n\n4) o avalu (čl. 30 i 31), s tim da trasatov aval nema čekovno-pravnog dejstva;\n\n5) o plaćanju (čl. 40. i čl. 114. tač. 3);\n\n6) o izveštavanju (čl. 44); o napomeni „bez troškova” (čl. 45); o solidarnoj odgovornosti (čl. 46); o regresnoj svoti (čl. 47. st. 1 i čl. 48); o predaji isprava i prebrisavanju indosamenata (čl. 49); u svima navedenim članovima izuzimaju se propisi o akceptu i o kamati određenoj u ispravi;\n\n7) o višoj sili (č. 53) sa izuzetkom propisa o akceptiranju;\n\n8) o umnožavanju (čl. 64) sa izuzetkom druge rečenice prvog stava;\n\n9) o preinačenju menice (čl. 68) sa izuzetkom propisa o akceptiranju sa dodatkom: Štetu koja proističe iz iskupljenja preinačenog kao i lažnog čeka snosi trasant preinačenog čeka odnosno neistiniti trasant lažnog čeka ako su, bilo ova lica (trasanti), bilo njihovi nameštenici kojima je povereno rukovanje čekovima krivi u pogledu preinačenja čeka odnosno u pogledu izdanja lažnog čeka. U svakom drugom slučaju štetu snosi trasat. Protivna pogodba ne važi;\n\n10) u protestu (čl. 69 do 76 i 77 st. 2) sa izuzetkom propisa o akceptiranju i o protestovanju na osnovu prepisa čeka (čl. 71. tač. 1);\n\n11) o zastarelosti (čl. 79 do 84);\n\n12) o neopravdanom obogaćenju (čl. 85), sa izuzetkom propisa o akceptantu, ali samo ako nema mesta tužbi iz čl. 22. st. 2 ovog zakona;\n\n13) o pravu zaloge i pridržaja (čl. 86 do 89);\n\n14) o amortizaciji (čl. 90 do 93), sa izuzetkom propisa o akceptantu;\n\n15) o sukobima zakona (čl. 94 do 100);\n\n16) opšta naređenja (čl. 101 do 105 i čl. 106 st. 1 i 3), sa izuzetkom propisa o akceptiranju.",
+          "ragContent": "Ovaj član uređuje primenu propisa Zakona o menici na ček. Član 23. Zakona o čeku definiše koji propisi Zakona o menici se primenjuju na ček, uključujući odredbe o razlikama u svoti, punovažnosti potpisa, indosamentu, avalu, plaćanju, izveštavanju, višoj sili, preinačenju menice, protestu, zastarelosti, neopravdanom obogaćenju, pravu zaloge, amortizaciji, sukobima zakona i opštim naređenjima.\n\nNa ček se, shodno njegovoj prirodi, primenjuju sledeći propisi Zakona o menici:\n\n1) o razlikama u svoti (čl. 6);\n\n2) o punovažnosti potpisa stavljenog na menici koja sadrži potpise pomenute u čl. 7. Zakona o menici, kao i o punovažnosti potpisa lica koje radi bez ovlašćenja ili koje prekorači svoje ovlašćenje (čl. 8);\n\n3) o indosamentu (čl. 12 do 17), sa izuzetkom propisa o akceptiranju i onih iz st. 2. čl. 16. Zakona o menici;\n\n4) o avalu (čl. 30 i 31), s tim da trasatov aval nema čekovno-pravnog dejstva;\n\n5) o plaćanju (čl. 40. i čl. 114. tač. 3);\n\n6) o izveštavanju (čl. 44); o napomeni „bez troškova” (čl. 45); o solidarnoj odgovornosti (čl. 46); o regresnoj svoti (čl. 47. st. 1 i čl. 48); o predaji isprava i prebrisavanju indosamenata (čl. 49); u svima navedenim članovima izuzimaju se propisi o akceptu i o kamati određenoj u ispravi;\n\n7) o višoj sili (č. 53) sa izuzetkom propisa o akceptiranju;\n\n8) o umnožavanju (čl. 64) sa izuzetkom druge rečenice prvog stava;\n\n9) o preinačenju menice (čl. 68) sa izuzetkom propisa o akceptiranju sa dodatkom: Štetu koja proističe iz iskupljenja preinačenog kao i lažnog čeka snosi trasant preinačenog čeka odnosno neistiniti trasant lažnog čeka ako su, bilo ova lica (trasanti), bilo njihovi nameštenici kojima je povereno rukovanje čekovima krivi u pogledu preinačenja čeka odnosno u pogledu izdanja lažnog čeka. U svakom drugom slučaju štetu snosi trasat. Protivna pogodba ne važi;\n\n10) u protestu (čl. 69 do 76 i 77 st. 2) sa izuzetkom propisa o akceptiranju i o protestovanju na osnovu prepisa čeka (čl. 71. tač. 1);\n\n11) o zastarelosti (čl. 79 do 84);\n\n12) o neopravdanom obogaćenju (čl. 85), sa izuzetkom propisa o akceptantu, ali samo ako nema mesta tužbi iz čl. 22. st. 2 ovog zakona;\n\n13) o pravu zaloge i pridržaja (čl. 86 do 89);\n\n14) o amortizaciji (čl. 90 do 93), sa izuzetkom propisa o akceptantu;\n\n15) o sukobima zakona (čl. 94 do 100);\n\n16) opšta naređenja (čl. 101 do 105 i čl. 106 st. 1 i 3), sa izuzetkom propisa o akceptiranju."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 24",
+      "articleNo": "24",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za sudsko ostvarivanje čekovno-pravnih regresnih zahteva vrede isti propisi o nadležnosti i postupku koji vrede za menično-pravne regresne zahteve.",
+      "chunks": [
+        {
+          "id": "cb34bec3-0718-5389-8d61-ce31eda909c4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za sudsko ostvarivanje čekovno-pravnih regresnih zahteva vrede isti propisi o nadležnosti i postupku koji vrede za menično-pravne regresne zahteve.",
+          "ragContent": "Ovaj član uređuje sudsko ostvarivanje čekovno-pravnih regresnih zahteva. Član 24. Zakona o čeku propisuje da se za ove zahteve primenjuju isti propisi kao i za menično-pravne regresne zahteve.  Za sudsko ostvarivanje čekovno-pravnih regresnih zahteva vrede isti propisi o nadležnosti i postupku koji vrede za menično-pravne regresne zahteve."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 25",
+      "articleNo": "25",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 2% do 10% od čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice: 1) koje trasira ček bez datuma ili sa neistinitim datumom izdanja; 2) koje ček iz tačke 1. stav 1. ovog člana, iako zna za njegove nedostatke, preuzme, prenese ili isplati; 3) koje trasira ček protivno odredbi člana 2. ovog zakona; 4) koje pretvori poseban precrtaj u opšti ili izbriše bilo precrtaj bilo ime označene banke (član 17). Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara. Za prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara.",
+      "chunks": [
+        {
+          "id": "71099830-8bd5-58fd-9dd0-cf13ece20429",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 2% do 10% od čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice: 1) koje trasira ček bez datuma ili sa neistinitim datumom izdanja; 2) koje ček iz tačke 1. stav 1. ovog člana, iako zna za njegove nedostatke, preuzme, prenese ili isplati; 3) koje trasira ček protivno odredbi člana 2. ovog zakona; 4) koje pretvori poseban precrtaj u opšti ili izbriše bilo precrtaj bilo ime označene banke (član 17). Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara. Za prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara.",
+          "ragContent": "Ovaj član uređuje novčane kazne za prekršaje vezane za čekove. Član 25. Zakona o čeku propisuje kazne za preduzeća, odgovorna lica i pojedince za različite prekršaje u vezi sa trasiranjem i isplatom čekova.\n\nNovčanom kaznom od 2% do 10% od čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice: 1) koje trasira ček bez datuma ili sa neistinitim datumom izdanja; 2) koje ček iz tačke 1. stav 1. ovog člana, iako zna za njegove nedostatke, preuzme, prenese ili isplati; 3) koje trasira ček protivno odredbi člana 2. ovog zakona; 4) koje pretvori poseban precrtaj u opšti ili izbriše bilo precrtaj bilo ime označene banke (član 17). Za prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara. Za prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 1% do 5% od čekovnog iznosa, a najmanje 900 novih dinara."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 26",
+      "articleNo": "26",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 10% do 20% od nepokrivenog čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice:\n\n1) koje kao trasant čeka izda ček za koji nema uopšte ili nema dovoljno pokrića;\n\n2) koje kao trasant čeka, iako je znalo da ček ne može punovažno opozvati, tako raspolaže pokrićem da onemogući isplatu čeka (član 15).\n\nZa prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nZa prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nU slučaju iz stava 1. ovog člana trasant je dužan da imaocu čeka naknadi štetu (član 4).",
+      "chunks": [
+        {
+          "id": "8eddc27a-96c5-5a28-95f1-7ba7b5d50349",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 10% do 20% od nepokrivenog čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice:\n\n1) koje kao trasant čeka izda ček za koji nema uopšte ili nema dovoljno pokrića;\n\n2) koje kao trasant čeka, iako je znalo da ček ne može punovažno opozvati, tako raspolaže pokrićem da onemogući isplatu čeka (član 15).\n\nZa prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nZa prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nU slučaju iz stava 1. ovog člana trasant je dužan da imaocu čeka naknadi štetu (član 4).",
+          "ragContent": "Ovaj član uređuje novčane kazne za preduzeća i pojedince zbog izdatih čekova bez pokrića. Zakon o čeku, član 26, propisuje kazne za prekršaje vezane za trasante koji izdaju čekove bez pokrića.\n\nNovčanom kaznom od 10% do 20% od nepokrivenog čekovnog iznosa, a najmanje 15.000 novih dinara, kazniće se za prekršaj preduzeće ili drugo pravno lice:\n\n1) koje kao trasant čeka izda ček za koji nema uopšte ili nema dovoljno pokrića;\n\n2) koje kao trasant čeka, iako je znalo da ček ne može punovažno opozvati, tako raspolaže pokrićem da onemogući isplatu čeka (član 15).\n\nZa prekršaj iz stava 1. ovog člana kazniće se i odgovorno lice u preduzeću ili u drugom pravnom licu novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nZa prekršaj iz stava 1. ovog člana kazniće se i pojedinac novčanom kaznom od 2% do 10% od nepokrivenog čekovnog iznosa, a najmanje 900 novih dinara.\n\nU slučaju iz stava 1. ovog člana trasant je dužan da imaocu čeka naknadi štetu (član 4)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 28",
+      "articleNo": "28",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za ček vrede propisi čl. 111, 112. i 114. Zakona o menici.",
+      "chunks": [
+        {
+          "id": "ff8d8a7f-4165-57df-99c0-6339c6233a69",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za ček vrede propisi čl. 111, 112. i 114. Zakona o menici.",
+          "ragContent": "Ovaj član se odnosi na propise koji se primenjuju na ček. Član 28. Zakona o čeku upućuje na primenu članova 111, 112. i 114. Zakona o menici.  Za ček vrede propisi čl. 111, 112. i 114. Zakona o menici."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 29",
+      "articleNo": "29",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Cirkularni ček izdaje se i upotrebljava pod propisanim uslovima.",
+      "chunks": [
+        {
+          "id": "2a050891-5059-5396-b0cb-5790d95b36ba",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Cirkularni ček izdaje se i upotrebljava pod propisanim uslovima.",
+          "ragContent": "Ovaj član uređuje izdavanje i upotrebu cirkularnog čeka. Član 29. Zakona o čeku definiše uslove za cirkularni ček.\nCirkularni ček izdaje se i upotrebljava pod propisanim uslovima."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Isprava u kojoj ne bi bilo ma kojeg od sastojaka pobrojanih u čl. 1. ili koja nije trasirana prema čl. 2. ovog zakona ne vredi kao ček, osim u slučajevima koji su određeni u sledećim stavovima.\n\nAko nije naročito određeno, važi kao mesto plaćanja ono mesto koje je označeno pored trasatovog imena.\n\nČek u kome nije naznačeno mesto izdanja smatra se da je izdat u mestu koje je označeno pored trasantovog imena.\n\nOdređivanje kamate u čeku smatra se kao da nije napisano.",
+      "chunks": [
+        {
+          "id": "8ef2f3b4-ebd3-5bbb-b2a3-3ae719bd0015",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Isprava u kojoj ne bi bilo ma kojeg od sastojaka pobrojanih u čl. 1. ili koja nije trasirana prema čl. 2. ovog zakona ne vredi kao ček, osim u slučajevima koji su određeni u sledećim stavovima.\n\nAko nije naročito određeno, važi kao mesto plaćanja ono mesto koje je označeno pored trasatovog imena.\n\nČek u kome nije naznačeno mesto izdanja smatra se da je izdat u mestu koje je označeno pored trasantovog imena.\n\nOdređivanje kamate u čeku smatra se kao da nije napisano.",
+          "ragContent": "Ovaj član uređuje uslove pod kojima ček važi. Član 3. Zakona o čeku definiše šta čini ček validnim i kako se određuju mesto plaćanja i mesto izdanja.\n\nIsprava u kojoj ne bi bilo ma kojeg od sastojaka pobrojanih u čl. 1. ili koja nije trasirana prema čl. 2. ovog zakona ne vredi kao ček, osim u slučajevima koji su određeni u sledećim stavovima.\n\nAko nije naročito određeno, važi kao mesto plaćanja ono mesto koje je označeno pored trasatovog imena.\n\nČek u kome nije naznačeno mesto izdanja smatra se da je izdat u mestu koje je označeno pored trasantovog imena.\n\nOdređivanje kamate u čeku smatra se kao da nije napisano."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 30",
+      "articleNo": "30",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Izuzetno od čl. 2. Zakona o nevažnosti pravnih propisa donetih pre 6. aprila 1941. godine i za vreme neprijateljske okupacije, za čekove izdate pre stupanja na snagu ovog zakona vrede propisi Čekovnog zakona od 29. novembra 1928. godine. Po Čekovnom zakonu od 29. novembra 1928. godine isto tako prosuđuje se oblik i dejstvo čekovnih izjava koje su posle stupanja na snagu ovog zakona date na čekovima pre toga idzatim. Ovo vredi i za činjenja potrebna za održavanje i ostvarivanje čekovnih prava.",
+      "chunks": [
+        {
+          "id": "d94e871c-6ac3-51dc-b316-d4ff8ce47c0d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izuzetno od čl. 2. Zakona o nevažnosti pravnih propisa donetih pre 6. aprila 1941. godine i za vreme neprijateljske okupacije, za čekove izdate pre stupanja na snagu ovog zakona vrede propisi Čekovnog zakona od 29. novembra 1928. godine. Po Čekovnom zakonu od 29. novembra 1928. godine isto tako prosuđuje se oblik i dejstvo čekovnih izjava koje su posle stupanja na snagu ovog zakona date na čekovima pre toga idzatim. Ovo vredi i za činjenja potrebna za održavanje i ostvarivanje čekovnih prava.",
+          "ragContent": "Ovaj član uređuje pravila o čekovima izdatim pre stupanja na snagu zakona. Član 30. Zakona o čeku propisuje da za te čekove važe propisi Čekovnog zakona iz 1928. godine.  Izuzetno od čl. 2. Zakona o nevažnosti pravnih propisa donetih pre 6. aprila 1941. godine i za vreme neprijateljske okupacije, za čekove izdate pre stupanja na snagu ovog zakona vrede propisi Čekovnog zakona od 29. novembra 1928. godine. Po Čekovnom zakonu od 29. novembra 1928. godine isto tako prosuđuje se oblik i dejstvo čekovnih izjava koje su posle stupanja na snagu ovog zakona date na čekovima pre toga idzatim. Ovo vredi i za činjenja potrebna za održavanje i ostvarivanje čekovnih prava."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 31",
+      "articleNo": "31",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Federativne Narodne Republike Jugoslavije”.",
+      "chunks": [
+        {
+          "id": "ef3e4a59-a19f-5984-ae97-904e042c281f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Federativne Narodne Republike Jugoslavije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 31. Zakona o čeku propisuje da zakon stupa na snagu danom objavljivanja.  Ovaj zakon stupa na snagu danom objavljivanja u „Službenom listu Federativne Narodne Republike Jugoslavije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček se sme trasirati samo na ono lice (čl. 2. ovog zakona) kod koga trasant ima pokriće kojim može raspolagati putem čeka na osnovu izričnog ili prećutnog sporazuma sa tim licem.\n\nTrasant koji izda nepokriven ček dužan je dati imaocu čeka potpuno obeštećenje.",
+      "chunks": [
+        {
+          "id": "97222ebc-fc91-5c24-b031-882825be58a8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček se sme trasirati samo na ono lice (čl. 2. ovog zakona) kod koga trasant ima pokriće kojim može raspolagati putem čeka na osnovu izričnog ili prećutnog sporazuma sa tim licem.\n\nTrasant koji izda nepokriven ček dužan je dati imaocu čeka potpuno obeštećenje.",
+          "ragContent": "Ovaj član uređuje uslove trasiranja čeka i obavezu trasanta. Zakon o čeku, član 4, definiše pravila o trasiranju čeka i obaveze trasanta.\n\nČek se sme trasirati samo na ono lice (čl. 2. ovog zakona) kod koga trasant ima pokriće kojim može raspolagati putem čeka na osnovu izričnog ili prećutnog sporazuma sa tim licem.\n\nTrasant koji izda nepokriven ček dužan je dati imaocu čeka potpuno obeštećenje."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček može glasiti na ime, po naredbi ili na donosioca.\n\nČek na ime koji sadrži naznačenje „ili donosiocu”, odnosno drugi izraz koji to isto znači, vredi kao ček na donosioca.\n\nIsto tako ček bez označenja lica kome se ima platiti (korisnik, remitent) vredi kao ček na donosioca.\n\nČek može glasiti i na ime ili po naredbi samoga trasanta.\n\nNe vredi ček na donosioca u kome su trasant i trasat jedno isto lice.",
+      "chunks": [
+        {
+          "id": "90d854a5-61e4-5a49-afe9-4b89ba19d56c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček može glasiti na ime, po naredbi ili na donosioca.\n\nČek na ime koji sadrži naznačenje „ili donosiocu”, odnosno drugi izraz koji to isto znači, vredi kao ček na donosioca.\n\nIsto tako ček bez označenja lica kome se ima platiti (korisnik, remitent) vredi kao ček na donosioca.\n\nČek može glasiti i na ime ili po naredbi samoga trasanta.\n\nNe vredi ček na donosioca u kome su trasant i trasat jedno isto lice.",
+          "ragContent": "Ovaj član uređuje vrste čekova. Član 5. Zakona o čeku definiše različite oblike čekova i njihove pravne posledice.\n\nČek može glasiti na ime, po naredbi ili na donosioca.\n\nČek na ime koji sadrži naznačenje „ili donosiocu”, odnosno drugi izraz koji to isto znači, vredi kao ček na donosioca.\n\nIsto tako ček bez označenja lica kome se ima platiti (korisnik, remitent) vredi kao ček na donosioca.\n\nČek može glasiti i na ime ili po naredbi samoga trasanta.\n\nNe vredi ček na donosioca u kome su trasant i trasat jedno isto lice."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Trasant odgovara za isplatu. Svaka odredba kojom bi se on oslobođavao odgovornosti za isplatu smatra se da nije ni napisana.",
+      "chunks": [
+        {
+          "id": "b733b2bd-d009-594b-95ce-542296be4933",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Trasant odgovara za isplatu. Svaka odredba kojom bi se on oslobođavao odgovornosti za isplatu smatra se da nije ni napisana.",
+          "ragContent": "Ovaj član uređuje odgovornost trasanta za isplatu. Član 6. Zakona o čeku propisuje da trasant ne može biti oslobođen odgovornosti za isplatu.\n  Trasant odgovara za isplatu. Svaka odredba kojom bi se on oslobođavao odgovornosti za isplatu smatra se da nije ni napisana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ček na donosioca prenosi se prostom predajom. Svaki drugi ček, pa ma i ne bio izrično trasiran po naredbi, prenosi se indosamentom.\n\nČek, u kome je trasant stavio reči: „ne po naredbi” ili drugi izraz koji znači to isto, prenosi se samo u obliku i sa dejstvima običnog ustupljenja (cesije).\n\nČek na donosioca može se pretvoriti u ček na ime ili u ček po naredbi odgovarajućim punim indosamentom.",
+      "chunks": [
+        {
+          "id": "eb9a3d14-7071-55c3-a812-734b9cb1f06f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ček na donosioca prenosi se prostom predajom. Svaki drugi ček, pa ma i ne bio izrično trasiran po naredbi, prenosi se indosamentom.\n\nČek, u kome je trasant stavio reči: „ne po naredbi” ili drugi izraz koji znači to isto, prenosi se samo u obliku i sa dejstvima običnog ustupljenja (cesije).\n\nČek na donosioca može se pretvoriti u ček na ime ili u ček po naredbi odgovarajućim punim indosamentom.",
+          "ragContent": "Ovaj član uređuje prenos čeka na donosioca i druge vrste čekova. Član 7. Zakona o čeku definiše načine prenosa čeka, uključujući prostu predaju i indosament.\n\nČek na donosioca prenosi se prostom predajom. Svaki drugi ček, pa ma i ne bio izrično trasiran po naredbi, prenosi se indosamentom.\n\nČek, u kome je trasant stavio reči: „ne po naredbi” ili drugi izraz koji znači to isto, prenosi se samo u obliku i sa dejstvima običnog ustupljenja (cesije).\n\nČek na donosioca može se pretvoriti u ček na ime ili u ček po naredbi odgovarajućim punim indosamentom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Indosament mora biti bezuslovan. Svaki uslov koji bi bio stavljen smatra se kao da nije napisan.\n\nDelimičan indosament je ništavan.\n\nIsto tako ništavan je i trasatov indosament.\n\nIndosament „na donosioca” vredi kao blanko indosament.\n\nKo god, izuzimajući trasata, stavi na poleđini čeka izdatog na donosioca svoj potpis, ne ispisujući odredbu o indosamentu, odgovara kao trasantov avalista. Ček ovim ne gubi svojstvo čeka na donosioca.\n\nIndosament na trasata vredi kao priznanica o isplati.",
+      "chunks": [
+        {
+          "id": "7f197f52-706e-580c-911a-2d07475a3a2c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Indosament mora biti bezuslovan. Svaki uslov koji bi bio stavljen smatra se kao da nije napisan.\n\nDelimičan indosament je ništavan.\n\nIsto tako ništavan je i trasatov indosament.\n\nIndosament „na donosioca” vredi kao blanko indosament.\n\nKo god, izuzimajući trasata, stavi na poleđini čeka izdatog na donosioca svoj potpis, ne ispisujući odredbu o indosamentu, odgovara kao trasantov avalista. Ček ovim ne gubi svojstvo čeka na donosioca.\n\nIndosament na trasata vredi kao priznanica o isplati.",
+          "ragContent": "Ovaj član uređuje pravila o indosamentu čeka. Član 8. Zakona o čeku definiše uslove i posledice indosamenta.\n\nIndosament mora biti bezuslovan. Svaki uslov koji bi bio stavljen smatra se kao da nije napisan.\n\nDelimičan indosament je ništavan.\n\nIsto tako ništavan je i trasatov indosament.\n\nIndosament „na donosioca” vredi kao blanko indosament.\n\nKo god, izuzimajući trasata, stavi na poleđini čeka izdatog na donosioca svoj potpis, ne ispisujući odredbu o indosamentu, odgovara kao trasantov avalista. Ček ovim ne gubi svojstvo čeka na donosioca.\n\nIndosament na trasata vredi kao priznanica o isplati."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o čeku",
+      "lawSlug": "zakon-o-eku",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "hartije_od_vrednosti",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Izjava o akceptu, koja bi se na ček stavila, nema čekovno-pravnog dejstva.",
+      "chunks": [
+        {
+          "id": "de422c6c-bb02-5510-80fb-2737be640e86",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izjava o akceptu, koja bi se na ček stavila, nema čekovno-pravnog dejstva.",
+          "ragContent": "Ovaj član uređuje pravno dejstvo izjave o akceptu na ček. Član 9. Zakona o čeku propisuje da izjava o akceptu nema čekovno-pravnog dejstva.  Izjava o akceptu, koja bi se na ček stavila, nema čekovno-pravnog dejstva."
+        }
+      ]
+    }
+  ]
+}

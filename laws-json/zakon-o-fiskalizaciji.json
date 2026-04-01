@@ -1,0 +1,517 @@
+{
+  "law": "Zakon o fiskalizaciji",
+  "lawSlug": "zakon-o-fiskalizaciji",
+  "category": "porezi_akcize",
+  "sourceDocumentCount": 28,
+  "articleCount": 24,
+  "articles": [
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": "OSNOVNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom uređuje se predmet fiskalizacije, postupak fiskalizacije preko elektronskog fiskalnog uređaja, sadržaj fiskalnog računa, određuju se obveznici fiskalizacije i uređuju druga pitanja od značaja za fiskalizaciju.",
+      "chunks": [
+        {
+          "id": "a6b506ef-36fa-5606-b1c1-e76ae640e238",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuje se predmet fiskalizacije, postupak fiskalizacije preko elektronskog fiskalnog uređaja, sadržaj fiskalnog računa, određuju se obveznici fiskalizacije i uređuju druga pitanja od značaja za fiskalizaciju.",
+          "ragContent": "Ovaj član uređuje osnovne odredbe o fiskalizaciji. Zakon o fiskalizaciji, član 1, definiše predmet fiskalizacije i postupak fiskalizacije.  Ovim zakonom uređuje se predmet fiskalizacije, postupak fiskalizacije preko elektronskog fiskalnog uređaja, sadržaj fiskalnog računa, određuju se obveznici fiskalizacije i uređuju druga pitanja od značaja za fiskalizaciju."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST” ZAKONA",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kupci i primaoci fiskalnih računa, mogu da provere da li je njihov fiskalni račun izdat u skladu sa odredbama ovog zakona odmah po izdavanju fiskalnog računa.\n\nNačin provere prijavljenih fiskalnih računa iz stava 1. ovog člana bliže uređuje ministar finansija.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine.",
+      "chunks": [
+        {
+          "id": "444de3e6-10e1-50fb-a6de-5f5be37c1daf",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kupci i primaoci fiskalnih računa, mogu da provere da li je njihov fiskalni račun izdat u skladu sa odredbama ovog zakona odmah po izdavanju fiskalnog računa.\n\nNačin provere prijavljenih fiskalnih računa iz stava 1. ovog člana bliže uređuje ministar finansija.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine.",
+          "ragContent": "Ovaj član uređuje način provere fiskalnih računa. Član 10. Zakona o fiskalizaciji propisuje da kupci mogu proveriti fiskalne račune odmah po izdavanju.\n\nKupci i primaoci fiskalnih računa, mogu da provere da li je njihov fiskalni račun izdat u skladu sa odredbama ovog zakona odmah po izdavanju fiskalnog računa.\n\nNačin provere prijavljenih fiskalnih računa iz stava 1. ovog člana bliže uređuje ministar finansija.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 10a",
+      "articleNo": "10a",
+      "section": null,
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Svi podaci iz Sistema za upravljanje fiskalizacijom, koji se odnose na fiskalne račune izdate licima iz člana 5. stav 2. tačka 5) ovog zakona, prenose se u sistem elektronskih faktura propisan zakonom kojim se uređuje elektronsko fakturisanje, po ispunjenju tehničkih uslova.\n\nNačin i postupak prenosa podataka iz stava 1. ovog člana bliže uređuje ministar finansija.",
+      "chunks": [
+        {
+          "id": "72b22cea-8fe8-5454-aee3-902019685179",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Svi podaci iz Sistema za upravljanje fiskalizacijom, koji se odnose na fiskalne račune izdate licima iz člana 5. stav 2. tačka 5) ovog zakona, prenose se u sistem elektronskih faktura propisan zakonom kojim se uređuje elektronsko fakturisanje, po ispunjenju tehničkih uslova.\n\nNačin i postupak prenosa podataka iz stava 1. ovog člana bliže uređuje ministar finansija.",
+          "ragContent": "Ovaj član uređuje prenos podataka o fiskalnim računima u sistem elektronskih faktura. Član 10a Zakona o fiskalizaciji propisuje da se podaci iz Sistema za upravljanje fiskalizacijom prenose u sistem elektronskih faktura po ispunjenju tehničkih uslova.\n\nSvi podaci iz Sistema za upravljanje fiskalizacijom, koji se odnose na fiskalne račune izdate licima iz člana 5. stav 2. tačka 5) ovog zakona, prenose se u sistem elektronskih faktura propisan zakonom kojim se uređuje elektronsko fakturisanje, po ispunjenju tehničkih uslova.\n\nNačin i postupak prenosa podataka iz stava 1. ovog člana bliže uređuje ministar finansija."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": "NADZOR",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nadzor nad primenom ovog zakona vrši Poreska uprava.",
+      "chunks": [
+        {
+          "id": "71ce3e03-8265-5a80-9d5d-1447361f21a2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nadzor nad primenom ovog zakona vrši Poreska uprava.",
+          "ragContent": "Ovaj član uređuje nadzor nad primenom zakona. Zakon o fiskalizaciji, član 11, definiše da nadzor vrši Poreska uprava.  Nadzor nad primenom ovog zakona vrši Poreska uprava."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": "NADZOR",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U toku nadzora nad primenom ovog zakona, inspektor izriče obvezniku fiskalizacije zabranu vršenja delatnosti  ako utvrdi da obveznik fiskalizacije ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije kome je u toku nadzora utvrđena nepravilnost iz stava 1. ovog člana, izriče se:\n\n1) u trajanju od 15 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost prvi put;\n\n2) u trajanju od 90 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost drugi put;\n\n3) u trajanju od jedne godine ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost treći put.\n\nZabrana vršenja delatnosti iz stava 2. ovog člana, izriče se za nepravilnosti utvrđene u periodu od 24 meseca od prve utvrđene nepravilnosti u postupku nadzora.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije izriče se za poslovni prostor i poslovne prostorije obveznika fiskalizacije u kojima su u toku nadzora utvrđene nepravilnosti iz stava 1. ovog člana.\n\nIzuzetno od stava 2. ovog člana, zabrana vršenja delatnosti obvezniku fiskalizacije koji delatnost obavlja na prostoru održavanja manifestacija (vašara, festivala, izložbi i drugih manifestacija u sklopu kulturnih, muzičkih, sportskih i drugih društvenih aktivnosti) izriče se za period trajanja te manifestacije.",
+      "chunks": [
+        {
+          "id": "95f4fcea-e3b2-5f7b-ae9a-dee67b456764",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U toku nadzora nad primenom ovog zakona, inspektor izriče obvezniku fiskalizacije zabranu vršenja delatnosti  ako utvrdi da obveznik fiskalizacije ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije kome je u toku nadzora utvrđena nepravilnost iz stava 1. ovog člana, izriče se:\n\n1) u trajanju od 15 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost prvi put;\n\n2) u trajanju od 90 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost drugi put;\n\n3) u trajanju od jedne godine ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost treći put.\n\nZabrana vršenja delatnosti iz stava 2. ovog člana, izriče se za nepravilnosti utvrđene u periodu od 24 meseca od prve utvrđene nepravilnosti u postupku nadzora.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije izriče se za poslovni prostor i poslovne prostorije obveznika fiskalizacije u kojima su u toku nadzora utvrđene nepravilnosti iz stava 1. ovog člana.\n\nIzuzetno od stava 2. ovog člana, zabrana vršenja delatnosti obvezniku fiskalizacije koji delatnost obavlja na prostoru održavanja manifestacija (vašara, festivala, izložbi i drugih manifestacija u sklopu kulturnih, muzičkih, sportskih i drugih društvenih aktivnosti) izriče se za period trajanja te manifestacije.",
+          "ragContent": "Ovaj član uređuje zabranu vršenja delatnosti obvezniku fiskalizacije u slučaju nepravilnosti. Član 12. Zakona o fiskalizaciji propisuje mere nadzora i sankcije za obveznike fiskalizacije.\n\nU toku nadzora nad primenom ovog zakona, inspektor izriče obvezniku fiskalizacije zabranu vršenja delatnosti  ako utvrdi da obveznik fiskalizacije ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije kome je u toku nadzora utvrđena nepravilnost iz stava 1. ovog člana, izriče se:\n\n1) u trajanju od 15 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost prvi put;\n\n2) u trajanju od 90 dana ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost drugi put;\n\n3) u trajanju od jedne godine ukoliko se u postupku nadzora kod obveznika fiskalizacije utvrdi nepravilnost treći put.\n\nZabrana vršenja delatnosti iz stava 2. ovog člana, izriče se za nepravilnosti utvrđene u periodu od 24 meseca od prve utvrđene nepravilnosti u postupku nadzora.\n\nZabrana vršenja delatnosti obvezniku fiskalizacije izriče se za poslovni prostor i poslovne prostorije obveznika fiskalizacije u kojima su u toku nadzora utvrđene nepravilnosti iz stava 1. ovog člana.\n\nIzuzetno od stava 2. ovog člana, zabrana vršenja delatnosti obvezniku fiskalizacije koji delatnost obavlja na prostoru održavanja manifestacija (vašara, festivala, izložbi i drugih manifestacija u sklopu kulturnih, muzičkih, sportskih i drugih društvenih aktivnosti) izriče se za period trajanja te manifestacije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": "NADZOR",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako se u postupku nadzora konstatuje povreda ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnost u njihovoj primeni, osim povrede za koju se izriče mera iz člana 12. ovog zakona, Poreska uprava donosi rešenje kojim se nalaže obvezniku fiskalizacije da u roku određenom rešenjem otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa, osim kod obveznika fiskalizacije kojima je privremeno oduzet PIB.\n\nKod obveznika fiskalizacije kojima je privremeno oduzet PIB, Poreska uprava u postupku nadzora rešenjem oduzima bezbednosni element.\n\nProtiv rešenja iz stava 2. ovog člana žalba nije dozvoljena.\n\nAko obveznik fiskalizacije ne postupi po rešenju iz stava 1. ovog člana u ostavljenom roku, Poreska uprava preduzima meru privremene zabrane obavljanja delatnosti.\n\nDejstvo mere iz stava 4. ovog člana traje dok obveznik fiskalizacije ne otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa.",
+      "chunks": [
+        {
+          "id": "6a3b381d-5cd1-523e-8505-77d43e1dd8c1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako se u postupku nadzora konstatuje povreda ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnost u njihovoj primeni, osim povrede za koju se izriče mera iz člana 12. ovog zakona, Poreska uprava donosi rešenje kojim se nalaže obvezniku fiskalizacije da u roku određenom rešenjem otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa, osim kod obveznika fiskalizacije kojima je privremeno oduzet PIB.\n\nKod obveznika fiskalizacije kojima je privremeno oduzet PIB, Poreska uprava u postupku nadzora rešenjem oduzima bezbednosni element.\n\nProtiv rešenja iz stava 2. ovog člana žalba nije dozvoljena.\n\nAko obveznik fiskalizacije ne postupi po rešenju iz stava 1. ovog člana u ostavljenom roku, Poreska uprava preduzima meru privremene zabrane obavljanja delatnosti.\n\nDejstvo mere iz stava 4. ovog člana traje dok obveznik fiskalizacije ne otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa.",
+          "ragContent": "Ovaj član uređuje postupak nadzora i mere koje Poreska uprava može preduzeti. Član 13. Zakona o fiskalizaciji propisuje da Poreska uprava donosi rešenje o otklanjanju povreda zakona ili propisa, kao i mere protiv obveznika fiskalizacije.\n\nAko se u postupku nadzora konstatuje povreda ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnost u njihovoj primeni, osim povrede za koju se izriče mera iz člana 12. ovog zakona, Poreska uprava donosi rešenje kojim se nalaže obvezniku fiskalizacije da u roku određenom rešenjem otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa, osim kod obveznika fiskalizacije kojima je privremeno oduzet PIB.\n\nKod obveznika fiskalizacije kojima je privremeno oduzet PIB, Poreska uprava u postupku nadzora rešenjem oduzima bezbednosni element.\n\nProtiv rešenja iz stava 2. ovog člana žalba nije dozvoljena.\n\nAko obveznik fiskalizacije ne postupi po rešenju iz stava 1. ovog člana u ostavljenom roku, Poreska uprava preduzima meru privremene zabrane obavljanja delatnosti.\n\nDejstvo mere iz stava 4. ovog člana traje dok obveznik fiskalizacije ne otkloni utvrđene povrede ovog zakona ili propisa donetih na osnovu ovog zakona, odnosno nepravilnosti u primeni ovih propisa."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": "NADZOR",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mere iz člana 12. ovog zakona inspektor naređuje rešenjem.\n\nMere iz člana 13. ovog zakona donosi rešenjem Poreska uprava.",
+      "chunks": [
+        {
+          "id": "275f439b-abf2-55d7-ac9a-2809f4be4c7b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mere iz člana 12. ovog zakona inspektor naređuje rešenjem.\n\nMere iz člana 13. ovog zakona donosi rešenjem Poreska uprava.",
+          "ragContent": "Ovaj član uređuje mere koje inspektor i Poreska uprava mogu da preduzmu. Član 14. Zakona o fiskalizaciji definiše postupke donošenja mera od strane inspektora i Poreske uprave.\n\nMere iz člana 12. ovog zakona inspektor naređuje rešenjem.\n\nMere iz člana 13. ovog zakona donosi rešenjem Poreska uprava."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": "KAZNENE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 300.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja (član 4. stav 2.);\n\n2) izda fiskalni račun koji ne sadrži obavezne propisane podatke ili sadrži neispravne podatke koji su od značaja za visinu poreske obaveze (član 5. stav 2.);\n\n3) u trenutku prometa ne izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave (član 6. stav 1.);\n\n4) u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora iz člana 9. ovog zakona, ne obezbedi nesmetan rad najmanje jednog elektronskog fiskalnog uređaja iz člana 6. stav 3. tačka 1) ovog zakona (član 6. stav 4.);\n\n5) izda račun koji nije fiskalizovan u momentu prometa na malo ili ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi putem stalne internet veze u realnom vremenu, u trenutku prometa na malo (član 8. stav 1.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 20.000 do 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 do 500.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 20.000 do 150.000 dinara.",
+      "chunks": [
+        {
+          "id": "c560a99e-7fa7-5a9c-b6a7-5e52ad1b4645",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 300.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja (član 4. stav 2.);\n\n2) izda fiskalni račun koji ne sadrži obavezne propisane podatke ili sadrži neispravne podatke koji su od značaja za visinu poreske obaveze (član 5. stav 2.);\n\n3) u trenutku prometa ne izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave (član 6. stav 1.);\n\n4) u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora iz člana 9. ovog zakona, ne obezbedi nesmetan rad najmanje jednog elektronskog fiskalnog uređaja iz člana 6. stav 3. tačka 1) ovog zakona (član 6. stav 4.);\n\n5) izda račun koji nije fiskalizovan u momentu prometa na malo ili ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi putem stalne internet veze u realnom vremenu, u trenutku prometa na malo (član 8. stav 1.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 20.000 do 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 do 500.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 20.000 do 150.000 dinara.",
+          "ragContent": "Ovaj član uređuje kaznene odredbe za prekršaje obveznika fiskalizacije. Član 15. Zakona o fiskalizaciji propisuje novčane kazne za pravna lica, preduzetnike i fizička lica za nepoštovanje obaveza fiskalizacije.\n\nNovčanom kaznom od 300.000 do 2.000.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne evidentira svaki pojedinačno ostvareni promet na malo, uključujući i primljene avanse za budući promet na malo preko elektronskog fiskalnog uređaja (član 4. stav 2.);\n\n2) izda fiskalni račun koji ne sadrži obavezne propisane podatke ili sadrži neispravne podatke koji su od značaja za visinu poreske obaveze (član 5. stav 2.);\n\n3) u trenutku prometa ne izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave (član 6. stav 1.);\n\n4) u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora iz člana 9. ovog zakona, ne obezbedi nesmetan rad najmanje jednog elektronskog fiskalnog uređaja iz člana 6. stav 3. tačka 1) ovog zakona (član 6. stav 4.);\n\n5) izda račun koji nije fiskalizovan u momentu prometa na malo ili ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi putem stalne internet veze u realnom vremenu, u trenutku prometa na malo (član 8. stav 1.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 20.000 do 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 do 500.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 20.000 do 150.000 dinara."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": "KAZNENE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 300.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne koristi odgovarajući bezbednosni element (član 7.);\n\n2) ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa (član 8. stav 2.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 dinara.",
+      "chunks": [
+        {
+          "id": "15330ab5-db18-5317-a440-f4a50c8dbbbc",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 300.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne koristi odgovarajući bezbednosni element (član 7.);\n\n2) ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa (član 8. stav 2.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 dinara.",
+          "ragContent": "Ovaj član uređuje kaznene odredbe za prekršaje u fiskalizaciji. Član 16. Zakona o fiskalizaciji propisuje novčane kazne za pravna i fizička lica koja ne poštuju obaveze fiskalizacije.\n\nNovčanom kaznom od 300.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako:\n\n1) ne koristi odgovarajući bezbednosni element (član 7.);\n\n2) ne dostavlja podatke o izdatim fiskalnim računima Poreskoj upravi periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa (član 8. stav 2.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 150.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije novčanom kaznom od 50.000 dinara."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": "KAZNENE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 200.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako\n\n1) pre početka korišćenja elektronskog fiskalnog uređaja ne dostavi Poreskoj upravi elektronskim putem podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti taj elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno (član 9. stav 1.);\n\n2) u roku od 24 sata pre nastanka promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 2.);\n\n3) u roku od 24 sata po nastanku promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 3.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 30.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 100.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 30.000 dinara.",
+      "chunks": [
+        {
+          "id": "85e315b7-d799-51ec-88ca-447e1335e8f6",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 200.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako\n\n1) pre početka korišćenja elektronskog fiskalnog uređaja ne dostavi Poreskoj upravi elektronskim putem podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti taj elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno (član 9. stav 1.);\n\n2) u roku od 24 sata pre nastanka promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 2.);\n\n3) u roku od 24 sata po nastanku promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 3.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 30.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 100.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 30.000 dinara.",
+          "ragContent": "Ovaj član uređuje kaznene odredbe za obveznike fiskalizacije. Član 17. Zakona o fiskalizaciji propisuje novčane kazne za pravna i fizička lica koja ne dostave potrebne podatke Poreskoj upravi.\n\nNovčanom kaznom od 200.000 dinara kazniće se za prekršaj pravno lice – obveznik fiskalizacije, ako\n\n1) pre početka korišćenja elektronskog fiskalnog uređaja ne dostavi Poreskoj upravi elektronskim putem podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti taj elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno (član 9. stav 1.);\n\n2) u roku od 24 sata pre nastanka promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 2.);\n\n3) u roku od 24 sata po nastanku promene podataka iz člana 9. stav 1. ovog zakona ne dostavi podatke Poreskoj upravi (član 9. stav 3.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – obvezniku fiskalizacije novčanom kaznom od 30.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – obveznik fiskalizacije novčanom kaznom od 100.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se fizičko lice – obveznik fiskalizacije koje je obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, a koje nije preduzetnik – obveznik fiskalizacije, novčanom kaznom od 30.000 dinara."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": "KAZNENE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 300.000 dinara kazniće se dobavljač elektronskog fiskalnog uređaja – pravno lice koji obvezniku fiskalizacije dostavi elektronski fiskalni uređaj čija upotreba nije odobrena od strane Poreske uprave (član 6. stav 6.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – dobavljaču elektronskog fiskalnog uređaja novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – dobavljač elektronskog fiskalnog uređaja novčanom kaznom od 150.000 dinara.",
+      "chunks": [
+        {
+          "id": "92fa81b6-186d-5242-bae8-57e47dd54443",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 300.000 dinara kazniće se dobavljač elektronskog fiskalnog uređaja – pravno lice koji obvezniku fiskalizacije dostavi elektronski fiskalni uređaj čija upotreba nije odobrena od strane Poreske uprave (član 6. stav 6.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – dobavljaču elektronskog fiskalnog uređaja novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – dobavljač elektronskog fiskalnog uređaja novčanom kaznom od 150.000 dinara.",
+          "ragContent": "Ovaj član uređuje kazne za dobavljače elektronskih fiskalnih uređaja. Član 18. Zakona o fiskalizaciji propisuje novčane kazne za prekršaje u vezi sa neodobrenim fiskalnim uređajima.\n\nNovčanom kaznom od 300.000 dinara kazniće se dobavljač elektronskog fiskalnog uređaja – pravno lice koji obvezniku fiskalizacije dostavi elektronski fiskalni uređaj čija upotreba nije odobrena od strane Poreske uprave (član 6. stav 6.).\n\nZa prekršaj iz stava 1. ovog člana, kazniće se odgovorno lice u pravnom licu – dobavljaču elektronskog fiskalnog uređaja novčanom kaznom od 50.000 dinara.\n\nZa prekršaj iz stava 1. ovog člana, kazniće se preduzetnik – dobavljač elektronskog fiskalnog uređaja novčanom kaznom od 150.000 dinara."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": "PRELAZNE I ZAVRŠNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Lica koja imaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nLica koja nemaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama i Uredbom o određivanju delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa preko fiskalne kase, a nisu oslobođena od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz člana 4. stav 3. ovog zakona, dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima više poslovnih prostora, odnosno poslovnih prostorija, evidentiranje prometa na malo preko elektronskog fiskalnog uređaja posebno u svakom pojedinačnom poslovnom prostoru, odnosno poslovnoj prostoriji može, u periodu iz st. 1. i 2. ovog člana, započeti u skladu sa Zakonom o fiskalizaciji, s tim da je dužan da u tim poslovnim prostorima, odnosno poslovnim prostorijama evidentiranje prometa na malo u celosti vrši u skladu sa odredbama Zakona o fiskalizaciji.\n\nUkoliko obveznik fiskalizacije iz stava 3. ovog člana otpočne evidentiranje prometa na malo preko elektronskog fiskalnog uređaja počev od 1. novembra 2021. godine najmanje u jednom poslovnom prostoru, odnosno poslovnoj prostoriji, a ima više poslovnih prostora, odnosno poslovnih prostorija, dužan je da u poslovnim prostorima, odnosno poslovnim prostorijama u kojima ne vrši evidentiranje prometa na malo u skladu sa Zakonom o fiskalizaciji, evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima samo jedan poslovni prostor, odnosno samo jednu poslovnu prostoriju, dužan je da evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama, do otpočinjanja evidentiranja prometa na malo u skladu sa Zakonom o fiskalizaciji.",
+      "chunks": [
+        {
+          "id": "2942b727-a028-5651-ab56-c2117cbdaddd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Lica koja imaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nLica koja nemaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama i Uredbom o određivanju delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa preko fiskalne kase, a nisu oslobođena od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz člana 4. stav 3. ovog zakona, dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima više poslovnih prostora, odnosno poslovnih prostorija, evidentiranje prometa na malo preko elektronskog fiskalnog uređaja posebno u svakom pojedinačnom poslovnom prostoru, odnosno poslovnoj prostoriji može, u periodu iz st. 1. i 2. ovog člana, započeti u skladu sa Zakonom o fiskalizaciji, s tim da je dužan da u tim poslovnim prostorima, odnosno poslovnim prostorijama evidentiranje prometa na malo u celosti vrši u skladu sa odredbama Zakona o fiskalizaciji.\n\nUkoliko obveznik fiskalizacije iz stava 3. ovog člana otpočne evidentiranje prometa na malo preko elektronskog fiskalnog uređaja počev od 1. novembra 2021. godine najmanje u jednom poslovnom prostoru, odnosno poslovnoj prostoriji, a ima više poslovnih prostora, odnosno poslovnih prostorija, dužan je da u poslovnim prostorima, odnosno poslovnim prostorijama u kojima ne vrši evidentiranje prometa na malo u skladu sa Zakonom o fiskalizaciji, evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima samo jedan poslovni prostor, odnosno samo jednu poslovnu prostoriju, dužan je da evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama, do otpočinjanja evidentiranja prometa na malo u skladu sa Zakonom o fiskalizaciji.",
+          "ragContent": "Ovaj član uređuje obaveze lica u vezi sa evidentiranjem prometa preko fiskalne kase. Član 19. Zakona o fiskalizaciji propisuje uslove i rokove za usklađivanje poslovanja sa zakonom.\n\nLica koja imaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nLica koja nemaju obavezu da vrše evidentiranje svakog pojedinačno ostvarenog prometa preko fiskalne kase u skladu sa Zakonom o fiskalnim kasama i Uredbom o određivanju delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa preko fiskalne kase, a nisu oslobođena od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz člana 4. stav 3. ovog zakona, dužna su da u periodu od 1. novembra 2021. godine do 30. aprila 2022. godine usklade svoje poslovanje sa odredbama ovog zakona i podzakonskim aktima donetim na osnovu ovog zakona.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima više poslovnih prostora, odnosno poslovnih prostorija, evidentiranje prometa na malo preko elektronskog fiskalnog uređaja posebno u svakom pojedinačnom poslovnom prostoru, odnosno poslovnoj prostoriji može, u periodu iz st. 1. i 2. ovog člana, započeti u skladu sa Zakonom o fiskalizaciji, s tim da je dužan da u tim poslovnim prostorima, odnosno poslovnim prostorijama evidentiranje prometa na malo u celosti vrši u skladu sa odredbama Zakona o fiskalizaciji.\n\nUkoliko obveznik fiskalizacije iz stava 3. ovog člana otpočne evidentiranje prometa na malo preko elektronskog fiskalnog uređaja počev od 1. novembra 2021. godine najmanje u jednom poslovnom prostoru, odnosno poslovnoj prostoriji, a ima više poslovnih prostora, odnosno poslovnih prostorija, dužan je da u poslovnim prostorima, odnosno poslovnim prostorijama u kojima ne vrši evidentiranje prometa na malo u skladu sa Zakonom o fiskalizaciji, evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama.\n\nObveznik fiskalizacije iz člana 4. ovog zakona, koji ima samo jedan poslovni prostor, odnosno samo jednu poslovnu prostoriju, dužan je da evidentiranje prometa na malo vrši u skladu sa Zakonom o fiskalnim kasama, do otpočinjanja evidentiranja prometa na malo u skladu sa Zakonom o fiskalizaciji."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 19a",
+      "articleNo": "19a",
+      "section": "PRELAZNE I ZAVRŠNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Sve fiskalne kase koje se nalaze u poslovnom prostoru, odnosno poslovnoj prostoriji, a koje su fiskalizovane na osnovu Zakona o fiskalnim kasama, danom početka evidentiranja prometa na malo u tom poslovnom prostoru, odnosno poslovnoj prostoriji, u skladu sa Zakonom o fiskalizaciji, smatraće se defiskalizovanim.",
+      "chunks": [
+        {
+          "id": "21225a20-8f66-57a9-a95f-368a1907309f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Sve fiskalne kase koje se nalaze u poslovnom prostoru, odnosno poslovnoj prostoriji, a koje su fiskalizovane na osnovu Zakona o fiskalnim kasama, danom početka evidentiranja prometa na malo u tom poslovnom prostoru, odnosno poslovnoj prostoriji, u skladu sa Zakonom o fiskalizaciji, smatraće se defiskalizovanim.",
+          "ragContent": "Ovaj član uređuje defiskalizaciju fiskalnih kasa. Član 19a Zakona o fiskalizaciji propisuje da se fiskalne kase smatraju defiskalizovanim danom početka evidentiranja prometa na malo.  Sve fiskalne kase koje se nalaze u poslovnom prostoru, odnosno poslovnoj prostoriji, a koje su fiskalizovane na osnovu Zakona o fiskalnim kasama, danom početka evidentiranja prometa na malo u tom poslovnom prostoru, odnosno poslovnoj prostoriji, u skladu sa Zakonom o fiskalizaciji, smatraće se defiskalizovanim."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": "OSNOVNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Pojedini izrazi upotrebljeni u ovom zakonu imaju sledeća značenja:\n\n1) fiskalizacija je skup mera i postupaka koje sprovode obveznici fiskalizacije kako bi se omogućila efikasna kontrola ostvarenog prometa na malo posredstvom elektronskih fiskalnih uređaja;\n\n2) elektronski fiskalni uređaj je hardversko i/ili softversko rešenje, koje koristi obveznik fiskalizacije radi izdavanja fiskalnog računa i prenosa podataka o fiskalnim računima u Sistem za upravljanje fiskalizacijom Poreske uprave, a koji se sastoji od jednog procesora fiskalnih računa i jednog ili više elektronskih sistema za izdavanje računa, odobrenih od strane Poreske uprave, kao i bezbednosnog elementa izdatog od strane Poreske uprave;\n\n3) Sistem za upravljanje fiskalizacijom je softverska aplikacija Poreske uprave koja preuzima sve podatke iz procesora fiskalnih računa, a ovlašćenim korisnicima dozvoljava pregled određenih podataka, upravlja procesorom fiskalnih računa svakog obveznika fiskalizacije od njegovog iniciranja do gašenja i kreira analize i izveštaje;\n\n4) procesor fiskalnih računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, koji razmenjuje podatke sa elektronskim sistemom za izdavanje računa i bezbednosnim elementom, analizira podatke o prometima, formatira podatke kao fiskalni račun, stvara elektronski potpis, prosleđuje fiskalni račun elektronskom sistemu za izdavanje računa, čuva podatke o prometima i prenosi fiskalne podatke u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n5) elektronski sistem za izdavanje računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, u koji obveznik fiskalizacije unosi podatke o prometu i iz kojeg se izdaje fiskalni račun;\n\n6) bezbednosni element je hardverski ili softverski element koji sadrži elektronski sertifikat obveznika fiskalizacije koga koristi procesor fiskalnih računa za potpisivanje računa i Poreska uprava kako bi se sprečilo neovlašćeno korišćenje fiskalnih podataka koji se prenose u Sistem za upravljanje fiskalizacijom Poreske uprave, kao i za očuvanje integriteta podataka;\n\n7) elektronski potpis je šifrovani digitalni kod koji identifikuje obveznika fiskalizacije i potvrđuje integritet procesora fiskalnih računa prilikom prenosa podataka u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n8) dobavljač elektronskog fiskalnog uređaja je rezidentno pravno lice, odnosno preduzetnik, kome je dodeljen PIB u skladu sa propisima kojima se uređuju poreski postupak i poreska administracija, koje obvezniku fiskalizacije isporučuje hardversko i/ili softversko rešenje potrebno za rad elektronskog fiskalnog uređaja;\n\n9) poslovni prostor i poslovne prostorije su zatvoreni ili otvoreni prostor, svaki samonaplatni uređaj – automat, ali i svako pokretno mesto (vozilo, plovni objekat i sl.) koje služi za obavljanje delatnosti (uključujući i deo ili više delova jednog poslovnog prostora i/ili poslovnih prostorija), kao i prostor koji obveznik fiskalizacije, radi obavljanja delatnosti, koristi samo povremeno ili privremeno;\n\n10) plaćanje je izmirivanje obaveza za izvršeni promet dobara ili usluga u trenutku izdavanja fiskalnog računa gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl., odnosno avansno izmirivanje obaveza za budući promet dobara ili usluga.\n\nNa ovlašćene korisnike iz stava 1. tačka 3) ovog člana iz Poreske uprave shodno se primenjuju odredbe zakona kojim se uređuje poreski postupak i poreska administracija u pogledu čuvanja tajnosti podataka.",
+      "chunks": [
+        {
+          "id": "e89b53c1-cf81-5dda-bc7d-23d174faab5d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pojedini izrazi upotrebljeni u ovom zakonu imaju sledeća značenja:\n\n1) fiskalizacija je skup mera i postupaka koje sprovode obveznici fiskalizacije kako bi se omogućila efikasna kontrola ostvarenog prometa na malo posredstvom elektronskih fiskalnih uređaja;\n\n2) elektronski fiskalni uređaj je hardversko i/ili softversko rešenje, koje koristi obveznik fiskalizacije radi izdavanja fiskalnog računa i prenosa podataka o fiskalnim računima u Sistem za upravljanje fiskalizacijom Poreske uprave, a koji se sastoji od jednog procesora fiskalnih računa i jednog ili više elektronskih sistema za izdavanje računa, odobrenih od strane Poreske uprave, kao i bezbednosnog elementa izdatog od strane Poreske uprave;\n\n3) Sistem za upravljanje fiskalizacijom je softverska aplikacija Poreske uprave koja preuzima sve podatke iz procesora fiskalnih računa, a ovlašćenim korisnicima dozvoljava pregled određenih podataka, upravlja procesorom fiskalnih računa svakog obveznika fiskalizacije od njegovog iniciranja do gašenja i kreira analize i izveštaje;\n\n4) procesor fiskalnih računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, koji razmenjuje podatke sa elektronskim sistemom za izdavanje računa i bezbednosnim elementom, analizira podatke o prometima, formatira podatke kao fiskalni račun, stvara elektronski potpis, prosleđuje fiskalni račun elektronskom sistemu za izdavanje računa, čuva podatke o prometima i prenosi fiskalne podatke u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n5) elektronski sistem za izdavanje računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, u koji obveznik fiskalizacije unosi podatke o prometu i iz kojeg se izdaje fiskalni račun;\n\n6) bezbednosni element je hardverski ili softverski element koji sadrži elektronski sertifikat obveznika fiskalizacije koga koristi procesor fiskalnih računa za potpisivanje računa i Poreska uprava kako bi se sprečilo neovlašćeno korišćenje fiskalnih podataka koji se prenose u Sistem za upravljanje fiskalizacijom Poreske uprave, kao i za očuvanje integriteta podataka;\n\n7) elektronski potpis je šifrovani digitalni kod koji identifikuje obveznika fiskalizacije i potvrđuje integritet procesora fiskalnih računa prilikom prenosa podataka u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n8) dobavljač elektronskog fiskalnog uređaja je rezidentno pravno lice, odnosno preduzetnik, kome je dodeljen PIB u skladu sa propisima kojima se uređuju poreski postupak i poreska administracija, koje obvezniku fiskalizacije isporučuje hardversko i/ili softversko rešenje potrebno za rad elektronskog fiskalnog uređaja;\n\n9) poslovni prostor i poslovne prostorije su zatvoreni ili otvoreni prostor, svaki samonaplatni uređaj – automat, ali i svako pokretno mesto (vozilo, plovni objekat i sl.) koje služi za obavljanje delatnosti (uključujući i deo ili više delova jednog poslovnog prostora i/ili poslovnih prostorija), kao i prostor koji obveznik fiskalizacije, radi obavljanja delatnosti, koristi samo povremeno ili privremeno;\n\n10) plaćanje je izmirivanje obaveza za izvršeni promet dobara ili usluga u trenutku izdavanja fiskalnog računa gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl., odnosno avansno izmirivanje obaveza za budući promet dobara ili usluga.\n\nNa ovlašćene korisnike iz stava 1. tačka 3) ovog člana iz Poreske uprave shodno se primenjuju odredbe zakona kojim se uređuje poreski postupak i poreska administracija u pogledu čuvanja tajnosti podataka.",
+          "ragContent": "Ovaj član definiše osnovne pojmove vezane za fiskalizaciju. Član 2. Zakona o fiskalizaciji objašnjava ključne termine kao što su fiskalizacija, elektronski fiskalni uređaj, i sistem za upravljanje fiskalizacijom.\n\nPojedini izrazi upotrebljeni u ovom zakonu imaju sledeća značenja:\n\n1) fiskalizacija je skup mera i postupaka koje sprovode obveznici fiskalizacije kako bi se omogućila efikasna kontrola ostvarenog prometa na malo posredstvom elektronskih fiskalnih uređaja;\n\n2) elektronski fiskalni uređaj je hardversko i/ili softversko rešenje, koje koristi obveznik fiskalizacije radi izdavanja fiskalnog računa i prenosa podataka o fiskalnim računima u Sistem za upravljanje fiskalizacijom Poreske uprave, a koji se sastoji od jednog procesora fiskalnih računa i jednog ili više elektronskih sistema za izdavanje računa, odobrenih od strane Poreske uprave, kao i bezbednosnog elementa izdatog od strane Poreske uprave;\n\n3) Sistem za upravljanje fiskalizacijom je softverska aplikacija Poreske uprave koja preuzima sve podatke iz procesora fiskalnih računa, a ovlašćenim korisnicima dozvoljava pregled određenih podataka, upravlja procesorom fiskalnih računa svakog obveznika fiskalizacije od njegovog iniciranja do gašenja i kreira analize i izveštaje;\n\n4) procesor fiskalnih računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, koji razmenjuje podatke sa elektronskim sistemom za izdavanje računa i bezbednosnim elementom, analizira podatke o prometima, formatira podatke kao fiskalni račun, stvara elektronski potpis, prosleđuje fiskalni račun elektronskom sistemu za izdavanje računa, čuva podatke o prometima i prenosi fiskalne podatke u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n5) elektronski sistem za izdavanje računa je hardverski ili softverski element, čija je upotreba odobrena od strane Poreske uprave, u koji obveznik fiskalizacije unosi podatke o prometu i iz kojeg se izdaje fiskalni račun;\n\n6) bezbednosni element je hardverski ili softverski element koji sadrži elektronski sertifikat obveznika fiskalizacije koga koristi procesor fiskalnih računa za potpisivanje računa i Poreska uprava kako bi se sprečilo neovlašćeno korišćenje fiskalnih podataka koji se prenose u Sistem za upravljanje fiskalizacijom Poreske uprave, kao i za očuvanje integriteta podataka;\n\n7) elektronski potpis je šifrovani digitalni kod koji identifikuje obveznika fiskalizacije i potvrđuje integritet procesora fiskalnih računa prilikom prenosa podataka u Sistem za upravljanje fiskalizacijom Poreske uprave;\n\n8) dobavljač elektronskog fiskalnog uređaja je rezidentno pravno lice, odnosno preduzetnik, kome je dodeljen PIB u skladu sa propisima kojima se uređuju poreski postupak i poreska administracija, koje obvezniku fiskalizacije isporučuje hardversko i/ili softversko rešenje potrebno za rad elektronskog fiskalnog uređaja;\n\n9) poslovni prostor i poslovne prostorije su zatvoreni ili otvoreni prostor, svaki samonaplatni uređaj – automat, ali i svako pokretno mesto (vozilo, plovni objekat i sl.) koje služi za obavljanje delatnosti (uključujući i deo ili više delova jednog poslovnog prostora i/ili poslovnih prostorija), kao i prostor koji obveznik fiskalizacije, radi obavljanja delatnosti, koristi samo povremeno ili privremeno;\n\n10) plaćanje je izmirivanje obaveza za izvršeni promet dobara ili usluga u trenutku izdavanja fiskalnog računa gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl., odnosno avansno izmirivanje obaveza za budući promet dobara ili usluga.\n\nNa ovlašćene korisnike iz stava 1. tačka 3) ovog člana iz Poreske uprave shodno se primenjuju odredbe zakona kojim se uređuje poreski postupak i poreska administracija u pogledu čuvanja tajnosti podataka."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": "PRELAZNE I ZAVRŠNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Propisi za sprovođenje ovog zakona doneće se u roku od devet meseci od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "9c3a4342-09a4-5e80-8796-a716a4117945",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Propisi za sprovođenje ovog zakona doneće se u roku od devet meseci od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje rok za donošenje propisa za sprovođenje zakona. Član 20. Zakona o fiskalizaciji propisuje da se propisi donose u roku od devet meseci od stupanja na snagu zakona.  Propisi za sprovođenje ovog zakona doneće se u roku od devet meseci od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": "PRELAZNE I ZAVRŠNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zakon o fiskalnim kasama prestaje da važi 1. maja 2022. godine.",
+      "chunks": [
+        {
+          "id": "820beebf-f0a1-568b-ba92-dd1df4d3c3c8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zakon o fiskalnim kasama prestaje da važi 1. maja 2022. godine.",
+          "ragContent": "Ovaj član uređuje prestanak važenja Zakona o fiskalnim kasama. Član 21. Zakona o fiskalizaciji definiše datum prestanka važenja prethodnog zakona.\nZakon o fiskalnim kasama prestaje da važi 1. maja 2022. godine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": "PRELAZNE I ZAVRŠNE ODREDBE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine, osim odredaba člana 4. stav 3, člana 5. stav 4, člana 6. stav 10, člana 7. stav 2, člana 8. st. 4. i 6, člana 9. stav 6. i člana 10. stav 2. ovog zakona koje se primenjuju od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "f307ca79-bf92-5c96-98ba-ac156980d1ed",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine, osim odredaba člana 4. stav 3, člana 5. stav 4, člana 6. stav 10, člana 7. stav 2, člana 8. st. 4. i 6, člana 9. stav 6. i člana 10. stav 2. ovog zakona koje se primenjuju od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona i njegovu primenu. Član 22. Zakona o fiskalizaciji definiše kada zakon stupa na snagu i koje odredbe se primenjuju od dana njegovog stupanja na snagu.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. novembra 2021. godine, osim odredaba člana 4. stav 3, člana 5. stav 4, člana 6. stav 10, člana 7. stav 2, člana 8. st. 4. i 6, člana 9. stav 6. i člana 10. stav 2. ovog zakona koje se primenjuju od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": "PREDMET FISKALIZACIJE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Predmet fiskalizacije je promet dobra i usluga na malo (u daljem tekstu: promet na malo) i primljeni avans za promet na malo.\n\nPrometom na malo iz stava 1. ovog člana smatra se svaki izvršen promet dobara i pružanje usluga fizičkim licima, kao i svaki promet dobara i usluga u maloprodajnim objektima, nezavisno od toga da li je korisnik fizičko lice, pravno lice ili preduzetnik, uključujući i promet izvršen putem samonaplatnih uređaja – automata.\n\nPrometom na malo iz stava 1. ovog člana ne smatra se promet izvršen izvan maloprodajnog objekta ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana.\n\nMaloprodajnim objektom iz stava 2. ovog člana smatra se svaki poslovni prostor i poslovna prostorija koji se primarno koriste za promet dobara i pružanje usluga fizičkim licima, kao i sedište obveznika fiskalizacije koji vrši promet na malo preko interneta putem daljinske trgovine.",
+      "chunks": [
+        {
+          "id": "6fd5a35d-ad87-5203-a9ae-74767ab4aac4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Predmet fiskalizacije je promet dobra i usluga na malo (u daljem tekstu: promet na malo) i primljeni avans za promet na malo.\n\nPrometom na malo iz stava 1. ovog člana smatra se svaki izvršen promet dobara i pružanje usluga fizičkim licima, kao i svaki promet dobara i usluga u maloprodajnim objektima, nezavisno od toga da li je korisnik fizičko lice, pravno lice ili preduzetnik, uključujući i promet izvršen putem samonaplatnih uređaja – automata.\n\nPrometom na malo iz stava 1. ovog člana ne smatra se promet izvršen izvan maloprodajnog objekta ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana.\n\nMaloprodajnim objektom iz stava 2. ovog člana smatra se svaki poslovni prostor i poslovna prostorija koji se primarno koriste za promet dobara i pružanje usluga fizičkim licima, kao i sedište obveznika fiskalizacije koji vrši promet na malo preko interneta putem daljinske trgovine.",
+          "ragContent": "Ovaj član definiše predmet fiskalizacije. Član 3. Zakona o fiskalizaciji uređuje promet dobara i usluga na malo i primljene avanse.\n\nPredmet fiskalizacije je promet dobra i usluga na malo (u daljem tekstu: promet na malo) i primljeni avans za promet na malo.\n\nPrometom na malo iz stava 1. ovog člana smatra se svaki izvršen promet dobara i pružanje usluga fizičkim licima, kao i svaki promet dobara i usluga u maloprodajnim objektima, nezavisno od toga da li je korisnik fizičko lice, pravno lice ili preduzetnik, uključujući i promet izvršen putem samonaplatnih uređaja – automata.\n\nPrometom na malo iz stava 1. ovog člana ne smatra se promet izvršen izvan maloprodajnog objekta ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana.\n\nMaloprodajnim objektom iz stava 2. ovog člana smatra se svaki poslovni prostor i poslovna prostorija koji se primarno koriste za promet dobara i pružanje usluga fizičkim licima, kao i sedište obveznika fiskalizacije koji vrši promet na malo preko interneta putem daljinske trgovine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": "OBVEZNIK FISKALIZACIJE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Obveznik fiskalizacije je svaki obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana i svaki obveznik poreza na dobit pravnih lica u smislu zakona kojim se uređuje porez na dobit pravnih lica, koji vrši promet na malo.\n\nObveznik fiskalizacije je u obavezi da evidentira svaki pojedinačno ostvareni promet na malo i to nezavisno od načina plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uključujući i primljene avanse za budući promet na malo, preko elektronskog fiskalnog uređaja.\n\nIzuzetno od stava 2. ovog člana, Vlada može, polazeći od tehničkih i funkcionalnih karakteristika elektronskih fiskalnih uređaja i specifičnosti određene delatnosti, na zajednički predlog ministarstva nadležnog za poslove finansija i ministarstva nadležnog za poslove trgovine, odrediti delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa na malo preko elektronskog fiskalnog uređaja u smislu stava 2. ovog člana.\n\nObveznik fiskalizacije koji obavlja delatnosti oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz stava 3. ovog člana, a istovremeno obavlja i delatnosti koje nisu izuzete, odnosno oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja, dužan je da svaki pojedinačni promet na malo kod obavljanja delatnosti koje nisu obuhvaćene aktom Vlade iz stava 3. ovog člana, evidentira preko elektronskog fiskalnog uređaja.",
+      "chunks": [
+        {
+          "id": "b0cfcc1e-09d6-5fea-8716-09b57b6b2ff2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije je svaki obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana i svaki obveznik poreza na dobit pravnih lica u smislu zakona kojim se uređuje porez na dobit pravnih lica, koji vrši promet na malo.\n\nObveznik fiskalizacije je u obavezi da evidentira svaki pojedinačno ostvareni promet na malo i to nezavisno od načina plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uključujući i primljene avanse za budući promet na malo, preko elektronskog fiskalnog uređaja.\n\nIzuzetno od stava 2. ovog člana, Vlada može, polazeći od tehničkih i funkcionalnih karakteristika elektronskih fiskalnih uređaja i specifičnosti određene delatnosti, na zajednički predlog ministarstva nadležnog za poslove finansija i ministarstva nadležnog za poslove trgovine, odrediti delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa na malo preko elektronskog fiskalnog uređaja u smislu stava 2. ovog člana.\n\nObveznik fiskalizacije koji obavlja delatnosti oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz stava 3. ovog člana, a istovremeno obavlja i delatnosti koje nisu izuzete, odnosno oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja, dužan je da svaki pojedinačni promet na malo kod obavljanja delatnosti koje nisu obuhvaćene aktom Vlade iz stava 3. ovog člana, evidentira preko elektronskog fiskalnog uređaja.",
+          "ragContent": "Ovaj član definiše obveznike fiskalizacije i njihove obaveze. Član 4. Zakona o fiskalizaciji propisuje ko su obveznici fiskalizacije i kako su dužni da evidentiraju promet na malo.\n\nObveznik fiskalizacije je svaki obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana i svaki obveznik poreza na dobit pravnih lica u smislu zakona kojim se uređuje porez na dobit pravnih lica, koji vrši promet na malo.\n\nObveznik fiskalizacije je u obavezi da evidentira svaki pojedinačno ostvareni promet na malo i to nezavisno od načina plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uključujući i primljene avanse za budući promet na malo, preko elektronskog fiskalnog uređaja.\n\nIzuzetno od stava 2. ovog člana, Vlada može, polazeći od tehničkih i funkcionalnih karakteristika elektronskih fiskalnih uređaja i specifičnosti određene delatnosti, na zajednički predlog ministarstva nadležnog za poslove finansija i ministarstva nadležnog za poslove trgovine, odrediti delatnosti kod čijeg obavljanja ne postoji obaveza evidentiranja prometa na malo preko elektronskog fiskalnog uređaja u smislu stava 2. ovog člana.\n\nObveznik fiskalizacije koji obavlja delatnosti oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja aktom Vlade iz stava 3. ovog člana, a istovremeno obavlja i delatnosti koje nisu izuzete, odnosno oslobođene od obaveze evidentiranja prometa na malo preko elektronskog fiskalnog uređaja, dužan je da svaki pojedinačni promet na malo kod obavljanja delatnosti koje nisu obuhvaćene aktom Vlade iz stava 3. ovog člana, evidentira preko elektronskog fiskalnog uređaja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": "SADRŽAJ FISKALNOG RAČUNA",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Fiskalni račun je fiskalni dokument kojim se potvrđuje da je pojedinačno ostvareni promet na malo, uključujući i primljeni avans za budući promet na malo, evidentiran u elektronskom fiskalnom uređaju.\n\nFiskalni račun obavezno sadrži sledeće podatke:\n\n1) vrstu računa;\n\n2) tip transakcije;\n\n3) naziv obveznika fiskalizacije i jedinstvenu oznaku poslovnog prostora;\n\n4) poreski identifikacioni broj (PIB) obveznika fiskalizacije;\n\n5) PIB pravnog lica, odnosno obveznika poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana;\n\n6) naziv, šifru ukoliko je obveznik fiskalizacije koristi za označavanje dobra, odnosno usluge, količinu, jedinicu mere, cenu po jedinici mere, oznaku poreske stope i vrednost evidentiranog prometa dobra, odnosno usluge;\n\n7) specifikaciju poreskih stopa;\n\n8) iznos poreza po poreskim stopama;\n\n9) ukupan iznos poreza;\n\n10) brisana je (vidi član 2. Zakona - 138/2022-285)\n\n11) ukupnu vrednost evidentiranog prometa, ukupan iznos za uplatu (uz napomenu ako je plaćanje izvršeno putem avansa), način plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uplaćen iznos i iznos razlike za povraćaj kupcu dobara, odnosno korisniku usluga;\n\n12) dan, mesec, godinu, sat, minut i sekund sačinjavanja fiskalnog računa;\n\n13) jedinstveni redni broj fiskalnog računa;\n\n14) jedinstveni redni broj fiskalnog računa po vrsti računa i tipu transakcije;\n\n15) Dvodimenzionalni bar-kôd (eng. QR – Quick Response) za verifikaciju koji sadrži sve elemente elektronskog potpisa kada se štampa fiskalni račun ili hiperlink za verifikaciju kada se fiskalni račun izdaje u elektronskoj formi;\n\n16) poziv na broj drugog fiskalnog računa, odnosno drugog relevantnog dokumenta, ukoliko postoji potreba.\n\nFiskalni račun može sadržati reklamne poruke u skladu sa zakonom.\n\nVrste fiskalnog računa, tipove transakcije, načine plaćanja, pozivanje na broj drugog fiskalnog računa i pojedinosti ostalih elemenata fiskalnog računa bliže uređuje ministar finansija.",
+      "chunks": [
+        {
+          "id": "5a340785-2ad2-5132-8c37-97fff8b60fb0",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Fiskalni račun je fiskalni dokument kojim se potvrđuje da je pojedinačno ostvareni promet na malo, uključujući i primljeni avans za budući promet na malo, evidentiran u elektronskom fiskalnom uređaju.\n\nFiskalni račun obavezno sadrži sledeće podatke:\n\n1) vrstu računa;\n\n2) tip transakcije;\n\n3) naziv obveznika fiskalizacije i jedinstvenu oznaku poslovnog prostora;\n\n4) poreski identifikacioni broj (PIB) obveznika fiskalizacije;\n\n5) PIB pravnog lica, odnosno obveznika poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana;\n\n6) naziv, šifru ukoliko je obveznik fiskalizacije koristi za označavanje dobra, odnosno usluge, količinu, jedinicu mere, cenu po jedinici mere, oznaku poreske stope i vrednost evidentiranog prometa dobra, odnosno usluge;\n\n7) specifikaciju poreskih stopa;\n\n8) iznos poreza po poreskim stopama;\n\n9) ukupan iznos poreza;\n\n10) brisana je (vidi član 2. Zakona - 138/2022-285)\n\n11) ukupnu vrednost evidentiranog prometa, ukupan iznos za uplatu (uz napomenu ako je plaćanje izvršeno putem avansa), način plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uplaćen iznos i iznos razlike za povraćaj kupcu dobara, odnosno korisniku usluga;\n\n12) dan, mesec, godinu, sat, minut i sekund sačinjavanja fiskalnog računa;\n\n13) jedinstveni redni broj fiskalnog računa;\n\n14) jedinstveni redni broj fiskalnog računa po vrsti računa i tipu transakcije;\n\n15) Dvodimenzionalni bar-kôd (eng. QR – Quick Response) za verifikaciju koji sadrži sve elemente elektronskog potpisa kada se štampa fiskalni račun ili hiperlink za verifikaciju kada se fiskalni račun izdaje u elektronskoj formi;\n\n16) poziv na broj drugog fiskalnog računa, odnosno drugog relevantnog dokumenta, ukoliko postoji potreba.\n\nFiskalni račun može sadržati reklamne poruke u skladu sa zakonom.\n\nVrste fiskalnog računa, tipove transakcije, načine plaćanja, pozivanje na broj drugog fiskalnog računa i pojedinosti ostalih elemenata fiskalnog računa bliže uređuje ministar finansija.",
+          "ragContent": "Ovaj član definiše sadržaj fiskalnog računa. Član 5. Zakona o fiskalizaciji propisuje obavezne podatke koji moraju biti sadržani u fiskalnom računu, uključujući vrstu računa, tip transakcije, podatke o obvezniku fiskalizacije i druge relevantne informacije.\n\nFiskalni račun je fiskalni dokument kojim se potvrđuje da je pojedinačno ostvareni promet na malo, uključujući i primljeni avans za budući promet na malo, evidentiran u elektronskom fiskalnom uređaju.\n\nFiskalni račun obavezno sadrži sledeće podatke:\n\n1) vrstu računa;\n\n2) tip transakcije;\n\n3) naziv obveznika fiskalizacije i jedinstvenu oznaku poslovnog prostora;\n\n4) poreski identifikacioni broj (PIB) obveznika fiskalizacije;\n\n5) PIB pravnog lica, odnosno obveznika poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana, ako je korisnik isporučenih dobara i pruženih usluga, odnosno dobara i usluga koje će biti isporučene ili pružene u slučaju primljenih avansa, pravno lice, odnosno obveznik poreza na prihode od samostalne delatnosti u smislu zakona kojim se uređuje porez na dohodak građana;\n\n6) naziv, šifru ukoliko je obveznik fiskalizacije koristi za označavanje dobra, odnosno usluge, količinu, jedinicu mere, cenu po jedinici mere, oznaku poreske stope i vrednost evidentiranog prometa dobra, odnosno usluge;\n\n7) specifikaciju poreskih stopa;\n\n8) iznos poreza po poreskim stopama;\n\n9) ukupan iznos poreza;\n\n10) brisana je (vidi član 2. Zakona - 138/2022-285)\n\n11) ukupnu vrednost evidentiranog prometa, ukupan iznos za uplatu (uz napomenu ako je plaćanje izvršeno putem avansa), način plaćanja (gotovinom, instant transferom odobrenja, čekom, platnom karticom, na drugi bezgotovinski način i sl.), uplaćen iznos i iznos razlike za povraćaj kupcu dobara, odnosno korisniku usluga;\n\n12) dan, mesec, godinu, sat, minut i sekund sačinjavanja fiskalnog računa;\n\n13) jedinstveni redni broj fiskalnog računa;\n\n14) jedinstveni redni broj fiskalnog računa po vrsti računa i tipu transakcije;\n\n15) Dvodimenzionalni bar-kôd (eng. QR – Quick Response) za verifikaciju koji sadrži sve elemente elektronskog potpisa kada se štampa fiskalni račun ili hiperlink za verifikaciju kada se fiskalni račun izdaje u elektronskoj formi;\n\n16) poziv na broj drugog fiskalnog računa, odnosno drugog relevantnog dokumenta, ukoliko postoji potreba.\n\nFiskalni račun može sadržati reklamne poruke u skladu sa zakonom.\n\nVrste fiskalnog računa, tipove transakcije, načine plaćanja, pozivanje na broj drugog fiskalnog računa i pojedinosti ostalih elemenata fiskalnog računa bliže uređuje ministar finansija."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": "POSTUPAK FISKALIZACIJE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 4,
+      "content": "Obveznik fiskalizacije dužan je da u trenutku prometa na malo, uključujući i primljeni avans za budući promet na malo, izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nPoreska uprava vodi registar odobrenih elemenata elektronskog fiskalnog uređaja (procesor fiskalnih računa i elektronski sistem za izdavanje računa).\n\nObveznik fiskalizacije ima pravo da se opredeli za vrstu elektronskog fiskalnog uređaja koji će koristiti, i to:\n\n1) elektronski fiskalni uređaj koji koristi sopstveni procesor fiskalnih računa i koji omogućava izdavanje fiskalnih računa čak i u slučaju privremenog ili trajnog prekida internet veze; i/ili\n\n2) elektronski fiskalni uređaj koji koristi procesor fiskalnih računa u Sistemu za upravljanje fiskalizacijom i koji omogućava izdavanje fiskalnih računa isključivo kroz stalnu internet vezu u realnom vremenu.\n\nObveznik fiskalizacije, osim obveznika fiskalizacije koji obavlja promet na malo isključivo putem interneta, odnosno promet na malo sopstvenih korišćenih pokretnih materijalnih sredstava, koji se opredeli za korišćenje elektronskog fiskalnog uređaja iz stava 3. tačka 2) ovog člana, dužan je da u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora i poslovne prostorije iz člana 9. ovog zakona, obezbedi nesmetan rad i najmanje jedan elektronski fiskalni uređaj iz stava 3. tačka 1) ovog člana.\n\nObveznik fiskalizacije odgovoran je za pravilno korišćenje, održavanje i funkcionisanje elektronskog fiskalnog uređaja.\n\nSvaki dobavljač elektronskog fiskalnog uređaja mora dostaviti isključivo elektronske fiskalne uređaje obvezniku fiskalizacije koji se sastoje od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nElektronski fiskalni uređaj iz stava 6. ovog člana mora da sadrži bezbednosni element koji obezbeđuje funkcionalnost koja omogućava automatsku obustavu njegovog rada, unapred ili tokom eksploatacije, kao i da fiskalni računi budu proverljivi u skladu sa članom 10. ovog zakona.\n\nObveznik fiskalizacije mora proveriti pre otpočinjanja korišćenja elektronskog fiskalnog uređaja da li je upotreba njegovih elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) odobrena od strane Poreske uprave.\n\nOdredbe st. 6. i 7. ovog člana shodno se primenjuju i na obveznika fiskalizacije koji želi da samostalno razvije, instalira i implementira elektronski fiskalni uređaj za potrebe svog poslovanja.\n\nOblik i sadržaj registra elemenata elektronskih fiskalnih uređaja, moguće vrste elektronskih fiskalnih uređaja, način njihovog korišćenja i odobravanja njihovih elemenata, okolnosti koje mogu dovesti do automatske obustave rada bezbednosnog elementa elektronskog fiskalnog uređaja, postupak ponovne upotrebe bezbednosnog elementa elektronskog fiskalnog uređaja po automatskoj obustavi njegovog rada, pojedinosti alternativnog načina pristupa stalnoj internet vezi, način uvida u podatke dostavljene Poreskoj upravi, bliže uređuje Vlada.",
+      "chunks": [
+        {
+          "id": "ae0dbafa-42ff-5049-9406-974a3aae0d04",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije dužan je da u trenutku prometa na malo, uključujući i primljeni avans za budući promet na malo, izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nPoreska uprava vodi registar odobrenih elemenata elektronskog fiskalnog uređaja (procesor fiskalnih računa i elektronski sistem za izdavanje računa).\n\nObveznik fiskalizacije ima pravo da se opredeli za vrstu elektronskog fiskalnog uređaja koji će koristiti, i to:\n\n1) elektronski fiskalni uređaj koji koristi sopstveni procesor fiskalnih računa i koji omogućava izdavanje fiskalnih računa čak i u slučaju privremenog ili trajnog prekida internet veze; i/ili\n\n2) elektronski fiskalni uređaj koji koristi procesor fiskalnih računa u Sistemu za upravljanje fiskalizacijom i koji omogućava izdavanje fiskalnih računa isključivo kroz stalnu internet vezu u realnom vremenu.",
+          "ragContent": "Ovaj deo se bavi obvezom obveznika fiskalizacije da izda fiskalni račun. Član 6. Zakona o fiskalizaciji propisuje obavezu izdavanja fiskalnog računa korišćenjem odobrenih elektronskih fiskalnih uređaja.\n\nObveznik fiskalizacije dužan je da u trenutku prometa na malo, uključujući i primljeni avans za budući promet na malo, izda fiskalni račun korišćenjem elektronskog fiskalnog uređaja, koji se sastoji od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nPoreska uprava vodi registar odobrenih elemenata elektronskog fiskalnog uređaja (procesor fiskalnih računa i elektronski sistem za izdavanje računa).\n\nObveznik fiskalizacije ima pravo da se opredeli za vrstu elektronskog fiskalnog uređaja koji će koristiti, i to:\n\n1) elektronski fiskalni uređaj koji koristi sopstveni procesor fiskalnih računa i koji omogućava izdavanje fiskalnih računa čak i u slučaju privremenog ili trajnog prekida internet veze; i/ili\n\n2) elektronski fiskalni uređaj koji koristi procesor fiskalnih računa u Sistemu za upravljanje fiskalizacijom i koji omogućava izdavanje fiskalnih računa isključivo kroz stalnu internet vezu u realnom vremenu."
+        },
+        {
+          "id": "b16c8b3f-66ff-5f65-82d0-ccdd2663db0e",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije, osim obveznika fiskalizacije koji obavlja promet na malo isključivo putem interneta, odnosno promet na malo sopstvenih korišćenih pokretnih materijalnih sredstava, koji se opredeli za korišćenje elektronskog fiskalnog uređaja iz stava 3. tačka 2) ovog člana, dužan je da u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora i poslovne prostorije iz člana 9. ovog zakona, obezbedi nesmetan rad i najmanje jedan elektronski fiskalni uređaj iz stava 3. tačka 1) ovog člana.\n\nObveznik fiskalizacije odgovoran je za pravilno korišćenje, održavanje i funkcionisanje elektronskog fiskalnog uređaja.",
+          "ragContent": "Ovaj deo definiše obaveze obveznika fiskalizacije u vezi sa elektronskim fiskalnim uređajem. Član 6. Zakona o fiskalizaciji propisuje obavezu obezbeđivanja elektronskog fiskalnog uređaja u poslovnim prostorima.\n\nObveznik fiskalizacije, osim obveznika fiskalizacije koji obavlja promet na malo isključivo putem interneta, odnosno promet na malo sopstvenih korišćenih pokretnih materijalnih sredstava, koji se opredeli za korišćenje elektronskog fiskalnog uređaja iz stava 3. tačka 2) ovog člana, dužan je da u svakom svom poslovnom prostoru i poslovnoj prostoriji kojima se dodeljuje jedinstvena oznaka poslovnog prostora i poslovne prostorije iz člana 9. ovog zakona, obezbedi nesmetan rad i najmanje jedan elektronski fiskalni uređaj iz stava 3. tačka 1) ovog člana.\n\nObveznik fiskalizacije odgovoran je za pravilno korišćenje, održavanje i funkcionisanje elektronskog fiskalnog uređaja."
+        },
+        {
+          "id": "386f2c10-6d70-5739-84ce-b3b4d4d6aa6c",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Svaki dobavljač elektronskog fiskalnog uređaja mora dostaviti isključivo elektronske fiskalne uređaje obvezniku fiskalizacije koji se sastoje od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nElektronski fiskalni uređaj iz stava 6. ovog člana mora da sadrži bezbednosni element koji obezbeđuje funkcionalnost koja omogućava automatsku obustavu njegovog rada, unapred ili tokom eksploatacije, kao i da fiskalni računi budu proverljivi u skladu sa članom 10. ovog zakona.\n\nObveznik fiskalizacije mora proveriti pre otpočinjanja korišćenja elektronskog fiskalnog uređaja da li je upotreba njegovih elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) odobrena od strane Poreske uprave.",
+          "ragContent": "Ovaj deo se odnosi na obaveze dobavljača i obveznika fiskalizacije u vezi sa elektronskim fiskalnim uređajem. Član 6. Zakona o fiskalizaciji propisuje zahteve za dobavljače i obveznike u vezi sa elektronskim fiskalnim uređajem.\n\nSvaki dobavljač elektronskog fiskalnog uređaja mora dostaviti isključivo elektronske fiskalne uređaje obvezniku fiskalizacije koji se sastoje od elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) čija je upotreba odobrena od strane Poreske uprave.\n\nElektronski fiskalni uređaj iz stava 6. ovog člana mora da sadrži bezbednosni element koji obezbeđuje funkcionalnost koja omogućava automatsku obustavu njegovog rada, unapred ili tokom eksploatacije, kao i da fiskalni računi budu proverljivi u skladu sa članom 10. ovog zakona.\n\nObveznik fiskalizacije mora proveriti pre otpočinjanja korišćenja elektronskog fiskalnog uređaja da li je upotreba njegovih elemenata (procesor fiskalnih računa i elektronski sistem za izdavanje računa) odobrena od strane Poreske uprave."
+        },
+        {
+          "id": "bcbe7fb9-0241-5496-8a54-b2cbcab96ddb",
+          "chunkIndex": 3,
+          "paragraph": null,
+          "content": "Odredbe st. 6. i 7. ovog člana shodno se primenjuju i na obveznika fiskalizacije koji želi da samostalno razvije, instalira i implementira elektronski fiskalni uređaj za potrebe svog poslovanja.\n\nOblik i sadržaj registra elemenata elektronskih fiskalnih uređaja, moguće vrste elektronskih fiskalnih uređaja, način njihovog korišćenja i odobravanja njihovih elemenata, okolnosti koje mogu dovesti do automatske obustave rada bezbednosnog elementa elektronskog fiskalnog uređaja, postupak ponovne upotrebe bezbednosnog elementa elektronskog fiskalnog uređaja po automatskoj obustavi njegovog rada, pojedinosti alternativnog načina pristupa stalnoj internet vezi, način uvida u podatke dostavljene Poreskoj upravi, bliže uređuje Vlada.",
+          "ragContent": "Ovaj deo se bavi primenom odredbi na obveznike koji razvijaju sopstvene fiskalne uređaje. Član 6. Zakona o fiskalizaciji propisuje primenu odredbi na obveznike koji samostalno razvijaju elektronske fiskalne uređaje.\n\nOdredbe st. 6. i 7. ovog člana shodno se primenjuju i na obveznika fiskalizacije koji želi da samostalno razvije, instalira i implementira elektronski fiskalni uređaj za potrebe svog poslovanja.\n\nOblik i sadržaj registra elemenata elektronskih fiskalnih uređaja, moguće vrste elektronskih fiskalnih uređaja, način njihovog korišćenja i odobravanja njihovih elemenata, okolnosti koje mogu dovesti do automatske obustave rada bezbednosnog elementa elektronskog fiskalnog uređaja, postupak ponovne upotrebe bezbednosnog elementa elektronskog fiskalnog uređaja po automatskoj obustavi njegovog rada, pojedinosti alternativnog načina pristupa stalnoj internet vezi, način uvida u podatke dostavljene Poreskoj upravi, bliže uređuje Vlada."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": "POSTUPAK FISKALIZACIJE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Obveznik fiskalizacije dužan je da koristi bezbednosni element za potpisivanje fiskalnih računa za potrebe sprovođenja postupka fiskalizacije i potvrde identiteta prilikom razmene podataka i informacija sa Poreskom upravom.\n\nUslove za izdavanje, proceduru izdavanja i način korišćenja bezbednosnog elementa bliže uređuje ministar finansija.\n\nPodzakonski akt iz člana 4. ovog zakona doneće se u roku od 180 dana od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "91e51f1b-2e26-518f-89d6-16a6acfdebb2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije dužan je da koristi bezbednosni element za potpisivanje fiskalnih računa za potrebe sprovođenja postupka fiskalizacije i potvrde identiteta prilikom razmene podataka i informacija sa Poreskom upravom.\n\nUslove za izdavanje, proceduru izdavanja i način korišćenja bezbednosnog elementa bliže uređuje ministar finansija.\n\nPodzakonski akt iz člana 4. ovog zakona doneće se u roku od 180 dana od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje obavezu korišćenja bezbednosnog elementa za fiskalizaciju. Član 7. Zakona o fiskalizaciji propisuje da obveznici fiskalizacije moraju koristiti bezbednosni element za potpisivanje fiskalnih računa.\n\nObveznik fiskalizacije dužan je da koristi bezbednosni element za potpisivanje fiskalnih računa za potrebe sprovođenja postupka fiskalizacije i potvrde identiteta prilikom razmene podataka i informacija sa Poreskom upravom.\n\nUslove za izdavanje, proceduru izdavanja i način korišćenja bezbednosnog elementa bliže uređuje ministar finansija.\n\nPodzakonski akt iz člana 4. ovog zakona doneće se u roku od 180 dana od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": "POSTUPAK FISKALIZACIJE",
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Obveznik fiskalizacije dužan je da u momentu prometa na malo svaki račun obradi posredstvom procesora fiskalnih računa i bezbednosnog elementa (u daljem tekstu: fiskalizuje račun), kao i da Poreskoj upravi dostavlja podatke o izdatim fiskalnim računima putem stalne internet veze u realnom vremenu u trenutku prometa na malo.\n\nIzuzetno, ukoliko postoji prekid internet veze ili ona nije dostupna na mestu prometa, obveznik fiskalizacije dostavlja Poreskoj upravi podatke o izdatim fiskalnim računima periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa.\n\nPoreska uprava evidentira primljeni fiskalni račun, koji je potpisan odgovarajućim elektronskim potpisom u propisanom obliku i strukturi poruke, u Sistemu za upravljanje fiskalizacijom.\n\nMinistar finansija bliže uređuje koje podatke o izdatim fiskalnim računima je obveznik fiskalizacije dužan da dostavi Poreskoj upravi, oblik i način dostavljanja ovih podataka, uslove pod kojima se ovi podaci mogu dostavljati Poreskoj upravi periodično, protokole i bezbednosne mehanizme za dostavljanje ovih podataka, standardne poruke o greškama, kao i protokole o postupanju u slučaju grešaka.\n\nUkoliko se podaci ne dostavljaju Poreskoj upravi u realnom vremenu, u trenutku prometa na malo, obveznik fiskalizacije je dužan da podatke čuva u internoj memoriji elektronskog fiskalnog uređaja do momenta prenosa ovih podataka Poreskoj upravi, nakon čega nema obavezu daljeg čuvanja podataka o izdatim fiskalnim računima u internoj memoriji elektronskog fiskalnog uređaja.\n\nNačin čuvanja i zaštite podataka u internoj memoriji elektronskog fiskalnog uređaja bliže uređuje ministar finansija.",
+      "chunks": [
+        {
+          "id": "27886a93-8cb0-55a6-9297-6da662e2109d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije dužan je da u momentu prometa na malo svaki račun obradi posredstvom procesora fiskalnih računa i bezbednosnog elementa (u daljem tekstu: fiskalizuje račun), kao i da Poreskoj upravi dostavlja podatke o izdatim fiskalnim računima putem stalne internet veze u realnom vremenu u trenutku prometa na malo.\n\nIzuzetno, ukoliko postoji prekid internet veze ili ona nije dostupna na mestu prometa, obveznik fiskalizacije dostavlja Poreskoj upravi podatke o izdatim fiskalnim računima periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa.\n\nPoreska uprava evidentira primljeni fiskalni račun, koji je potpisan odgovarajućim elektronskim potpisom u propisanom obliku i strukturi poruke, u Sistemu za upravljanje fiskalizacijom.",
+          "ragContent": "Ovaj član uređuje obaveze obveznika fiskalizacije u vezi sa obradom i dostavljanjem fiskalnih računa. Član 8. Zakona o fiskalizaciji propisuje da obveznik mora fiskalizovati račune i dostavljati podatke Poreskoj upravi u realnom vremenu.\n\nObveznik fiskalizacije dužan je da u momentu prometa na malo svaki račun obradi posredstvom procesora fiskalnih računa i bezbednosnog elementa (u daljem tekstu: fiskalizuje račun), kao i da Poreskoj upravi dostavlja podatke o izdatim fiskalnim računima putem stalne internet veze u realnom vremenu u trenutku prometa na malo.\n\nIzuzetno, ukoliko postoji prekid internet veze ili ona nije dostupna na mestu prometa, obveznik fiskalizacije dostavlja Poreskoj upravi podatke o izdatim fiskalnim računima periodično, odmah po uspostavljanju internet veze, a najkasnije u roku od pet dana od dana izdavanja pojedinačnog fiskalnog računa.\n\nPoreska uprava evidentira primljeni fiskalni račun, koji je potpisan odgovarajućim elektronskim potpisom u propisanom obliku i strukturi poruke, u Sistemu za upravljanje fiskalizacijom."
+        },
+        {
+          "id": "3a5c949a-1382-5d00-802b-51b02904096d",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ministar finansija bliže uređuje koje podatke o izdatim fiskalnim računima je obveznik fiskalizacije dužan da dostavi Poreskoj upravi, oblik i način dostavljanja ovih podataka, uslove pod kojima se ovi podaci mogu dostavljati Poreskoj upravi periodično, protokole i bezbednosne mehanizme za dostavljanje ovih podataka, standardne poruke o greškama, kao i protokole o postupanju u slučaju grešaka.\n\nUkoliko se podaci ne dostavljaju Poreskoj upravi u realnom vremenu, u trenutku prometa na malo, obveznik fiskalizacije je dužan da podatke čuva u internoj memoriji elektronskog fiskalnog uređaja do momenta prenosa ovih podataka Poreskoj upravi, nakon čega nema obavezu daljeg čuvanja podataka o izdatim fiskalnim računima u internoj memoriji elektronskog fiskalnog uređaja.\n\nNačin čuvanja i zaštite podataka u internoj memoriji elektronskog fiskalnog uređaja bliže uređuje ministar finansija.",
+          "ragContent": "Ovaj deo člana definiše dodatne obaveze i procedure u vezi sa dostavljanjem i čuvanjem fiskalnih podataka. Član 8. Zakona o fiskalizaciji propisuje kako ministar finansija uređuje detalje o dostavljanju i čuvanju fiskalnih podataka.\n\nMinistar finansija bliže uređuje koje podatke o izdatim fiskalnim računima je obveznik fiskalizacije dužan da dostavi Poreskoj upravi, oblik i način dostavljanja ovih podataka, uslove pod kojima se ovi podaci mogu dostavljati Poreskoj upravi periodično, protokole i bezbednosne mehanizme za dostavljanje ovih podataka, standardne poruke o greškama, kao i protokole o postupanju u slučaju grešaka.\n\nUkoliko se podaci ne dostavljaju Poreskoj upravi u realnom vremenu, u trenutku prometa na malo, obveznik fiskalizacije je dužan da podatke čuva u internoj memoriji elektronskog fiskalnog uređaja do momenta prenosa ovih podataka Poreskoj upravi, nakon čega nema obavezu daljeg čuvanja podataka o izdatim fiskalnim računima u internoj memoriji elektronskog fiskalnog uređaja.\n\nNačin čuvanja i zaštite podataka u internoj memoriji elektronskog fiskalnog uređaja bliže uređuje ministar finansija."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o fiskalizaciji",
+      "lawSlug": "zakon-o-fiskalizaciji",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "porezi_akcize",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Obveznik fiskalizacije dužan je da, pre početka korišćenja elektronskog fiskalnog uređaja za izdavanje fiskalnih računa, Poreskoj upravi elektronskim putem dostavi podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno.\n\nU slučaju promene podataka iz stava 1. ovog člana po pojedinačnom poslovnom prostoru i poslovnoj prostoriji, a naročito ako delatnost prestane da se obavlja u poslovnom prostoru i poslovnoj prostoriji ili dođe do promene delatnosti koja se obavlja u poslovnom prostoru i poslovnoj prostoriji, obveznik fiskalizacije dužan je da te podatke dostavi Poreskoj upravi, najkasnije 24 sata pre nastanka promene.\n\nIzuzetno od stava 2. ovog člana, u slučaju promene podataka iz stava 1. ovog člana do kojih je došlo usled okolnosti koje ne zavise od volje obveznika fiskalizacije, obveznik fiskalizacije je dužan da te podatke dostavi Poreskoj upravi, najkasnije 24 sata po nastanku promene.\n\nNakon prijema podataka iz stava 1. ovog člana, Poreska uprava je dužna da generiše jedinstvenu oznaku poslovnog prostora i poslovne prostorije, koja će se koristiti u elektronskom fiskalnom uređaju.\n\nOdredbe st. 1–4. ovog člana primenjuju se i na postupak dostavljanja podataka o samonaplatnom uređaju – automatu.\n\nVrstu podataka o poslovnom prostoru i poslovnim prostorijama, način dostavljanja podataka o poslovnim prostorima i poslovnim prostorijama iz stava 1. ovog člana, način njihovog dostavljanja Poreskoj upravi i način generisanja oznake poslovnog prostora i poslovne prostorije bliže uređuje ministar finansija.",
+      "chunks": [
+        {
+          "id": "89204014-422f-52ae-ac50-c247750ac00f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik fiskalizacije dužan je da, pre početka korišćenja elektronskog fiskalnog uređaja za izdavanje fiskalnih računa, Poreskoj upravi elektronskim putem dostavi podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno.\n\nU slučaju promene podataka iz stava 1. ovog člana po pojedinačnom poslovnom prostoru i poslovnoj prostoriji, a naročito ako delatnost prestane da se obavlja u poslovnom prostoru i poslovnoj prostoriji ili dođe do promene delatnosti koja se obavlja u poslovnom prostoru i poslovnoj prostoriji, obveznik fiskalizacije dužan je da te podatke dostavi Poreskoj upravi, najkasnije 24 sata pre nastanka promene.\n\nIzuzetno od stava 2. ovog člana, u slučaju promene podataka iz stava 1. ovog člana do kojih je došlo usled okolnosti koje ne zavise od volje obveznika fiskalizacije, obveznik fiskalizacije je dužan da te podatke dostavi Poreskoj upravi, najkasnije 24 sata po nastanku promene.\n\nNakon prijema podataka iz stava 1. ovog člana, Poreska uprava je dužna da generiše jedinstvenu oznaku poslovnog prostora i poslovne prostorije, koja će se koristiti u elektronskom fiskalnom uređaju.\n\nOdredbe st. 1–4. ovog člana primenjuju se i na postupak dostavljanja podataka o samonaplatnom uređaju – automatu.\n\nVrstu podataka o poslovnom prostoru i poslovnim prostorijama, način dostavljanja podataka o poslovnim prostorima i poslovnim prostorijama iz stava 1. ovog člana, način njihovog dostavljanja Poreskoj upravi i način generisanja oznake poslovnog prostora i poslovne prostorije bliže uređuje ministar finansija.",
+          "ragContent": "Ovaj član uređuje obavezu obveznika fiskalizacije da dostavi podatke o poslovnim prostorima Poreskoj upravi. Član 9. Zakona o fiskalizaciji propisuje obavezu dostavljanja podataka pre korišćenja fiskalnog uređaja i u slučaju promena.\n\nObveznik fiskalizacije dužan je da, pre početka korišćenja elektronskog fiskalnog uređaja za izdavanje fiskalnih računa, Poreskoj upravi elektronskim putem dostavi podatke o poslovnim prostorima i poslovnim prostorijama u kojima će koristiti elektronski fiskalni uređaj, i to za svaki poslovni prostor i poslovnu prostoriju odvojeno.\n\nU slučaju promene podataka iz stava 1. ovog člana po pojedinačnom poslovnom prostoru i poslovnoj prostoriji, a naročito ako delatnost prestane da se obavlja u poslovnom prostoru i poslovnoj prostoriji ili dođe do promene delatnosti koja se obavlja u poslovnom prostoru i poslovnoj prostoriji, obveznik fiskalizacije dužan je da te podatke dostavi Poreskoj upravi, najkasnije 24 sata pre nastanka promene.\n\nIzuzetno od stava 2. ovog člana, u slučaju promene podataka iz stava 1. ovog člana do kojih je došlo usled okolnosti koje ne zavise od volje obveznika fiskalizacije, obveznik fiskalizacije je dužan da te podatke dostavi Poreskoj upravi, najkasnije 24 sata po nastanku promene.\n\nNakon prijema podataka iz stava 1. ovog člana, Poreska uprava je dužna da generiše jedinstvenu oznaku poslovnog prostora i poslovne prostorije, koja će se koristiti u elektronskom fiskalnom uređaju.\n\nOdredbe st. 1–4. ovog člana primenjuju se i na postupak dostavljanja podataka o samonaplatnom uređaju – automatu.\n\nVrstu podataka o poslovnom prostoru i poslovnim prostorijama, način dostavljanja podataka o poslovnim prostorima i poslovnim prostorijama iz stava 1. ovog člana, način njihovog dostavljanja Poreskoj upravi i način generisanja oznake poslovnog prostora i poslovne prostorije bliže uređuje ministar finansija."
+        }
+      ]
+    }
+  ]
+}

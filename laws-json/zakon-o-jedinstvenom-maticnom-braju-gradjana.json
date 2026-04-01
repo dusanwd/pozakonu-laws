@@ -1,0 +1,364 @@
+{
+  "law": "Zakon o jedinstvenom matičnom braju gradjana",
+  "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+  "category": "licni_podaci",
+  "sourceDocumentCount": 21,
+  "articleCount": 16,
+  "articles": [
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Jedinstveni matični broj građana (u daljem tekstu: matični broj) jeste individualna i neponovljiva oznaka identifikacionih podataka o građaninu.",
+      "chunks": [
+        {
+          "id": "8c45b7ff-476e-5863-8847-ad4badca6cee",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Jedinstveni matični broj građana (u daljem tekstu: matični broj) jeste individualna i neponovljiva oznaka identifikacionih podataka o građaninu.",
+          "ragContent": "Ovaj član definiše jedinstveni matični broj građana. Član 1. Zakona o jedinstvenom matičnom braju građana propisuje da je matični broj individualna i neponovljiva oznaka identifikacionih podataka o građaninu.\n\nJedinstveni matični broj građana (u daljem tekstu: matični broj) jeste individualna i neponovljiva oznaka identifikacionih podataka o građaninu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nadležni organ vodi jedinstvenu evidenciju o matičnim brojevima u elektronskom obliku.\n\nNa obradu podataka o ličnosti i evidencije koje vodi nadležni organ, kao i na sadržinu tih evidencija, ažuriranje i brisanje, rokove čuvanja i mere zaštite podataka primenjuju se odredbe zakona kojim se uređuju evidencije i obrada podataka u oblasti unutrašnjih poslova.",
+      "chunks": [
+        {
+          "id": "3b9dbef3-d1c2-50ec-b42c-aba704b9e97a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nadležni organ vodi jedinstvenu evidenciju o matičnim brojevima u elektronskom obliku.\n\nNa obradu podataka o ličnosti i evidencije koje vodi nadležni organ, kao i na sadržinu tih evidencija, ažuriranje i brisanje, rokove čuvanja i mere zaštite podataka primenjuju se odredbe zakona kojim se uređuju evidencije i obrada podataka u oblasti unutrašnjih poslova.",
+          "ragContent": "Ovaj član uređuje vođenje evidencije o matičnim brojevima. Član 10. Zakona o jedinstvenom matičnom braju građana propisuje obavezu nadležnog organa da vodi jedinstvenu evidenciju o matičnim brojevima u elektronskom obliku.\n\nNadležni organ vodi jedinstvenu evidenciju o matičnim brojevima u elektronskom obliku.\n\nNa obradu podataka o ličnosti i evidencije koje vodi nadležni organ, kao i na sadržinu tih evidencija, ažuriranje i brisanje, rokove čuvanja i mere zaštite podataka primenjuju se odredbe zakona kojim se uređuju evidencije i obrada podataka u oblasti unutrašnjih poslova."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Matični broj upisan u evidenciju o matičnim brojevima upisuje se u javne isprave i druge evidencije.\n\nMatični broj građana služi za vođenje evidencije podataka o ličnosti i povezivanje s drugim evidencijama državnih organa i korisnika koji imaju zakonski osnov za korišćenje matičnog broja.",
+      "chunks": [
+        {
+          "id": "83fbdb3b-4cbd-5014-8c6a-de7a638c9e16",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Matični broj upisan u evidenciju o matičnim brojevima upisuje se u javne isprave i druge evidencije.\n\nMatični broj građana služi za vođenje evidencije podataka o ličnosti i povezivanje s drugim evidencijama državnih organa i korisnika koji imaju zakonski osnov za korišćenje matičnog broja.",
+          "ragContent": "Ovaj član uređuje upis matičnog broja u javne isprave. Član 11. Zakona o jedinstvenom matičnom braju građana definiše svrhu matičnog broja.\n\nMatični broj upisan u evidenciju o matičnim brojevima upisuje se u javne isprave i druge evidencije.\n\nMatični broj građana služi za vođenje evidencije podataka o ličnosti i povezivanje s drugim evidencijama državnih organa i korisnika koji imaju zakonski osnov za korišćenje matičnog broja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Matični brojevi određeni na osnovu propisa koji su važili pre stupanja na snagu ovog zakona, a koji se nalaze u evidencijama nadležnog organa, važe i nakon stupanja na snagu ovog zakona.\n\nDržavljaninu Republike Srbije kome nije određen matični broj na osnovu propisa koji su važili pre stupanja na snagu ovog zakona nadležni organ određuje matični broj u skladu sa članom 3. ovog zakona.\n\nAko je u matičnu knjigu rođenih upisan matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji je već odredio novi matični broj, nadležni organ uprave koji vodi matičnu knjigu dužan je da upiše matični broj koji je odredio nadležni organ u Republici Srbiji.\n\nAko je građaninu matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji mu nije odredio matični broj, nadležni organ koji vodi matičnu knjigu dužan je da upiše matični broj koji mu je odredio nadležni organ u nekoj od bivših republika SFRJ.",
+      "chunks": [
+        {
+          "id": "b714af8b-9c1a-5c99-b0ea-e005a08f6fea",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Matični brojevi određeni na osnovu propisa koji su važili pre stupanja na snagu ovog zakona, a koji se nalaze u evidencijama nadležnog organa, važe i nakon stupanja na snagu ovog zakona.\n\nDržavljaninu Republike Srbije kome nije određen matični broj na osnovu propisa koji su važili pre stupanja na snagu ovog zakona nadležni organ određuje matični broj u skladu sa članom 3. ovog zakona.",
+          "ragContent": "Ovaj deo se bavi važenjem matičnih brojeva koji su određeni pre ovog zakona. Član 12. Zakona o jedinstvenom matičnom braju građana propisuje da matični brojevi iz prethodnih propisa ostaju važeći.\n\nMatični brojevi određeni na osnovu propisa koji su važili pre stupanja na snagu ovog zakona, a koji se nalaze u evidencijama nadležnog organa, važe i nakon stupanja na snagu ovog zakona.\n\nDržavljaninu Republike Srbije kome nije određen matični broj na osnovu propisa koji su važili pre stupanja na snagu ovog zakona nadležni organ određuje matični broj u skladu sa članom 3. ovog zakona."
+        },
+        {
+          "id": "105de73a-346b-5cd9-9599-5f8e85002e7c",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ako je u matičnu knjigu rođenih upisan matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji je već odredio novi matični broj, nadležni organ uprave koji vodi matičnu knjigu dužan je da upiše matični broj koji je odredio nadležni organ u Republici Srbiji.\n\nAko je građaninu matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji mu nije odredio matični broj, nadležni organ koji vodi matičnu knjigu dužan je da upiše matični broj koji mu je odredio nadležni organ u nekoj od bivših republika SFRJ.",
+          "ragContent": "Ovaj deo se odnosi na upis matičnih brojeva iz bivših republika SFRJ. Član 12. Zakona o jedinstvenom matičnom braju građana propisuje obavezu upisa matičnih brojeva koje su odredili nadležni organi.\n\nAko je u matičnu knjigu rođenih upisan matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji je već odredio novi matični broj, nadležni organ uprave koji vodi matičnu knjigu dužan je da upiše matični broj koji je odredio nadležni organ u Republici Srbiji.\n\nAko je građaninu matični broj određen u nekoj od bivših republika SFRJ, a nadležni organ u Republici Srbiji mu nije odredio matični broj, nadležni organ koji vodi matičnu knjigu dužan je da upiše matični broj koji mu je odredio nadležni organ u nekoj od bivših republika SFRJ."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako više građana poseduje isti matični broj, taj matični broj se pasivizira svim građanima kojima je određen.\n\nGrađanin kome je pasiviziran matični broj ne može pasivizirani matični broj koristiti u pravnom prometu.",
+      "chunks": [
+        {
+          "id": "48121e68-a9b6-58fc-b0b2-4c4c1fd0cd98",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako više građana poseduje isti matični broj, taj matični broj se pasivizira svim građanima kojima je određen.\n\nGrađanin kome je pasiviziran matični broj ne može pasivizirani matični broj koristiti u pravnom prometu.",
+          "ragContent": "Ovaj član uređuje situaciju kada više građana ima isti matični broj. Član 13. Zakona o jedinstvenom matičnom braju građana propisuje da se matični broj pasivizira za sve građane kojima je dodeljen.\n\nAko više građana poseduje isti matični broj, taj matični broj se pasivizira svim građanima kojima je određen.\n\nGrađanin kome je pasiviziran matični broj ne može pasivizirani matični broj koristiti u pravnom prometu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Način određivanja i pasiviziranja matičnog broja, kao i način vođenja evidencije o matičnom broju i obrascu za vođenje te evidencije donosi ministar unutrašnjih poslova u roku od šest meseci od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "16580be6-4d0c-5cf5-8670-9121c516673c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Način određivanja i pasiviziranja matičnog broja, kao i način vođenja evidencije o matičnom broju i obrascu za vođenje te evidencije donosi ministar unutrašnjih poslova u roku od šest meseci od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje način određivanja i vođenja evidencije o matičnom broju. Član 14. Zakona o jedinstvenom matičnom braju gradjana propisuje da ministar unutrašnjih poslova donosi način određivanja i pasiviziranja matičnog broja, kao i vođenja evidencije o njemu.  Način određivanja i pasiviziranja matičnog broja, kao i način vođenja evidencije o matičnom broju i obrascu za vođenje te evidencije donosi ministar unutrašnjih poslova u roku od šest meseci od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o uvođenju jedinstvenog matičnog broja građana („Službeni list SFRJ”, broj 58/76 i „Službeni list SCG”, broj 1/03 – Ustavna povelja);\n\n2) Zakon o jedinstvenom matičnom broju građana („Službeni glasnik SRS”, br. 53/78, 5/83, 24/85 – dr. zakon i 6/89 – dr. zakon i „Službeni glasnik RS”, br. 53/93 – dr. zakon, 67/93 – dr. zakon, 48/94 – dr. zakon i 101/05 – dr. zakon).",
+      "chunks": [
+        {
+          "id": "277b30c2-75c8-58f7-bc76-33ea2a35cea8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o uvođenju jedinstvenog matičnog broja građana („Službeni list SFRJ”, broj 58/76 i „Službeni list SCG”, broj 1/03 – Ustavna povelja);\n\n2) Zakon o jedinstvenom matičnom broju građana („Službeni glasnik SRS”, br. 53/78, 5/83, 24/85 – dr. zakon i 6/89 – dr. zakon i „Službeni glasnik RS”, br. 53/93 – dr. zakon, 67/93 – dr. zakon, 48/94 – dr. zakon i 101/05 – dr. zakon).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnih zakona o jedinstvenom matičnom broju građana. Član 15. Zakona o jedinstvenom matičnom broju građana definiše koji zakoni prestaju da važe danom stupanja na snagu ovog zakona.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o uvođenju jedinstvenog matičnog broja građana („Službeni list SFRJ”, broj 58/76 i „Službeni list SCG”, broj 1/03 – Ustavna povelja);\n\n2) Zakon o jedinstvenom matičnom broju građana („Službeni glasnik SRS”, br. 53/78, 5/83, 24/85 – dr. zakon i 6/89 – dr. zakon i „Službeni glasnik RS”, br. 53/93 – dr. zakon, 67/93 – dr. zakon, 48/94 – dr. zakon i 101/05 – dr. zakon)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "4c9767aa-610e-54c7-8ea4-812312952d06",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 16. Zakona o jedinstvenom matičnom braju građana propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Svi izrazi kojima se označavaju lica u ovom zakonu odnose se podjednako na lica muškog i ženskog pola bez obzira na to u kojem su gramatičkom rodu izraženi.",
+      "chunks": [
+        {
+          "id": "e4f66b91-8545-5f6b-9924-6645526ec45e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Svi izrazi kojima se označavaju lica u ovom zakonu odnose se podjednako na lica muškog i ženskog pola bez obzira na to u kojem su gramatičkom rodu izraženi.",
+          "ragContent": "Ovaj član definiše upotrebu izraza za lica u zakonu. Zakon o jedinstvenom matičnom braju građana, član 2, propisuje da se izrazi za lica odnose na oba pola bez obzira na gramatički rod.  Svi izrazi kojima se označavaju lica u ovom zakonu odnose se podjednako na lica muškog i ženskog pola bez obzira na to u kojem su gramatičkom rodu izraženi."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Matični broj određuje se državljaninu Republike Srbije.\n\nMatični broj određuje se prema mestu upisa u matičnu knjigu rođenih na teritoriji Republike Srbije.\n\nDržavljaninu Republike Srbije koji je upisan u matičnu knjigu rođenih u diplomatskom ili konzularnom predstavništvu Republike Srbije u inostranstvu, matični broj određuje se prema mestu upisa, u skladu sa ovim zakonom.\n\nMatični broj određuje ministarstvo nadležno za unutrašnje poslove (u daljem tekstu: nadležni organ).",
+      "chunks": [
+        {
+          "id": "f122d2c0-b17d-5c7a-b6a4-d1c0c1ea43c2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Matični broj određuje se državljaninu Republike Srbije.\n\nMatični broj određuje se prema mestu upisa u matičnu knjigu rođenih na teritoriji Republike Srbije.\n\nDržavljaninu Republike Srbije koji je upisan u matičnu knjigu rođenih u diplomatskom ili konzularnom predstavništvu Republike Srbije u inostranstvu, matični broj određuje se prema mestu upisa, u skladu sa ovim zakonom.\n\nMatični broj određuje ministarstvo nadležno za unutrašnje poslove (u daljem tekstu: nadležni organ).",
+          "ragContent": "Ovaj član uređuje određivanje matičnog broja za državljane Srbije. Član 3. Zakona o jedinstvenom matičnom broju građana definiše kako se određuje matični broj na osnovu mesta upisa.\n\nMatični broj određuje se državljaninu Republike Srbije.\n\nMatični broj određuje se prema mestu upisa u matičnu knjigu rođenih na teritoriji Republike Srbije.\n\nDržavljaninu Republike Srbije koji je upisan u matičnu knjigu rođenih u diplomatskom ili konzularnom predstavništvu Republike Srbije u inostranstvu, matični broj određuje se prema mestu upisa, u skladu sa ovim zakonom.\n\nMatični broj određuje ministarstvo nadležno za unutrašnje poslove (u daljem tekstu: nadležni organ)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Matični broj se sastoji od 13 cifara koje potiču iz šest grupa podataka, i to:\n\nI grupa – dan rođenja (dve cifre);\n\nII grupa – mesec rođenja (dve cifre);\n\nIII grupa – godina rođenja (tri cifre);\n\nIV grupa – broj registracionog područja (dve cifre);\n\nV grupa – kombinacija pola i rednog broja za lica rođena istog datuma (tri cifre), muškarci 000–499, žene 500–999;\n\nVI grupa – kontrolni broj (jedna cifra).",
+      "chunks": [
+        {
+          "id": "051a672d-417b-5195-b83c-da2abf126784",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Matični broj se sastoji od 13 cifara koje potiču iz šest grupa podataka, i to:\n\nI grupa – dan rođenja (dve cifre);\n\nII grupa – mesec rođenja (dve cifre);\n\nIII grupa – godina rođenja (tri cifre);\n\nIV grupa – broj registracionog područja (dve cifre);\n\nV grupa – kombinacija pola i rednog broja za lica rođena istog datuma (tri cifre), muškarci 000–499, žene 500–999;\n\nVI grupa – kontrolni broj (jedna cifra).",
+          "ragContent": "Ovaj član definiše strukturu matičnog broja. Član 4. Zakona o jedinstvenom matičnom broju građana opisuje sastav matičnog broja kroz šest grupa podataka.\n\nMatični broj se sastoji od 13 cifara koje potiču iz šest grupa podataka, i to:\n\nI grupa – dan rođenja (dve cifre);\n\nII grupa – mesec rođenja (dve cifre);\n\nIII grupa – godina rođenja (tri cifre);\n\nIV grupa – broj registracionog područja (dve cifre);\n\nV grupa – kombinacija pola i rednog broja za lica rođena istog datuma (tri cifre), muškarci 000–499, žene 500–999;\n\nVI grupa – kontrolni broj (jedna cifra)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Broj registracionog područja određen je po jedinicama lokalne samouprave.\n\nRegistraciono područje s dodeljenim brojem 71 obuhvata Beograd.\n\nRegistraciono područje s dodeljenim brojem 72 obuhvata: Aranđelovac, Batočina, Despotovac, Jagodina, Knić, Kragujevac, Lapovo, Paraćin, Rača, Rekovac, Svilajnac, Topola i Ćuprija.\n\nRegistraciono područje s dodeljenim brojem 73 obuhvata: Aleksinac, Babušnica, Bela Palanka, Blace, Dimitrovgrad, Doljevac, Gadžin Han, Kuršumlija, Merošina, Niš, Niška Banja, Pirot, Prokuplje, Ražanj, Svrljig i Žitorađa.\n\nRegistraciono područje s dodeljenim brojem 74 obuhvata: Bojnik, Bosilegrad, Bujanovac, Crna Trava, Lebane, Leskovac, Medveđa, Preševo, Surdulica, Trgovište, Vladičin Han, Vlasotince i Vranje.\n\nRegistraciono područje s dodeljenim brojem 75 obuhvata: Boljevac, Bor, Kladovo, Knjaževac, Majdanpek, Negotin, Soko Banja i Zaječar.\n\nRegistraciono područje s dodeljenim brojem 76 obuhvata: Golubac, Kučevo, Malo Crniće, Petrovac na Mlavi, Požarevac, Smederevo, Smederevska Palanka, Velika Plana, Veliko Gradište, Žabari i Žagubica.\n\nRegistraciono područje s dodeljenim brojem 77 obuhvata: Bogatić, Koceljeva, Krupanj, Lajkovac, Loznica, Ljig, Ljubovija, Mali Zvornik, Mionica, Osečina, Ub, Valjevo, Vladimirci i Šabac.\n\nRegistraciono područje s dodeljenim brojem 78 obuhvata: Aleksandrovac, Brus, Gornji Milanovac, Kraljevo, Kruševac, Lučani, Novi Pazar, Raška, Sjenica, Trstenik, Tutin, Varvarin, Vrnjačka Banja, Ćićevac i Čačak.\n\nRegistraciono područje s dodeljenim brojem 79 obuhvata: Arilje, Bajina Bašta, Ivanjica, Kosjerić, Nova Varoš, Požega, Priboj, Prijepolje, Užice i Čajetina.\n\nRegistraciono područje s dodeljenim brojem 80 obuhvata: Bač, Bačka Palanka, Bački Petrovac, Beočin, Novi Sad, Sremski Karlovci, Temerin, Titel i Žabalj.\n\nRegistraciono područje s dodeljenim brojem 81 obuhvata: Apatin, Odžaci i Sombor.\n\nRegistraciono područje s dodeljenim brojem 82 obuhvata: Ada, Bačka Topola, Kanjiža, Kula, Mali Iđoš, Senta i Subotica.\n\nRegistraciono područje s dodeljenim brojem 83 obuhvata: Bečej, Srbobran i Vrbas.\n\nRegistraciono područje s dodeljenim brojem 84 obuhvata: Kikinda, Nova Crnja, Novi Kneževac i Čoka.\n\nRegistraciono područje s dodeljenim brojem 85 obuhvata: Novi Bečej, Sečanj, Zrenjanin i Žitište.\n\nRegistraciono područje s dodeljenim brojem 86 obuhvata: Alibunar, Kovačica, Kovin, Opovo i Pančevo.\n\nRegistraciono područje s dodeljenim brojem 87 obuhvata: Bela Crkva, Plandište i Vršac.\n\nRegistraciono područje s dodeljenim brojem 88 obuhvata: Inđija, Irig, Pećinci, Ruma i Stara Pazova.\n\nRegistraciono područje s dodeljenim brojem 89 obuhvata: Sremska Mitrovica i Šid.\n\nRegistraciono područje s dodeljenim brojem 91 obuhvata: Glogovac, Kosovo Polje, Lipljan, Novo Brdo, Obilić, Podujevo i Priština.\n\nRegistraciono područje s dodeljenim brojem 92 obuhvata: Kosovska Mitrovica, Leposavić, Srbica, Vučitrn, Zubin Potok i Zvečan.\n\nRegistraciono područje s dodeljenim brojem 93 obuhvata: Dečani, Istok, Klina i Peć.\n\nRegistraciono područje s dodeljenim brojem 94 obuhvata: Đakovica.\n\nRegistraciono područje s dodeljenim brojem 95 obuhvata: Dragaš, Gora, Mališevo, Opolje, Orahovac, Prizren i Suva Reka.\n\nRegistraciono područje s dodeljenim brojem 96 obuhvata: Kačanik, Uroševac, Štimlje i Štrpce.\n\nRegistraciono područje s dodeljenim brojem 97 obuhvata: Gnjilane, Kosovska Kamenica i Vitina.\n\nDržavljaninu Republike Srbije iz člana 3. stav 3. ovog zakona za broj registracionog područja određuje se broj 70.",
+      "chunks": [
+        {
+          "id": "4c18d27c-927d-5320-ad53-37ad75157705",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Broj registracionog područja određen je po jedinicama lokalne samouprave.\n\nRegistraciono područje s dodeljenim brojem 71 obuhvata Beograd.\n\nRegistraciono područje s dodeljenim brojem 72 obuhvata: Aranđelovac, Batočina, Despotovac, Jagodina, Knić, Kragujevac, Lapovo, Paraćin, Rača, Rekovac, Svilajnac, Topola i Ćuprija.\n\nRegistraciono područje s dodeljenim brojem 73 obuhvata: Aleksinac, Babušnica, Bela Palanka, Blace, Dimitrovgrad, Doljevac, Gadžin Han, Kuršumlija, Merošina, Niš, Niška Banja, Pirot, Prokuplje, Ražanj, Svrljig i Žitorađa.\n\nRegistraciono područje s dodeljenim brojem 74 obuhvata: Bojnik, Bosilegrad, Bujanovac, Crna Trava, Lebane, Leskovac, Medveđa, Preševo, Surdulica, Trgovište, Vladičin Han, Vlasotince i Vranje.\n\nRegistraciono područje s dodeljenim brojem 75 obuhvata: Boljevac, Bor, Kladovo, Knjaževac, Majdanpek, Negotin, Soko Banja i Zaječar.\n\nRegistraciono područje s dodeljenim brojem 76 obuhvata: Golubac, Kučevo, Malo Crniće, Petrovac na Mlavi, Požarevac, Smederevo, Smederevska Palanka, Velika Plana, Veliko Gradište, Žabari i Žagubica.\n\nRegistraciono područje s dodeljenim brojem 77 obuhvata: Bogatić, Koceljeva, Krupanj, Lajkovac, Loznica, Ljig, Ljubovija, Mali Zvornik, Mionica, Osečina, Ub, Valjevo, Vladimirci i Šabac.\n\nRegistraciono područje s dodeljenim brojem 78 obuhvata: Aleksandrovac, Brus, Gornji Milanovac, Kraljevo, Kruševac, Lučani, Novi Pazar, Raška, Sjenica, Trstenik, Tutin, Varvarin, Vrnjačka Banja, Ćićevac i Čačak.\n\nRegistraciono područje s dodeljenim brojem 79 obuhvata: Arilje, Bajina Bašta, Ivanjica, Kosjerić, Nova Varoš, Požega, Priboj, Prijepolje, Užice i Čajetina.\n\nRegistraciono područje s dodeljenim brojem 80 obuhvata: Bač, Bačka Palanka, Bački Petrovac, Beočin, Novi Sad, Sremski Karlovci, Temerin, Titel i Žabalj.\n\nRegistraciono područje s dodeljenim brojem 81 obuhvata: Apatin, Odžaci i Sombor.\n\nRegistraciono područje s dodeljenim brojem 82 obuhvata: Ada, Bačka Topola, Kanjiža, Kula, Mali Iđoš, Senta i Subotica.\n\nRegistraciono područje s dodeljenim brojem 83 obuhvata: Bečej, Srbobran i Vrbas.\n\nRegistraciono područje s dodeljenim brojem 84 obuhvata: Kikinda, Nova Crnja, Novi Kneževac i Čoka.\n\nRegistraciono područje s dodeljenim brojem 85 obuhvata: Novi Bečej, Sečanj, Zrenjanin i Žitište.\n\nRegistraciono područje s dodeljenim brojem 86 obuhvata: Alibunar, Kovačica, Kovin, Opovo i Pančevo.\n\nRegistraciono područje s dodeljenim brojem 87 obuhvata: Bela Crkva, Plandište i Vršac.\n\nRegistraciono područje s dodeljenim brojem 88 obuhvata: Inđija, Irig, Pećinci, Ruma i Stara Pazova.\n\nRegistraciono područje s dodeljenim brojem 89 obuhvata: Sremska Mitrovica i Šid.\n\nRegistraciono područje s dodeljenim brojem 91 obuhvata: Glogovac, Kosovo Polje, Lipljan, Novo Brdo, Obilić, Podujevo i Priština.\n\nRegistraciono područje s dodeljenim brojem 92 obuhvata: Kosovska Mitrovica, Leposavić, Srbica, Vučitrn, Zubin Potok i Zvečan.\n\nRegistraciono područje s dodeljenim brojem 93 obuhvata: Dečani, Istok, Klina i Peć.\n\nRegistraciono područje s dodeljenim brojem 94 obuhvata: Đakovica.\n\nRegistraciono područje s dodeljenim brojem 95 obuhvata: Dragaš, Gora, Mališevo, Opolje, Orahovac, Prizren i Suva Reka.\n\nRegistraciono područje s dodeljenim brojem 96 obuhvata: Kačanik, Uroševac, Štimlje i Štrpce.\n\nRegistraciono područje s dodeljenim brojem 97 obuhvata: Gnjilane, Kosovska Kamenica i Vitina.\n\nDržavljaninu Republike Srbije iz člana 3. stav 3. ovog zakona za broj registracionog područja određuje se broj 70.",
+          "ragContent": "Ovaj član definiše registraciona područja u Srbiji. Član 5. Zakona o jedinstvenom matičnom broju građana uređuje dodeljivanje brojeva registracionih područja.\n\nBroj registracionog područja određen je po jedinicama lokalne samouprave.\n\nRegistraciono područje s dodeljenim brojem 71 obuhvata Beograd.\n\nRegistraciono područje s dodeljenim brojem 72 obuhvata: Aranđelovac, Batočina, Despotovac, Jagodina, Knić, Kragujevac, Lapovo, Paraćin, Rača, Rekovac, Svilajnac, Topola i Ćuprija.\n\nRegistraciono područje s dodeljenim brojem 73 obuhvata: Aleksinac, Babušnica, Bela Palanka, Blace, Dimitrovgrad, Doljevac, Gadžin Han, Kuršumlija, Merošina, Niš, Niška Banja, Pirot, Prokuplje, Ražanj, Svrljig i Žitorađa.\n\nRegistraciono područje s dodeljenim brojem 74 obuhvata: Bojnik, Bosilegrad, Bujanovac, Crna Trava, Lebane, Leskovac, Medveđa, Preševo, Surdulica, Trgovište, Vladičin Han, Vlasotince i Vranje.\n\nRegistraciono područje s dodeljenim brojem 75 obuhvata: Boljevac, Bor, Kladovo, Knjaževac, Majdanpek, Negotin, Soko Banja i Zaječar.\n\nRegistraciono područje s dodeljenim brojem 76 obuhvata: Golubac, Kučevo, Malo Crniće, Petrovac na Mlavi, Požarevac, Smederevo, Smederevska Palanka, Velika Plana, Veliko Gradište, Žabari i Žagubica.\n\nRegistraciono područje s dodeljenim brojem 77 obuhvata: Bogatić, Koceljeva, Krupanj, Lajkovac, Loznica, Ljig, Ljubovija, Mali Zvornik, Mionica, Osečina, Ub, Valjevo, Vladimirci i Šabac.\n\nRegistraciono područje s dodeljenim brojem 78 obuhvata: Aleksandrovac, Brus, Gornji Milanovac, Kraljevo, Kruševac, Lučani, Novi Pazar, Raška, Sjenica, Trstenik, Tutin, Varvarin, Vrnjačka Banja, Ćićevac i Čačak.\n\nRegistraciono područje s dodeljenim brojem 79 obuhvata: Arilje, Bajina Bašta, Ivanjica, Kosjerić, Nova Varoš, Požega, Priboj, Prijepolje, Užice i Čajetina.\n\nRegistraciono područje s dodeljenim brojem 80 obuhvata: Bač, Bačka Palanka, Bački Petrovac, Beočin, Novi Sad, Sremski Karlovci, Temerin, Titel i Žabalj.\n\nRegistraciono područje s dodeljenim brojem 81 obuhvata: Apatin, Odžaci i Sombor.\n\nRegistraciono područje s dodeljenim brojem 82 obuhvata: Ada, Bačka Topola, Kanjiža, Kula, Mali Iđoš, Senta i Subotica.\n\nRegistraciono područje s dodeljenim brojem 83 obuhvata: Bečej, Srbobran i Vrbas.\n\nRegistraciono područje s dodeljenim brojem 84 obuhvata: Kikinda, Nova Crnja, Novi Kneževac i Čoka.\n\nRegistraciono područje s dodeljenim brojem 85 obuhvata: Novi Bečej, Sečanj, Zrenjanin i Žitište.\n\nRegistraciono područje s dodeljenim brojem 86 obuhvata: Alibunar, Kovačica, Kovin, Opovo i Pančevo.\n\nRegistraciono područje s dodeljenim brojem 87 obuhvata: Bela Crkva, Plandište i Vršac.\n\nRegistraciono područje s dodeljenim brojem 88 obuhvata: Inđija, Irig, Pećinci, Ruma i Stara Pazova.\n\nRegistraciono područje s dodeljenim brojem 89 obuhvata: Sremska Mitrovica i Šid.\n\nRegistraciono područje s dodeljenim brojem 91 obuhvata: Glogovac, Kosovo Polje, Lipljan, Novo Brdo, Obilić, Podujevo i Priština.\n\nRegistraciono područje s dodeljenim brojem 92 obuhvata: Kosovska Mitrovica, Leposavić, Srbica, Vučitrn, Zubin Potok i Zvečan.\n\nRegistraciono područje s dodeljenim brojem 93 obuhvata: Dečani, Istok, Klina i Peć.\n\nRegistraciono područje s dodeljenim brojem 94 obuhvata: Đakovica.\n\nRegistraciono područje s dodeljenim brojem 95 obuhvata: Dragaš, Gora, Mališevo, Opolje, Orahovac, Prizren i Suva Reka.\n\nRegistraciono područje s dodeljenim brojem 96 obuhvata: Kačanik, Uroševac, Štimlje i Štrpce.\n\nRegistraciono područje s dodeljenim brojem 97 obuhvata: Gnjilane, Kosovska Kamenica i Vitina.\n\nDržavljaninu Republike Srbije iz člana 3. stav 3. ovog zakona za broj registracionog područja određuje se broj 70."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Matični broj određuje se elektronski, unosi se u elektronsku evidenciju i predstavlja osnovni, matematičkim metodom izračunati numerički standard.\n\nDeo matičnog broja koji se odnosi na podatke o danu rođenja (I grupa), mesecu rođenja (II grupa), godini rođenja (III grupa) i polu (V grupa) određuje nadležni organ na osnovu podataka iz matične knjige rođenih.\n\nDeo matičnog broja koji se odnosi na registraciono područje (IV grupa) određuje se u skladu sa članom 5. ovog zakona.\n\nDeo matičnog broja koji se odnosi na podatke o kontrolnom broju (VI grupa) nadležni organ određuje automatski, primenom jedinstvenog matematičkog postupka po modulu 11 u informacionom sistemu nadležnog organa.\n\nMatični broj ne može se odrediti umrlom licu.",
+      "chunks": [
+        {
+          "id": "48b6414e-e866-5afe-bd4d-a46368e847b8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Matični broj određuje se elektronski, unosi se u elektronsku evidenciju i predstavlja osnovni, matematičkim metodom izračunati numerički standard.\n\nDeo matičnog broja koji se odnosi na podatke o danu rođenja (I grupa), mesecu rođenja (II grupa), godini rođenja (III grupa) i polu (V grupa) određuje nadležni organ na osnovu podataka iz matične knjige rođenih.\n\nDeo matičnog broja koji se odnosi na registraciono područje (IV grupa) određuje se u skladu sa članom 5. ovog zakona.\n\nDeo matičnog broja koji se odnosi na podatke o kontrolnom broju (VI grupa) nadležni organ određuje automatski, primenom jedinstvenog matematičkog postupka po modulu 11 u informacionom sistemu nadležnog organa.\n\nMatični broj ne može se odrediti umrlom licu.",
+          "ragContent": "Ovaj član uređuje način određivanja matičnog broja građana. Član 6. Zakona o jedinstvenom matičnom braju građana definiše kako se matični broj formira i koji su njegovi delovi.\n\nMatični broj određuje se elektronski, unosi se u elektronsku evidenciju i predstavlja osnovni, matematičkim metodom izračunati numerički standard.\n\nDeo matičnog broja koji se odnosi na podatke o danu rođenja (I grupa), mesecu rođenja (II grupa), godini rođenja (III grupa) i polu (V grupa) određuje nadležni organ na osnovu podataka iz matične knjige rođenih.\n\nDeo matičnog broja koji se odnosi na registraciono područje (IV grupa) određuje se u skladu sa članom 5. ovog zakona.\n\nDeo matičnog broja koji se odnosi na podatke o kontrolnom broju (VI grupa) nadležni organ određuje automatski, primenom jedinstvenog matematičkog postupka po modulu 11 u informacionom sistemu nadležnog organa.\n\nMatični broj ne može se odrediti umrlom licu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Nadležni organ koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana po upisu građanina u matičnu knjigu rođenih dostavi nadležnom organu radi određivanja matičnog broja izvod iz matične knjige rođenih s podacima o licu kome se određuje matični broj.\n\nNadležni organ je dužan da najkasnije u roku od 15 dana od dana određivanja matičnog broja obavesti o tome organ uprave koji vodi matičnu knjigu rođenih.\n\nNadležni organ uprave koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana, podatak o određenom matičnom broju upiše u matičnu knjigu rođenih, kao i da o upisu matičnog broja u matičnu knjigu rođenih, u elektronskom obliku, obavesti organ koji je odredio matični broj.\n\nNadležni organ koji vodi matičnu knjigu umrlih dužan je da podatak o činjenici smrti dostavi nadležnom organu najkasnije u roku od 15 dana od dana upisa činjenice smrti.\n\nNadležni organ pasivizira matični broj umrlog lica.",
+      "chunks": [
+        {
+          "id": "0e8359cd-0219-5608-9a27-cc67187e7d48",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nadležni organ koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana po upisu građanina u matičnu knjigu rođenih dostavi nadležnom organu radi određivanja matičnog broja izvod iz matične knjige rođenih s podacima o licu kome se određuje matični broj.\n\nNadležni organ je dužan da najkasnije u roku od 15 dana od dana određivanja matičnog broja obavesti o tome organ uprave koji vodi matičnu knjigu rođenih.\n\nNadležni organ uprave koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana, podatak o određenom matičnom broju upiše u matičnu knjigu rođenih, kao i da o upisu matičnog broja u matičnu knjigu rođenih, u elektronskom obliku, obavesti organ koji je odredio matični broj.",
+          "ragContent": "Ovaj deo se bavi obavezama nadležnih organa u vezi sa matičnim brojem. Član 7. Zakona o jedinstvenom matičnom braju građana propisuje rokove za dostavljanje i upisivanje podataka o matičnom broju.\n\nNadležni organ koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana po upisu građanina u matičnu knjigu rođenih dostavi nadležnom organu radi određivanja matičnog broja izvod iz matične knjige rođenih s podacima o licu kome se određuje matični broj.\n\nNadležni organ je dužan da najkasnije u roku od 15 dana od dana određivanja matičnog broja obavesti o tome organ uprave koji vodi matičnu knjigu rođenih.\n\nNadležni organ uprave koji vodi matičnu knjigu rođenih dužan je da najkasnije u roku od 15 dana, podatak o određenom matičnom broju upiše u matičnu knjigu rođenih, kao i da o upisu matičnog broja u matičnu knjigu rođenih, u elektronskom obliku, obavesti organ koji je odredio matični broj."
+        },
+        {
+          "id": "82129905-564b-55d7-85b3-2f37d0cd53a4",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Nadležni organ koji vodi matičnu knjigu umrlih dužan je da podatak o činjenici smrti dostavi nadležnom organu najkasnije u roku od 15 dana od dana upisa činjenice smrti.\n\nNadležni organ pasivizira matični broj umrlog lica.",
+          "ragContent": "Ovaj deo se odnosi na obaveze u vezi sa matičnim brojem umrlih lica. Član 7. Zakona o jedinstvenom matičnom braju građana propisuje rokove za dostavljanje podataka o smrti i pasivizaciju matičnog broja.\n\nNadležni organ koji vodi matičnu knjigu umrlih dužan je da podatak o činjenici smrti dostavi nadležnom organu najkasnije u roku od 15 dana od dana upisa činjenice smrti.\n\nNadležni organ pasivizira matični broj umrlog lica."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Ako se podaci o građaninu iz I, II, III i V grupe matičnog broja promene u postupku predviđenom zakonom, nadležni organ uprave u čijoj je evidenciji izvršena promena dužan je da nadležnom organu najkasnije u roku od 15 dana od nastale promene dostavi jedan primerak izvoda iz matične knjige rođenih u koji su unete promene i u kome je konstatovano da je promena izvršena.\n\nNa osnovu izvoda iz matične knjige rođenih u kome su izvršene promene podataka iz stava 1. ovog člana, nadležni organ rešenjem pasivizira ranije određen matični broj i određuje novi matični broj.\n\nUsvojenom detetu, na zahtev roditelja, može se pasivizirati ranije određen matični broj i odrediti novi matični broj i ako nisu promenjeni podaci o detetu na osnovu kojih se određuje matični broj u skladu sa ovim zakonom.\n\nNakon što je određen novi matični broj, ranije određen matični broj se pasivizira, odnosno u evidenciji o matičnim brojevima se evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu.\n\nAko se usvojenje poništi, detetu se u elektronskoj evidenciji aktivira prethodni matični broj i pasivizira matični broj koji mu je određen nakon usvojenja.",
+      "chunks": [
+        {
+          "id": "6a2bc655-70f5-53e4-80fb-2aecf97faa9d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako se podaci o građaninu iz I, II, III i V grupe matičnog broja promene u postupku predviđenom zakonom, nadležni organ uprave u čijoj je evidenciji izvršena promena dužan je da nadležnom organu najkasnije u roku od 15 dana od nastale promene dostavi jedan primerak izvoda iz matične knjige rođenih u koji su unete promene i u kome je konstatovano da je promena izvršena.\n\nNa osnovu izvoda iz matične knjige rođenih u kome su izvršene promene podataka iz stava 1. ovog člana, nadležni organ rešenjem pasivizira ranije određen matični broj i određuje novi matični broj.",
+          "ragContent": "Ovaj deo člana uređuje postupak promene podataka o građaninu i pasivizaciju matičnog broja. Član 8. Zakona o jedinstvenom matičnom broju građana propisuje obavezu nadležnog organa da dostavi izvod iz matične knjige rođenih u slučaju promene podataka.\n\nAko se podaci o građaninu iz I, II, III i V grupe matičnog broja promene u postupku predviđenom zakonom, nadležni organ uprave u čijoj je evidenciji izvršena promena dužan je da nadležnom organu najkasnije u roku od 15 dana od nastale promene dostavi jedan primerak izvoda iz matične knjige rođenih u koji su unete promene i u kome je konstatovano da je promena izvršena.\n\nNa osnovu izvoda iz matične knjige rođenih u kome su izvršene promene podataka iz stava 1. ovog člana, nadležni organ rešenjem pasivizira ranije određen matični broj i određuje novi matični broj."
+        },
+        {
+          "id": "4a081c04-980e-5fd4-b812-b10c1346ba6a",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Usvojenom detetu, na zahtev roditelja, može se pasivizirati ranije određen matični broj i odrediti novi matični broj i ako nisu promenjeni podaci o detetu na osnovu kojih se određuje matični broj u skladu sa ovim zakonom.\n\nNakon što je određen novi matični broj, ranije određen matični broj se pasivizira, odnosno u evidenciji o matičnim brojevima se evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu.",
+          "ragContent": "Ovaj deo člana se odnosi na usvojenu decu i postupak pasivizacije matičnog broja. Član 8. Zakona o jedinstvenom matičnom broju građana omogućava pasivizaciju ranije određenog matičnog broja na zahtev roditelja.\n\nUsvojenom detetu, na zahtev roditelja, može se pasivizirati ranije određen matični broj i odrediti novi matični broj i ako nisu promenjeni podaci o detetu na osnovu kojih se određuje matični broj u skladu sa ovim zakonom.\n\nNakon što je određen novi matični broj, ranije određen matični broj se pasivizira, odnosno u evidenciji o matičnim brojevima se evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu."
+        },
+        {
+          "id": "12eab64f-666d-513e-9468-6c9bd5807b44",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Ako se usvojenje poništi, detetu se u elektronskoj evidenciji aktivira prethodni matični broj i pasivizira matični broj koji mu je određen nakon usvojenja.",
+          "ragContent": "Ovaj deo člana uređuje postupak aktivacije prethodnog matičnog broja nakon poništenja usvojenja. Član 8. Zakona o jedinstvenom matičnom broju građana propisuje aktivaciju prethodnog matičnog broja u slučaju poništenja usvojenja.\n\nAko se usvojenje poništi, detetu se u elektronskoj evidenciji aktivira prethodni matični broj i pasivizira matični broj koji mu je određen nakon usvojenja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o jedinstvenom matičnom braju gradjana",
+      "lawSlug": "zakon-o-jedinstvenom-mati-nom-braju-gradjana",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "licni_podaci",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Pogrešno određen matični broj se pasivizira rešenjem i određuje se novi.\n\nRešenje o pasiviziranju pogrešno određenog matičnog broja i određivanju novog donosi nadležni organ po mestu prebivališta, odnosno nadležni organ koji ga je odredio ako lice nema prijavljeno prebivalište i o tome obaveštava nadležni organ koji vodi matičnu knjigu rođenih, kao i nadležni organ koji je dao inicijativu za pokretanje postupka.\n\nRešenje o pasivizaciji pogrešno određenog matičnog broja dostavlja se građaninu kome je pasiviziran pogrešno određen matični broj.\n\nKada je nadležni organ u Republici Srbiji odredio dva ili više matičnih brojeva, pasiviziraju se kasnije određeni matični brojevi, osim ako je kasnije određen matični broj upisan u javne isprave.\n\nPasivizirani matični broj ne može se odrediti drugom građaninu.\n\nPasivizirani matični broj se u evidenciji o matičnim brojevima evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu.",
+      "chunks": [
+        {
+          "id": "5f82e43b-3d6d-5dd2-9f04-33f0a3dab6b1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pogrešno određen matični broj se pasivizira rešenjem i određuje se novi.\n\nRešenje o pasiviziranju pogrešno određenog matičnog broja i određivanju novog donosi nadležni organ po mestu prebivališta, odnosno nadležni organ koji ga je odredio ako lice nema prijavljeno prebivalište i o tome obaveštava nadležni organ koji vodi matičnu knjigu rođenih, kao i nadležni organ koji je dao inicijativu za pokretanje postupka.\n\nRešenje o pasivizaciji pogrešno određenog matičnog broja dostavlja se građaninu kome je pasiviziran pogrešno određen matični broj.",
+          "ragContent": "Ovaj član uređuje postupak pasivizacije pogrešno određenog matičnog broja. Član 9. Zakona o jedinstvenom matičnom broju građana definiše kako se donosi rešenje o pasivizaciji i obaveštavanju nadležnih organa.\n\nPogrešno određen matični broj se pasivizira rešenjem i određuje se novi.\n\nRešenje o pasiviziranju pogrešno određenog matičnog broja i određivanju novog donosi nadležni organ po mestu prebivališta, odnosno nadležni organ koji ga je odredio ako lice nema prijavljeno prebivalište i o tome obaveštava nadležni organ koji vodi matičnu knjigu rođenih, kao i nadležni organ koji je dao inicijativu za pokretanje postupka.\n\nRešenje o pasivizaciji pogrešno određenog matičnog broja dostavlja se građaninu kome je pasiviziran pogrešno određen matični broj."
+        },
+        {
+          "id": "499a6304-21cb-5a08-b25f-482ced6bbf5f",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Kada je nadležni organ u Republici Srbiji odredio dva ili više matičnih brojeva, pasiviziraju se kasnije određeni matični brojevi, osim ako je kasnije određen matični broj upisan u javne isprave.\n\nPasivizirani matični broj ne može se odrediti drugom građaninu.\n\nPasivizirani matični broj se u evidenciji o matičnim brojevima evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu.",
+          "ragContent": "Ovaj deo člana se bavi pravilima o pasivizaciji više matičnih brojeva i njihovim evidentiranjem. Član 9. Zakona o jedinstvenom matičnom broju građana propisuje da se kasnije određeni matični brojevi pasiviziraju, osim ako su upisani u javne isprave.\n\nKada je nadležni organ u Republici Srbiji odredio dva ili više matičnih brojeva, pasiviziraju se kasnije određeni matični brojevi, osim ako je kasnije određen matični broj upisan u javne isprave.\n\nPasivizirani matični broj ne može se odrediti drugom građaninu.\n\nPasivizirani matični broj se u evidenciji o matičnim brojevima evidentira kao zamenjen novim i ne može se koristiti u pravnom prometu."
+        }
+      ]
+    }
+  ]
+}

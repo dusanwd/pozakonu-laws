@@ -1,0 +1,1127 @@
+{
+  "law": "Zakon o republičkim administrativnim taksama",
+  "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+  "category": "takse",
+  "sourceDocumentCount": 65,
+  "articleCount": 51,
+  "articles": [
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom uređuju se republičke administrativne takse (u daljem tekstu: taksa).",
+      "chunks": [
+        {
+          "id": "5fee78db-ed5c-51f4-a614-85aee1e9352a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuju se republičke administrativne takse (u daljem tekstu: taksa).",
+          "ragContent": "Ovaj član definiše republičke administrativne takse. Zakon o republičkim administrativnim taksama, član 1, uređuje republičke administrativne takse.  Ovim zakonom uređuju se republičke administrativne takse (u daljem tekstu: taksa)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Taksa se plaća u novcu.\n\nTakse za spise i radnje organa u Republici Srbiji plaćaju se u dinarima, osim u slučaju iz člana 4. ovog zakona, u iznosima propisanim Tarifom, odnosno iznosima usklađenim shodno odredbama člana 28. ovog zakona.\n\nKonzularna taksa plaća se u propisanom iznosu u evrima, odnosno preračunatom iznosu evra u drugu stranu valutu, osim u slučaju iz člana 16. stav 2. ovog zakona.\n\nTaksa se može platiti i putem elektronskog plaćanja.\n\nObveznik je dužan da uz zahtev priloži odgovarajući dokaz da je taksu platio, osim u slučajevima iz člana 4.* st. 7. i 8.** i člana 4a stav 2. ovog zakona, kada se uplata vrši u gotovom novcu.\n\nIzuzetno od stava 5. ovog člana, u slučaju elektronskog plaćanja takse, dokazom o uplati takse smatra se podatak o izvršenoj uplati takse sadržan u elektronskom sistemu, u koji organ vrši uvid po službenoj dužnosti.",
+      "chunks": [
+        {
+          "id": "9f493a5d-7326-5118-a7d7-38aac585df17",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Taksa se plaća u novcu.\n\nTakse za spise i radnje organa u Republici Srbiji plaćaju se u dinarima, osim u slučaju iz člana 4. ovog zakona, u iznosima propisanim Tarifom, odnosno iznosima usklađenim shodno odredbama člana 28. ovog zakona.\n\nKonzularna taksa plaća se u propisanom iznosu u evrima, odnosno preračunatom iznosu evra u drugu stranu valutu, osim u slučaju iz člana 16. stav 2. ovog zakona.\n\nTaksa se može platiti i putem elektronskog plaćanja.\n\nObveznik je dužan da uz zahtev priloži odgovarajući dokaz da je taksu platio, osim u slučajevima iz člana 4.* st. 7. i 8.** i člana 4a stav 2. ovog zakona, kada se uplata vrši u gotovom novcu.\n\nIzuzetno od stava 5. ovog člana, u slučaju elektronskog plaćanja takse, dokazom o uplati takse smatra se podatak o izvršenoj uplati takse sadržan u elektronskom sistemu, u koji organ vrši uvid po službenoj dužnosti.",
+          "ragContent": "Ovaj član uređuje način plaćanja taksi. Član 10. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća u novcu, u dinarima ili evrima, uz obavezu dostavljanja dokaza o uplati.\n\nTaksa se plaća u novcu.\n\nTakse za spise i radnje organa u Republici Srbiji plaćaju se u dinarima, osim u slučaju iz člana 4. ovog zakona, u iznosima propisanim Tarifom, odnosno iznosima usklađenim shodno odredbama člana 28. ovog zakona.\n\nKonzularna taksa plaća se u propisanom iznosu u evrima, odnosno preračunatom iznosu evra u drugu stranu valutu, osim u slučaju iz člana 16. stav 2. ovog zakona.\n\nTaksa se može platiti i putem elektronskog plaćanja.\n\nObveznik je dužan da uz zahtev priloži odgovarajući dokaz da je taksu platio, osim u slučajevima iz člana 4.* st. 7. i 8.** i člana 4a stav 2. ovog zakona, kada se uplata vrši u gotovom novcu.\n\nIzuzetno od stava 5. ovog člana, u slučaju elektronskog plaćanja takse, dokazom o uplati takse smatra se podatak o izvršenoj uplati takse sadržan u elektronskom sistemu, u koji organ vrši uvid po službenoj dužnosti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Taksa se plaća u propisanom iznosu za zahtev i za spise i radnje koje se u vezi sa tim zahtevom donose, odnosno vrše, ako ovim zakonom nije drukčije propisano.\n\nU slučaju kad je taksa propisana u procentualnom iznosu, obračunavanje takse vrši se tako što se dinarski iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara, a kod deviznih iznosa tako što se iznos do 0,50 ne uzima u obzir, a iznos preko 0,50 zaokružuje na 1,00.\n\nZa posebne usluge koje DKP pruži obvezniku u vezi sa podnetim zahtevom (korišćenje telefona, fotokopiranje i sl.) obveznik je dužan da, pored konzularne takse, naknadi prouzrokovane troškove.\n\nMinistar spoljnih poslova bliže uređuje šta se smatra posebnim uslugama i iznose troškova iz stava 3. ovog člana, kao i način evidentiranja prihoda po osnovu konzularnih taksi.",
+      "chunks": [
+        {
+          "id": "c0b89542-7183-5b37-a41c-3c3aedefdc1e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Taksa se plaća u propisanom iznosu za zahtev i za spise i radnje koje se u vezi sa tim zahtevom donose, odnosno vrše, ako ovim zakonom nije drukčije propisano.\n\nU slučaju kad je taksa propisana u procentualnom iznosu, obračunavanje takse vrši se tako što se dinarski iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara, a kod deviznih iznosa tako što se iznos do 0,50 ne uzima u obzir, a iznos preko 0,50 zaokružuje na 1,00.\n\nZa posebne usluge koje DKP pruži obvezniku u vezi sa podnetim zahtevom (korišćenje telefona, fotokopiranje i sl.) obveznik je dužan da, pored konzularne takse, naknadi prouzrokovane troškove.\n\nMinistar spoljnih poslova bliže uređuje šta se smatra posebnim uslugama i iznose troškova iz stava 3. ovog člana, kao i način evidentiranja prihoda po osnovu konzularnih taksi.",
+          "ragContent": "Ovaj član uređuje plaćanje taksi za zahteve i povezane radnje. Član 11. Zakona o republičkim administrativnim taksama propisuje način obračunavanja taksi i obaveze obveznika.\n\nTaksa se plaća u propisanom iznosu za zahtev i za spise i radnje koje se u vezi sa tim zahtevom donose, odnosno vrše, ako ovim zakonom nije drukčije propisano.\n\nU slučaju kad je taksa propisana u procentualnom iznosu, obračunavanje takse vrši se tako što se dinarski iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara, a kod deviznih iznosa tako što se iznos do 0,50 ne uzima u obzir, a iznos preko 0,50 zaokružuje na 1,00.\n\nZa posebne usluge koje DKP pruži obvezniku u vezi sa podnetim zahtevom (korišćenje telefona, fotokopiranje i sl.) obveznik je dužan da, pored konzularne takse, naknadi prouzrokovane troškove.\n\nMinistar spoljnih poslova bliže uređuje šta se smatra posebnim uslugama i iznose troškova iz stava 3. ovog člana, kao i način evidentiranja prihoda po osnovu konzularnih taksi."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U rešenju ili drugoj ispravi za koju je taksa plaćena, označava se da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena.",
+      "chunks": [
+        {
+          "id": "0c1bfbb0-1ee8-55c5-90a3-385ded20a7d1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U rešenju ili drugoj ispravi za koju je taksa plaćena, označava se da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena.",
+          "ragContent": "Ovaj član uređuje obeležavanje takse u rešenju ili ispravi. Član 12. Zakona o republičkim administrativnim taksama propisuje da se u rešenju ili drugoj ispravi označava plaćena taksa, njen iznos i tarifni broj.  U rešenju ili drugoj ispravi za koju je taksa plaćena, označava se da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Ako obveznik koji je dužan da plati taksu, organu neposredno podnese zahtev uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu, osim u slučaju uplate u gotovom novcu kod DKP i u slučaju elektronskog plaćanja takse, odgovorno lice organa nadležnog za prijem zahteva zatražiće od obveznika da podnese dokaz o uplati propisane takse u roku od deset dana od dana podnošenja zahteva i upozoriti ga na posledice neplaćanja takse, o čemu se na podnetom zahtevu sačinjava zabeleška.\n\nAko zahtev, uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu stigne poštom, odgovorno lice organa nadležnog za prijem zahteva pozvaće obveznika pismenom opomenom da, u roku od deset dana od dana prijema opomene, plati propisanu taksu i taksu za opomenu i upozoriti ga na posledice neplaćanja taksi.\n\nAko obveznik, u roku iz st. 1. i 2. ovog člana, ne podnese dokaz da je taksa uplaćena u propisanom iznosu, naplata propisane takse i takse za opomenu iz stava 2. ovog člana vrši se pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena.\n\nAko obveznik iz st. 1. i 2. ovog člana ne podnese dokaz da je propisana taksa, kao i taksa za opomenu, uplaćena, nadležni organ će obavestiti obveznika kada spis bude donet, odnosno radnja izvršena i, ako takse ne budu uplaćene i dokaz o tome dostavljen nadležnom organu, po isteku deset dana od dana obaveštenja obavestiti Poresku upravu i priložiti potrebne dokaze, radi pokretanja postupka prinudne naplate.",
+      "chunks": [
+        {
+          "id": "3eebbd07-b8a8-554a-b9ff-e3787f7cd01d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako obveznik koji je dužan da plati taksu, organu neposredno podnese zahtev uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu, osim u slučaju uplate u gotovom novcu kod DKP i u slučaju elektronskog plaćanja takse, odgovorno lice organa nadležnog za prijem zahteva zatražiće od obveznika da podnese dokaz o uplati propisane takse u roku od deset dana od dana podnošenja zahteva i upozoriti ga na posledice neplaćanja takse, o čemu se na podnetom zahtevu sačinjava zabeleška.\n\nAko zahtev, uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu stigne poštom, odgovorno lice organa nadležnog za prijem zahteva pozvaće obveznika pismenom opomenom da, u roku od deset dana od dana prijema opomene, plati propisanu taksu i taksu za opomenu i upozoriti ga na posledice neplaćanja taksi.",
+          "ragContent": "Ovaj deo člana uređuje obavezu obveznika da dostavi dokaz o uplati takse. Član 14. Zakona o republičkim administrativnim taksama propisuje postupak kada obveznik ne priloži dokaz o plaćenoj taksi.\n\nAko obveznik koji je dužan da plati taksu, organu neposredno podnese zahtev uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu, osim u slučaju uplate u gotovom novcu kod DKP i u slučaju elektronskog plaćanja takse, odgovorno lice organa nadležnog za prijem zahteva zatražiće od obveznika da podnese dokaz o uplati propisane takse u roku od deset dana od dana podnošenja zahteva i upozoriti ga na posledice neplaćanja takse, o čemu se na podnetom zahtevu sačinjava zabeleška.\n\nAko zahtev, uz koji nije priložen dokaz o plaćenoj taksi u propisanom iznosu stigne poštom, odgovorno lice organa nadležnog za prijem zahteva pozvaće obveznika pismenom opomenom da, u roku od deset dana od dana prijema opomene, plati propisanu taksu i taksu za opomenu i upozoriti ga na posledice neplaćanja taksi."
+        },
+        {
+          "id": "a6c85bce-0a93-5392-b346-7c8471055705",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ako obveznik, u roku iz st. 1. i 2. ovog člana, ne podnese dokaz da je taksa uplaćena u propisanom iznosu, naplata propisane takse i takse za opomenu iz stava 2. ovog člana vrši se pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena.\n\nAko obveznik iz st. 1. i 2. ovog člana ne podnese dokaz da je propisana taksa, kao i taksa za opomenu, uplaćena, nadležni organ će obavestiti obveznika kada spis bude donet, odnosno radnja izvršena i, ako takse ne budu uplaćene i dokaz o tome dostavljen nadležnom organu, po isteku deset dana od dana obaveštenja obavestiti Poresku upravu i priložiti potrebne dokaze, radi pokretanja postupka prinudne naplate.",
+          "ragContent": "Ovaj deo člana uređuje postupak naplate takse u slučaju neplaćanja. Član 14. Zakona o republičkim administrativnim taksama definiše postupak kada obveznik ne dostavi dokaz o uplati takse.\n\nAko obveznik, u roku iz st. 1. i 2. ovog člana, ne podnese dokaz da je taksa uplaćena u propisanom iznosu, naplata propisane takse i takse za opomenu iz stava 2. ovog člana vrši se pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena.\n\nAko obveznik iz st. 1. i 2. ovog člana ne podnese dokaz da je propisana taksa, kao i taksa za opomenu, uplaćena, nadležni organ će obavestiti obveznika kada spis bude donet, odnosno radnja izvršena i, ako takse ne budu uplaćene i dokaz o tome dostavljen nadležnom organu, po isteku deset dana od dana obaveštenja obavestiti Poresku upravu i priložiti potrebne dokaze, radi pokretanja postupka prinudne naplate."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za zahteve koji bez priloženog dokaza o plaćenoj taksi u propisanom iznosu stignu poštom iz inostranstva, uručenje zatraženog rešenja ili druge isprave, odnosno saopštenje obvezniku da je radnja izvršena, izvršiće se po prijemu tog dokaza.",
+      "chunks": [
+        {
+          "id": "a04f3a7b-89cb-559c-84be-4efc19dcb446",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za zahteve koji bez priloženog dokaza o plaćenoj taksi u propisanom iznosu stignu poštom iz inostranstva, uručenje zatraženog rešenja ili druge isprave, odnosno saopštenje obvezniku da je radnja izvršena, izvršiće se po prijemu tog dokaza.",
+          "ragContent": "Ovaj član uređuje postupak uručenja rešenja kada nije priložen dokaz o plaćenoj taksi. Član 15. Zakona o republičkim administrativnim taksama propisuje da se uručenje vrši po prijemu dokaza o plaćenoj taksi.  Za zahteve koji bez priloženog dokaza o plaćenoj taksi u propisanom iznosu stignu poštom iz inostranstva, uručenje zatraženog rešenja ili druge isprave, odnosno saopštenje obvezniku da je radnja izvršena, izvršiće se po prijemu tog dokaza."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Taksa u Republici Srbiji se uplaćuje na propisani uplatni račun javnih prihoda.\n\nTakseni obveznici sa sedištem, odnosno prebivalištem, odnosno boravištem u Republici Srbiji, koji se iz Republike Srbije obraćaju DKP, konzularnu taksu u propisanom iznosu uplaćuju u dinarima, preračunatu po zvaničnom srednjem kursu dinara u odnosu na evro, koji važi na dan uplate takse, na račun iz stava 1. ovog člana.\n\nPrihod od taksi propisanih ovim zakonom pripada budžetu Republike Srbije.\n\nSredstva od taksi propisanih ovim zakonom uplaćenih na devizni račun DKP, DKP prenosi na račun ministarstva nadležnog za spoljne poslove.\n\nSredstva od taksi iz stava 4. ovog člana ministarstvo nadležno za spoljne poslove prenosi sa svog računa na račun iz stava 1. ovog člana.\n\nPrenos sredstava iz st. 4. i 5. ovog člana na račun iz stava 1. ovog člana, vrši se u roku od deset dana po isteku meseca u kome je taksa naplaćena.",
+      "chunks": [
+        {
+          "id": "5ea910c6-1770-5f24-acbc-82859fb8ccce",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Taksa u Republici Srbiji se uplaćuje na propisani uplatni račun javnih prihoda.\n\nTakseni obveznici sa sedištem, odnosno prebivalištem, odnosno boravištem u Republici Srbiji, koji se iz Republike Srbije obraćaju DKP, konzularnu taksu u propisanom iznosu uplaćuju u dinarima, preračunatu po zvaničnom srednjem kursu dinara u odnosu na evro, koji važi na dan uplate takse, na račun iz stava 1. ovog člana.\n\nPrihod od taksi propisanih ovim zakonom pripada budžetu Republike Srbije.",
+          "ragContent": "Ovaj deo uređuje način uplate taksi u Republici Srbiji. Član 16. Zakona o republičkim administrativnim taksama propisuje da se taksa uplaćuje na propisani uplatni račun javnih prihoda.\n\nTaksa u Republici Srbiji se uplaćuje na propisani uplatni račun javnih prihoda.\n\nTakseni obveznici sa sedištem, odnosno prebivalištem, odnosno boravištem u Republici Srbiji, koji se iz Republike Srbije obraćaju DKP, konzularnu taksu u propisanom iznosu uplaćuju u dinarima, preračunatu po zvaničnom srednjem kursu dinara u odnosu na evro, koji važi na dan uplate takse, na račun iz stava 1. ovog člana.\n\nPrihod od taksi propisanih ovim zakonom pripada budžetu Republike Srbije."
+        },
+        {
+          "id": "fd735e3b-0da7-5f2d-b5ba-8fe3b2790830",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Sredstva od taksi propisanih ovim zakonom uplaćenih na devizni račun DKP, DKP prenosi na račun ministarstva nadležnog za spoljne poslove.\n\nSredstva od taksi iz stava 4. ovog člana ministarstvo nadležno za spoljne poslove prenosi sa svog računa na račun iz stava 1. ovog člana.\n\nPrenos sredstava iz st. 4. i 5. ovog člana na račun iz stava 1. ovog člana, vrši se u roku od deset dana po isteku meseca u kome je taksa naplaćena.",
+          "ragContent": "Ovaj deo uređuje prenos sredstava od taksi na račune nadležnih organa. Član 16. Zakona o republičkim administrativnim taksama propisuje način prenosa sredstava od taksi na račun ministarstva nadležnog za spoljne poslove.\n\nSredstva od taksi propisanih ovim zakonom uplaćenih na devizni račun DKP, DKP prenosi na račun ministarstva nadležnog za spoljne poslove.\n\nSredstva od taksi iz stava 4. ovog člana ministarstvo nadležno za spoljne poslove prenosi sa svog računa na račun iz stava 1. ovog člana.\n\nPrenos sredstava iz st. 4. i 5. ovog člana na račun iz stava 1. ovog člana, vrši se u roku od deset dana po isteku meseca u kome je taksa naplaćena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": "AĆANjA TAKSE",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U pogledu povraćaja, kamate, prinudne naplate, zastarelosti i ostalog što nije posebno propisano ovim zakonom, shodno se primenjuju propisi kojima se uređuje poreski postupak i poreska administracija.\n\nRešenje o povraćaju konzularne takse donosi šef DKP u zemlji u kojoj je taksa naplaćena, a izvršava se na teret deviznog računa tog DKP.",
+      "chunks": [
+        {
+          "id": "f15f5a6c-c0b1-5985-b924-133920da8d32",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U pogledu povraćaja, kamate, prinudne naplate, zastarelosti i ostalog što nije posebno propisano ovim zakonom, shodno se primenjuju propisi kojima se uređuje poreski postupak i poreska administracija.\n\nRešenje o povraćaju konzularne takse donosi šef DKP u zemlji u kojoj je taksa naplaćena, a izvršava se na teret deviznog računa tog DKP.",
+          "ragContent": "Ovaj član uređuje povraćaj konzularne takse i primenu poreskih propisa. Član 17. Zakona o republičkim administrativnim taksama propisuje da se za povraćaj, kamate i druge aspekte primenjuju poreski propisi.\n\nU pogledu povraćaja, kamate, prinudne naplate, zastarelosti i ostalog što nije posebno propisano ovim zakonom, shodno se primenjuju propisi kojima se uređuje poreski postupak i poreska administracija.\n\nRešenje o povraćaju konzularne takse donosi šef DKP u zemlji u kojoj je taksa naplaćena, a izvršava se na teret deviznog računa tog DKP."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Oslobađaju se plaćanja takse:\n\n1) organi, organizacije i institucije Republike Srbije;\n\n2) organi i organizacije autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n3) organizacije obaveznog socijalnog osiguranja;\n\n4) ustanove osnovane od strane Republike Srbije, autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n4a) Crkve i verske zajednice, registrovane u skladu sa Zakonom o crkvama i verskim zajednicama;\n\n5) Crveni krst Srbije;\n\n6) diplomatsko-konzularna predstavništva strane države, pod uslovom uzajamnosti;\n\n7) vlasnik, odnosno držalac kulturnog dobra i dobra pod prethodnom zaštitom, u vezi sa zaštitom, korišćenjem i raspolaganjem kulturnim dobrom, odnosno dobrom pod prethodnom zaštitom.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+      "chunks": [
+        {
+          "id": "1d551d71-e730-5e6e-9894-a0813bc5766f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Oslobađaju se plaćanja takse:\n\n1) organi, organizacije i institucije Republike Srbije;\n\n2) organi i organizacije autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n3) organizacije obaveznog socijalnog osiguranja;\n\n4) ustanove osnovane od strane Republike Srbije, autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n4a) Crkve i verske zajednice, registrovane u skladu sa Zakonom o crkvama i verskim zajednicama;\n\n5) Crveni krst Srbije;\n\n6) diplomatsko-konzularna predstavništva strane države, pod uslovom uzajamnosti;\n\n7) vlasnik, odnosno držalac kulturnog dobra i dobra pod prethodnom zaštitom, u vezi sa zaštitom, korišćenjem i raspolaganjem kulturnim dobrom, odnosno dobrom pod prethodnom zaštitom.",
+          "ragContent": "Ovaj član uređuje oslobađanje od plaćanja takse za određene subjekte. Član 18. Zakona o republičkim administrativnim taksama definiše subjekte koji su oslobođeni taksi.\n\nOslobađaju se plaćanja takse:\n\n1) organi, organizacije i institucije Republike Srbije;\n\n2) organi i organizacije autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n3) organizacije obaveznog socijalnog osiguranja;\n\n4) ustanove osnovane od strane Republike Srbije, autonomnih pokrajina, odnosno jedinica lokalne samouprave;\n\n4a) Crkve i verske zajednice, registrovane u skladu sa Zakonom o crkvama i verskim zajednicama;\n\n5) Crveni krst Srbije;\n\n6) diplomatsko-konzularna predstavništva strane države, pod uslovom uzajamnosti;\n\n7) vlasnik, odnosno držalac kulturnog dobra i dobra pod prethodnom zaštitom, u vezi sa zaštitom, korišćenjem i raspolaganjem kulturnim dobrom, odnosno dobrom pod prethodnom zaštitom."
+        },
+        {
+          "id": "8739adee-69e4-53fe-952e-db3613c3044d",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+          "ragContent": "Ovaj deo člana se odnosi na taksene obaveze koje nisu plaćene do stupanja na snagu zakona. Član 18. Zakona o republičkim administrativnim taksama propisuje način plaćanja taksi za obaveze nastale pre njegovog stupanja na snagu.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Ne plaća se taksa za:\n\n1) spise i radnje u postupcima koji se vode po službenoj dužnosti;\n\n2) spise i radnje u postupku za povraćaj više ili pogrešno plaćenih javnih prihoda, kao i za refakciju, odnosno za refundaciju javnih prihoda;\n\n3) spise i radnje u postupku za ispravljanje grešaka u rešenjima, drugim ispravama i službenim evidencijama;\n\n4) prijave za upis u matične knjige, kao i priloge koji se moraju podneti uz prijave;\n\n5) prijave i priloge uz njih za utvrđivanje javnih prihoda, spise i radnje u postupku za utvrđivanje smanjenja katastarskog prihoda zbog elementarnih nepogoda, biljnih bolesti, štetočina i drugih vanrednih događaja, spise i radnje u postupcima za ostvarivanje prava na podsticaje koji se isplaćuju u funkciji ostvarivanja ciljeva poljoprivredne politike i politike ruralnog razvoja, spise i radnje u postupcima za ostvarivanje prava na IPARD podsticaje, spise i radnje u postupcima za sprovođenje pravila i mera uređenja tržišta poljoprivrednih proizvoda, spise i radnje u postupcima vođenja registra poljoprivrednih gazdinstava, spise i radnje u postupcima ostvarivanja prava na refakciju plaćene akcize na derivate nafte koje se kao motorno gorivo koristi u poljoprivredne svrhe, kao i spise i radnje za ostvarivanje zakonom propisanih poreskih podsticaja i oslobođenja kod plaćanja javnih prihoda;\n\n6) spise i radnje za ostvarivanje prava iz obaveznog socijalnog osiguranja, socijalne zaštite, boračko-invalidske zaštite i zaštite civilnih invalida rata, odnosno prava u skladu sa propisima kojima se uređuje finansijska podrška porodici sa decom, kao i za spise i radnje u postupku ostvarivanja prava žrtava porodičnog nasilja;\n\nPrvo usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja.\n\nNe plaća se taksa za:\n\n6a) spise i radnje u postupku ostvarivanja prava na pristup informacijama od javnog značaja i prava na zaštitu podataka o ličnosti;\n\n7) spise i radnje u vezi sa predškolskim i školskim vaspitanjem i obrazovanjem, obrazovanjem studenata, stručnim usavršavanjem, odnosno prekvalifikacijom;\n\n8) spise i radnje, kao i priloge koji se moraju podneti uz zahtev u vezi sa regulisanjem vojne obaveze;\n\n9) spise i radnje u postupku za sahranjivanje;\n\n10) podneske upućene organima za predstavke i pritužbe;\n\n11) spise i radnje u postupku za zasnivanje radnog odnosa i ostvarivanje prava po tom osnovu;\n\n12) podneske javnom tužilaštvu;\n\n13) spise i radnje za koje je oslobođenje od plaćanja takse uređeno međunarodnim ugovorom;\n\n14) molbe za pomilovanje i odluke po tim molbama;\n\n15) spise i radnje u postupku za sastavljanje, odnosno ispravljanje biračkih spiskova, kao i spiskova za kandidovanje;\n\n16) spise i radnje za koje je oslobođenje od plaćanja takse posebno propisano Tarifom;\n\n17) za potvrdu o prijemu zahteva;\n\n18) za potvrdu o pravosnažnosti ili izvršnosti koja se stavlja na upravni akt.\n\nIzuzetno od stava 1. tačka 1) ovog člana, postupak upisa u katastar nepokretnosti i vodova, na osnovu isprava koje je sastavio, potvrdio ili overio javni beležnik, odnosno izvršnih odluka koje je doneo javni beležnik u okviru zakonom poverenih javnih ovlašćenja, ne smatra se postupkom koji se vodi po službenoj dužnosti, u smislu ovog zakona.\n\nAko organ nadležan za donošenje spisa, odnosno vršenja radnje, na zahtev obveznika – fizičkog lica, na osnovu dokumentovanih podataka o primanjima obveznika – fizičkog lica i članova njegove uže porodice proceni da obveznik ne može da plati taksu bez štete po svoje nužno izdržavanje ili nužno izdržavanje svoje uže porodice, rešenjem će odlučiti da se taksa do iznosa od 10.000 dinara ne plati, a ako je taksa propisana u iznosu preko 10.000 dinara, odlučiće da se u tom slučaju taksa plati u iznosu koji predstavlja razliku između propisane takse i 10.000 dinara.\n\nU postupku kod DKP, taksa se ne plaća ni za:\n\n1) spise i radnje koji se odnose na zaštitu prava državljana Republike Srbije u inostranstvu i na zastupanje državljana Republike Srbije povodom mera koje su protivne međunarodnim ugovorima ili načelima međunarodnog prava, odnosno međunarodnim običajima;\n\n2) vize iz kurtoazije, odnosno za vize koje se izdaju na strane diplomatske pasoše, službene pasoše i pasoše koje izdaju međunarodne organizacije koje priznaje Republika Srbija, pod uslovom uzajamnosti.",
+      "chunks": [
+        {
+          "id": "824fec0f-7c73-5547-87c4-fceb3a7d9b48",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ne plaća se taksa za:\n\n1) spise i radnje u postupcima koji se vode po službenoj dužnosti;\n\n2) spise i radnje u postupku za povraćaj više ili pogrešno plaćenih javnih prihoda, kao i za refakciju, odnosno za refundaciju javnih prihoda;\n\n3) spise i radnje u postupku za ispravljanje grešaka u rešenjima, drugim ispravama i službenim evidencijama;\n\n4) prijave za upis u matične knjige, kao i priloge koji se moraju podneti uz prijave;\n\n5) prijave i priloge uz njih za utvrđivanje javnih prihoda, spise i radnje u postupku za utvrđivanje smanjenja katastarskog prihoda zbog elementarnih nepogoda, biljnih bolesti, štetočina i drugih vanrednih događaja, spise i radnje u postupcima za ostvarivanje prava na podsticaje koji se isplaćuju u funkciji ostvarivanja ciljeva poljoprivredne politike i politike ruralnog razvoja, spise i radnje u postupcima za ostvarivanje prava na IPARD podsticaje, spise i radnje u postupcima za sprovođenje pravila i mera uređenja tržišta poljoprivrednih proizvoda, spise i radnje u postupcima vođenja registra poljoprivrednih gazdinstava, spise i radnje u postupcima ostvarivanja prava na refakciju plaćene akcize na derivate nafte koje se kao motorno gorivo koristi u poljoprivredne svrhe, kao i spise i radnje za ostvarivanje zakonom propisanih poreskih podsticaja i oslobođenja kod plaćanja javnih prihoda;\n\n6) spise i radnje za ostvarivanje prava iz obaveznog socijalnog osiguranja, socijalne zaštite, boračko-invalidske zaštite i zaštite civilnih invalida rata, odnosno prava u skladu sa propisima kojima se uređuje finansijska podrška porodici sa decom, kao i za spise i radnje u postupku ostvarivanja prava žrtava porodičnog nasilja;\n\nPrvo usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja.",
+          "ragContent": "Ovaj član uređuje oslobađanje od plaćanja taksi za određene postupke i radnje. Član 19. Zakona o republičkim administrativnim taksama definiše situacije u kojima se taksa ne plaća, uključujući postupke po službenoj dužnosti i povraćaj javnih prihoda.\n\nNe plaća se taksa za:\n\n1) spise i radnje u postupcima koji se vode po službenoj dužnosti;\n\n2) spise i radnje u postupku za povraćaj više ili pogrešno plaćenih javnih prihoda, kao i za refakciju, odnosno za refundaciju javnih prihoda;\n\n3) spise i radnje u postupku za ispravljanje grešaka u rešenjima, drugim ispravama i službenim evidencijama;\n\n4) prijave za upis u matične knjige, kao i priloge koji se moraju podneti uz prijave;\n\n5) prijave i priloge uz njih za utvrđivanje javnih prihoda, spise i radnje u postupku za utvrđivanje smanjenja katastarskog prihoda zbog elementarnih nepogoda, biljnih bolesti, štetočina i drugih vanrednih događaja, spise i radnje u postupcima za ostvarivanje prava na podsticaje koji se isplaćuju u funkciji ostvarivanja ciljeva poljoprivredne politike i politike ruralnog razvoja, spise i radnje u postupcima za ostvarivanje prava na IPARD podsticaje, spise i radnje u postupcima za sprovođenje pravila i mera uređenja tržišta poljoprivrednih proizvoda, spise i radnje u postupcima vođenja registra poljoprivrednih gazdinstava, spise i radnje u postupcima ostvarivanja prava na refakciju plaćene akcize na derivate nafte koje se kao motorno gorivo koristi u poljoprivredne svrhe, kao i spise i radnje za ostvarivanje zakonom propisanih poreskih podsticaja i oslobođenja kod plaćanja javnih prihoda;\n\n6) spise i radnje za ostvarivanje prava iz obaveznog socijalnog osiguranja, socijalne zaštite, boračko-invalidske zaštite i zaštite civilnih invalida rata, odnosno prava u skladu sa propisima kojima se uređuje finansijska podrška porodici sa decom, kao i za spise i radnje u postupku ostvarivanja prava žrtava porodičnog nasilja;\n\nPrvo usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja."
+        },
+        {
+          "id": "7464de20-ffe0-5170-a442-a19b919446fb",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ne plaća se taksa za:\n\n6a) spise i radnje u postupku ostvarivanja prava na pristup informacijama od javnog značaja i prava na zaštitu podataka o ličnosti;\n\n7) spise i radnje u vezi sa predškolskim i školskim vaspitanjem i obrazovanjem, obrazovanjem studenata, stručnim usavršavanjem, odnosno prekvalifikacijom;\n\n8) spise i radnje, kao i priloge koji se moraju podneti uz zahtev u vezi sa regulisanjem vojne obaveze;\n\n9) spise i radnje u postupku za sahranjivanje;\n\n10) podneske upućene organima za predstavke i pritužbe;\n\n11) spise i radnje u postupku za zasnivanje radnog odnosa i ostvarivanje prava po tom osnovu;\n\n12) podneske javnom tužilaštvu;\n\n13) spise i radnje za koje je oslobođenje od plaćanja takse uređeno međunarodnim ugovorom;\n\n14) molbe za pomilovanje i odluke po tim molbama;\n\n15) spise i radnje u postupku za sastavljanje, odnosno ispravljanje biračkih spiskova, kao i spiskova za kandidovanje;\n\n16) spise i radnje za koje je oslobođenje od plaćanja takse posebno propisano Tarifom;\n\n17) za potvrdu o prijemu zahteva;\n\n18) za potvrdu o pravosnažnosti ili izvršnosti koja se stavlja na upravni akt.\n\nIzuzetno od stava 1. tačka 1) ovog člana, postupak upisa u katastar nepokretnosti i vodova, na osnovu isprava koje je sastavio, potvrdio ili overio javni beležnik, odnosno izvršnih odluka koje je doneo javni beležnik u okviru zakonom poverenih javnih ovlašćenja, ne smatra se postupkom koji se vodi po službenoj dužnosti, u smislu ovog zakona.\n\nAko organ nadležan za donošenje spisa, odnosno vršenja radnje, na zahtev obveznika – fizičkog lica, na osnovu dokumentovanih podataka o primanjima obveznika – fizičkog lica i članova njegove uže porodice proceni da obveznik ne može da plati taksu bez štete po svoje nužno izdržavanje ili nužno izdržavanje svoje uže porodice, rešenjem će odlučiti da se taksa do iznosa od 10.000 dinara ne plati, a ako je taksa propisana u iznosu preko 10.000 dinara, odlučiće da se u tom slučaju taksa plati u iznosu koji predstavlja razliku između propisane takse i 10.000 dinara.",
+          "ragContent": "Ovaj deo člana nastavlja sa oslobađanjem od taksi za dodatne postupke i radnje. Član 19. Zakona o republičkim administrativnim taksama navodi dodatne situacije u kojima se taksa ne plaća, uključujući postupke vezane za obrazovanje i sahranjivanje.\n\nNe plaća se taksa za:\n\n6a) spise i radnje u postupku ostvarivanja prava na pristup informacijama od javnog značaja i prava na zaštitu podataka o ličnosti;\n\n7) spise i radnje u vezi sa predškolskim i školskim vaspitanjem i obrazovanjem, obrazovanjem studenata, stručnim usavršavanjem, odnosno prekvalifikacijom;\n\n8) spise i radnje, kao i priloge koji se moraju podneti uz zahtev u vezi sa regulisanjem vojne obaveze;\n\n9) spise i radnje u postupku za sahranjivanje;\n\n10) podneske upućene organima za predstavke i pritužbe;\n\n11) spise i radnje u postupku za zasnivanje radnog odnosa i ostvarivanje prava po tom osnovu;\n\n12) podneske javnom tužilaštvu;\n\n13) spise i radnje za koje je oslobođenje od plaćanja takse uređeno međunarodnim ugovorom;\n\n14) molbe za pomilovanje i odluke po tim molbama;\n\n15) spise i radnje u postupku za sastavljanje, odnosno ispravljanje biračkih spiskova, kao i spiskova za kandidovanje;\n\n16) spise i radnje za koje je oslobođenje od plaćanja takse posebno propisano Tarifom;\n\n17) za potvrdu o prijemu zahteva;\n\n18) za potvrdu o pravosnažnosti ili izvršnosti koja se stavlja na upravni akt.\n\nIzuzetno od stava 1. tačka 1) ovog člana, postupak upisa u katastar nepokretnosti i vodova, na osnovu isprava koje je sastavio, potvrdio ili overio javni beležnik, odnosno izvršnih odluka koje je doneo javni beležnik u okviru zakonom poverenih javnih ovlašćenja, ne smatra se postupkom koji se vodi po službenoj dužnosti, u smislu ovog zakona.\n\nAko organ nadležan za donošenje spisa, odnosno vršenja radnje, na zahtev obveznika – fizičkog lica, na osnovu dokumentovanih podataka o primanjima obveznika – fizičkog lica i članova njegove uže porodice proceni da obveznik ne može da plati taksu bez štete po svoje nužno izdržavanje ili nužno izdržavanje svoje uže porodice, rešenjem će odlučiti da se taksa do iznosa od 10.000 dinara ne plati, a ako je taksa propisana u iznosu preko 10.000 dinara, odlučiće da se u tom slučaju taksa plati u iznosu koji predstavlja razliku između propisane takse i 10.000 dinara."
+        },
+        {
+          "id": "fae3378d-8d88-5a9f-b56d-6865bf66aba7",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "U postupku kod DKP, taksa se ne plaća ni za:\n\n1) spise i radnje koji se odnose na zaštitu prava državljana Republike Srbije u inostranstvu i na zastupanje državljana Republike Srbije povodom mera koje su protivne međunarodnim ugovorima ili načelima međunarodnog prava, odnosno međunarodnim običajima;\n\n2) vize iz kurtoazije, odnosno za vize koje se izdaju na strane diplomatske pasoše, službene pasoše i pasoše koje izdaju međunarodne organizacije koje priznaje Republika Srbija, pod uslovom uzajamnosti.",
+          "ragContent": "Ovaj deo člana se odnosi na oslobađanje od taksi u postupcima kod diplomatskih konzularnih predstavništava. Član 19. Zakona o republičkim administrativnim taksama navodi specifične situacije u kojima se taksa ne plaća u vezi sa zaštitom prava državljana i vizama.\n\nU postupku kod DKP, taksa se ne plaća ni za:\n\n1) spise i radnje koji se odnose na zaštitu prava državljana Republike Srbije u inostranstvu i na zastupanje državljana Republike Srbije povodom mera koje su protivne međunarodnim ugovorima ili načelima međunarodnog prava, odnosno međunarodnim običajima;\n\n2) vize iz kurtoazije, odnosno za vize koje se izdaju na strane diplomatske pasoše, službene pasoše i pasoše koje izdaju međunarodne organizacije koje priznaje Republika Srbija, pod uslovom uzajamnosti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 1a",
+      "articleNo": "1a",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Pojedini izrazi upotrebljeni u ovom zakonu, u smislu ovog zakona imaju sledeće značenje:\n\n1) „zahtev“ jeste predlog, prijava, molba i drugi podnesak, uključujući i podneske podnete na obrascu, odnosno saopštenje koje se upućuje organu, kao i usmeno obraćanje organu, kojim se pokreće postupak kod organa;\n\n2) „DKP“ jeste diplomatsko-konzularno predstavništvo Republike Srbije u inostranstvu;\n\n3) „organi“ jesu institucije, državni organi i organizacije, organi pokrajinske autonomije i lokalne samouprave kada vrše poverene poslove, kao i preduzeća, privredna društva i druge organizacije kojima je povereno vršenje javnih ovlašćenja*, a koja se za vršenje javnih ovlašćenja finansiraju iz budžetskih sredstava**;\n\n4) „Tarifa“ jeste Tarifa republičkih administrativnih taksi, koja je sastavni deo ovog zakona;\n\n5) „konzularne takse“ jesu takse koje se plaćaju za spise i radnje diplomatsko-konzularnih predstavništava Republike Srbije*;\n\n6) „elektronsko plaćanje” je plaćanje koje se vrši preko sistema elektronske uprave ili korišćenjem drugog elektronskog sistema koji je tehnički i funkcionalno povezan sa sistemom elektronske uprave tako da obezbeđuje elektronsko prikupljanje i evidentiranje podataka o plaćanju u realnom vremenu (u daljem tekstu: „elektronski sistemˮ).",
+      "chunks": [
+        {
+          "id": "39b3998d-1bf0-598f-92a4-f7d33d7978e8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pojedini izrazi upotrebljeni u ovom zakonu, u smislu ovog zakona imaju sledeće značenje:\n\n1) „zahtev“ jeste predlog, prijava, molba i drugi podnesak, uključujući i podneske podnete na obrascu, odnosno saopštenje koje se upućuje organu, kao i usmeno obraćanje organu, kojim se pokreće postupak kod organa;\n\n2) „DKP“ jeste diplomatsko-konzularno predstavništvo Republike Srbije u inostranstvu;\n\n3) „organi“ jesu institucije, državni organi i organizacije, organi pokrajinske autonomije i lokalne samouprave kada vrše poverene poslove, kao i preduzeća, privredna društva i druge organizacije kojima je povereno vršenje javnih ovlašćenja*, a koja se za vršenje javnih ovlašćenja finansiraju iz budžetskih sredstava**;\n\n4) „Tarifa“ jeste Tarifa republičkih administrativnih taksi, koja je sastavni deo ovog zakona;\n\n5) „konzularne takse“ jesu takse koje se plaćaju za spise i radnje diplomatsko-konzularnih predstavništava Republike Srbije*;\n\n6) „elektronsko plaćanje” je plaćanje koje se vrši preko sistema elektronske uprave ili korišćenjem drugog elektronskog sistema koji je tehnički i funkcionalno povezan sa sistemom elektronske uprave tako da obezbeđuje elektronsko prikupljanje i evidentiranje podataka o plaćanju u realnom vremenu (u daljem tekstu: „elektronski sistemˮ).",
+          "ragContent": "Ovaj član definiše ključne pojmove korišćene u zakonu. Član 1a Zakona o republičkim administrativnim taksama sadrži definicije izraza kao što su zahtev, DKP, organi, tarifa, konzularne takse i elektronsko plaćanje.\n\nPojedini izrazi upotrebljeni u ovom zakonu, u smislu ovog zakona imaju sledeće značenje:\n\n1) „zahtev“ jeste predlog, prijava, molba i drugi podnesak, uključujući i podneske podnete na obrascu, odnosno saopštenje koje se upućuje organu, kao i usmeno obraćanje organu, kojim se pokreće postupak kod organa;\n\n2) „DKP“ jeste diplomatsko-konzularno predstavništvo Republike Srbije u inostranstvu;\n\n3) „organi“ jesu institucije, državni organi i organizacije, organi pokrajinske autonomije i lokalne samouprave kada vrše poverene poslove, kao i preduzeća, privredna društva i druge organizacije kojima je povereno vršenje javnih ovlašćenja*, a koja se za vršenje javnih ovlašćenja finansiraju iz budžetskih sredstava**;\n\n4) „Tarifa“ jeste Tarifa republičkih administrativnih taksi, koja je sastavni deo ovog zakona;\n\n5) „konzularne takse“ jesu takse koje se plaćaju za spise i radnje diplomatsko-konzularnih predstavništava Republike Srbije*;\n\n6) „elektronsko plaćanje” je plaćanje koje se vrši preko sistema elektronske uprave ili korišćenjem drugog elektronskog sistema koji je tehnički i funkcionalno povezan sa sistemom elektronske uprave tako da obezbeđuje elektronsko prikupljanje i evidentiranje podataka o plaćanju u realnom vremenu (u daljem tekstu: „elektronski sistemˮ)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za spise i radnje u upravnim stvarima, kao i za druge spise i radnje kod organa, plaćaju se takse po odredbama ovog zakona.\n\nIznosi taksi propisani su Tarifom.\n\nTarifa sadrži Odeljak A i Odeljak B.\n\nU Odeljku A Tarife propisane su takse koje se plaćaju za spise i radnje organa u Republici Srbiji.\n\nU Odeljku B Tarife propisane su konzularne takse.\n\nU smislu stava 1. ovog člana ne smatra se spisom ili radnjom uvid u podatke organa koji se vode u elektronskom obliku, odnosno preuzimanje tih podataka putem sredstava elektronske komunikacije.",
+      "chunks": [
+        {
+          "id": "865e925f-7aba-5134-9d62-1df09ecd60aa",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za spise i radnje u upravnim stvarima, kao i za druge spise i radnje kod organa, plaćaju se takse po odredbama ovog zakona.\n\nIznosi taksi propisani su Tarifom.\n\nTarifa sadrži Odeljak A i Odeljak B.\n\nU Odeljku A Tarife propisane su takse koje se plaćaju za spise i radnje organa u Republici Srbiji.\n\nU Odeljku B Tarife propisane su konzularne takse.\n\nU smislu stava 1. ovog člana ne smatra se spisom ili radnjom uvid u podatke organa koji se vode u elektronskom obliku, odnosno preuzimanje tih podataka putem sredstava elektronske komunikacije.",
+          "ragContent": "Ovaj član uređuje plaćanje taksi za upravne spise i radnje. Zakon o republičkim administrativnim taksama, član 2, definiše obavezu plaćanja taksi i propisuje iznose taksi kroz Tarifne odeljke.\n\nZa spise i radnje u upravnim stvarima, kao i za druge spise i radnje kod organa, plaćaju se takse po odredbama ovog zakona.\n\nIznosi taksi propisani su Tarifom.\n\nTarifa sadrži Odeljak A i Odeljak B.\n\nU Odeljku A Tarife propisane su takse koje se plaćaju za spise i radnje organa u Republici Srbiji.\n\nU Odeljku B Tarife propisane su konzularne takse.\n\nU smislu stava 1. ovog člana ne smatra se spisom ili radnjom uvid u podatke organa koji se vode u elektronskom obliku, odnosno preuzimanje tih podataka putem sredstava elektronske komunikacije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako je postupak pokrenut na zahtev više obveznika, od kojih su neki oslobođeni plaćanja takse, taksu u tom postupku plaća obveznik koji nije oslobođen plaćanja takse.\n\nOvaj zakon stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "f37a087e-22f1-52d0-815c-3ea6a97a7f01",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako je postupak pokrenut na zahtev više obveznika, od kojih su neki oslobođeni plaćanja takse, taksu u tom postupku plaća obveznik koji nije oslobođen plaćanja takse.\n\nOvaj zakon stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje obavezu plaćanja takse u postupku sa više obveznika. Član 20. Zakona o republičkim administrativnim taksama propisuje da taksu plaća obveznik koji nije oslobođen plaćanja takse.\n\nAko je postupak pokrenut na zahtev više obveznika, od kojih su neki oslobođeni plaćanja takse, taksu u tom postupku plaća obveznik koji nije oslobođen plaćanja takse.\n\nOvaj zakon stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Strani državljani, pod uslovom uzajamnosti, imaju prava na takseno oslobođenje za istorodne spise i radnje kao i državljani Republike Srbije u državi čiji je strano lice državljanin.",
+      "chunks": [
+        {
+          "id": "3e6a3ba3-496f-50eb-adc8-6a1c95de9b7c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Strani državljani, pod uslovom uzajamnosti, imaju prava na takseno oslobođenje za istorodne spise i radnje kao i državljani Republike Srbije u državi čiji je strano lice državljanin.",
+          "ragContent": "Ovaj član uređuje takseno oslobođenje stranih državljana. Zakon o republičkim administrativnim taksama, član 21, propisuje da strani državljani imaju prava na takseno oslobođenje pod uslovom uzajamnosti.  Strani državljani, pod uslovom uzajamnosti, imaju prava na takseno oslobođenje za istorodne spise i radnje kao i državljani Republike Srbije u državi čiji je strano lice državljanin."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U rešenju, ispravi, dokumentu ili pismenom, koji se izdaje bez plaćanja takse, mora se označiti svrha izdavanja i osnov oslobođenja od plaćanja takse.\n\nRešenje, isprava, dokument ili pismeno iz stava 1. ovog člana može se koristiti samo u svrhu za koju je izdato.",
+      "chunks": [
+        {
+          "id": "b566b4b5-53bc-5aaa-9ab7-295c8546867d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U rešenju, ispravi, dokumentu ili pismenom, koji se izdaje bez plaćanja takse, mora se označiti svrha izdavanja i osnov oslobođenja od plaćanja takse.\n\nRešenje, isprava, dokument ili pismeno iz stava 1. ovog člana može se koristiti samo u svrhu za koju je izdato.",
+          "ragContent": "Ovaj član uređuje obeležavanje svrhe i osnova oslobođenja od takse. Član 22. Zakona o republičkim administrativnim taksama propisuje da se u dokumentima bez takse mora označiti svrha i osnov oslobođenja.\n\nU rešenju, ispravi, dokumentu ili pismenom, koji se izdaje bez plaćanja takse, mora se označiti svrha izdavanja i osnov oslobođenja od plaćanja takse.\n\nRešenje, isprava, dokument ili pismeno iz stava 1. ovog člana može se koristiti samo u svrhu za koju je izdato."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 24",
+      "articleNo": "24",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+      "chunks": [
+        {
+          "id": "bb590df9-c52a-5f78-955d-4545cebda9ff",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+          "ragContent": "Ovaj član uređuje plaćanje taksene obaveze koja nije izmirena do stupanja na snagu zakona. Član 24. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema ranijem zakonu ako je to povoljnije za obveznika.  Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 25",
+      "articleNo": "25",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2016. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2016. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+      "chunks": [
+        {
+          "id": "e14e4913-1893-59df-b898-cf7e31f622f1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2016. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2016. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi. Član 25. Zakona o republičkim administrativnim taksama propisuje način usklađivanja taksi u 2016. godini, uključujući primenu indeksa potrošačkih cena i pravila za zaokruživanje.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2016. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2016. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 26",
+      "articleNo": "26",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je povoljniji za obveznika.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZakon o izmenama i dopunama Zakona o republičkim administrativnim taksama: \"Službeni glasnik RS\", broj 113/2017-192\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2026. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2026. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.",
+      "chunks": [
+        {
+          "id": "268a1798-2f03-53ed-94ef-354c901083f0",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je povoljniji za obveznika.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje plaćanje taksenih obaveza koje su nastale pre stupanja na snagu zakona. Član 26. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema ranijem zakonu ako je povoljniji za obveznika.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je povoljniji za obveznika.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        },
+        {
+          "id": "d1d1cd5d-d228-511d-87e5-cf9be947fe20",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Zakon o izmenama i dopunama Zakona o republičkim administrativnim taksama: \"Službeni glasnik RS\", broj 113/2017-192\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2026. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2026. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.",
+          "ragContent": "Ovaj deo člana se bavi usklađivanjem dinarskih iznosa taksi. Član 26. Zakona o republičkim administrativnim taksama predviđa usklađivanje taksi u 2026. godini prema indeksu potrošačkih cena."
+        },
+        {
+          "id": "da0603c2-8618-5286-85f4-8f7b974c0617",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Vlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”",
+          "ragContent": "Ovaj deo člana se odnosi na objavljivanje usklađenih dinarskih iznosa taksi. Član 26. Zakona o republičkim administrativnim taksama nalaže Vladi da objavi usklađene iznose taksi na predlog ministarstva."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 27",
+      "articleNo": "27",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U 2009. godini neće se vršiti usklađivanje taksi, niti donositi odluka kojom se uređuju vrste deviza u kojima se taksa plaća i visina zvaničnog srednjeg kursa dinara na dan 30. aprila 2009. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize.\n\nPrvo usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti vrste deviza u kojima se takse iz Odeljka A Tarife plaćaju u devizama i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila 2010. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize, u skladu sa članom 4. ovog zakona.\n\nOdluka iz stava 5. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”, do kada će se primenjivati Odluka o vrstama deviza u kojima se plaćaju republičke administrativne takse kod diplomatsko-konzularnih predstavništava Republike Srbije i o visini kursa dinara za preračunavanje dinarskih iznosa taksi u devize („Službeni glasnik RS”, broj 54/08).\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "8d86470b-fea9-5cae-93f6-624c1470b019",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U 2009. godini neće se vršiti usklađivanje taksi, niti donositi odluka kojom se uređuju vrste deviza u kojima se taksa plaća i visina zvaničnog srednjeg kursa dinara na dan 30. aprila 2009. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize.\n\nPrvo usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti vrste deviza u kojima se takse iz Odeljka A Tarife plaćaju u devizama i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila 2010. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize, u skladu sa članom 4. ovog zakona.\n\nOdluka iz stava 5. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”, do kada će se primenjivati Odluka o vrstama deviza u kojima se plaćaju republičke administrativne takse kod diplomatsko-konzularnih predstavništava Republike Srbije i o visini kursa dinara za preračunavanje dinarskih iznosa taksi u devize („Službeni glasnik RS”, broj 54/08).\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član se bavi usklađivanjem taksi i deviza za 2009. godinu. Član 27 Zakona o republičkim administrativnim taksama propisuje da se u 2009. godini neće vršiti usklađivanje taksi, niti donositi odluka o vrstama deviza u kojima se taksa plaća.\n\nU 2009. godini neće se vršiti usklađivanje taksi, niti donositi odluka kojom se uređuju vrste deviza u kojima se taksa plaća i visina zvaničnog srednjeg kursa dinara na dan 30. aprila 2009. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize.\n\nPrvo usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife, stopom rasta troškova života, prema podacima republičkog organa nadležnog za poslove statistike, izvršiće se za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2010. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti vrste deviza u kojima se takse iz Odeljka A Tarife plaćaju u devizama i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila 2010. godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize, u skladu sa članom 4. ovog zakona.\n\nOdluka iz stava 5. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”, do kada će se primenjivati Odluka o vrstama deviza u kojima se plaćaju republičke administrativne takse kod diplomatsko-konzularnih predstavništava Republike Srbije i o visini kursa dinara za preračunavanje dinarskih iznosa taksi u devize („Službeni glasnik RS”, broj 54/08).\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 28",
+      "articleNo": "28",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Dinarski iznosi taksi iz Odeljka A* Tarife usklađuju se godišnje, sa godišnjim indeksom potrošačkih cena, koji** objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nPrilikom usklađivanja dinarskih iznosa taksi, u skladu sa stavom 1. ovog člana, osnovica za usklađivanje su poslednji objavljeni usklađeni dinarski iznosi taksi.\n\nVlada *, na predlog ministarstva nadležnog za poslove finansija *, objavljuje usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjuju se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije“.\n\n**Službeni glasnik RS, broj 50/2011\n\nIX. KAZNENE ODREDBE\n\nČl. 29. i 30.\n\nBrisani su (vidi član 23. Zakona – 5/2009-7)\n\nPropis na osnovu ovlašćenja iz člana 11. ovog zakona doneće se u roku od tri meseca od dana stupanja na snagu ovog zakona.\n\nDo početka primene propisa iz stava 1. ovog člana, primenjivaće se odgovarajući propisi doneti do dana stupanja na snagu ovog zakona, ako nisu u suprotnosti sa odredbama ovog zakona.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+      "chunks": [
+        {
+          "id": "b2d2a9be-46b8-5f74-9e3d-6866445976ba",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Dinarski iznosi taksi iz Odeljka A* Tarife usklađuju se godišnje, sa godišnjim indeksom potrošačkih cena, koji** objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nPrilikom usklađivanja dinarskih iznosa taksi, u skladu sa stavom 1. ovog člana, osnovica za usklađivanje su poslednji objavljeni usklađeni dinarski iznosi taksi.\n\nVlada *, na predlog ministarstva nadležnog za poslove finansija *, objavljuje usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjuju se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije“.\n\n**Službeni glasnik RS, broj 50/2011",
+          "ragContent": "Ovaj deo se bavi usklađivanjem dinarskih iznosa taksi. Član 28. Zakona o republičkim administrativnim taksama propisuje godišnje usklađivanje taksi sa indeksom potrošačkih cena.\n\nDinarski iznosi taksi iz Odeljka A* Tarife usklađuju se godišnje, sa godišnjim indeksom potrošačkih cena, koji** objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nPrilikom usklađivanja dinarskih iznosa taksi, u skladu sa stavom 1. ovog člana, osnovica za usklađivanje su poslednji objavljeni usklađeni dinarski iznosi taksi.\n\nVlada *, na predlog ministarstva nadležnog za poslove finansija *, objavljuje usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjuju se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije“.\n\n**Službeni glasnik RS, broj 50/2011"
+        },
+        {
+          "id": "daf021a9-e7a7-5588-9b50-122aab78b7c6",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "IX. KAZNENE ODREDBE\n\nČl. 29. i 30.\n\nBrisani su (vidi član 23. Zakona – 5/2009-7)\n\nPropis na osnovu ovlašćenja iz člana 11. ovog zakona doneće se u roku od tri meseca od dana stupanja na snagu ovog zakona.\n\nDo početka primene propisa iz stava 1. ovog člana, primenjivaće se odgovarajući propisi doneti do dana stupanja na snagu ovog zakona, ako nisu u suprotnosti sa odredbama ovog zakona.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+          "ragContent": "Ovaj deo se odnosi na kaznene odredbe i primenu propisa. Član 28. Zakona o republičkim administrativnim taksama definiše postupak primene propisa do donošenja novih.\n\nIX. KAZNENE ODREDBE\n\nČl. 29. i 30.\n\nBrisani su (vidi član 23. Zakona – 5/2009-7)\n\nPropis na osnovu ovlašćenja iz člana 11. ovog zakona doneće se u roku od tri meseca od dana stupanja na snagu ovog zakona.\n\nDo početka primene propisa iz stava 1. ovog člana, primenjivaće se odgovarajući propisi doneti do dana stupanja na snagu ovog zakona, ako nisu u suprotnosti sa odredbama ovog zakona.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 29",
+      "articleNo": "29",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o saveznim administrativnim taksama.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, u Tarifnom broju 35. st. 1. i 2. prestaju da važe.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, Tarifni broj 36. prestaje da važi.\n\nU Odeljku A Tarife, Tarifni broj 37. primenjuje se od dana početka primene Zakona o strancima.\n\nDanom početka primene Zakona o strancima, u Odeljku B Tarife, Tarifni broj 8. prestaje da važi.\n\nU Odeljku B Tarife, Tarifni broj 9. primenjuje se od dana početka primene Zakona o strancima.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2024. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2024. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "bc4959ac-6983-5e41-97bc-2b3053926e98",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o saveznim administrativnim taksama.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, u Tarifnom broju 35. st. 1. i 2. prestaju da važe.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, Tarifni broj 36. prestaje da važi.\n\nU Odeljku A Tarife, Tarifni broj 37. primenjuje se od dana početka primene Zakona o strancima.\n\nDanom početka primene Zakona o strancima, u Odeljku B Tarife, Tarifni broj 8. prestaje da važi.\n\nU Odeljku B Tarife, Tarifni broj 9. primenjuje se od dana početka primene Zakona o strancima.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2024. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2024. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnih zakona i usklađivanje taksi. Član 29. Zakona o republičkim administrativnim taksama definiše prestanak važenja Zakona o saveznim administrativnim taksama i primenu Zakona o strancima, kao i usklađivanje taksi.\n\nDanom stupanja na snagu ovog zakona prestaje da važi Zakon o saveznim administrativnim taksama.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, u Tarifnom broju 35. st. 1. i 2. prestaju da važe.\n\nDanom početka primene Zakona o strancima, u Odeljku A Tarife, Tarifni broj 36. prestaje da važi.\n\nU Odeljku A Tarife, Tarifni broj 37. primenjuje se od dana početka primene Zakona o strancima.\n\nDanom početka primene Zakona o strancima, u Odeljku B Tarife, Tarifni broj 8. prestaje da važi.\n\nU Odeljku B Tarife, Tarifni broj 9. primenjuje se od dana početka primene Zakona o strancima.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2024. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2024. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Obveznik takse (u daljem tekstu: obveznik) jeste lice koje se zahtevom obraća organu radi pokretanja upravnog, odnosno drugog postupka kod organa, odnosno i lice u čiju korist se izdaje spis, odnosno vrši radnja kod organa. Ako za propisanu taksu postoji više obveznika, njihova obaveza je solidarna.",
+      "chunks": [
+        {
+          "id": "1a304076-3b06-5af0-8bc8-8af72e1f1333",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik takse (u daljem tekstu: obveznik) jeste lice koje se zahtevom obraća organu radi pokretanja upravnog, odnosno drugog postupka kod organa, odnosno i lice u čiju korist se izdaje spis, odnosno vrši radnja kod organa. Ako za propisanu taksu postoji više obveznika, njihova obaveza je solidarna.",
+          "ragContent": "Ovaj član definiše ko je obveznik takse. Član 3. Zakona o republičkim administrativnim taksama propisuje da je obveznik lice koje se obraća organu radi pokretanja postupka ili lice u čiju korist se vrši radnja.\n\nObveznik takse (u daljem tekstu: obveznik) jeste lice koje se zahtevom obraća organu radi pokretanja upravnog, odnosno drugog postupka kod organa, odnosno i lice u čiju korist se izdaje spis, odnosno vrši radnja kod organa. Ako za propisanu taksu postoji više obveznika, njihova obaveza je solidarna."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 30",
+      "articleNo": "30",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZakon o izmenama i dopunama Zakona o republičkim i administrativnim taksama: „Službeni glasnik RS“, broj 54/2009-24\n\nOdredba člana 81. stav 1. Zakona o divljači i lovstvu („Službeni glasnik RS”, br. 18/10 i 95/18 – dr. zakon) prestaje da važi počev od 1. januara 2024. godine.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+      "chunks": [
+        {
+          "id": "ae8cce93-fd8f-5180-b798-ee8d348a69ff",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZakon o izmenama i dopunama Zakona o republičkim i administrativnim taksama: „Službeni glasnik RS“, broj 54/2009-24\n\nOdredba člana 81. stav 1. Zakona o divljači i lovstvu („Službeni glasnik RS”, br. 18/10 i 95/18 – dr. zakon) prestaje da važi počev od 1. januara 2024. godine.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona i obaveze vezane za takse. Član 30. Zakona o republičkim administrativnim taksama definiše kada zakon stupa na snagu i kako se postupa sa neplaćenim taksenim obavezama.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nZakon o izmenama i dopunama Zakona o republičkim i administrativnim taksama: „Službeni glasnik RS“, broj 54/2009-24\n\nOdredba člana 81. stav 1. Zakona o divljači i lovstvu („Službeni glasnik RS”, br. 18/10 i 95/18 – dr. zakon) prestaje da važi počev od 1. januara 2024. godine.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 31",
+      "articleNo": "31",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 1.000 do 50.000* dinara kazniće se za prekršaj odgovorno lice u nadležnom** organu iz člana 2. ovog zakona ako:\n\n1) brisana je (vidi član 3. Zakona – 61/2005-60)\n\n2) izvrši radnju po podnetom zahtevu,* bez dokaza o naplati takse, odnosno troškova za posebne usluge (član 4. stav 6. i član 11. stav 3)**;\n\n3) u rešenju ili drugoj ispravi, za koju je taksa plaćena, ne označi da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena (član 12);\n\n4) brisana je (vidi član 24. Zakona – 5/2009-7)\n\n5) ne obavesti obveznika koji je zahtev podneo bez dokaza o plaćenoj taksi u propisanom iznosu, da je dužan da plati propisanu taksu i da o tome podnese dokaz, odnosno ako taksu ne naplati u propisanom iznosu pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena, odnosno ako u propisanom roku ne obavesti Poresku upravu radi pokretanja postupka prinudne naplate takse (član 14);\n\n6) po zahtevima koji, bez dokaza o plaćenoj taksi u propisanom iznosu, stignu poštom iz inostranstva, obvezniku uruči zatraženo rešenje ili drugu ispravu, odnosno saopštenje da je radnja izvršena (član 15);\n\n7) u rešenju, ispravi, dokumentu ili pismenom, koji se izdaju bez plaćanja takse, ne označi svrhu izdavanja i osnov oslobođenja od plaćanja takse (član 22. stav 1)**.\n\nNovčanom kaznom od 5.000 do 50.000 dinara kazniće se za prekršaj odgovorno lice u organu, ako u postupku pred tim organom omogući korišćenje rešenja, isprave, dokumenta ili pismena koje je, u skladu sa zakonom, izdato bez plaćanja takse, za svrhu za koju nije izdato (član 22. stav 2).",
+      "chunks": [
+        {
+          "id": "15776a20-569a-5165-8904-9e7b1543dc6e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 1.000 do 50.000* dinara kazniće se za prekršaj odgovorno lice u nadležnom** organu iz člana 2. ovog zakona ako:\n\n1) brisana je (vidi član 3. Zakona – 61/2005-60)\n\n2) izvrši radnju po podnetom zahtevu,* bez dokaza o naplati takse, odnosno troškova za posebne usluge (član 4. stav 6. i član 11. stav 3)**;\n\n3) u rešenju ili drugoj ispravi, za koju je taksa plaćena, ne označi da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena (član 12);\n\n4) brisana je (vidi član 24. Zakona – 5/2009-7)\n\n5) ne obavesti obveznika koji je zahtev podneo bez dokaza o plaćenoj taksi u propisanom iznosu, da je dužan da plati propisanu taksu i da o tome podnese dokaz, odnosno ako taksu ne naplati u propisanom iznosu pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena, odnosno ako u propisanom roku ne obavesti Poresku upravu radi pokretanja postupka prinudne naplate takse (član 14);\n\n6) po zahtevima koji, bez dokaza o plaćenoj taksi u propisanom iznosu, stignu poštom iz inostranstva, obvezniku uruči zatraženo rešenje ili drugu ispravu, odnosno saopštenje da je radnja izvršena (član 15);\n\n7) u rešenju, ispravi, dokumentu ili pismenom, koji se izdaju bez plaćanja takse, ne označi svrhu izdavanja i osnov oslobođenja od plaćanja takse (član 22. stav 1)**.\n\nNovčanom kaznom od 5.000 do 50.000 dinara kazniće se za prekršaj odgovorno lice u organu, ako u postupku pred tim organom omogući korišćenje rešenja, isprave, dokumenta ili pismena koje je, u skladu sa zakonom, izdato bez plaćanja takse, za svrhu za koju nije izdato (član 22. stav 2).",
+          "ragContent": "Ovaj član uređuje novčane kazne za prekršaje u vezi sa administrativnim taksama. Član 31. Zakona o republičkim administrativnim taksama propisuje kazne za odgovorna lica u organima za različite prekršaje vezane za naplatu taksi.\n\nNovčanom kaznom od 1.000 do 50.000* dinara kazniće se za prekršaj odgovorno lice u nadležnom** organu iz člana 2. ovog zakona ako:\n\n1) brisana je (vidi član 3. Zakona – 61/2005-60)\n\n2) izvrši radnju po podnetom zahtevu,* bez dokaza o naplati takse, odnosno troškova za posebne usluge (član 4. stav 6. i član 11. stav 3)**;\n\n3) u rešenju ili drugoj ispravi, za koju je taksa plaćena, ne označi da je taksa plaćena, iznos takse koji je plaćen i tarifni broj po kojem je taksa plaćena (član 12);\n\n4) brisana je (vidi član 24. Zakona – 5/2009-7)\n\n5) ne obavesti obveznika koji je zahtev podneo bez dokaza o plaćenoj taksi u propisanom iznosu, da je dužan da plati propisanu taksu i da o tome podnese dokaz, odnosno ako taksu ne naplati u propisanom iznosu pre uručenja zatraženog rešenja ili druge isprave, odnosno pre saopštenja obvezniku da je radnja izvršena, odnosno ako u propisanom roku ne obavesti Poresku upravu radi pokretanja postupka prinudne naplate takse (član 14);\n\n6) po zahtevima koji, bez dokaza o plaćenoj taksi u propisanom iznosu, stignu poštom iz inostranstva, obvezniku uruči zatraženo rešenje ili drugu ispravu, odnosno saopštenje da je radnja izvršena (član 15);\n\n7) u rešenju, ispravi, dokumentu ili pismenom, koji se izdaju bez plaćanja takse, ne označi svrhu izdavanja i osnov oslobođenja od plaćanja takse (član 22. stav 1)**.\n\nNovčanom kaznom od 5.000 do 50.000 dinara kazniće se za prekršaj odgovorno lice u organu, ako u postupku pred tim organom omogući korišćenje rešenja, isprave, dokumenta ili pismena koje je, u skladu sa zakonom, izdato bez plaćanja takse, za svrhu za koju nije izdato (član 22. stav 2)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 32",
+      "articleNo": "32",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za spise i radnje u upravnim stvarima i za druge spise i radnje organa za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa propisima koji su bili na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom početka primene odredaba člana 10. ovog zakona prestaje da važi Odluka o utvrđivanju visine naknade za ispitivanje i za dodatno ispitivanje sorte poljoprivrednog bilja.",
+      "chunks": [
+        {
+          "id": "6b11f5db-10e8-5187-9d75-01e53948f8f7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za spise i radnje u upravnim stvarima i za druge spise i radnje organa za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa propisima koji su bili na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom početka primene odredaba člana 10. ovog zakona prestaje da važi Odluka o utvrđivanju visine naknade za ispitivanje i za dodatno ispitivanje sorte poljoprivrednog bilja.",
+          "ragContent": "Ovaj član uređuje plaćanje taksi za obaveze nastale pre stupanja na snagu zakona. Član 32. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema ranijim propisima ako su povoljniji za obveznika.\n\nZa spise i radnje u upravnim stvarima i za druge spise i radnje organa za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa propisima koji su bili na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom početka primene odredaba člana 10. ovog zakona prestaje da važi Odluka o utvrđivanju visine naknade za ispitivanje i za dodatno ispitivanje sorte poljoprivrednog bilja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 33",
+      "articleNo": "33",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredaba čl. 10. i 29. ovog zakona koje će se primenjivati od 1. januara 2025. godine.",
+      "chunks": [
+        {
+          "id": "99c78f66-5188-549c-84d3-4964f3692d46",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredaba čl. 10. i 29. ovog zakona koje će se primenjivati od 1. januara 2025. godine.",
+          "ragContent": "Ovaj član uređuje izuzeće od plaćanja administrativne takse za određene spise i radnje. Član 33. Zakona o republičkim administrativnim taksama propisuje da se ne plaća administrativna taksa za spise i radnje u nadležnosti organa Republike.  Za spise i radnje u nadležnosti organa Republike, koji su predmet taksene obaveze po odredbama ovog zakona, ne plaća se administrativna taksa po odredbama Zakona o saveznim administrativnim taksama."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 34",
+      "articleNo": "34",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o administrativnim taksama („Službeni glasnik RS”, br. 49/92, 70/92, 37/93, 44/93, 67/93, 28/94, 30/94, 31/95, 53/95, 39/96 i 42/98);\n\n2) odredbe člana 135. st. 4. i 5. i u stavu 6. tačka 6) Zakona o javnim nabavkama („Službeni glasnik RS”, broj 39/2002).",
+      "chunks": [
+        {
+          "id": "02ced766-71ce-5c54-b64a-64ecfac70884",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o administrativnim taksama („Službeni glasnik RS”, br. 49/92, 70/92, 37/93, 44/93, 67/93, 28/94, 30/94, 31/95, 53/95, 39/96 i 42/98);\n\n2) odredbe člana 135. st. 4. i 5. i u stavu 6. tačka 6) Zakona o javnim nabavkama („Službeni glasnik RS”, broj 39/2002).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnih zakona. Član 34. Zakona o republičkim administrativnim taksama definiše koji zakoni prestaju da važe danom stupanja na snagu ovog zakona.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Zakon o administrativnim taksama („Službeni glasnik RS”, br. 49/92, 70/92, 37/93, 44/93, 67/93, 28/94, 30/94, 31/95, 53/95, 39/96 i 42/98);\n\n2) odredbe člana 135. st. 4. i 5. i u stavu 6. tačka 6) Zakona o javnim nabavkama („Službeni glasnik RS”, broj 39/2002)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 35",
+      "articleNo": "35",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "0cc93098-806a-501b-a1e0-981026b1268b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 35. Zakona o republičkim administrativnim taksama propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 4,
+      "content": "Obveznik koji kod DKP podnese zahtev nadležnom organu u Republici Srbiji za pokretanje postupka za izdavanje spisa, odnosno za izvršenje radnje, za koje je u Odeljku A Tarife propisana taksa, taksu za spise i radnje organa u Republici Srbiji, u propisanom iznosu preračunatom u devize, uplaćuje u devizama, odnosno efektivnom stranom novcu koji se kupuje i prodaje na deviznom tržištu u skladu sa propisom Narodne banke Srbije (u daljem tekstu: devize), na devizni račun DKP u zemlji u kojoj je zahtev podnet.\n\nVlada, na predlog ministarstva nadležnog za poslove finansija, jednom godišnje odlukom utvrđuje i objavljuje vrste deviza u kojima se taksa plaća i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila tekuće godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize u smislu stava 1. ovog člana.\n\nPreračunavanje propisanih dinarskih iznosa taksi u devize vrši se na osnovu objavljenih podataka iz stava 2. ovog člana koji važe u vreme podnošenja zahteva ili podneska, pri čemu se zaokruživanje vrši tako što se iznos u devizama do 0,50 ne uzima u obzir, a iznos u devizama preko 0,50 zaokružuje na 1,00.\n\nOdluka iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nNa zahtev obveznika, DKP daje obaveštenje o preračunatom iznosu takse i računu na koji se taksa plaća, a primljeni zahtev, sa dokazom o uplati propisanog iznosa takse, u smislu stava 1. ovog člana, dostavlja nadležnom organu u Republici, koji po sprovedenom postupku, odnosno izvršenoj radnji doneto rešenje ili drugu ispravu dostavlja DKP radi uručenja stranci.\n\nPo zahtevima obveznika iz stava 1. ovog člana uz koje nije priložen dokaz o uplati propisane takse, nadležni organ u Republici Srbiji neće postupati dok taj dokaz ne primi.\n\nIzuzetno, taksa iz stava 1. ovog člana može se uplatiti u gotovom novcu samo u sledećim slučajevima:\n\n1) kada se zahtev podnosi na dan u kome banke ne rade, odnosno u vreme u koje nijedna banka u tom mestu ne radi;\n\n2) kada zbog svoje poslovne politike banke, koje imaju istovetno sedište kao i DKP, ne mogu da izvrše transfer sredstava podnosioca zahteva sa računa druge finansijske institucije na devizni račun DKP;\n\n3) kada propisi strane države zabranjuju gotovinsku uplatu podnosioca zahteva kod banke i prenos tih sredstava na račun DKP;\n\n4) kada državljani Republike Srbije u inostranstvu borave privremeno (turistički, sezonski rad, razmena studenata i sl.), odnosno imaju status nerezidenta, pa im propis odnosne države, zbog neposedovanja odgovarajućih ličnih dokumenata države u kojoj borave, ne dozvoljava otvaranje računa kod finansijskih institucija;\n\n5) kada postoje drugi razlozi koji u pojedinim zemljama onemogućavaju uplatu takse na devizni račun DKP, a zahtevano izdavanje spisa ili izvršenje radnje opravdano je sa stanovišta zaštite interesa državljana Republike Srbije.\n\nU slučajevima iz stava 7. ovog člana DKP je dužan da uplatiocu takse izda potvrdu o uplati i da za primljeni novac uplati na svoj devizni račun u roku od 48 sati od dana uplate.\n\nDKP je dužan da drugi primerak (kopiju) potvrde iz stava 8. ovog člana mehanički spoji sa zahtevom.\n\nDKP je dužan da o naplaćenoj taksi u gotovom novcu i o izdatim potvrdama iz stava 8. ovog člana vodi evidenciju.",
+      "chunks": [
+        {
+          "id": "1c9559f0-0e05-5563-b800-53d2b47e9f67",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Obveznik koji kod DKP podnese zahtev nadležnom organu u Republici Srbiji za pokretanje postupka za izdavanje spisa, odnosno za izvršenje radnje, za koje je u Odeljku A Tarife propisana taksa, taksu za spise i radnje organa u Republici Srbiji, u propisanom iznosu preračunatom u devize, uplaćuje u devizama, odnosno efektivnom stranom novcu koji se kupuje i prodaje na deviznom tržištu u skladu sa propisom Narodne banke Srbije (u daljem tekstu: devize), na devizni račun DKP u zemlji u kojoj je zahtev podnet.\n\nVlada, na predlog ministarstva nadležnog za poslove finansija, jednom godišnje odlukom utvrđuje i objavljuje vrste deviza u kojima se taksa plaća i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila tekuće godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize u smislu stava 1. ovog člana.\n\nPreračunavanje propisanih dinarskih iznosa taksi u devize vrši se na osnovu objavljenih podataka iz stava 2. ovog člana koji važe u vreme podnošenja zahteva ili podneska, pri čemu se zaokruživanje vrši tako što se iznos u devizama do 0,50 ne uzima u obzir, a iznos u devizama preko 0,50 zaokružuje na 1,00.",
+          "ragContent": "Ovaj deo člana uređuje obavezu uplate takse u devizama za postupke kod DKP. Član 4. Zakona o republičkim administrativnim taksama propisuje način uplate taksi u devizama i preračunavanje dinarskih iznosa.\n\nObveznik koji kod DKP podnese zahtev nadležnom organu u Republici Srbiji za pokretanje postupka za izdavanje spisa, odnosno za izvršenje radnje, za koje je u Odeljku A Tarife propisana taksa, taksu za spise i radnje organa u Republici Srbiji, u propisanom iznosu preračunatom u devize, uplaćuje u devizama, odnosno efektivnom stranom novcu koji se kupuje i prodaje na deviznom tržištu u skladu sa propisom Narodne banke Srbije (u daljem tekstu: devize), na devizni račun DKP u zemlji u kojoj je zahtev podnet.\n\nVlada, na predlog ministarstva nadležnog za poslove finansija, jednom godišnje odlukom utvrđuje i objavljuje vrste deviza u kojima se taksa plaća i visinu zvaničnog srednjeg kursa dinara na dan 30. aprila tekuće godine, koji služi za preračunavanje propisanih dinarskih iznosa taksi u devize u smislu stava 1. ovog člana.\n\nPreračunavanje propisanih dinarskih iznosa taksi u devize vrši se na osnovu objavljenih podataka iz stava 2. ovog člana koji važe u vreme podnošenja zahteva ili podneska, pri čemu se zaokruživanje vrši tako što se iznos u devizama do 0,50 ne uzima u obzir, a iznos u devizama preko 0,50 zaokružuje na 1,00."
+        },
+        {
+          "id": "a443ad46-4208-5213-856e-f2701fa9340e",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Odluka iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nNa zahtev obveznika, DKP daje obaveštenje o preračunatom iznosu takse i računu na koji se taksa plaća, a primljeni zahtev, sa dokazom o uplati propisanog iznosa takse, u smislu stava 1. ovog člana, dostavlja nadležnom organu u Republici, koji po sprovedenom postupku, odnosno izvršenoj radnji doneto rešenje ili drugu ispravu dostavlja DKP radi uručenja stranci.\n\nPo zahtevima obveznika iz stava 1. ovog člana uz koje nije priložen dokaz o uplati propisane takse, nadležni organ u Republici Srbiji neće postupati dok taj dokaz ne primi.",
+          "ragContent": "Ovaj deo člana se bavi primenom odluke o taksama i postupkom dostavljanja zahteva. Član 4. Zakona o republičkim administrativnim taksama definiše obaveze DKP u vezi sa obaveštenjem o taksi i postupkom nadležnog organa.\n\nOdluka iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nNa zahtev obveznika, DKP daje obaveštenje o preračunatom iznosu takse i računu na koji se taksa plaća, a primljeni zahtev, sa dokazom o uplati propisanog iznosa takse, u smislu stava 1. ovog člana, dostavlja nadležnom organu u Republici, koji po sprovedenom postupku, odnosno izvršenoj radnji doneto rešenje ili drugu ispravu dostavlja DKP radi uručenja stranci.\n\nPo zahtevima obveznika iz stava 1. ovog člana uz koje nije priložen dokaz o uplati propisane takse, nadležni organ u Republici Srbiji neće postupati dok taj dokaz ne primi."
+        },
+        {
+          "id": "cf39f79d-a095-513a-9b45-f790932b90a1",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Izuzetno, taksa iz stava 1. ovog člana može se uplatiti u gotovom novcu samo u sledećim slučajevima:\n\n1) kada se zahtev podnosi na dan u kome banke ne rade, odnosno u vreme u koje nijedna banka u tom mestu ne radi;\n\n2) kada zbog svoje poslovne politike banke, koje imaju istovetno sedište kao i DKP, ne mogu da izvrše transfer sredstava podnosioca zahteva sa računa druge finansijske institucije na devizni račun DKP;\n\n3) kada propisi strane države zabranjuju gotovinsku uplatu podnosioca zahteva kod banke i prenos tih sredstava na račun DKP;\n\n4) kada državljani Republike Srbije u inostranstvu borave privremeno (turistički, sezonski rad, razmena studenata i sl.), odnosno imaju status nerezidenta, pa im propis odnosne države, zbog neposedovanja odgovarajućih ličnih dokumenata države u kojoj borave, ne dozvoljava otvaranje računa kod finansijskih institucija;\n\n5) kada postoje drugi razlozi koji u pojedinim zemljama onemogućavaju uplatu takse na devizni račun DKP, a zahtevano izdavanje spisa ili izvršenje radnje opravdano je sa stanovišta zaštite interesa državljana Republike Srbije.",
+          "ragContent": "Ovaj deo člana definiše izuzetke kada se taksa može platiti u gotovom novcu. Član 4. Zakona o republičkim administrativnim taksama propisuje specifične situacije u kojima je dozvoljena gotovinska uplata takse.\n\nIzuzetno, taksa iz stava 1. ovog člana može se uplatiti u gotovom novcu samo u sledećim slučajevima:\n\n1) kada se zahtev podnosi na dan u kome banke ne rade, odnosno u vreme u koje nijedna banka u tom mestu ne radi;\n\n2) kada zbog svoje poslovne politike banke, koje imaju istovetno sedište kao i DKP, ne mogu da izvrše transfer sredstava podnosioca zahteva sa računa druge finansijske institucije na devizni račun DKP;\n\n3) kada propisi strane države zabranjuju gotovinsku uplatu podnosioca zahteva kod banke i prenos tih sredstava na račun DKP;\n\n4) kada državljani Republike Srbije u inostranstvu borave privremeno (turistički, sezonski rad, razmena studenata i sl.), odnosno imaju status nerezidenta, pa im propis odnosne države, zbog neposedovanja odgovarajućih ličnih dokumenata države u kojoj borave, ne dozvoljava otvaranje računa kod finansijskih institucija;\n\n5) kada postoje drugi razlozi koji u pojedinim zemljama onemogućavaju uplatu takse na devizni račun DKP, a zahtevano izdavanje spisa ili izvršenje radnje opravdano je sa stanovišta zaštite interesa državljana Republike Srbije."
+        },
+        {
+          "id": "459c7baa-1059-52bf-b501-43f5c05e263b",
+          "chunkIndex": 3,
+          "paragraph": null,
+          "content": "U slučajevima iz stava 7. ovog člana DKP je dužan da uplatiocu takse izda potvrdu o uplati i da za primljeni novac uplati na svoj devizni račun u roku od 48 sati od dana uplate.\n\nDKP je dužan da drugi primerak (kopiju) potvrde iz stava 8. ovog člana mehanički spoji sa zahtevom.\n\nDKP je dužan da o naplaćenoj taksi u gotovom novcu i o izdatim potvrdama iz stava 8. ovog člana vodi evidenciju.",
+          "ragContent": "Ovaj deo člana propisuje obaveze DKP u vezi sa izdavanjem potvrda o uplati takse. Član 4. Zakona o republičkim administrativnim taksama definiše procedure za izdavanje potvrda i vođenje evidencije o taksama.\n\nU slučajevima iz stava 7. ovog člana DKP je dužan da uplatiocu takse izda potvrdu o uplati i da za primljeni novac uplati na svoj devizni račun u roku od 48 sati od dana uplate.\n\nDKP je dužan da drugi primerak (kopiju) potvrde iz stava 8. ovog člana mehanički spoji sa zahtevom.\n\nDKP je dužan da o naplaćenoj taksi u gotovom novcu i o izdatim potvrdama iz stava 8. ovog člana vodi evidenciju."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 40",
+      "articleNo": "40",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+      "chunks": [
+        {
+          "id": "c5c4ad95-2bb7-5a07-a2a8-765b86ac1fd9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+          "ragContent": "Ovaj član uređuje plaćanje taksene obaveze koja nije izmirena do stupanja na snagu zakona. Član 40. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema prethodnom zakonu.  Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 41",
+      "articleNo": "41",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2023. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2023. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "b2e29b88-1408-56be-a828-0ceace50e1fd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2023. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2023. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi za 2023. godinu. Član 41. Zakona o republičkim administrativnim taksama propisuje način usklađivanja taksi primenom indeksa potrošačkih cena.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2023. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2023. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 42",
+      "articleNo": "42",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini taksi, obveznicima plaćanja, kao i načinu plaćanja taksi za procenu i proveru podataka o biocidnim proizvodima;\n\n2) Pravilnik o visini i načinu obračuna i naplate takse za izdvanje akata o uslovima zaštite prirode.",
+      "chunks": [
+        {
+          "id": "8a3b281c-8238-5254-b4cb-c26267c960df",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini taksi, obveznicima plaćanja, kao i načinu plaćanja taksi za procenu i proveru podataka o biocidnim proizvodima;\n\n2) Pravilnik o visini i načinu obračuna i naplate takse za izdvanje akata o uslovima zaštite prirode.",
+          "ragContent": "Ovaj član uređuje prestanak važenja određenih uredbi i pravilnika. Član 42. Zakona o republičkim administrativnim taksama definiše koje uredbe i pravilnici prestaju da važe danom stupanja na snagu ovog zakona.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini taksi, obveznicima plaćanja, kao i načinu plaćanja taksi za procenu i proveru podataka o biocidnim proizvodima;\n\n2) Pravilnik o visini i načinu obračuna i naplate takse za izdvanje akata o uslovima zaštite prirode."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 43",
+      "articleNo": "43",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "aceef80c-accd-5fb8-a2a6-b2fa08f1b719",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 43. Zakona o republičkim administrativnim taksama propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 44",
+      "articleNo": "44",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+      "chunks": [
+        {
+          "id": "de4d45c5-0412-5af5-9445-f61f569cb023",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze.",
+          "ragContent": "Ovaj član uređuje plaćanje taksene obaveze koja nije izmirena do stupanja na snagu zakona. Član 44. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema prethodnom zakonu.  Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 45",
+      "articleNo": "45",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2021. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2021. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "5cebbefe-40e5-5498-ad95-a1c03134a9b5",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2021. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2021. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi za 2021. godinu. Član 45. Zakona o republičkim administrativnim taksama propisuje način usklađivanja taksi i objavljivanje usklađenih iznosa.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2021. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2021. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 46",
+      "articleNo": "46",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 6. Pravilnika o načinu i postupku upisa, sadržaju prijave i troškovima upisa u registar proizvođača aktivnih supstanci („Službeni glasnik RSˮ, broj 4/11);\n\n2) člana 6. Pravilnika o načinu upisa, sadržaju prijave i troškovima upisa u registar laboratorija koje vrše laboratorijska ispitivanja („Službeni glasnik RSˮ, broj 4/11).",
+      "chunks": [
+        {
+          "id": "bc2ae2e6-cfbf-586c-bbaf-89e1750a7ecb",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 6. Pravilnika o načinu i postupku upisa, sadržaju prijave i troškovima upisa u registar proizvođača aktivnih supstanci („Službeni glasnik RSˮ, broj 4/11);\n\n2) člana 6. Pravilnika o načinu upisa, sadržaju prijave i troškovima upisa u registar laboratorija koje vrše laboratorijska ispitivanja („Službeni glasnik RSˮ, broj 4/11).",
+          "ragContent": "Ovaj član uređuje prestanak važenja određenih pravilnika. Član 46. Zakona o republičkim administrativnim taksama definiše koje odredbe prestaju da važe.\n\nDanom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 6. Pravilnika o načinu i postupku upisa, sadržaju prijave i troškovima upisa u registar proizvođača aktivnih supstanci („Službeni glasnik RSˮ, broj 4/11);\n\n2) člana 6. Pravilnika o načinu upisa, sadržaju prijave i troškovima upisa u registar laboratorija koje vrše laboratorijska ispitivanja („Službeni glasnik RSˮ, broj 4/11)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 47",
+      "articleNo": "47",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "fa4c031b-38f6-5bf1-9cdb-ebde6996db50",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 47. Zakona o republičkim administrativnim taksama propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako Tarifom nije drukčije propisano, taksena obaveza nastaje:\n\n1) za zahteve – u trenutku njihovog podnošenja;\n\n2) za rešenja, dozvole i druge isprave – u trenutku podnošenja zahteva za njihovo izdavanje;\n\n3) za upravne radnje – u trenutku podnošenja zahteva za izvršenje tih radnji.",
+      "chunks": [
+        {
+          "id": "3aa4f074-50e3-54b9-8fff-022d2291fa9c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako Tarifom nije drukčije propisano, taksena obaveza nastaje:\n\n1) za zahteve – u trenutku njihovog podnošenja;\n\n2) za rešenja, dozvole i druge isprave – u trenutku podnošenja zahteva za njihovo izdavanje;\n\n3) za upravne radnje – u trenutku podnošenja zahteva za izvršenje tih radnji.",
+          "ragContent": "Ovaj član uređuje trenutak nastanka taksene obaveze. Član 5. Zakona o republičkim administrativnim taksama definiše kada nastaje taksena obaveza za različite vrste zahteva.\n\nAko Tarifom nije drukčije propisano, taksena obaveza nastaje:\n\n1) za zahteve – u trenutku njihovog podnošenja;\n\n2) za rešenja, dozvole i druge isprave – u trenutku podnošenja zahteva za njihovo izdavanje;\n\n3) za upravne radnje – u trenutku podnošenja zahteva za izvršenje tih radnji."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Taksa se plaća u trenutku nastanka taksene obaveze, ako ovim zakonom nije drukčije propisano.",
+      "chunks": [
+        {
+          "id": "78829ca8-6d28-5900-bf62-2f14d5301013",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Taksa se plaća u trenutku nastanka taksene obaveze, ako ovim zakonom nije drukčije propisano.",
+          "ragContent": "Ovaj član uređuje trenutak plaćanja takse. Član 6. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća u trenutku nastanka taksene obaveze, osim ako zakonom nije drugačije određeno.  Taksa se plaća u trenutku nastanka taksene obaveze, ako ovim zakonom nije drukčije propisano."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako je Tarifom propisano da se taksa plaća prema vrednosti predmeta, osnovica za obračun takse je vrednost predmeta naznačena u zahtevu kojim se pokreće postupak.\n\nAko vrednost predmeta nije naznačena u zahtevu ili je naznačena manja vrednost od stvarne, vrednost predmeta iz stava 1. ovog člana utvrdiće rešenjem organ koji vodi postupak.",
+      "chunks": [
+        {
+          "id": "d9a77b6d-d891-5e3c-8046-f1d313a927ba",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako je Tarifom propisano da se taksa plaća prema vrednosti predmeta, osnovica za obračun takse je vrednost predmeta naznačena u zahtevu kojim se pokreće postupak.\n\nAko vrednost predmeta nije naznačena u zahtevu ili je naznačena manja vrednost od stvarne, vrednost predmeta iz stava 1. ovog člana utvrdiće rešenjem organ koji vodi postupak.",
+          "ragContent": "Ovaj član uređuje obračun takse prema vrednosti predmeta. Član 7. Zakona o republičkim administrativnim taksama definiše osnovicu za obračun takse i postupak utvrđivanja vrednosti predmeta.\n\nAko je Tarifom propisano da se taksa plaća prema vrednosti predmeta, osnovica za obračun takse je vrednost predmeta naznačena u zahtevu kojim se pokreće postupak.\n\nAko vrednost predmeta nije naznačena u zahtevu ili je naznačena manja vrednost od stvarne, vrednost predmeta iz stava 1. ovog člana utvrdiće rešenjem organ koji vodi postupak."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 70",
+      "articleNo": "70",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Taksa iz člana 63. Tarifni broj 223v ovog zakona, primenjivaće se od 1. januara 2012. godine.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2020. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2020. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.",
+      "chunks": [
+        {
+          "id": "9ec582b3-d066-50f4-969e-91f0c23ac2c9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Taksa iz člana 63. Tarifni broj 223v ovog zakona, primenjivaće se od 1. januara 2012. godine.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2020. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2020. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”",
+          "ragContent": "Ovaj član uređuje primenu takse i usklađivanje dinarskih iznosa taksi. Član 70. Zakona o republičkim administrativnim taksama propisuje primenu takse od 1. januara 2012. godine i usklađivanje taksi u 2020. godini.\n\nTaksa iz člana 63. Tarifni broj 223v ovog zakona, primenjivaće se od 1. januara 2012. godine.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2020. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2020. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 71",
+      "articleNo": "71",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 13. stav 3. Zakona o lobiranju, u delu kojim je propisano da naknadu za sprovođenje obuke za lobistu propisuje direktor Agencije za borbu protiv korupcije;\n\n2) člana 4. stav 1. Uredbe o vrstama usluga koje pruža Ministarstvo unutrašnjih poslova i visini takse za pružene usluge;\n\n3) članovi 27. i 28. Pravilnika o stručnom ispitu za turističkog vodiča i turističkog pratioca;\n\n4) člana 13a st. 2, 4. i 5. Pravilnika o prostornim i tehničkim uslovima za rad agencije za zapošljavanje, uslovima stručne osposobljenosti zaposlenih, programu, sadržini i načinu polaganja ispita za rad u zapošljavanju.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini i načinu plaćanja naknada za sprovođenje overavanja merila, metroloških ekspertiza, ispitivanja tipa merila, ispitivanja prethodno upakovanih proizvoda i drugih poslova iz oblasti metrologije;\n\n2) Uredba o visini i načinu plaćanja naknada za izvršavanje poslova u vezi sa ispitivanjem i žigosanjem predmeta od dragocenih metala;\n\n3) Uredba o visini i vrsti troškova u postupku razvrstavanja ugostiteljskih objekata u kategorije, u zavisnosti od njihove vrste, podvrste i veličine;\n\n4) Odluka o visini naknade u oblasti sredstava za zaštitu bilja;\n\n5) Odluka o visini naknade u oblasti sredstava za ishranu bilja i oplemenjivača zemljišta;\n\n6) Odluka o visini i načinu plaćanja naknade za pokriće troškova kontrole kvaliteta poljoprivrednih i prehrambenih proizvoda i njihovih prerađevina namenjenih uvozu, odnosno izvozu;\n\n7) Odluka o visini naknade za laboratorijske analize uzoraka hrane i hrane za životinje biljnog porekla uzetih tokom službenih kontrola;\n\n8) Odluka o visini naknade za izvršene fitosanitarne preglede;\n\n9) Odluka o visini troškova ispitivanja sorti i godišnjim troškovima održavanja prava oplemenjivača biljnih sorti;\n\n10) Odluka o visini takse za ocenu ispunjenosti uslova i kriterijuma za stavljanje leka na Listu lekova, izmenu i dopunu Liste lekova, odnosno skidanje leka sa Liste lekova.",
+      "chunks": [
+        {
+          "id": "5f3161a8-86ba-563e-9d6d-9063b0b7b251",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 13. stav 3. Zakona o lobiranju, u delu kojim je propisano da naknadu za sprovođenje obuke za lobistu propisuje direktor Agencije za borbu protiv korupcije;\n\n2) člana 4. stav 1. Uredbe o vrstama usluga koje pruža Ministarstvo unutrašnjih poslova i visini takse za pružene usluge;\n\n3) članovi 27. i 28. Pravilnika o stručnom ispitu za turističkog vodiča i turističkog pratioca;\n\n4) člana 13a st. 2, 4. i 5. Pravilnika o prostornim i tehničkim uslovima za rad agencije za zapošljavanje, uslovima stručne osposobljenosti zaposlenih, programu, sadržini i načinu polaganja ispita za rad u zapošljavanju.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini i načinu plaćanja naknada za sprovođenje overavanja merila, metroloških ekspertiza, ispitivanja tipa merila, ispitivanja prethodno upakovanih proizvoda i drugih poslova iz oblasti metrologije;\n\n2) Uredba o visini i načinu plaćanja naknada za izvršavanje poslova u vezi sa ispitivanjem i žigosanjem predmeta od dragocenih metala;\n\n3) Uredba o visini i vrsti troškova u postupku razvrstavanja ugostiteljskih objekata u kategorije, u zavisnosti od njihove vrste, podvrste i veličine;\n\n4) Odluka o visini naknade u oblasti sredstava za zaštitu bilja;\n\n5) Odluka o visini naknade u oblasti sredstava za ishranu bilja i oplemenjivača zemljišta;\n\n6) Odluka o visini i načinu plaćanja naknade za pokriće troškova kontrole kvaliteta poljoprivrednih i prehrambenih proizvoda i njihovih prerađevina namenjenih uvozu, odnosno izvozu;\n\n7) Odluka o visini naknade za laboratorijske analize uzoraka hrane i hrane za životinje biljnog porekla uzetih tokom službenih kontrola;\n\n8) Odluka o visini naknade za izvršene fitosanitarne preglede;\n\n9) Odluka o visini troškova ispitivanja sorti i godišnjim troškovima održavanja prava oplemenjivača biljnih sorti;\n\n10) Odluka o visini takse za ocenu ispunjenosti uslova i kriterijuma za stavljanje leka na Listu lekova, izmenu i dopunu Liste lekova, odnosno skidanje leka sa Liste lekova.",
+          "ragContent": "Ovaj član uređuje taksene obaveze koje nisu plaćene do dana stupanja na snagu zakona. Član 71. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema ranijem zakonu ako je to povoljnije za obveznika.\n\nZa taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.\n\nDanom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 13. stav 3. Zakona o lobiranju, u delu kojim je propisano da naknadu za sprovođenje obuke za lobistu propisuje direktor Agencije za borbu protiv korupcije;\n\n2) člana 4. stav 1. Uredbe o vrstama usluga koje pruža Ministarstvo unutrašnjih poslova i visini takse za pružene usluge;\n\n3) članovi 27. i 28. Pravilnika o stručnom ispitu za turističkog vodiča i turističkog pratioca;\n\n4) člana 13a st. 2, 4. i 5. Pravilnika o prostornim i tehničkim uslovima za rad agencije za zapošljavanje, uslovima stručne osposobljenosti zaposlenih, programu, sadržini i načinu polaganja ispita za rad u zapošljavanju.\n\nDanom stupanja na snagu ovog zakona prestaju da važe:\n\n1) Uredba o visini i načinu plaćanja naknada za sprovođenje overavanja merila, metroloških ekspertiza, ispitivanja tipa merila, ispitivanja prethodno upakovanih proizvoda i drugih poslova iz oblasti metrologije;\n\n2) Uredba o visini i načinu plaćanja naknada za izvršavanje poslova u vezi sa ispitivanjem i žigosanjem predmeta od dragocenih metala;\n\n3) Uredba o visini i vrsti troškova u postupku razvrstavanja ugostiteljskih objekata u kategorije, u zavisnosti od njihove vrste, podvrste i veličine;\n\n4) Odluka o visini naknade u oblasti sredstava za zaštitu bilja;\n\n5) Odluka o visini naknade u oblasti sredstava za ishranu bilja i oplemenjivača zemljišta;\n\n6) Odluka o visini i načinu plaćanja naknade za pokriće troškova kontrole kvaliteta poljoprivrednih i prehrambenih proizvoda i njihovih prerađevina namenjenih uvozu, odnosno izvozu;\n\n7) Odluka o visini naknade za laboratorijske analize uzoraka hrane i hrane za životinje biljnog porekla uzetih tokom službenih kontrola;\n\n8) Odluka o visini naknade za izvršene fitosanitarne preglede;\n\n9) Odluka o visini troškova ispitivanja sorti i godišnjim troškovima održavanja prava oplemenjivača biljnih sorti;\n\n10) Odluka o visini takse za ocenu ispunjenosti uslova i kriterijuma za stavljanje leka na Listu lekova, izmenu i dopunu Liste lekova, odnosno skidanje leka sa Liste lekova."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 72",
+      "articleNo": "72",
+      "section": "EN TEKST“ ZAKONA",
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Izuzetno u 2011. godini, prvo naredno usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife propisanih Zakonom o republičkim administrativnim taksama, osim dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se, i to: stopom rasta troškova života, za period od 1. maja 2010. godine do 31. decembra 2010. godine, a za period od 1. januara 2011. godine do poslednjeg dana u mesecu u kome ovaj zakon stupa na snagu, indeksom potrošačkih cena, koji objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 57. ovog zakona koja se primenjuje od 1. januara 2020. godine.",
+      "chunks": [
+        {
+          "id": "42d9700d-1981-5254-95e4-c492382e8da7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izuzetno u 2011. godini, prvo naredno usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife propisanih Zakonom o republičkim administrativnim taksama, osim dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se, i to: stopom rasta troškova života, za period od 1. maja 2010. godine do 31. decembra 2010. godine, a za period od 1. januara 2011. godine do poslednjeg dana u mesecu u kome ovaj zakon stupa na snagu, indeksom potrošačkih cena, koji objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi za 2011. godinu. Član 72. Zakona o republičkim administrativnim taksama propisuje način usklađivanja taksi na osnovu rasta troškova života i indeksa potrošačkih cena.\n\nIzuzetno u 2011. godini, prvo naredno usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife propisanih Zakonom o republičkim administrativnim taksama, osim dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se, i to: stopom rasta troškova života, za period od 1. maja 2010. godine do 31. decembra 2010. godine, a za period od 1. januara 2011. godine do poslednjeg dana u mesecu u kome ovaj zakon stupa na snagu, indeksom potrošačkih cena, koji objavljuje republički organ nadležan za poslove statistike, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana."
+        },
+        {
+          "id": "7e8234fe-6b20-5f72-8683-fbd33d38a084",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Objavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 57. ovog zakona koja se primenjuje od 1. januara 2020. godine.",
+          "ragContent": "Ovaj deo člana definiše primenu usklađenih iznosa taksi i datum stupanja na snagu zakona. Član 72. Zakona o republičkim administrativnim taksama propisuje kada se usklađeni iznosi taksi primenjuju i kada zakon stupa na snagu.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 57. ovog zakona koja se primenjuje od 1. januara 2020. godine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 73",
+      "articleNo": "73",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife iz člana 72. stav 1. ovog zakona, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz st. 1. i 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "191d1046-6ce6-5ab1-9b56-193de5bd993f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Usklađivanje dinarskih iznosa taksi iz Odeljka A Tarife iz člana 72. stav 1. ovog zakona, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi za 2012. godinu. Član 73. Zakona o republičkim administrativnim taksama propisuje usklađivanje taksi primenom indeksa potrošačkih cena.\n\nUsklađivanje dinarskih iznosa taksi iz Odeljka A Tarife iz člana 72. stav 1. ovog zakona, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2012. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2012. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara."
+        },
+        {
+          "id": "6988775e-db1a-502f-a8b6-47f0bc1541f9",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Vlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz st. 1. i 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj deo člana se odnosi na objavljivanje usklađenih dinarskih iznosa taksi. Član 73. Zakona o republičkim administrativnim taksama predviđa da Vlada utvrđuje i objavljuje usklađene iznose taksi.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, odlukom utvrditi i objaviti usklađene dinarske iznose taksi iz st. 1. i 2. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 3. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 74",
+      "articleNo": "74",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "d13ea94c-df17-5c3e-a41e-74615189ce46",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 74. Zakona o republičkim administrativnim taksama propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 77",
+      "articleNo": "77",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+      "chunks": [
+        {
+          "id": "76d984ad-6941-530e-8e4a-478844905a07",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika.",
+          "ragContent": "Ovaj član uređuje plaćanje taksi za obaveze koje nisu izmirene do stupanja na snagu zakona. Član 77. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća prema ranijem zakonu ako je to povoljnije za obveznika.  Za taksene obaveze koje su nastale, a nisu plaćene do dana stupanja na snagu ovog zakona, taksa se plaća u skladu sa zakonom koji je bio na snazi u vreme nastanka taksene obaveze, ako je to povoljnije za obveznika."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 78",
+      "articleNo": "78",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2018. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2018. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "22ef8d5b-f58c-5b6e-8bd9-cf81c77413e7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Usklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2018. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2018. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje usklađivanje dinarskih iznosa taksi. Član 78. Zakona o republičkim administrativnim taksama propisuje način usklađivanja taksi na osnovu indeksa potrošačkih cena.\n\nUsklađivanje dinarskih iznosa taksi propisanih ovim zakonom, izvršiće se u 2018. godini primenom indeksa potrošačkih cena, prema podacima republičkog organa nadležnog za poslove statistike, za period od prvog dana narednog meseca od dana stupanja na snagu ovog zakona do 30. aprila 2018. godine, pri čemu se zaokruživanje vrši tako što se iznos do pet dinara ne uzima u obzir, a iznos preko pet dinara zaokružuje na deset dinara.\n\nVlada će, na predlog ministarstva nadležnog za poslove finansija, objaviti usklađene dinarske iznose taksi iz stava 1. ovog člana.\n\nObjavljeni usklađeni dinarski iznosi taksi iz stava 2. ovog člana primenjivaće se od prvog dana narednog meseca od dana objavljivanja u „Službenom glasniku Republike Srbije.”"
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 79",
+      "articleNo": "79",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Danom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 40. Zakona o proceniteljima vrednosti nepokretnosti („Službeni glasnik RS”, broj 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n2) člana 21. stav 3. Carinskog zakona („Službeni glasnik RS”, br. 18/10, 111/12, 29/15 i 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n3) člana 69. stav 3. Zakona o patentima („Službeni glasnik RS”, broj 99/11), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n4) člana 36. stav 11. Zakona o žičarama za transport lica („Službeni glasnik RS”, broj 38/15) kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n5) člana 69. stav 2. Zakona o železnici („Službeni glasnik RS”, br. 45/13 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n6) člana 22. stav 10, člana 23. stav 5, člana 24. stav 6, člana 34. stav 7, člana 39. stav 9, člana 46. stav 11, člana 51. stav 8, člana 56. stav 6, člana 61. stav 5, člana 63. stav 7, člana 66. stav 7, člana 81. stav 5, člana 83. stav 4, člana 86. stav 7. i člana 91. stav 5. Zakona o bezbednosti i interoperabilnosti železnice („Službeni glasnik RS”, br. 104/13, 66/15 – dr. zakon i 92/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n7) člana 18. st. 3, 5. i 6, člana 91. st. 2. i 4, člana 132. stav 5. i člana 165. stav 5. Zakona o plovidbi i lukama na unutrašnjim vodama („Službeni glasnik RS”, br. 73/10, 121/12, 18/15, 96/15 – dr. zakon, 92/16, 104/16 – dr. zakon), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n8) člana 19. stav 23. i člana 21. stav 8. Zakona o trgovačkom brodarstvu („Službeni glasnik RS”, broj 96/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n9) člana 84e stav 3. i člana 121. stav 5. Zakona o pomorskoj plovidbi („Službeni glasnik RS”, br. 87/11, 104/13 i 18/15);\n\n10) člana 174. stav 3, člana 175. i člana 181. stav 2. tačka 12a) Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15 i 47/17 – autentično tumačenje), kao i podzakonski propis donet na osnovu člana 181. stav 2. tačka 12a) pomenutog zakona;\n\n11) člana 18. stava 8. Zakona o bezbednosti i zdravlja na radu („Službeni glasnik RS”, br. 101/05 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n12) člana 24. Zakona o zapošljavanju i osiguranju za slučaj nezaposlenosti („Službeni glasnik RS”, br. 36/09, 88/10 i 38/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n13) člana 20. stav 20, člana 23. stav 8, člana 25. st. 9. i 10. i člana 39. stav 13. Zakona o udžbenicima („Službeni glasnik RS”, broj 68/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n14) člana 250. st. 2. i 3. Zakona o zdravstvenoj zaštiti („Službeni glasnik RS”, br. 107/05, 72/09 – dr. zakon, 88/10, 99/10, 57/11, 119/12, 45/13 – dr. zakon, 93/14, 96/15, 106/15 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n15) člana 45. st. 2. i 3. Zakona o tranfuzijskoj medicini („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n16) člana 63. stav 3. Zakona o biomedicinski potpomognutoj oplodnji („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n17) člana 216. st. 2. i 3. Zakona o lekovima i medicinskim sredstvima („Službeni glasnik RS”, br. 30/10, 107/12 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 20. stav 11, Zakona o bezbednosti i interoperabilnosti železnice u delu koji se odnosi na ovlašćenje Direkcije za železnice da utvrđuje visinu takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se utvrđuje visina takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 58. stav 3, Zakona o plovidbi i lukama na unutrašnjim vodama u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja da utvrđuje troškove polaganja stručnog ispita za locmana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se utvrđuje visina troškova polaganja stručnog ispita za locmana.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 54. stav 3. Zakona o bezbednosti i zdravlja na radu u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica i stava 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se propisuje visina troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica, kao i odredba člana 56. stav 4. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova za izdavanje licence iz st. 1. do 3. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za izdavanje licence.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 179. stav 2. Zakona o zdravstvenoj zaštiti u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika i stav 3. istog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika, kao i odredba člana 189. stav 3. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova za dobijanje naziva primarijus i stav 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za dobijanje naziva primarijus.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 178. stav 5. Zakona o pomorskoj plovidbi u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja za propisivanje troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca.",
+      "chunks": [
+        {
+          "id": "bd88a358-54ca-50ee-985b-4bdf1855eef5",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 40. Zakona o proceniteljima vrednosti nepokretnosti („Službeni glasnik RS”, broj 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n2) člana 21. stav 3. Carinskog zakona („Službeni glasnik RS”, br. 18/10, 111/12, 29/15 i 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n3) člana 69. stav 3. Zakona o patentima („Službeni glasnik RS”, broj 99/11), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n4) člana 36. stav 11. Zakona o žičarama za transport lica („Službeni glasnik RS”, broj 38/15) kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n5) člana 69. stav 2. Zakona o železnici („Službeni glasnik RS”, br. 45/13 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n6) člana 22. stav 10, člana 23. stav 5, člana 24. stav 6, člana 34. stav 7, člana 39. stav 9, člana 46. stav 11, člana 51. stav 8, člana 56. stav 6, člana 61. stav 5, člana 63. stav 7, člana 66. stav 7, člana 81. stav 5, člana 83. stav 4, člana 86. stav 7. i člana 91. stav 5. Zakona o bezbednosti i interoperabilnosti železnice („Službeni glasnik RS”, br. 104/13, 66/15 – dr. zakon i 92/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n7) člana 18. st. 3, 5. i 6, člana 91. st. 2. i 4, člana 132. stav 5. i člana 165. stav 5. Zakona o plovidbi i lukama na unutrašnjim vodama („Službeni glasnik RS”, br. 73/10, 121/12, 18/15, 96/15 – dr. zakon, 92/16, 104/16 – dr. zakon), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n8) člana 19. stav 23. i člana 21. stav 8. Zakona o trgovačkom brodarstvu („Službeni glasnik RS”, broj 96/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n9) člana 84e stav 3. i člana 121. stav 5. Zakona o pomorskoj plovidbi („Službeni glasnik RS”, br. 87/11, 104/13 i 18/15);\n\n10) člana 174. stav 3, člana 175. i člana 181. stav 2. tačka 12a) Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15 i 47/17 – autentično tumačenje), kao i podzakonski propis donet na osnovu člana 181. stav 2. tačka 12a) pomenutog zakona;\n\n11) člana 18. stava 8. Zakona o bezbednosti i zdravlja na radu („Službeni glasnik RS”, br. 101/05 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n12) člana 24. Zakona o zapošljavanju i osiguranju za slučaj nezaposlenosti („Službeni glasnik RS”, br. 36/09, 88/10 i 38/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n13) člana 20. stav 20, člana 23. stav 8, člana 25. st. 9. i 10. i člana 39. stav 13. Zakona o udžbenicima („Službeni glasnik RS”, broj 68/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n14) člana 250. st. 2. i 3. Zakona o zdravstvenoj zaštiti („Službeni glasnik RS”, br. 107/05, 72/09 – dr. zakon, 88/10, 99/10, 57/11, 119/12, 45/13 – dr. zakon, 93/14, 96/15, 106/15 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n15) člana 45. st. 2. i 3. Zakona o tranfuzijskoj medicini („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n16) člana 63. stav 3. Zakona o biomedicinski potpomognutoj oplodnji („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n17) člana 216. st. 2. i 3. Zakona o lekovima i medicinskim sredstvima („Službeni glasnik RS”, br. 30/10, 107/12 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba.",
+          "ragContent": "Ovaj član prestaje važenje određenih zakonskih odredbi. Član 79. Zakona o republičkim administrativnim taksama definiše prestanak važenja određenih zakonskih odredbi.\n\nDanom stupanja na snagu ovog zakona prestaju da važe odredbe:\n\n1) člana 40. Zakona o proceniteljima vrednosti nepokretnosti („Službeni glasnik RS”, broj 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n2) člana 21. stav 3. Carinskog zakona („Službeni glasnik RS”, br. 18/10, 111/12, 29/15 i 108/16), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n3) člana 69. stav 3. Zakona o patentima („Službeni glasnik RS”, broj 99/11), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n4) člana 36. stav 11. Zakona o žičarama za transport lica („Službeni glasnik RS”, broj 38/15) kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n5) člana 69. stav 2. Zakona o železnici („Službeni glasnik RS”, br. 45/13 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n6) člana 22. stav 10, člana 23. stav 5, člana 24. stav 6, člana 34. stav 7, člana 39. stav 9, člana 46. stav 11, člana 51. stav 8, člana 56. stav 6, člana 61. stav 5, člana 63. stav 7, člana 66. stav 7, člana 81. stav 5, člana 83. stav 4, člana 86. stav 7. i člana 91. stav 5. Zakona o bezbednosti i interoperabilnosti železnice („Službeni glasnik RS”, br. 104/13, 66/15 – dr. zakon i 92/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n7) člana 18. st. 3, 5. i 6, člana 91. st. 2. i 4, člana 132. stav 5. i člana 165. stav 5. Zakona o plovidbi i lukama na unutrašnjim vodama („Službeni glasnik RS”, br. 73/10, 121/12, 18/15, 96/15 – dr. zakon, 92/16, 104/16 – dr. zakon), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n8) člana 19. stav 23. i člana 21. stav 8. Zakona o trgovačkom brodarstvu („Službeni glasnik RS”, broj 96/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n9) člana 84e stav 3. i člana 121. stav 5. Zakona o pomorskoj plovidbi („Službeni glasnik RS”, br. 87/11, 104/13 i 18/15);\n\n10) člana 174. stav 3, člana 175. i člana 181. stav 2. tačka 12a) Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15 i 47/17 – autentično tumačenje), kao i podzakonski propis donet na osnovu člana 181. stav 2. tačka 12a) pomenutog zakona;\n\n11) člana 18. stava 8. Zakona o bezbednosti i zdravlja na radu („Službeni glasnik RS”, br. 101/05 i 91/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n12) člana 24. Zakona o zapošljavanju i osiguranju za slučaj nezaposlenosti („Službeni glasnik RS”, br. 36/09, 88/10 i 38/15), kao i podzakonski propis donet na osnovu ove zakonske odredbe;\n\n13) člana 20. stav 20, člana 23. stav 8, člana 25. st. 9. i 10. i člana 39. stav 13. Zakona o udžbenicima („Službeni glasnik RS”, broj 68/15), kao i podzakonski propisi doneti na osnovu ovih zakonskih odredaba;\n\n14) člana 250. st. 2. i 3. Zakona o zdravstvenoj zaštiti („Službeni glasnik RS”, br. 107/05, 72/09 – dr. zakon, 88/10, 99/10, 57/11, 119/12, 45/13 – dr. zakon, 93/14, 96/15, 106/15 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n15) člana 45. st. 2. i 3. Zakona o tranfuzijskoj medicini („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n16) člana 63. stav 3. Zakona o biomedicinski potpomognutoj oplodnji („Službeni glasnik RS”, broj 40/17), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba;\n\n17) člana 216. st. 2. i 3. Zakona o lekovima i medicinskim sredstvima („Službeni glasnik RS”, br. 30/10, 107/12 i 105/17 – dr. zakon), kao i podzakonski propis donet na osnovu ovih zakonskih odredaba."
+        },
+        {
+          "id": "d17613f3-55b0-5157-a987-df544d39ac7b",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi odredba člana 20. stav 11, Zakona o bezbednosti i interoperabilnosti železnice u delu koji se odnosi na ovlašćenje Direkcije za železnice da utvrđuje visinu takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se utvrđuje visina takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 58. stav 3, Zakona o plovidbi i lukama na unutrašnjim vodama u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja da utvrđuje troškove polaganja stručnog ispita za locmana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se utvrđuje visina troškova polaganja stručnog ispita za locmana.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 54. stav 3. Zakona o bezbednosti i zdravlja na radu u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica i stava 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se propisuje visina troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica, kao i odredba člana 56. stav 4. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova za izdavanje licence iz st. 1. do 3. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za izdavanje licence.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 179. stav 2. Zakona o zdravstvenoj zaštiti u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika i stav 3. istog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika, kao i odredba člana 189. stav 3. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova za dobijanje naziva primarijus i stav 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za dobijanje naziva primarijus.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 178. stav 5. Zakona o pomorskoj plovidbi u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja za propisivanje troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca.",
+          "ragContent": "Ovaj član definiše prestanak važenja određenih odredbi iz drugih zakona. Član 79. Zakona o republičkim administrativnim taksama se odnosi na prestanak važenja odredbi iz drugih zakona.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 20. stav 11, Zakona o bezbednosti i interoperabilnosti železnice u delu koji se odnosi na ovlašćenje Direkcije za železnice da utvrđuje visinu takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se utvrđuje visina takse za izdavanje sertifikata o verifikaciji podsistema ili njegovog dela, sertifikata o usaglašenosti elemenata podsistema i sertifikata o pogodnosti za upotrebu elemenata podsistema.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 58. stav 3, Zakona o plovidbi i lukama na unutrašnjim vodama u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja da utvrđuje troškove polaganja stručnog ispita za locmana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se utvrđuje visina troškova polaganja stručnog ispita za locmana.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 54. stav 3. Zakona o bezbednosti i zdravlja na radu u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica i stava 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe, u delu kojim se propisuje visina troškova polaganja stručnog ispita za obavljanje poslova za bezbednost i zdravlje na radu i poslova odgovornog lica, kao i odredba člana 56. stav 4. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za rad za propisivanje visine troškova za izdavanje licence iz st. 1. do 3. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za izdavanje licence.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 179. stav 2. Zakona o zdravstvenoj zaštiti u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika i stav 3. istog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita zdravstvenih radnika i zdravstvenih saradnika, kao i odredba člana 189. stav 3. istog zakona u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove zdravlja za propisivanje troškova za dobijanje naziva primarijus i stav 4. tog člana, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova za dobijanje naziva primarijus.\n\nDanom stupanja na snagu ovog zakona prestaje da važi odredba člana 178. stav 5. Zakona o pomorskoj plovidbi u delu koji se odnosi na ovlašćenje ministra nadležnog za poslove saobraćaja za propisivanje troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca, kao i podzakonski propis donet na osnovu ove zakonske odredbe u delu kojim se propisuje visina troškova polaganja stručnog ispita za poslove nadzora nad radom i životnim uslovima pomoraca."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako se na zahtev obveznika izdaje rešenje, isprava, dokument ili pismeno u više primeraka, za drugi i svaki sledeći primerak plaća se taksa kao za prepis, koja ne može biti veća od takse za prvi primerak, ako ovim zakonom nije drukčije propisano.",
+      "chunks": [
+        {
+          "id": "cdd5e7f8-d681-5876-abbc-d2c0789c1a56",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako se na zahtev obveznika izdaje rešenje, isprava, dokument ili pismeno u više primeraka, za drugi i svaki sledeći primerak plaća se taksa kao za prepis, koja ne može biti veća od takse za prvi primerak, ako ovim zakonom nije drukčije propisano.",
+          "ragContent": "Ovaj član uređuje takse za izdavanje više primeraka dokumenata. Član 8. Zakona o republičkim administrativnim taksama propisuje da se za svaki sledeći primerak plaća taksa kao za prepis, koja ne može biti veća od takse za prvi primerak.  Ako se na zahtev obveznika izdaje rešenje, isprava, dokument ili pismeno u više primeraka, za drugi i svaki sledeći primerak plaća se taksa kao za prepis, koja ne može biti veća od takse za prvi primerak, ako ovim zakonom nije drukčije propisano."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 80",
+      "articleNo": "80",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "496ad6ea-064f-5174-a2d5-a755170483f9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 80. Zakona o republičkim administrativnim taksama propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o republičkim administrativnim taksama",
+      "lawSlug": "zakon-o-republi-kim-administrativnim-taksama",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "takse",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako u postupku jedan ili više obveznika podnesu više zahteva koji imaju isti pravni osnov, a donosi se jedno rešenje, taksa se plaća za svaki pojedinačni zahtev, ako Tarifom nije drukčije određeno.",
+      "chunks": [
+        {
+          "id": "f8d46671-f30f-5040-a684-9dee107ea25d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako u postupku jedan ili više obveznika podnesu više zahteva koji imaju isti pravni osnov, a donosi se jedno rešenje, taksa se plaća za svaki pojedinačni zahtev, ako Tarifom nije drukčije određeno.",
+          "ragContent": "Ovaj član uređuje plaćanje taksi za više zahteva sa istim pravnim osnovom. Član 9. Zakona o republičkim administrativnim taksama propisuje da se taksa plaća za svaki pojedinačni zahtev, osim ako Tarifom nije drugačije određeno.  Ako u postupku jedan ili više obveznika podnesu više zahteva koji imaju isti pravni osnov, a donosi se jedno rešenje, taksa se plaća za svaki pojedinačni zahtev, ako Tarifom nije drukčije određeno."
+        }
+      ]
+    }
+  ]
+}

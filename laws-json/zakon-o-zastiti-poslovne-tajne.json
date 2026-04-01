@@ -1,0 +1,560 @@
+{
+  "law": "Zakon o zaštiti poslovne tajne",
+  "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+  "category": "zastita_konkurencije",
+  "sourceDocumentCount": 36,
+  "articleCount": 23,
+  "articles": [
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom uređuje se pravna zaštita poslovne tajne od nezakonitog pribavljanja, korišćenja i otkrivanja.",
+      "chunks": [
+        {
+          "id": "56384ce4-5152-5a17-b95d-4bc4627ca473",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuje se pravna zaštita poslovne tajne od nezakonitog pribavljanja, korišćenja i otkrivanja.",
+          "ragContent": "Ovaj član uređuje pravnu zaštitu poslovne tajne. Zakon o zaštiti poslovne tajne, član 1, definiše pravnu zaštitu poslovne tajne od nezakonitog pribavljanja, korišćenja i otkrivanja.  Ovim zakonom uređuje se pravna zaštita poslovne tajne od nezakonitog pribavljanja, korišćenja i otkrivanja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Na predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može da odredi privremenu meru:\n\n1) prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne;\n\n2) zabrane proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n3) oduzimanja robe za koju se sumnja da je njom izvršena povreda, uključujući i uvezenu robu, kako bi se sprečilo njeno stavljanje u promet i njen promet.\n\nUmesto određivanja mera iz stava 1. ovog člana, sud može da dozvoli licu za koje se sumnja da je povredilo poslovnu tajnu da nastavi da koristi poslovnu tajnu pod uslovom da položi jemstvo radi osiguranja naknade štete držaocu poslovne tajne. Polaganjem jemstva ne ostvaruje se pravo na otkrivanje poslovne tajne.\n\nPrilikom odlučivanja o predlogu za određivanje privremene mere, sud uzima u obzir i posebne okolnosti slučaja iz člana 7. stav 1. ovog zakona.\n\nPrivremenu meru prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne sud može da odredi i protiv posrednika čije usluge koriste treća lica da bi nezakonito pribavila, koristila ili otkrila poslovnu tajnu.\n\nNa predlog držaoca poslovne tajne koji učini verovatnim da je poslovna tajna nezakonito pribavljena, korišćena ili otkrivena u obavljanju delatnosti, radi pribavljanja privredne ili ekonomske koristi, kao i da mu zbog takve povrede preti nenadoknadiva šteta, osim privremene mere iz stava 1. ovog člana sud može da odredi i:\n\n1) zaplenu pokretnih i nepokretnih stvari lica protiv koga se predlaže određivanje privremene mere;\n\n2) zabranu isplate novčanih sredstava sa računa lica protiv koga se predlaže određivanje privremene mere.\n\nRadi određivanja privremene mere iz stava 5. ovog člana sud može da naloži dostavljanje bankarskih, finansijskih, poslovnih ili drugih dokumenata i podataka ili da naloži da se omogući pristup tim dokumentima i podacima. Sud je dužan da obezbedi čuvanje tajnosti navedenih podataka.\n\nLice kome je određena privremena mera zabrane iz stava 1. tač. 1) i 2) i stava 5. tačka 2) ovog člana, odnosno kome je dat nalog iz stava 6. ovog člana, a koje ne postupi po zabrani, odnosno nalogu, kazniće se u skladu sa odredbama zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nSud može da odredi privremenu meru odmah po prijemu predloga za određivanje privremene mere i bez prethodnog izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu.\n\nRešenje kojim je određena privremena mera, u slučaju iz stava 8. ovog člana, dostaviće se strankama u postupku bez odlaganja, a najkasnije po sprovođenju mere.",
+      "chunks": [
+        {
+          "id": "82b57bb3-c8c1-5f87-9f83-61571630bf8d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Na predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može da odredi privremenu meru:\n\n1) prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne;\n\n2) zabrane proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n3) oduzimanja robe za koju se sumnja da je njom izvršena povreda, uključujući i uvezenu robu, kako bi se sprečilo njeno stavljanje u promet i njen promet.\n\nUmesto određivanja mera iz stava 1. ovog člana, sud može da dozvoli licu za koje se sumnja da je povredilo poslovnu tajnu da nastavi da koristi poslovnu tajnu pod uslovom da položi jemstvo radi osiguranja naknade štete držaocu poslovne tajne. Polaganjem jemstva ne ostvaruje se pravo na otkrivanje poslovne tajne.\n\nPrilikom odlučivanja o predlogu za određivanje privremene mere, sud uzima u obzir i posebne okolnosti slučaja iz člana 7. stav 1. ovog zakona.",
+          "ragContent": "Ovaj član uređuje privremene mere koje sud može da odredi u slučaju povrede poslovne tajne. Član 10. Zakona o zaštiti poslovne tajne propisuje mogućnost određivanja privremenih mera kao što su zabrana korišćenja ili otkrivanja poslovne tajne, zabrana proizvodnje ili oduzimanje robe.\n\nNa predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može da odredi privremenu meru:\n\n1) prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne;\n\n2) zabrane proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n3) oduzimanja robe za koju se sumnja da je njom izvršena povreda, uključujući i uvezenu robu, kako bi se sprečilo njeno stavljanje u promet i njen promet.\n\nUmesto određivanja mera iz stava 1. ovog člana, sud može da dozvoli licu za koje se sumnja da je povredilo poslovnu tajnu da nastavi da koristi poslovnu tajnu pod uslovom da položi jemstvo radi osiguranja naknade štete držaocu poslovne tajne. Polaganjem jemstva ne ostvaruje se pravo na otkrivanje poslovne tajne.\n\nPrilikom odlučivanja o predlogu za određivanje privremene mere, sud uzima u obzir i posebne okolnosti slučaja iz člana 7. stav 1. ovog zakona."
+        },
+        {
+          "id": "45082f94-839b-5b43-b7cf-94e187ffc40b",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Privremenu meru prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne sud može da odredi i protiv posrednika čije usluge koriste treća lica da bi nezakonito pribavila, koristila ili otkrila poslovnu tajnu.\n\nNa predlog držaoca poslovne tajne koji učini verovatnim da je poslovna tajna nezakonito pribavljena, korišćena ili otkrivena u obavljanju delatnosti, radi pribavljanja privredne ili ekonomske koristi, kao i da mu zbog takve povrede preti nenadoknadiva šteta, osim privremene mere iz stava 1. ovog člana sud može da odredi i:\n\n1) zaplenu pokretnih i nepokretnih stvari lica protiv koga se predlaže određivanje privremene mere;\n\n2) zabranu isplate novčanih sredstava sa računa lica protiv koga se predlaže određivanje privremene mere.\n\nRadi određivanja privremene mere iz stava 5. ovog člana sud može da naloži dostavljanje bankarskih, finansijskih, poslovnih ili drugih dokumenata i podataka ili da naloži da se omogući pristup tim dokumentima i podacima. Sud je dužan da obezbedi čuvanje tajnosti navedenih podataka.",
+          "ragContent": "Ovaj deo člana se bavi privremenim merama protiv posrednika i dodatnim merama za zaštitu poslovne tajne. Član 10. Zakona o zaštiti poslovne tajne omogućava sudu da odredi privremene mere kao što su zaplena imovine i zabrana isplate sredstava u slučaju povrede poslovne tajne.\n\nPrivremenu meru prestanka ili zabrane korišćenja ili otkrivanja poslovne tajne sud može da odredi i protiv posrednika čije usluge koriste treća lica da bi nezakonito pribavila, koristila ili otkrila poslovnu tajnu.\n\nNa predlog držaoca poslovne tajne koji učini verovatnim da je poslovna tajna nezakonito pribavljena, korišćena ili otkrivena u obavljanju delatnosti, radi pribavljanja privredne ili ekonomske koristi, kao i da mu zbog takve povrede preti nenadoknadiva šteta, osim privremene mere iz stava 1. ovog člana sud može da odredi i:\n\n1) zaplenu pokretnih i nepokretnih stvari lica protiv koga se predlaže određivanje privremene mere;\n\n2) zabranu isplate novčanih sredstava sa računa lica protiv koga se predlaže određivanje privremene mere.\n\nRadi određivanja privremene mere iz stava 5. ovog člana sud može da naloži dostavljanje bankarskih, finansijskih, poslovnih ili drugih dokumenata i podataka ili da naloži da se omogući pristup tim dokumentima i podacima. Sud je dužan da obezbedi čuvanje tajnosti navedenih podataka."
+        },
+        {
+          "id": "96c24107-e1a3-5626-9272-ecf3fb5e4e3f",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Lice kome je određena privremena mera zabrane iz stava 1. tač. 1) i 2) i stava 5. tačka 2) ovog člana, odnosno kome je dat nalog iz stava 6. ovog člana, a koje ne postupi po zabrani, odnosno nalogu, kazniće se u skladu sa odredbama zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nSud može da odredi privremenu meru odmah po prijemu predloga za određivanje privremene mere i bez prethodnog izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu.\n\nRešenje kojim je određena privremena mera, u slučaju iz stava 8. ovog člana, dostaviće se strankama u postupku bez odlaganja, a najkasnije po sprovođenju mere.",
+          "ragContent": "Ovaj deo se odnosi na sankcije za nepoštovanje privremenih mera i postupak donošenja odluka o tim merama. Član 10. Zakona o zaštiti poslovne tajne predviđa kazne za lica koja ne postupe po privremenim merama i omogućava hitno donošenje odluka od strane suda.\n\nLice kome je određena privremena mera zabrane iz stava 1. tač. 1) i 2) i stava 5. tačka 2) ovog člana, odnosno kome je dat nalog iz stava 6. ovog člana, a koje ne postupi po zabrani, odnosno nalogu, kazniće se u skladu sa odredbama zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nSud može da odredi privremenu meru odmah po prijemu predloga za određivanje privremene mere i bez prethodnog izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu.\n\nRešenje kojim je određena privremena mera, u slučaju iz stava 8. ovog člana, dostaviće se strankama u postupku bez odlaganja, a najkasnije po sprovođenju mere."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako je privremena mera određena pre pokretanja parničnog postupka, tužba za pokretanje postupka zbog povrede poslovne tajne mora se podneti u roku od 30 dana od dana dostavljanja rešenja o određivanju privremene mere.\n\nAko tužba zbog povrede poslovne tajne ne bude podneta u roku iz stava 1. ovog člana, sud će na predlog lica protiv koga je privremena mera određena obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je privremena mera određena bez izjašnjenja protivne stranke u slučaju iz člana 10. stav 8. ovog zakona, sud će u razumnom roku omogućiti protivnoj stranki da se izjasni o privremenoj meri, nakon čega može obustaviti postupak i ukinuti sprovedene radnje ili izmeniti određenu meru.\n\nAko postupak bude obustavljen i sprovedene radnje budu ukinute u skladu sa st. 2. i 3. ovog člana, ili ako sud utvrdi da povreda prava nije učinjena ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, lice protiv koga je određena privremena mera ima pravo na naknadu štete koja mu je naneta privremenom merom.\n\nSud može da uslovi određivanje privremene mere polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi licu protiv koga se privremena mera predlaže mogla biti naneta određivanjem i sprovođenjem privremene mere.",
+      "chunks": [
+        {
+          "id": "0bca307f-def9-5edd-9de7-0f699d4dc281",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako je privremena mera određena pre pokretanja parničnog postupka, tužba za pokretanje postupka zbog povrede poslovne tajne mora se podneti u roku od 30 dana od dana dostavljanja rešenja o određivanju privremene mere.\n\nAko tužba zbog povrede poslovne tajne ne bude podneta u roku iz stava 1. ovog člana, sud će na predlog lica protiv koga je privremena mera određena obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je privremena mera određena bez izjašnjenja protivne stranke u slučaju iz člana 10. stav 8. ovog zakona, sud će u razumnom roku omogućiti protivnoj stranki da se izjasni o privremenoj meri, nakon čega može obustaviti postupak i ukinuti sprovedene radnje ili izmeniti određenu meru.\n\nAko postupak bude obustavljen i sprovedene radnje budu ukinute u skladu sa st. 2. i 3. ovog člana, ili ako sud utvrdi da povreda prava nije učinjena ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, lice protiv koga je određena privremena mera ima pravo na naknadu štete koja mu je naneta privremenom merom.\n\nSud može da uslovi određivanje privremene mere polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi licu protiv koga se privremena mera predlaže mogla biti naneta određivanjem i sprovođenjem privremene mere.",
+          "ragContent": "Ovaj član uređuje postupak podnošenja tužbe zbog povrede poslovne tajne nakon određivanja privremene mere. Član 11. Zakona o zaštiti poslovne tajne propisuje rokove i uslove za podnošenje tužbe, kao i prava lica protiv koga je mera određena.\n\nAko je privremena mera određena pre pokretanja parničnog postupka, tužba za pokretanje postupka zbog povrede poslovne tajne mora se podneti u roku od 30 dana od dana dostavljanja rešenja o određivanju privremene mere.\n\nAko tužba zbog povrede poslovne tajne ne bude podneta u roku iz stava 1. ovog člana, sud će na predlog lica protiv koga je privremena mera određena obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je privremena mera određena bez izjašnjenja protivne stranke u slučaju iz člana 10. stav 8. ovog zakona, sud će u razumnom roku omogućiti protivnoj stranki da se izjasni o privremenoj meri, nakon čega može obustaviti postupak i ukinuti sprovedene radnje ili izmeniti određenu meru.\n\nAko postupak bude obustavljen i sprovedene radnje budu ukinute u skladu sa st. 2. i 3. ovog člana, ili ako sud utvrdi da povreda prava nije učinjena ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, lice protiv koga je određena privremena mera ima pravo na naknadu štete koja mu je naneta privremenom merom.\n\nSud može da uslovi određivanje privremene mere polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi licu protiv koga se privremena mera predlaže mogla biti naneta određivanjem i sprovođenjem privremene mere."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kada se stranka u parničnom postupku poziva na isprave ili druge dokaze koji su određeni ili odredivi i tvrdi da se oni nalaze u državini druge stranke ili trećeg lica ili su im dostupni, sud će ta lica pozvati da u određenom roku podnesu isprave, odnosno dokaze, pod uslovom da poverljive informacije budu zaštićene.\n\nU predlogu za pribavljanje dokaza stranka mora učiniti verovatnim da se ti dokazi nalaze kod druge stranke ili trećeg lica, odnosno da su im dostupni.\n\nPod uslovima iz stava 1. ovog člana, u slučaju da je pravo povređeno u obavljanju privredne delatnosti, sud će, na predlog stranke koja se poziva na dokaze koji se nalaze u državini druge stranke ili trećeg lica ili su im dostupni, pozvati drugu stranku ili treće lice da dostavi bankarske, finansijske i poslovne dokumente koji se nalaze u njihovoj državini ili koji su im dostupni, pod uslovom da poverljive informacije budu zaštićene.",
+      "chunks": [
+        {
+          "id": "40999fc2-6c51-5e2d-a982-fc24c450bb98",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kada se stranka u parničnom postupku poziva na isprave ili druge dokaze koji su određeni ili odredivi i tvrdi da se oni nalaze u državini druge stranke ili trećeg lica ili su im dostupni, sud će ta lica pozvati da u određenom roku podnesu isprave, odnosno dokaze, pod uslovom da poverljive informacije budu zaštićene.\n\nU predlogu za pribavljanje dokaza stranka mora učiniti verovatnim da se ti dokazi nalaze kod druge stranke ili trećeg lica, odnosno da su im dostupni.\n\nPod uslovima iz stava 1. ovog člana, u slučaju da je pravo povređeno u obavljanju privredne delatnosti, sud će, na predlog stranke koja se poziva na dokaze koji se nalaze u državini druge stranke ili trećeg lica ili su im dostupni, pozvati drugu stranku ili treće lice da dostavi bankarske, finansijske i poslovne dokumente koji se nalaze u njihovoj državini ili koji su im dostupni, pod uslovom da poverljive informacije budu zaštićene.",
+          "ragContent": "Ovaj član uređuje postupak pribavljanja dokaza u parničnom postupku. Član 12. Zakona o zaštiti poslovne tajne propisuje uslove pod kojima sud može pozvati stranke da dostave dokaze, uz zaštitu poverljivih informacija.\n\nKada se stranka u parničnom postupku poziva na isprave ili druge dokaze koji su određeni ili odredivi i tvrdi da se oni nalaze u državini druge stranke ili trećeg lica ili su im dostupni, sud će ta lica pozvati da u određenom roku podnesu isprave, odnosno dokaze, pod uslovom da poverljive informacije budu zaštićene.\n\nU predlogu za pribavljanje dokaza stranka mora učiniti verovatnim da se ti dokazi nalaze kod druge stranke ili trećeg lica, odnosno da su im dostupni.\n\nPod uslovima iz stava 1. ovog člana, u slučaju da je pravo povređeno u obavljanju privredne delatnosti, sud će, na predlog stranke koja se poziva na dokaze koji se nalaze u državini druge stranke ili trećeg lica ili su im dostupni, pozvati drugu stranku ili treće lice da dostavi bankarske, finansijske i poslovne dokumente koji se nalaze u njihovoj državini ili koji su im dostupni, pod uslovom da poverljive informacije budu zaštićene."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Na predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može u toku, kao i pre pokretanja parničnog postupka, da odredi obezbeđenje dokaza, pod uslovom da poverljive informacije budu zaštićene.\n\nObezbeđenjem dokaza, u smislu stava 1. ovog člana smatra se:\n\n1) uzimanje detaljnog opisa predmeta kojima se povređuje poslovna tajna, sa ili bez uzimanja uzoraka tih predmeta;\n\n2) oduzimanje predmeta ili dela predmeta kojima se povređuje poslovna tajna, a ako je to opravdano, i oduzimanje dokumenata, materijala i predmeta (pribor, alat) pretežno upotrebljenih u stvaranju ili stavljanju u promet predmeta kojima se povređuje poslovna tajna;\n\n3) pregled prostorija, vozila, knjiga, dokumenata i baza podataka;\n\n4) ispitivanje svedoka i sudskih veštaka.\n\nKada je obezbeđenje dokaza određeno pre pokretanja parničnog postupka tužba zbog povrede poslovne tajne se mora podneti u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza.\n\nLicu od koga se dokazi prikupljaju, sudsko rešenje kojim se usvaja predlog za obezbeđenje dokaza dostavlja se u trenutku prikupljanja dokaza, a odsutnom licu se dostavlja u skladu sa članom 16. ovog zakona.",
+      "chunks": [
+        {
+          "id": "b18b576d-ac43-5399-a0f1-7800370c027d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Na predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može u toku, kao i pre pokretanja parničnog postupka, da odredi obezbeđenje dokaza, pod uslovom da poverljive informacije budu zaštićene.\n\nObezbeđenjem dokaza, u smislu stava 1. ovog člana smatra se:\n\n1) uzimanje detaljnog opisa predmeta kojima se povređuje poslovna tajna, sa ili bez uzimanja uzoraka tih predmeta;\n\n2) oduzimanje predmeta ili dela predmeta kojima se povređuje poslovna tajna, a ako je to opravdano, i oduzimanje dokumenata, materijala i predmeta (pribor, alat) pretežno upotrebljenih u stvaranju ili stavljanju u promet predmeta kojima se povređuje poslovna tajna;\n\n3) pregled prostorija, vozila, knjiga, dokumenata i baza podataka;\n\n4) ispitivanje svedoka i sudskih veštaka.",
+          "ragContent": "Ovaj član uređuje obezbeđenje dokaza u postupcima vezanim za poslovne tajne. Član 13. Zakona o zaštiti poslovne tajne omogućava sudu da odredi obezbeđenje dokaza na predlog držaoca poslovne tajne, uz zaštitu poverljivih informacija.\n\nNa predlog držaoca poslovne tajne koji učini verovatnim da poslovna tajna postoji, da je on držalac poslovne tajne i da je došlo ili će doći do nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne, sud može u toku, kao i pre pokretanja parničnog postupka, da odredi obezbeđenje dokaza, pod uslovom da poverljive informacije budu zaštićene.\n\nObezbeđenjem dokaza, u smislu stava 1. ovog člana smatra se:\n\n1) uzimanje detaljnog opisa predmeta kojima se povređuje poslovna tajna, sa ili bez uzimanja uzoraka tih predmeta;\n\n2) oduzimanje predmeta ili dela predmeta kojima se povređuje poslovna tajna, a ako je to opravdano, i oduzimanje dokumenata, materijala i predmeta (pribor, alat) pretežno upotrebljenih u stvaranju ili stavljanju u promet predmeta kojima se povređuje poslovna tajna;\n\n3) pregled prostorija, vozila, knjiga, dokumenata i baza podataka;\n\n4) ispitivanje svedoka i sudskih veštaka."
+        },
+        {
+          "id": "b6a5c93e-0ced-592a-a5d2-b9bdaf2d9a48",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Kada je obezbeđenje dokaza određeno pre pokretanja parničnog postupka tužba zbog povrede poslovne tajne se mora podneti u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza.\n\nLicu od koga se dokazi prikupljaju, sudsko rešenje kojim se usvaja predlog za obezbeđenje dokaza dostavlja se u trenutku prikupljanja dokaza, a odsutnom licu se dostavlja u skladu sa članom 16. ovog zakona.",
+          "ragContent": "Ovaj deo člana definiše rok za podnošenje tužbe nakon obezbeđenja dokaza. Član 13. Zakona o zaštiti poslovne tajne propisuje da se tužba mora podneti u roku od 30 dana nakon obezbeđenja dokaza pre pokretanja parničnog postupka.\n\nKada je obezbeđenje dokaza određeno pre pokretanja parničnog postupka tužba zbog povrede poslovne tajne se mora podneti u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza.\n\nLicu od koga se dokazi prikupljaju, sudsko rešenje kojim se usvaja predlog za obezbeđenje dokaza dostavlja se u trenutku prikupljanja dokaza, a odsutnom licu se dostavlja u skladu sa članom 16. ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Sud može da odredi obezbeđenje dokaza odmah po prijemu predloga za obezbeđenje dokaza i bez izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu, ili da neki dokaz neće moći da se izvede ili da će njegovo kasnije izvođenje biti otežano.\n\nRešenje kojim se usvaja predlog za obezbeđenje dokaza, u slučaju iz stava 1. ovog člana, dostaviće se strankama u postupku bez odlaganja.\n\nAko tužba zbog povrede poslovne tajne ne bude podneta u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza, sud će na predlog lica od koga se dokazi pribavljaju obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je obezbeđenje dokaza određeno bez izjašnjenja protivne stranke, sud će u razumnom roku omogućiti toj stranci da se izjasni o rešenju kojim se usvaja predlog za obezbeđenje dokaza, nakon čega može da obustavi postupak i ukine sprovedene radnje ili da izmeni određeno obezbeđenje dokaza.\n\nAko postupak bude obustavljen i sprovedene radnje budu ukinute, ili ako sud utvrdi da povreda prava nije učinjena, ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, stranka protiv koje je određeno obezbeđenje dokaza ima pravo na naknadu štete koja joj je naneta obezbeđenjem dokaza.\n\nSud može usloviti usvajanje predloga za obezbeđenje dokaza polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi protivnoj stranci mogla biti naneta obezbeđenjem dokaza.",
+      "chunks": [
+        {
+          "id": "624b7b1a-3de3-5539-a5c4-9f7d3bb64e1d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Sud može da odredi obezbeđenje dokaza odmah po prijemu predloga za obezbeđenje dokaza i bez izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu, ili da neki dokaz neće moći da se izvede ili da će njegovo kasnije izvođenje biti otežano.\n\nRešenje kojim se usvaja predlog za obezbeđenje dokaza, u slučaju iz stava 1. ovog člana, dostaviće se strankama u postupku bez odlaganja.",
+          "ragContent": "Ovaj deo člana uređuje postupak obezbeđenja dokaza bez izjašnjenja protivne strane. Član 14. Zakona o zaštiti poslovne tajne omogućava sudu da odmah odredi obezbeđenje dokaza kako bi se sprečila nenadoknadiva šteta.\n\nSud može da odredi obezbeđenje dokaza odmah po prijemu predloga za obezbeđenje dokaza i bez izjašnjenja protivne stranke, a naročito ako postoji opasnost da zbog odlaganja predlagač pretrpi nenadoknadivu štetu, ili da neki dokaz neće moći da se izvede ili da će njegovo kasnije izvođenje biti otežano.\n\nRešenje kojim se usvaja predlog za obezbeđenje dokaza, u slučaju iz stava 1. ovog člana, dostaviće se strankama u postupku bez odlaganja."
+        },
+        {
+          "id": "c4075c87-30b3-59b9-b285-3463985c29f1",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ako tužba zbog povrede poslovne tajne ne bude podneta u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza, sud će na predlog lica od koga se dokazi pribavljaju obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je obezbeđenje dokaza određeno bez izjašnjenja protivne stranke, sud će u razumnom roku omogućiti toj stranci da se izjasni o rešenju kojim se usvaja predlog za obezbeđenje dokaza, nakon čega može da obustavi postupak i ukine sprovedene radnje ili da izmeni određeno obezbeđenje dokaza.",
+          "ragContent": "Ovaj deo člana se bavi rokovima za podnošenje tužbe i pravima strana u postupku. Član 14. Zakona o zaštiti poslovne tajne propisuje da sud može obustaviti postupak ako tužba nije podneta u roku od 30 dana.\n\nAko tužba zbog povrede poslovne tajne ne bude podneta u roku od 30 dana od dana dostavljanja rešenja kojim se usvaja predlog za obezbeđenje dokaza, sud će na predlog lica od koga se dokazi pribavljaju obustaviti postupak i ukinuti sprovedene radnje.\n\nAko je obezbeđenje dokaza određeno bez izjašnjenja protivne stranke, sud će u razumnom roku omogućiti toj stranci da se izjasni o rešenju kojim se usvaja predlog za obezbeđenje dokaza, nakon čega može da obustavi postupak i ukine sprovedene radnje ili da izmeni određeno obezbeđenje dokaza."
+        },
+        {
+          "id": "115a62a6-6e73-576d-925d-934623b4315e",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Ako postupak bude obustavljen i sprovedene radnje budu ukinute, ili ako sud utvrdi da povreda prava nije učinjena, ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, stranka protiv koje je određeno obezbeđenje dokaza ima pravo na naknadu štete koja joj je naneta obezbeđenjem dokaza.\n\nSud može usloviti usvajanje predloga za obezbeđenje dokaza polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi protivnoj stranci mogla biti naneta obezbeđenjem dokaza.",
+          "ragContent": "Ovaj deo člana se odnosi na prava strana u slučaju obustave postupka. Član 14. Zakona o zaštiti poslovne tajne predviđa pravo na naknadu štete ako je obezbeđenje dokaza ukinuto.\n\nAko postupak bude obustavljen i sprovedene radnje budu ukinute, ili ako sud utvrdi da povreda prava nije učinjena, ili da nije postojala ozbiljna pretnja da će pravo biti povređeno, stranka protiv koje je određeno obezbeđenje dokaza ima pravo na naknadu štete koja joj je naneta obezbeđenjem dokaza.\n\nSud može usloviti usvajanje predloga za obezbeđenje dokaza polaganjem odgovarajućeg jemstva kao sredstva obezbeđenja za štetu koja bi protivnoj stranci mogla biti naneta obezbeđenjem dokaza."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Sud može, na opravdan i srazmeran zahtev lica čije je pravo povređeno, da naloži licu koje je povredilo poslovnu tajnu da pruži informacije o trećim licima koja su učestvovala u povredi poslovne tajne i o njihovim distributivnim kanalima, ili da preda dokumente koji su u vezi sa povredom poslovne tajne.\n\nOsim lica koje je povredilo poslovnu tajnu, pružanje informacija i predaju dokumenata iz stava 1. ovog člana sud može da naloži i licu:\n\n1) kod koga je pronađena roba kojom se u obavljanju privredne delatnosti povređuje poslovna tajna;\n\n2) koje u obavljanju privredne delatnosti koristi usluge kojima se povređuje poslovna tajna;\n\n3) koje u obavljanju privredne delatnosti pruža usluge koje se koriste u aktivnostima kojima se povređuje poslovna tajna;\n\n4) koje je od strane lica iz tač. 1), 2) ili 3) ovog stava navedeno kao lice uključeno u proizvodnju ili distribuciju roba ili pružanje usluga kojima se povređuje poslovna tajna.\n\nPod informacijama iz stava 1. ovog člana smatraju se naročito:\n\n1) podaci o proizvođačima, distributerima, dobavljačima i drugim licima koja su bila uključena u proizvodnju ili distribuciju robe ili pružanje usluga, kao i o prodavcima kojima je roba namenjena;\n\n2) podaci o količinama proizvedene, isporučene ili naručene robe ili usluga, kao i o cenama naplaćenim za tu robu ili usluge.\n\nAko lica iz st. 1. i 2. ovog člana iz opravdanih razloga ne postupe po nalogu suda i ne pruže tražene informacije ili ne predaju dokumente, neće odgovarati za štetu koja na taj način nastane.\n\nPropisi kojima se uređuje način korišćenja poverljivih podataka u građanskim i krivičnim postupcima, propisi kojima se uređuje odgovornost za zloupotrebu prava na dobijanje informacija, kao i propisi kojima se uređuje zaštita podataka o ličnosti, primenjuju se na obavezu pružanja informacija u skladu sa odredbama ovog člana.",
+      "chunks": [
+        {
+          "id": "52f94d2e-c938-5f5d-9211-a719b2a24334",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Sud može, na opravdan i srazmeran zahtev lica čije je pravo povređeno, da naloži licu koje je povredilo poslovnu tajnu da pruži informacije o trećim licima koja su učestvovala u povredi poslovne tajne i o njihovim distributivnim kanalima, ili da preda dokumente koji su u vezi sa povredom poslovne tajne.\n\nOsim lica koje je povredilo poslovnu tajnu, pružanje informacija i predaju dokumenata iz stava 1. ovog člana sud može da naloži i licu:\n\n1) kod koga je pronađena roba kojom se u obavljanju privredne delatnosti povređuje poslovna tajna;\n\n2) koje u obavljanju privredne delatnosti koristi usluge kojima se povređuje poslovna tajna;\n\n3) koje u obavljanju privredne delatnosti pruža usluge koje se koriste u aktivnostima kojima se povređuje poslovna tajna;\n\n4) koje je od strane lica iz tač. 1), 2) ili 3) ovog stava navedeno kao lice uključeno u proizvodnju ili distribuciju roba ili pružanje usluga kojima se povređuje poslovna tajna.",
+          "ragContent": "Ovaj član uređuje obavezu suda da naloži pružanje informacija o povredi poslovne tajne. Član 15. Zakona o zaštiti poslovne tajne propisuje da sud može naložiti pružanje informacija i dokumenata u vezi sa povredom poslovne tajne.\n\nSud može, na opravdan i srazmeran zahtev lica čije je pravo povređeno, da naloži licu koje je povredilo poslovnu tajnu da pruži informacije o trećim licima koja su učestvovala u povredi poslovne tajne i o njihovim distributivnim kanalima, ili da preda dokumente koji su u vezi sa povredom poslovne tajne.\n\nOsim lica koje je povredilo poslovnu tajnu, pružanje informacija i predaju dokumenata iz stava 1. ovog člana sud može da naloži i licu:\n\n1) kod koga je pronađena roba kojom se u obavljanju privredne delatnosti povređuje poslovna tajna;\n\n2) koje u obavljanju privredne delatnosti koristi usluge kojima se povređuje poslovna tajna;\n\n3) koje u obavljanju privredne delatnosti pruža usluge koje se koriste u aktivnostima kojima se povređuje poslovna tajna;\n\n4) koje je od strane lica iz tač. 1), 2) ili 3) ovog stava navedeno kao lice uključeno u proizvodnju ili distribuciju roba ili pružanje usluga kojima se povređuje poslovna tajna."
+        },
+        {
+          "id": "d531feb3-f525-55eb-9d58-6b11f35b9168",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Pod informacijama iz stava 1. ovog člana smatraju se naročito:\n\n1) podaci o proizvođačima, distributerima, dobavljačima i drugim licima koja su bila uključena u proizvodnju ili distribuciju robe ili pružanje usluga, kao i o prodavcima kojima je roba namenjena;\n\n2) podaci o količinama proizvedene, isporučene ili naručene robe ili usluga, kao i o cenama naplaćenim za tu robu ili usluge.\n\nAko lica iz st. 1. i 2. ovog člana iz opravdanih razloga ne postupe po nalogu suda i ne pruže tražene informacije ili ne predaju dokumente, neće odgovarati za štetu koja na taj način nastane.",
+          "ragContent": "Ovaj deo definiše koje informacije se smatraju relevantnim za povredu poslovne tajne. Član 15. Zakona o zaštiti poslovne tajne precizira koje informacije sud može zahtevati u vezi sa povredom poslovne tajne.\n\nPod informacijama iz stava 1. ovog člana smatraju se naročito:\n\n1) podaci o proizvođačima, distributerima, dobavljačima i drugim licima koja su bila uključena u proizvodnju ili distribuciju robe ili pružanje usluga, kao i o prodavcima kojima je roba namenjena;\n\n2) podaci o količinama proizvedene, isporučene ili naručene robe ili usluga, kao i o cenama naplaćenim za tu robu ili usluge.\n\nAko lica iz st. 1. i 2. ovog člana iz opravdanih razloga ne postupe po nalogu suda i ne pruže tražene informacije ili ne predaju dokumente, neće odgovarati za štetu koja na taj način nastane."
+        },
+        {
+          "id": "4d7b7025-c7f5-5f8e-bc17-19b134c17772",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Propisi kojima se uređuje način korišćenja poverljivih podataka u građanskim i krivičnim postupcima, propisi kojima se uređuje odgovornost za zloupotrebu prava na dobijanje informacija, kao i propisi kojima se uređuje zaštita podataka o ličnosti, primenjuju se na obavezu pružanja informacija u skladu sa odredbama ovog člana.",
+          "ragContent": "Ovaj član se odnosi na primenu propisa o poverljivim podacima. Član 15. Zakona o zaštiti poslovne tajne navodi da se na obavezu pružanja informacija primenjuju propisi o zaštiti podataka.\n\nPropisi kojima se uređuje način korišćenja poverljivih podataka u građanskim i krivičnim postupcima, propisi kojima se uređuje odgovornost za zloupotrebu prava na dobijanje informacija, kao i propisi kojima se uređuje zaštita podataka o ličnosti, primenjuju se na obavezu pružanja informacija u skladu sa odredbama ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Podnesci i odluke u sudskom postupku koji se odnosi na nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne, ne dostavljaju se putem oglasne table.\n\nSud će u slučaju neuspešnog dostavljanja pozvati stranku putem oglasne table da u roku od osam dana od dana objavljivanja poziva neposredno u sudu preuzme podnesak ili odluku.\n\nAko u roku iz stava 2. ovog člana stranka ne preuzme podnesak ili odluku, smatraće se da je dostavljanje izvršeno istekom osmog dana od dana objavljivanja poziva za preuzimanje podneska ili odluke na oglasnoj tabli suda.",
+      "chunks": [
+        {
+          "id": "70ee956a-504c-5250-9ead-c696ee2989fd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Podnesci i odluke u sudskom postupku koji se odnosi na nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne, ne dostavljaju se putem oglasne table.\n\nSud će u slučaju neuspešnog dostavljanja pozvati stranku putem oglasne table da u roku od osam dana od dana objavljivanja poziva neposredno u sudu preuzme podnesak ili odluku.\n\nAko u roku iz stava 2. ovog člana stranka ne preuzme podnesak ili odluku, smatraće se da je dostavljanje izvršeno istekom osmog dana od dana objavljivanja poziva za preuzimanje podneska ili odluke na oglasnoj tabli suda.",
+          "ragContent": "Ovaj član uređuje dostavljanje podnesaka i odluka u postupcima vezanim za poslovne tajne. Član 16. Zakona o zaštiti poslovne tajne propisuje način dostavljanja dokumenata u ovim slučajevima.\n\nPodnesci i odluke u sudskom postupku koji se odnosi na nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne, ne dostavljaju se putem oglasne table.\n\nSud će u slučaju neuspešnog dostavljanja pozvati stranku putem oglasne table da u roku od osam dana od dana objavljivanja poziva neposredno u sudu preuzme podnesak ili odluku.\n\nAko u roku iz stava 2. ovog člana stranka ne preuzme podnesak ili odluku, smatraće se da je dostavljanje izvršeno istekom osmog dana od dana objavljivanja poziva za preuzimanje podneska ili odluke na oglasnoj tabli suda."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Odredbe ovog zakona o merama, pravnim sredstvima i postupcima ne primenjuju se u sledećim slučajevima:\n\n1) radi ostvarivanja prava na slobodu izražavanja i obaveštenost, u skladu s Ustavom Republike Srbije, Evropskom konvencijom za zaštitu ljudskih prava i osnovnih sloboda i presudama Evropskog suda za ljudska prava, Poveljom Evropske unije o osnovnim pravima, zakonom kojim se uređuje pravo na pristup informacijama od javnog značaja, kao i zakonom kojim se uređuju javno informisanje i mediji, a u skladu sa slobodom i raznovrsnošću medija;\n\n2) radi otkrivanja kažnjivih dela i drugih nezakonitih radnji, pod uslovom da je lice koje je pribavilo, koristilo ili otkrilo poslovnu tajnu delovalo u svrhu zaštite javnog interesa;\n\n3) radi otkrivanja poslovne tajne od strane zaposlenih njihovim predstavnicima u okviru zakonitog vršenja funkcije predstavnika, u skladu s posebnim propisima, pod uslovom da je otkrivanje poslovne tajne bilo neophodno za zakonito vršenje funkcije predstavnika;\n\n4) u cilju zaštite prava priznatih posebnim zakonom, ili\n\n5) u vezi sa pružanjem pravne pomoći advokata u skladu sa propisima kojima se uređuje položaj advokature.",
+      "chunks": [
+        {
+          "id": "7549dbbd-8744-5b31-be13-383d36a58741",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Odredbe ovog zakona o merama, pravnim sredstvima i postupcima ne primenjuju se u sledećim slučajevima:\n\n1) radi ostvarivanja prava na slobodu izražavanja i obaveštenost, u skladu s Ustavom Republike Srbije, Evropskom konvencijom za zaštitu ljudskih prava i osnovnih sloboda i presudama Evropskog suda za ljudska prava, Poveljom Evropske unije o osnovnim pravima, zakonom kojim se uređuje pravo na pristup informacijama od javnog značaja, kao i zakonom kojim se uređuju javno informisanje i mediji, a u skladu sa slobodom i raznovrsnošću medija;\n\n2) radi otkrivanja kažnjivih dela i drugih nezakonitih radnji, pod uslovom da je lice koje je pribavilo, koristilo ili otkrilo poslovnu tajnu delovalo u svrhu zaštite javnog interesa;\n\n3) radi otkrivanja poslovne tajne od strane zaposlenih njihovim predstavnicima u okviru zakonitog vršenja funkcije predstavnika, u skladu s posebnim propisima, pod uslovom da je otkrivanje poslovne tajne bilo neophodno za zakonito vršenje funkcije predstavnika;\n\n4) u cilju zaštite prava priznatih posebnim zakonom, ili\n\n5) u vezi sa pružanjem pravne pomoći advokata u skladu sa propisima kojima se uređuje položaj advokature.",
+          "ragContent": "Ovaj član definiše izuzetke od primene zakona o zaštiti poslovne tajne. Član 17. Zakona o zaštiti poslovne tajne navodi specifične situacije u kojima se odredbe zakona ne primenjuju.\n\nOdredbe ovog zakona o merama, pravnim sredstvima i postupcima ne primenjuju se u sledećim slučajevima:\n\n1) radi ostvarivanja prava na slobodu izražavanja i obaveštenost, u skladu s Ustavom Republike Srbije, Evropskom konvencijom za zaštitu ljudskih prava i osnovnih sloboda i presudama Evropskog suda za ljudska prava, Poveljom Evropske unije o osnovnim pravima, zakonom kojim se uređuje pravo na pristup informacijama od javnog značaja, kao i zakonom kojim se uređuju javno informisanje i mediji, a u skladu sa slobodom i raznovrsnošću medija;\n\n2) radi otkrivanja kažnjivih dela i drugih nezakonitih radnji, pod uslovom da je lice koje je pribavilo, koristilo ili otkrilo poslovnu tajnu delovalo u svrhu zaštite javnog interesa;\n\n3) radi otkrivanja poslovne tajne od strane zaposlenih njihovim predstavnicima u okviru zakonitog vršenja funkcije predstavnika, u skladu s posebnim propisima, pod uslovom da je otkrivanje poslovne tajne bilo neophodno za zakonito vršenje funkcije predstavnika;\n\n4) u cilju zaštite prava priznatih posebnim zakonom, ili\n\n5) u vezi sa pružanjem pravne pomoći advokata u skladu sa propisima kojima se uređuje položaj advokature."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Na pitanja koja se odnose na postupak po tužbi zbog povrede poslovne tajne, predlogu za određivanje privremene mere i predlogu za određivanje obezbeđenja dokaza, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuje parnični postupak i zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nNa pitanja u vezi sa naknadom štete, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuju obligacioni odnosi.",
+      "chunks": [
+        {
+          "id": "9c5c9ef2-7bfd-57b9-ac7e-e9d5f8e7c568",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Na pitanja koja se odnose na postupak po tužbi zbog povrede poslovne tajne, predlogu za određivanje privremene mere i predlogu za određivanje obezbeđenja dokaza, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuje parnični postupak i zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nNa pitanja u vezi sa naknadom štete, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuju obligacioni odnosi.",
+          "ragContent": "Ovaj član uređuje postupak u vezi sa tužbama za povredu poslovne tajne. Član 18. Zakona o zaštiti poslovne tajne propisuje primenu odredbi drugih zakona u vezi sa parničnim postupkom i obligacionim odnosima.\n\nNa pitanja koja se odnose na postupak po tužbi zbog povrede poslovne tajne, predlogu za određivanje privremene mere i predlogu za određivanje obezbeđenja dokaza, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuje parnični postupak i zakona kojim se uređuje postupak izvršenja i obezbeđenja.\n\nNa pitanja u vezi sa naknadom štete, a koja ovim zakonom nisu posebno uređena, shodno se primenjuju odredbe zakona kojim se uređuju obligacioni odnosi."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Stranke, njihovi advokati ili drugi zastupnici, sudski službenici, svedoci, sudski veštaci i druga lica koja učestvuju u sudskom postupku zbog nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne ili koja imaju pristup dokumentima koji su sastavni deo sudskog postupka, ne smeju koristiti ili otkriti poslovnu tajnu ili informaciju koja može da predstavlja poslovnu tajnu koju je sud, na obrazložen zahtev zainteresovane stranke, utvrdio kao poverljivu i za koju su ta lica saznala zbog učestvovanja u sudskom postupku. Lica iz stava 1. ovog člana dužna su da čuvaju poslovnu tajnu i nakon okončanja sudskog postupka. Obaveza iz stava 2. ovog člana prestaje: 1) ako se pravosnažnom odlukom suda utvrdi da informacija koja može da predstavlja poslovnu tajnu ne ispunjava uslove utvrđene u članu 2. stav 1. tačka 1) ovog zakona, ili 2) ako informacije koje čine poslovnu tajnu tokom vremena postanu opšte poznate ili lako dostupne licima koja se uobičajeno bave tom vrstom informacija.\n\nSud na obrazložen zahtev stranke može da odredi posebne mere za očuvanje tajnosti poslovne tajne ili informacije koja može da predstavlja poslovnu tajnu koja se koristi ili na koju se upućuje u toku sudskog postupka koji se odnosi na nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne. Mere iz stava 4. ovog člana su: 1) isključenje javnosti iz celog sudskog postupka ili dela postupka; 2) ograničenje broja lica koja imaju, u celini ili delimično, pristup dokumentima koje su podnele stranke u postupku ili treća lica, a koji sadrže poslovnu tajnu ili informaciju koja može da predstavlja poslovnu tajnu. Sud će upozoriti lica kojima je dozvolio pristup dokumentima na obavezu čuvanja tajnosti podataka iz stava 1. ovog člana; 3) ograničenje broja lica koja prisustvuju ročištima na kojima bi se poslovna tajna ili informacija koja može da predstavlja poslovnu tajnu mogla otkriti, kao i ograničenje pristupa zapisniku sa tih ročišta; 4) zabrana da se sudska odluka, u kojoj odlomci koji sadrže poslovnu tajnu nisu uklonjeni ili učinjeni nečitljivim, učini dostupnom licima koja nisu lica iz tač. 2) i 3) ovog stava.\n\nBroj lica iz stava 5. tač. 2) i 3) ovog člana ne sme biti veći od broja koji je potreban da bi se obezbedilo pravo stranke na stručnu pomoć i na pravično suđenje. Prilikom odlučivanja o merama iz stava 5. ovog člana i procene njihove opravdanosti, sud uzima u obzir potrebu da se obezbedi pravo stranaka na stručnu pomoć i na pravično suđenje, opravdane interese stranaka i trećih lica, s obzirom na okolnosti slučaja, kao i verovatnoću nastanka štete za jednu od stranaka ili za treća lica, koja bi mogla nastati zbog određivanja ili neodređivanja tih mera. Obrada ličnih podataka na osnovu mera za očuvanje tajnosti iz ovog člana sprovodi se u skladu sa propisima kojima se uređuje zaštita podataka o ličnosti.",
+      "chunks": [
+        {
+          "id": "256f1571-a083-53bd-9b5b-1fdf640bb405",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Stranke, njihovi advokati ili drugi zastupnici, sudski službenici, svedoci, sudski veštaci i druga lica koja učestvuju u sudskom postupku zbog nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne ili koja imaju pristup dokumentima koji su sastavni deo sudskog postupka, ne smeju koristiti ili otkriti poslovnu tajnu ili informaciju koja može da predstavlja poslovnu tajnu koju je sud, na obrazložen zahtev zainteresovane stranke, utvrdio kao poverljivu i za koju su ta lica saznala zbog učestvovanja u sudskom postupku. Lica iz stava 1. ovog člana dužna su da čuvaju poslovnu tajnu i nakon okončanja sudskog postupka. Obaveza iz stava 2. ovog člana prestaje: 1) ako se pravosnažnom odlukom suda utvrdi da informacija koja može da predstavlja poslovnu tajnu ne ispunjava uslove utvrđene u članu 2. stav 1. tačka 1) ovog zakona, ili 2) ako informacije koje čine poslovnu tajnu tokom vremena postanu opšte poznate ili lako dostupne licima koja se uobičajeno bave tom vrstom informacija.",
+          "ragContent": "Ovaj deo člana uređuje obavezu čuvanja poslovne tajne tokom sudskog postupka. Član 19. Zakona o zaštiti poslovne tajne propisuje da stranke i drugi učesnici u postupku ne smeju otkrivati poslovne tajne.  Obaveza čuvanja poslovne tajne traje i nakon okončanja postupka, osim u određenim slučajevima."
+        },
+        {
+          "id": "20fff3b3-9a58-5eec-941e-75c38ae1d2e4",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Sud na obrazložen zahtev stranke može da odredi posebne mere za očuvanje tajnosti poslovne tajne ili informacije koja može da predstavlja poslovnu tajnu koja se koristi ili na koju se upućuje u toku sudskog postupka koji se odnosi na nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne. Mere iz stava 4. ovog člana su: 1) isključenje javnosti iz celog sudskog postupka ili dela postupka; 2) ograničenje broja lica koja imaju, u celini ili delimično, pristup dokumentima koje su podnele stranke u postupku ili treća lica, a koji sadrže poslovnu tajnu ili informaciju koja može da predstavlja poslovnu tajnu. Sud će upozoriti lica kojima je dozvolio pristup dokumentima na obavezu čuvanja tajnosti podataka iz stava 1. ovog člana; 3) ograničenje broja lica koja prisustvuju ročištima na kojima bi se poslovna tajna ili informacija koja može da predstavlja poslovnu tajnu mogla otkriti, kao i ograničenje pristupa zapisniku sa tih ročišta; 4) zabrana da se sudska odluka, u kojoj odlomci koji sadrže poslovnu tajnu nisu uklonjeni ili učinjeni nečitljivim, učini dostupnom licima koja nisu lica iz tač. 2) i 3) ovog stava.",
+          "ragContent": "Ovaj deo člana se bavi merama za očuvanje tajnosti poslovne tajne tokom sudskog postupka. Član 19. Zakona o zaštiti poslovne tajne omogućava sudu da odredi posebne mere za zaštitu poslovne tajne.  Mere uključuju isključenje javnosti i ograničenje pristupa dokumentima."
+        },
+        {
+          "id": "75fd0d9b-4cfb-5b7e-873c-eec83a71ec59",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Broj lica iz stava 5. tač. 2) i 3) ovog člana ne sme biti veći od broja koji je potreban da bi se obezbedilo pravo stranke na stručnu pomoć i na pravično suđenje. Prilikom odlučivanja o merama iz stava 5. ovog člana i procene njihove opravdanosti, sud uzima u obzir potrebu da se obezbedi pravo stranaka na stručnu pomoć i na pravično suđenje, opravdane interese stranaka i trećih lica, s obzirom na okolnosti slučaja, kao i verovatnoću nastanka štete za jednu od stranaka ili za treća lica, koja bi mogla nastati zbog određivanja ili neodređivanja tih mera. Obrada ličnih podataka na osnovu mera za očuvanje tajnosti iz ovog člana sprovodi se u skladu sa propisima kojima se uređuje zaštita podataka o ličnosti.",
+          "ragContent": "Ovaj deo člana se odnosi na broj lica koja mogu imati pristup informacijama tokom postupka. Član 19. Zakona o zaštiti poslovne tajne propisuje da broj lica ne sme biti veći od onog potrebnog za obezbeđenje prava na stručnu pomoć i pravično suđenje."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Pojedini izrazi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) poslovnom tajnom smatraju se informacije koje ispunjavaju sledeće uslove:\n\n(1) predstavljaju tajnu jer nisu u celini ili u pogledu strukture i skupa njihovih sastavnih delova opšte poznate ili lako dostupne licima koja u okviru svojih aktivnosti uobičajeno dolaze u kontakt sa takvom vrstom informacija,\n\n(2) imaju komercijalnu vrednost jer predstavljaju tajnu,\n\n(3) lice koje ih zakonito kontroliše je u datim okolnostima preduzelo razumne mere kako bi sačuvalo njihovu tajnost;\n\n2) držalac poslovne tajne je fizičko ili pravno lice pod čijom je zakonitom kontrolom poslovna tajna;\n\n3) lice koje je povredilo poslovnu tajnu je fizičko ili pravno lice koje je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n4) lice za koje se sumnja da je povredilo poslovnu tajnu je fizičko ili pravno lice za koje se sumnja da je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n5) roba kojom je izvršena povreda je roba čiji su dizajn, karakteristike, način funkcionisanja, postupak proizvodnje ili način stavljanja u promet u značajnoj meri ostvareni zahvaljujući poslovnoj tajni koja je nezakonito pribavljena, korišćena ili otkrivena.\n\nInformacije iz stava 1. tačka 1) ovog člana obuhvataju, između ostalog, znanje i iskustvo, poslovne informacije i tehnološke informacije.\n\nRazumnim merama za očuvanje tajnosti informacija iz stava 1. tačka 1) podtačka (3) ovog člana smatraju se, između ostalog, izrada internog akta o rukovanju poslovnom tajnom i krugu lica i njihovim pravima i obavezama prilikom rukovanja poslovnom tajnom, mere fizičke ili elektronske zaštite pristupa i rukovanja poslovnom tajnom, označavanje dokumenata oznakom „poslovna tajna” ili sličnom oznakom, ograničavanje pristupa prostorijama i datotekama u kojima se nalaze informacije koje se smatraju poslovnom tajnom ili zaključivanje ugovora o poverljivosti, odnosno neotkrivanju poverljivih informacija sa licima koja potencijalno mogu da dođu u posed poslovne tajne, uključujući zaposlene, poslovne partnere, spoljne saradnike i konsultante, odnosno potpisivanje izjava o poverljivosti ili neotkrivanju poverljivih informacija od strane navedenih lica.",
+      "chunks": [
+        {
+          "id": "293bb7f0-8ef5-55b8-b39f-d2b378c57943",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pojedini izrazi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) poslovnom tajnom smatraju se informacije koje ispunjavaju sledeće uslove:\n\n(1) predstavljaju tajnu jer nisu u celini ili u pogledu strukture i skupa njihovih sastavnih delova opšte poznate ili lako dostupne licima koja u okviru svojih aktivnosti uobičajeno dolaze u kontakt sa takvom vrstom informacija,\n\n(2) imaju komercijalnu vrednost jer predstavljaju tajnu,\n\n(3) lice koje ih zakonito kontroliše je u datim okolnostima preduzelo razumne mere kako bi sačuvalo njihovu tajnost;\n\n2) držalac poslovne tajne je fizičko ili pravno lice pod čijom je zakonitom kontrolom poslovna tajna;\n\n3) lice koje je povredilo poslovnu tajnu je fizičko ili pravno lice koje je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n4) lice za koje se sumnja da je povredilo poslovnu tajnu je fizičko ili pravno lice za koje se sumnja da je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n5) roba kojom je izvršena povreda je roba čiji su dizajn, karakteristike, način funkcionisanja, postupak proizvodnje ili način stavljanja u promet u značajnoj meri ostvareni zahvaljujući poslovnoj tajni koja je nezakonito pribavljena, korišćena ili otkrivena.\n\nInformacije iz stava 1. tačka 1) ovog člana obuhvataju, između ostalog, znanje i iskustvo, poslovne informacije i tehnološke informacije.\n\nRazumnim merama za očuvanje tajnosti informacija iz stava 1. tačka 1) podtačka (3) ovog člana smatraju se, između ostalog, izrada internog akta o rukovanju poslovnom tajnom i krugu lica i njihovim pravima i obavezama prilikom rukovanja poslovnom tajnom, mere fizičke ili elektronske zaštite pristupa i rukovanja poslovnom tajnom, označavanje dokumenata oznakom „poslovna tajna” ili sličnom oznakom, ograničavanje pristupa prostorijama i datotekama u kojima se nalaze informacije koje se smatraju poslovnom tajnom ili zaključivanje ugovora o poverljivosti, odnosno neotkrivanju poverljivih informacija sa licima koja potencijalno mogu da dođu u posed poslovne tajne, uključujući zaposlene, poslovne partnere, spoljne saradnike i konsultante, odnosno potpisivanje izjava o poverljivosti ili neotkrivanju poverljivih informacija od strane navedenih lica.",
+          "ragContent": "Ovaj član definiše ključne pojmove vezane za poslovnu tajnu. Član 2. Zakona o zaštiti poslovne tajne objašnjava šta se smatra poslovnom tajnom i ko su njeni držaoci, kao i mere zaštite.\n\nPojedini izrazi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) poslovnom tajnom smatraju se informacije koje ispunjavaju sledeće uslove:\n\n(1) predstavljaju tajnu jer nisu u celini ili u pogledu strukture i skupa njihovih sastavnih delova opšte poznate ili lako dostupne licima koja u okviru svojih aktivnosti uobičajeno dolaze u kontakt sa takvom vrstom informacija,\n\n(2) imaju komercijalnu vrednost jer predstavljaju tajnu,\n\n(3) lice koje ih zakonito kontroliše je u datim okolnostima preduzelo razumne mere kako bi sačuvalo njihovu tajnost;\n\n2) držalac poslovne tajne je fizičko ili pravno lice pod čijom je zakonitom kontrolom poslovna tajna;\n\n3) lice koje je povredilo poslovnu tajnu je fizičko ili pravno lice koje je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n4) lice za koje se sumnja da je povredilo poslovnu tajnu je fizičko ili pravno lice za koje se sumnja da je nezakonito pribavilo, koristilo ili otkrilo poslovnu tajnu;\n\n5) roba kojom je izvršena povreda je roba čiji su dizajn, karakteristike, način funkcionisanja, postupak proizvodnje ili način stavljanja u promet u značajnoj meri ostvareni zahvaljujući poslovnoj tajni koja je nezakonito pribavljena, korišćena ili otkrivena.\n\nInformacije iz stava 1. tačka 1) ovog člana obuhvataju, između ostalog, znanje i iskustvo, poslovne informacije i tehnološke informacije.\n\nRazumnim merama za očuvanje tajnosti informacija iz stava 1. tačka 1) podtačka (3) ovog člana smatraju se, između ostalog, izrada internog akta o rukovanju poslovnom tajnom i krugu lica i njihovim pravima i obavezama prilikom rukovanja poslovnom tajnom, mere fizičke ili elektronske zaštite pristupa i rukovanja poslovnom tajnom, označavanje dokumenata oznakom „poslovna tajna” ili sličnom oznakom, ograničavanje pristupa prostorijama i datotekama u kojima se nalaze informacije koje se smatraju poslovnom tajnom ili zaključivanje ugovora o poverljivosti, odnosno neotkrivanju poverljivih informacija sa licima koja potencijalno mogu da dođu u posed poslovne tajne, uključujući zaposlene, poslovne partnere, spoljne saradnike i konsultante, odnosno potpisivanje izjava o poverljivosti ili neotkrivanju poverljivih informacija od strane navedenih lica."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Strano fizičko i pravno lice u pogledu zaštite poslovne tajne uživa ista prava kao i domaće fizičko i pravno lice, ako to proizlazi iz međunarodnih ugovora koji se primenjuju u Republici Srbiji, ili iz načela uzajamnosti.\n\nPostojanje uzajamnosti dokazuje lice koje se na uzajamnost poziva.",
+      "chunks": [
+        {
+          "id": "59035065-33b7-598b-9c82-c361d0cdacc4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Strano fizičko i pravno lice u pogledu zaštite poslovne tajne uživa ista prava kao i domaće fizičko i pravno lice, ako to proizlazi iz međunarodnih ugovora koji se primenjuju u Republici Srbiji, ili iz načela uzajamnosti.\n\nPostojanje uzajamnosti dokazuje lice koje se na uzajamnost poziva.",
+          "ragContent": "Strana lica imaju prava na zaštitu poslovne tajne kao domaća. Član 20. Zakona o zaštiti poslovne tajne propisuje prava stranih lica u vezi sa poslovnom tajnom.\n\nStrano fizičko i pravno lice u pogledu zaštite poslovne tajne uživa ista prava kao i domaće fizičko i pravno lice, ako to proizlazi iz međunarodnih ugovora koji se primenjuju u Republici Srbiji, ili iz načela uzajamnosti.\n\nPostojanje uzajamnosti dokazuje lice koje se na uzajamnost poziva."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kazniće se za privredni prestup novčanom kaznom u iznosu od 100.000 do 3.000.000 dinara pravno lice koje u skladu sa članom 4. ovog zakona nezakonito pribavi, koristi ili otkrije poslovnu tajnu.\n\nZa radnje iz stava 1. ovog člana kazniće se za privredni prestup odgovorno lice u pravnom licu novčanom kaznom u iznosu od 50.000 do 200.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj preduzetnik novčanom kaznom u iznosu od 50.000 do 500.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj fizičko lice novčanom kaznom u iznosu od 20.000 do 150.000 dinara.\n\nPredmeti izvršenja privrednog prestupa ili prekršaja iz st. 1–4. ovog člana biće oduzeti i uništeni, a predmeti koji su bili upotrebljeni za izvršenje privrednog prestupa ili prekršaja iz st. 1–4. ovog člana, biće oduzeti.",
+      "chunks": [
+        {
+          "id": "56f90c46-aca0-5fb5-9b19-3ef5484e0730",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kazniće se za privredni prestup novčanom kaznom u iznosu od 100.000 do 3.000.000 dinara pravno lice koje u skladu sa članom 4. ovog zakona nezakonito pribavi, koristi ili otkrije poslovnu tajnu.\n\nZa radnje iz stava 1. ovog člana kazniće se za privredni prestup odgovorno lice u pravnom licu novčanom kaznom u iznosu od 50.000 do 200.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj preduzetnik novčanom kaznom u iznosu od 50.000 do 500.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj fizičko lice novčanom kaznom u iznosu od 20.000 do 150.000 dinara.\n\nPredmeti izvršenja privrednog prestupa ili prekršaja iz st. 1–4. ovog člana biće oduzeti i uništeni, a predmeti koji su bili upotrebljeni za izvršenje privrednog prestupa ili prekršaja iz st. 1–4. ovog člana, biće oduzeti.",
+          "ragContent": "Ovaj član uređuje kazne za privredne prestupe i prekršaje vezane za poslovne tajne. Član 21. Zakona o zaštiti poslovne tajne propisuje novčane kazne za pravna i fizička lica koja nezakonito pribave, koriste ili otkriju poslovnu tajnu.\n\nKazniće se za privredni prestup novčanom kaznom u iznosu od 100.000 do 3.000.000 dinara pravno lice koje u skladu sa članom 4. ovog zakona nezakonito pribavi, koristi ili otkrije poslovnu tajnu.\n\nZa radnje iz stava 1. ovog člana kazniće se za privredni prestup odgovorno lice u pravnom licu novčanom kaznom u iznosu od 50.000 do 200.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj preduzetnik novčanom kaznom u iznosu od 50.000 do 500.000 dinara.\n\nZa radnje iz stava 1. ovog člana kazniće se za prekršaj fizičko lice novčanom kaznom u iznosu od 20.000 do 150.000 dinara.\n\nPredmeti izvršenja privrednog prestupa ili prekršaja iz st. 1–4. ovog člana biće oduzeti i uništeni, a predmeti koji su bili upotrebljeni za izvršenje privrednog prestupa ili prekršaja iz st. 1–4. ovog člana, biće oduzeti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o zaštiti poslovne tajne („Službeni glasnik RS”, broj 72/11).",
+      "chunks": [
+        {
+          "id": "81e025ae-826e-5637-a4aa-16a4730e33c9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o zaštiti poslovne tajne („Službeni glasnik RS”, broj 72/11).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnog zakona. Član 22. Zakona o zaštiti poslovne tajne definiše da danom stupanja na snagu ovog zakona prestaje važenje prethodnog zakona.  Danom stupanja na snagu ovog zakona prestaje da važi Zakon o zaštiti poslovne tajne („Službeni glasnik RS”, broj 72/11)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 23",
+      "articleNo": "23",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 17. tačka 1), u delu koji se odnosi na primenu propisa Evropske unije, koji se primenjuje od dana pristupanja Republike Srbije Evropskoj uniji.",
+      "chunks": [
+        {
+          "id": "a2be5cbb-2e1e-51d4-8413-81d783682597",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 17. tačka 1), u delu koji se odnosi na primenu propisa Evropske unije, koji se primenjuje od dana pristupanja Republike Srbije Evropskoj uniji.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 23. Zakona o zaštiti poslovne tajne propisuje da zakon stupa na snagu osmog dana od objavljivanja, osim određenih odredbi.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, osim odredbe člana 17. tačka 1), u delu koji se odnosi na primenu propisa Evropske unije, koji se primenjuje od dana pristupanja Republike Srbije Evropskoj uniji."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Pribavljanje poslovne tajne smatra se zakonitim ako je poslovna tajna pribavljena na jedan od sledećih načina:\n\n1) nezavisnim otkrićem ili stvaranjem;\n\n2) posmatranjem, proučavanjem, rastavljanjem ili testiranjem proizvoda ili predmeta koji je učinjen dostupnim javnosti ili koji je zakonito u državini pribavioca informacije (obrnuti inženjering) koji nije vezan pravno važećom obavezom da ograniči pribavljanje poslovne tajne ili koji nije vezan pravno važećom obavezom zabrane vršenja obrnutog inženjeringa;\n\n3) ostvarivanjem prava zaposlenih ili predstavnika zaposlenih na informisanje i konsultovanje u skladu sa posebnim propisima;\n\n4) drugom radnjom koja je u okolnostima konkretnog slučaja u skladu sa dobrim poslovnim običajima.\n\nPribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se zakonitim u meri u kojoj je zahtevano ili dopušteno posebnim propisima.",
+      "chunks": [
+        {
+          "id": "d1f87c26-9e9b-5381-8501-af15ad9dbee4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pribavljanje poslovne tajne smatra se zakonitim ako je poslovna tajna pribavljena na jedan od sledećih načina:\n\n1) nezavisnim otkrićem ili stvaranjem;\n\n2) posmatranjem, proučavanjem, rastavljanjem ili testiranjem proizvoda ili predmeta koji je učinjen dostupnim javnosti ili koji je zakonito u državini pribavioca informacije (obrnuti inženjering) koji nije vezan pravno važećom obavezom da ograniči pribavljanje poslovne tajne ili koji nije vezan pravno važećom obavezom zabrane vršenja obrnutog inženjeringa;\n\n3) ostvarivanjem prava zaposlenih ili predstavnika zaposlenih na informisanje i konsultovanje u skladu sa posebnim propisima;\n\n4) drugom radnjom koja je u okolnostima konkretnog slučaja u skladu sa dobrim poslovnim običajima.\n\nPribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se zakonitim u meri u kojoj je zahtevano ili dopušteno posebnim propisima.",
+          "ragContent": "Ovaj član uređuje načine na koje se može zakonito pribaviti poslovna tajna. Član 3. Zakona o zaštiti poslovne tajne definiše zakonite metode pribavljanja poslovne tajne.  Pribavljanje poslovne tajne smatra se zakonitim ako je poslovna tajna pribavljena na jedan od sledećih načina:\n\n1) nezavisnim otkrićem ili stvaranjem;\n\n2) posmatranjem, proučavanjem, rastavljanjem ili testiranjem proizvoda ili predmeta koji je učinjen dostupnim javnosti ili koji je zakonito u državini pribavioca informacije (obrnuti inženjering) koji nije vezan pravno važećom obavezom da ograniči pribavljanje poslovne tajne ili koji nije vezan pravno važećom obavezom zabrane vršenja obrnutog inženjeringa;\n\n3) ostvarivanjem prava zaposlenih ili predstavnika zaposlenih na informisanje i konsultovanje u skladu sa posebnim propisima;\n\n4) drugom radnjom koja je u okolnostima konkretnog slučaja u skladu sa dobrim poslovnim običajima.\n\nPribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se zakonitim u meri u kojoj je zahtevano ili dopušteno posebnim propisima."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Pribavljanje poslovne tajne bez saglasnosti držaoca poslovne tajne smatra se nezakonitim ako je učinjeno na sledeći način:\n\n1) neovlašćenim pristupom, prisvajanjem ili umnožavanjem dokumenata, predmeta, materijala, supstanci ili elektronskih datoteka koji su pod zakonitom kontrolom držaoca poslovne tajne, a sadrže poslovnu tajnu, ili se poslovna tajna iz njih može izvesti, ili\n\n2) drugim postupanjem za koje se, u datim okolnostima, smatra da je u suprotnosti sa dobrim poslovnim običajima.\n\nKorišćenje ili otkrivanje poslovne tajne smatra se nezakonitim ako ga bez saglasnosti držaoca poslovne tajne vrši lice za koje se ustanovi da je:\n\n1) poslovnu tajnu pribavilo nezakonito;\n\n2) prekršilo sporazum o poverljivosti ili drugu obavezu koja se odnosi na zabranu otkrivanja poslovne tajne;\n\n3) prekršilo ugovornu ili drugu obavezu kojom se ograničava korišćenje poslovne tajne.\n\nPribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se nezakonitim i ako je lice u trenutku pribavljanja, korišćenja ili otkrivanja znalo ili je u datim okolnostima moralo da zna da je poslovna tajna pribavljena direktno ili indirektno od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo u smislu stava 2. ovog člana.\n\nNezakonitim korišćenjem poslovne tajne smatra se i proizvodnja, nuđenje ili stavljanje u promet robe kojom je izvršena povreda, odnosno uvoz, izvoz ili skladištenje robe kojom se vrši povreda u svrhe proizvodnje, nuđenja ili stavljanja robe u promet, ako je lice koje je obavljalo navedene aktivnosti znalo ili je u datim okolnostima moralo da zna da je poslovna tajna korišćena nezakonito u smislu stava 2. ovog člana.",
+      "chunks": [
+        {
+          "id": "20ff08a7-c7a7-5f7b-aa19-1a13c2d3d830",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pribavljanje poslovne tajne bez saglasnosti držaoca poslovne tajne smatra se nezakonitim ako je učinjeno na sledeći način:\n\n1) neovlašćenim pristupom, prisvajanjem ili umnožavanjem dokumenata, predmeta, materijala, supstanci ili elektronskih datoteka koji su pod zakonitom kontrolom držaoca poslovne tajne, a sadrže poslovnu tajnu, ili se poslovna tajna iz njih može izvesti, ili\n\n2) drugim postupanjem za koje se, u datim okolnostima, smatra da je u suprotnosti sa dobrim poslovnim običajima.\n\nKorišćenje ili otkrivanje poslovne tajne smatra se nezakonitim ako ga bez saglasnosti držaoca poslovne tajne vrši lice za koje se ustanovi da je:\n\n1) poslovnu tajnu pribavilo nezakonito;\n\n2) prekršilo sporazum o poverljivosti ili drugu obavezu koja se odnosi na zabranu otkrivanja poslovne tajne;\n\n3) prekršilo ugovornu ili drugu obavezu kojom se ograničava korišćenje poslovne tajne.",
+          "ragContent": "Ovaj deo člana definiše nezakonito pribavljanje poslovne tajne. Član 4. Zakona o zaštiti poslovne tajne propisuje načine na koje se pribavljanje poslovne tajne smatra nezakonitim.\n\nPribavljanje poslovne tajne bez saglasnosti držaoca poslovne tajne smatra se nezakonitim ako je učinjeno na sledeći način:\n\n1) neovlašćenim pristupom, prisvajanjem ili umnožavanjem dokumenata, predmeta, materijala, supstanci ili elektronskih datoteka koji su pod zakonitom kontrolom držaoca poslovne tajne, a sadrže poslovnu tajnu, ili se poslovna tajna iz njih može izvesti, ili\n\n2) drugim postupanjem za koje se, u datim okolnostima, smatra da je u suprotnosti sa dobrim poslovnim običajima.\n\nKorišćenje ili otkrivanje poslovne tajne smatra se nezakonitim ako ga bez saglasnosti držaoca poslovne tajne vrši lice za koje se ustanovi da je:\n\n1) poslovnu tajnu pribavilo nezakonito;\n\n2) prekršilo sporazum o poverljivosti ili drugu obavezu koja se odnosi na zabranu otkrivanja poslovne tajne;\n\n3) prekršilo ugovornu ili drugu obavezu kojom se ograničava korišćenje poslovne tajne."
+        },
+        {
+          "id": "5c1cb176-d13d-51b1-97d0-9b9b4c024ef6",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Pribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se nezakonitim i ako je lice u trenutku pribavljanja, korišćenja ili otkrivanja znalo ili je u datim okolnostima moralo da zna da je poslovna tajna pribavljena direktno ili indirektno od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo u smislu stava 2. ovog člana.\n\nNezakonitim korišćenjem poslovne tajne smatra se i proizvodnja, nuđenje ili stavljanje u promet robe kojom je izvršena povreda, odnosno uvoz, izvoz ili skladištenje robe kojom se vrši povreda u svrhe proizvodnje, nuđenja ili stavljanja robe u promet, ako je lice koje je obavljalo navedene aktivnosti znalo ili je u datim okolnostima moralo da zna da je poslovna tajna korišćena nezakonito u smislu stava 2. ovog člana.",
+          "ragContent": "Ovaj deo člana se bavi nezakonitim korišćenjem poslovne tajne. Član 4. Zakona o zaštiti poslovne tajne definiše dodatne okolnosti pod kojima se smatra da je korišćenje poslovne tajne nezakonito.\n\nPribavljanje, korišćenje ili otkrivanje poslovne tajne smatra se nezakonitim i ako je lice u trenutku pribavljanja, korišćenja ili otkrivanja znalo ili je u datim okolnostima moralo da zna da je poslovna tajna pribavljena direktno ili indirektno od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo u smislu stava 2. ovog člana.\n\nNezakonitim korišćenjem poslovne tajne smatra se i proizvodnja, nuđenje ili stavljanje u promet robe kojom je izvršena povreda, odnosno uvoz, izvoz ili skladištenje robe kojom se vrši povreda u svrhe proizvodnje, nuđenja ili stavljanja robe u promet, ako je lice koje je obavljalo navedene aktivnosti znalo ili je u datim okolnostima moralo da zna da je poslovna tajna korišćena nezakonito u smislu stava 2. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "U slučaju povrede poslovne tajne držalac poslovne tajne može tužbom zahtevati:\n\n1) utvrđivanje povrede;\n\n2) prestanak povrede, ili u zavisnosti od slučaja, zabranu korišćenja ili otkrivanja poslovne tajne;\n\n3) zabranu proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n4) određivanje odgovarajućih mera koje se odnose na robu kojom je izvršena povreda, koje obuhvataju povlačenje takve robe s tržišta, uklanjanje s robe svojstava koja je čine robom kojom je izvršena povreda poslovne tajne ili uništenje robe kojom je izvršena povreda, odnosno ako je to opravdano, njeno povlačenje s tržišta, pod uslovom da se povlačenjem robe ne ugrožava zaštita poslovne tajne na koju se tužba odnosi;\n\n5) uništenje u celini ili delimično dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata koji sadrže poslovnu tajnu ili koji sami predstavljaju poslovnu tajnu ili ako je primereno, predaju tih dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata u celini ili delimično tužiocu.\n\nProtiv lica čije neovlašćeno preduzimanje određene radnje predstavlja neposrednu pretnju da će nezakonito pribaviti, koristiti ili otkriti poslovnu tajnu, držalac poslovne tajne može tužbom zahtevati prestanak preduzimanja te radnje i zabranu nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne.\n\nTužbeni zahtevi iz st. 1. i 2. ovog člana mogu da se podnesu i protiv posrednika koji pruža usluge koje treće lice koristi u radnjama kojima nezakonito pribavlja, koristi ili otkriva poslovnu tajnu, odnosno čije preduzimanje predstavlja neposrednu pretnju za nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne.\n\nKada tužilac traži da se sa tržišta povuče roba kojom je izvršena povreda, on može da zahteva da se roba preda držaocu poslovne tajne ili dobrotvornim organizacijama.\n\nMere iz stava 1. tač. 4) i 5) ovog člana obavljaju se o trošku lica koje je povredilo poslovnu tajnu, osim ako sud odredi drugačije.\n\nOsim držaoca poslovne tajne, tužbu iz st. 1. i 2. ovog člana može podneti i sticalac licence, ako je za to ovlašćen na osnovu ugovora ili zakona.",
+      "chunks": [
+        {
+          "id": "a9286758-04b0-527d-a512-d6bb18b6165d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U slučaju povrede poslovne tajne držalac poslovne tajne može tužbom zahtevati:\n\n1) utvrđivanje povrede;\n\n2) prestanak povrede, ili u zavisnosti od slučaja, zabranu korišćenja ili otkrivanja poslovne tajne;\n\n3) zabranu proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n4) određivanje odgovarajućih mera koje se odnose na robu kojom je izvršena povreda, koje obuhvataju povlačenje takve robe s tržišta, uklanjanje s robe svojstava koja je čine robom kojom je izvršena povreda poslovne tajne ili uništenje robe kojom je izvršena povreda, odnosno ako je to opravdano, njeno povlačenje s tržišta, pod uslovom da se povlačenjem robe ne ugrožava zaštita poslovne tajne na koju se tužba odnosi;\n\n5) uništenje u celini ili delimično dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata koji sadrže poslovnu tajnu ili koji sami predstavljaju poslovnu tajnu ili ako je primereno, predaju tih dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata u celini ili delimično tužiocu.\n\nProtiv lica čije neovlašćeno preduzimanje određene radnje predstavlja neposrednu pretnju da će nezakonito pribaviti, koristiti ili otkriti poslovnu tajnu, držalac poslovne tajne može tužbom zahtevati prestanak preduzimanja te radnje i zabranu nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne.",
+          "ragContent": "Ovaj deo člana uređuje tužbene zahteve u slučaju povrede poslovne tajne. Član 5. Zakona o zaštiti poslovne tajne definiše mogućnosti koje držalac poslovne tajne ima u slučaju povrede.\n\nU slučaju povrede poslovne tajne držalac poslovne tajne može tužbom zahtevati:\n\n1) utvrđivanje povrede;\n\n2) prestanak povrede, ili u zavisnosti od slučaja, zabranu korišćenja ili otkrivanja poslovne tajne;\n\n3) zabranu proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe kojom je izvršena povreda, odnosno zabranu uvoza, izvoza ili skladištenja robe kojom je izvršena povreda u svrhe proizvodnje, nuđenja, stavljanja u promet ili korišćenja robe;\n\n4) određivanje odgovarajućih mera koje se odnose na robu kojom je izvršena povreda, koje obuhvataju povlačenje takve robe s tržišta, uklanjanje s robe svojstava koja je čine robom kojom je izvršena povreda poslovne tajne ili uništenje robe kojom je izvršena povreda, odnosno ako je to opravdano, njeno povlačenje s tržišta, pod uslovom da se povlačenjem robe ne ugrožava zaštita poslovne tajne na koju se tužba odnosi;\n\n5) uništenje u celini ili delimično dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata koji sadrže poslovnu tajnu ili koji sami predstavljaju poslovnu tajnu ili ako je primereno, predaju tih dokumenata, predmeta, materijala, supstanci ili elektronskih dokumenata u celini ili delimično tužiocu.\n\nProtiv lica čije neovlašćeno preduzimanje određene radnje predstavlja neposrednu pretnju da će nezakonito pribaviti, koristiti ili otkriti poslovnu tajnu, držalac poslovne tajne može tužbom zahtevati prestanak preduzimanja te radnje i zabranu nezakonitog pribavljanja, korišćenja ili otkrivanja poslovne tajne."
+        },
+        {
+          "id": "a2975bd2-36dc-5d34-8347-545b9cd40866",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Tužbeni zahtevi iz st. 1. i 2. ovog člana mogu da se podnesu i protiv posrednika koji pruža usluge koje treće lice koristi u radnjama kojima nezakonito pribavlja, koristi ili otkriva poslovnu tajnu, odnosno čije preduzimanje predstavlja neposrednu pretnju za nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne.\n\nKada tužilac traži da se sa tržišta povuče roba kojom je izvršena povreda, on može da zahteva da se roba preda držaocu poslovne tajne ili dobrotvornim organizacijama.\n\nMere iz stava 1. tač. 4) i 5) ovog člana obavljaju se o trošku lica koje je povredilo poslovnu tajnu, osim ako sud odredi drugačije.\n\nOsim držaoca poslovne tajne, tužbu iz st. 1. i 2. ovog člana može podneti i sticalac licence, ako je za to ovlašćen na osnovu ugovora ili zakona.",
+          "ragContent": "Ovaj deo člana se bavi mogućnošću podnošenja tužbi protiv posrednika i troškovima mera. Član 5. Zakona o zaštiti poslovne tajne omogućava podnošenje tužbi protiv posrednika koji pomažu u nezakonitom pribavljanju poslovne tajne.\n\nTužbeni zahtevi iz st. 1. i 2. ovog člana mogu da se podnesu i protiv posrednika koji pruža usluge koje treće lice koristi u radnjama kojima nezakonito pribavlja, koristi ili otkriva poslovnu tajnu, odnosno čije preduzimanje predstavlja neposrednu pretnju za nezakonito pribavljanje, korišćenje ili otkrivanje poslovne tajne.\n\nKada tužilac traži da se sa tržišta povuče roba kojom je izvršena povreda, on može da zahteva da se roba preda držaocu poslovne tajne ili dobrotvornim organizacijama.\n\nMere iz stava 1. tač. 4) i 5) ovog člana obavljaju se o trošku lica koje je povredilo poslovnu tajnu, osim ako sud odredi drugačije.\n\nOsim držaoca poslovne tajne, tužbu iz st. 1. i 2. ovog člana može podneti i sticalac licence, ako je za to ovlašćen na osnovu ugovora ili zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Tužba zbog povrede poslovne tajne može se podneti u roku od godinu dana od dana kada je tužilac saznao za povredu i lice za koje se sumnja da je povredilo poslovnu tajnu, a najkasnije u roku od pet godina od dana učinjene povrede ili od dana poslednje učinjene povrede ako se povreda vrši kontinuirano.\n\nPostupak po tužbi iz stava 1. ovog člana je hitan.",
+      "chunks": [
+        {
+          "id": "ebfb6746-057d-505e-910e-6f2240451f5a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Tužba zbog povrede poslovne tajne može se podneti u roku od godinu dana od dana kada je tužilac saznao za povredu i lice za koje se sumnja da je povredilo poslovnu tajnu, a najkasnije u roku od pet godina od dana učinjene povrede ili od dana poslednje učinjene povrede ako se povreda vrši kontinuirano.\n\nPostupak po tužbi iz stava 1. ovog člana je hitan.",
+          "ragContent": "Ovaj član uređuje rokove za podnošenje tužbe zbog povrede poslovne tajne. Član 6. Zakona o zaštiti poslovne tajne propisuje da tužba može biti podneta u roku od godinu dana od saznanja o povredi, a najkasnije u roku od pet godina od učinjene povrede ili poslednje kontinuirane povrede.\n\nTužba zbog povrede poslovne tajne može se podneti u roku od godinu dana od dana kada je tužilac saznao za povredu i lice za koje se sumnja da je povredilo poslovnu tajnu, a najkasnije u roku od pet godina od dana učinjene povrede ili od dana poslednje učinjene povrede ako se povreda vrši kontinuirano.\n\nPostupak po tužbi iz stava 1. ovog člana je hitan."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "Prilikom odlučivanja o tužbenim zahtevima iz člana 5. ovog zakona sud vodi računa da mere budu u srazmeri sa prirodom i intenzitetom povrede, pri čemu vodi računa o posebnim okolnostima slučaja, koje mogu obuhvatiti:\n\n1) vrednost i druge karakteristične odlike poslovne tajne;\n\n2) mere preduzete radi zaštite poslovne tajne;\n\n3) ponašanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne;\n\n4) posledice nezakonitog korišćenja ili otkrivanja poslovne tajne;\n\n5) opravdane interese stranaka i posledice koje bi usvajanje ili odbijanje tužbenog zahteva moglo da ima na njih;\n\n6) opravdane interese trećih lica;\n\n7) javni interes;\n\n8) zaštitu osnovnih prava.\n\nAko sud ograniči trajanje mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona, to trajanje mora biti dovoljno za uklanjanje svake trgovinske ili privredne prednosti koju bi lice koje je povredilo poslovnu tajnu moglo da ostvari nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne.\n\nMere naložene na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona ukinuće se, na zahtev lica koje je povredilo poslovnu tajnu, ako informacije na koje se tužbeni zahtevi odnose više ne ispunjavaju uslove iz člana 2. stav 1. tačka 1) ovog zakona, iz razloga za koje lice koje je povredilo poslovnu tajnu nije neposredno ili posredno odgovorno.\n\nSud može na zahtev lica koje je povredilo poslovnu tajnu, vodeći računa o okolnostima slučaja, umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. ovog zakona, naložiti plaćanje novčane naknade oštećenoj stranci, ako su ispunjeni sledeći uslovi:\n\n1) lice koje je povredilo poslovnu tajnu u trenutku korišćenja ili otkrivanja poslovne tajne nije znalo, niti je u datim okolnostima moralo da zna da je poslovna tajna pribavljena od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo;\n\n2) izvršavanjem mera iz člana 5. ovog zakona bi se nanela nesrazmerna šteta licu koje je povredilo poslovnu tajnu.\n\nAko umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona sud dosudi plaćanje novčane naknade, ona ne sme da premaši iznos naknade koji bi lice koje je povredilo poslovnu tajnu platilo da je zakonito koristilo poslovnu tajnu za vremenski period u kome korišćenje poslovne tajne nije bilo dozvoljeno.",
+      "chunks": [
+        {
+          "id": "46f3564c-d161-54a4-8318-146daad14c49",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Prilikom odlučivanja o tužbenim zahtevima iz člana 5. ovog zakona sud vodi računa da mere budu u srazmeri sa prirodom i intenzitetom povrede, pri čemu vodi računa o posebnim okolnostima slučaja, koje mogu obuhvatiti:\n\n1) vrednost i druge karakteristične odlike poslovne tajne;\n\n2) mere preduzete radi zaštite poslovne tajne;\n\n3) ponašanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne;\n\n4) posledice nezakonitog korišćenja ili otkrivanja poslovne tajne;\n\n5) opravdane interese stranaka i posledice koje bi usvajanje ili odbijanje tužbenog zahteva moglo da ima na njih;\n\n6) opravdane interese trećih lica;\n\n7) javni interes;\n\n8) zaštitu osnovnih prava.\n\nAko sud ograniči trajanje mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona, to trajanje mora biti dovoljno za uklanjanje svake trgovinske ili privredne prednosti koju bi lice koje je povredilo poslovnu tajnu moglo da ostvari nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne.",
+          "ragContent": "Ovaj deo se bavi merama koje sud preduzima prilikom odlučivanja o tužbenim zahtevima. Zakon o zaštiti poslovne tajne, član 7, definiše kako sud treba da razmatra okolnosti povrede poslovne tajne.\n\nPrilikom odlučivanja o tužbenim zahtevima iz člana 5. ovog zakona sud vodi računa da mere budu u srazmeri sa prirodom i intenzitetom povrede, pri čemu vodi računa o posebnim okolnostima slučaja, koje mogu obuhvatiti:\n\n1) vrednost i druge karakteristične odlike poslovne tajne;\n\n2) mere preduzete radi zaštite poslovne tajne;\n\n3) ponašanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne;\n\n4) posledice nezakonitog korišćenja ili otkrivanja poslovne tajne;\n\n5) opravdane interese stranaka i posledice koje bi usvajanje ili odbijanje tužbenog zahteva moglo da ima na njih;\n\n6) opravdane interese trećih lica;\n\n7) javni interes;\n\n8) zaštitu osnovnih prava.\n\nAko sud ograniči trajanje mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona, to trajanje mora biti dovoljno za uklanjanje svake trgovinske ili privredne prednosti koju bi lice koje je povredilo poslovnu tajnu moglo da ostvari nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne."
+        },
+        {
+          "id": "2efa925a-424d-567f-8e36-96b28cfc8beb",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Mere naložene na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona ukinuće se, na zahtev lica koje je povredilo poslovnu tajnu, ako informacije na koje se tužbeni zahtevi odnose više ne ispunjavaju uslove iz člana 2. stav 1. tačka 1) ovog zakona, iz razloga za koje lice koje je povredilo poslovnu tajnu nije neposredno ili posredno odgovorno.\n\nSud može na zahtev lica koje je povredilo poslovnu tajnu, vodeći računa o okolnostima slučaja, umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. ovog zakona, naložiti plaćanje novčane naknade oštećenoj stranci, ako su ispunjeni sledeći uslovi:\n\n1) lice koje je povredilo poslovnu tajnu u trenutku korišćenja ili otkrivanja poslovne tajne nije znalo, niti je u datim okolnostima moralo da zna da je poslovna tajna pribavljena od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo;\n\n2) izvršavanjem mera iz člana 5. ovog zakona bi se nanela nesrazmerna šteta licu koje je povredilo poslovnu tajnu.",
+          "ragContent": "Ovaj deo se odnosi na ukidanje mera i mogućnost plaćanja novčane naknade. Zakon o zaštiti poslovne tajne, član 7, propisuje uslove pod kojima se mere mogu ukinuti i kada se može naložiti plaćanje naknade.\n\nMere naložene na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona ukinuće se, na zahtev lica koje je povredilo poslovnu tajnu, ako informacije na koje se tužbeni zahtevi odnose više ne ispunjavaju uslove iz člana 2. stav 1. tačka 1) ovog zakona, iz razloga za koje lice koje je povredilo poslovnu tajnu nije neposredno ili posredno odgovorno.\n\nSud može na zahtev lica koje je povredilo poslovnu tajnu, vodeći računa o okolnostima slučaja, umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. ovog zakona, naložiti plaćanje novčane naknade oštećenoj stranci, ako su ispunjeni sledeći uslovi:\n\n1) lice koje je povredilo poslovnu tajnu u trenutku korišćenja ili otkrivanja poslovne tajne nije znalo, niti je u datim okolnostima moralo da zna da je poslovna tajna pribavljena od drugog lica koje je poslovnu tajnu nezakonito koristilo ili otkrilo;\n\n2) izvršavanjem mera iz člana 5. ovog zakona bi se nanela nesrazmerna šteta licu koje je povredilo poslovnu tajnu."
+        },
+        {
+          "id": "0316f50c-c0d4-57c8-8850-2e036b88c7a0",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Ako umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona sud dosudi plaćanje novčane naknade, ona ne sme da premaši iznos naknade koji bi lice koje je povredilo poslovnu tajnu platilo da je zakonito koristilo poslovnu tajnu za vremenski period u kome korišćenje poslovne tajne nije bilo dozvoljeno.",
+          "ragContent": "Ovaj deo se bavi iznosom novčane naknade koja se može dosuditi. Zakon o zaštiti poslovne tajne, član 7, propisuje ograničenje iznosa novčane naknade koja se može dosuditi licu koje je povredilo poslovnu tajnu.\n\nAko umesto mera naloženih na osnovu tužbenih zahteva iz člana 5. stav 1. tač. 2) i 3) ovog zakona sud dosudi plaćanje novčane naknade, ona ne sme da premaši iznos naknade koji bi lice koje je povredilo poslovnu tajnu platilo da je zakonito koristilo poslovnu tajnu za vremenski period u kome korišćenje poslovne tajne nije bilo dozvoljeno."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Protiv lica koje je povredilo poslovnu tajnu koje je znalo ili je moralo da zna da učestvuje u nezakonitom pribavljanju, korišćenju ili otkrivanju poslovne tajne, držalac poslovne tajne, odnosno sticalac licence može tužbom da zahteva naknadu štete prema opštim pravilima o naknadi štete i u skladu sa ovim zakonom.\n\nPrilikom određivanja visine naknade štete sud uzima u obzir sve okolnosti slučaja, kao što su negativne ekonomske posledice koje je pretrpeo držalac poslovne tajne, odnosno sticalac licence, koje obuhvataju običnu štetu, izmaklu korist i korist koju je povredom poslovne tajne ostvarilo lice koje je povredilo poslovnu tajnu.\n\nDržalac poslovne tajne, odnosno sticalac licence ima pravo na naknadu nematerijalne štete koja je prouzrokovana nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne.\n\nAko sud ne može da utvrdi visinu naknade štete u skladu sa st. 2. i 3. ovog člana, uzeće u obzir visinu naknade koju bi lice koje je povredilo poslovnu tajnu platilo za zakonito korišćenje poslovne tajne.",
+      "chunks": [
+        {
+          "id": "c3919983-2b22-5e76-bc5c-b61d3d4608a8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Protiv lica koje je povredilo poslovnu tajnu koje je znalo ili je moralo da zna da učestvuje u nezakonitom pribavljanju, korišćenju ili otkrivanju poslovne tajne, držalac poslovne tajne, odnosno sticalac licence može tužbom da zahteva naknadu štete prema opštim pravilima o naknadi štete i u skladu sa ovim zakonom.\n\nPrilikom određivanja visine naknade štete sud uzima u obzir sve okolnosti slučaja, kao što su negativne ekonomske posledice koje je pretrpeo držalac poslovne tajne, odnosno sticalac licence, koje obuhvataju običnu štetu, izmaklu korist i korist koju je povredom poslovne tajne ostvarilo lice koje je povredilo poslovnu tajnu.\n\nDržalac poslovne tajne, odnosno sticalac licence ima pravo na naknadu nematerijalne štete koja je prouzrokovana nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne.\n\nAko sud ne može da utvrdi visinu naknade štete u skladu sa st. 2. i 3. ovog člana, uzeće u obzir visinu naknade koju bi lice koje je povredilo poslovnu tajnu platilo za zakonito korišćenje poslovne tajne.",
+          "ragContent": "Ovaj član uređuje tužbu za naknadu štete zbog povrede poslovne tajne. Član 8. Zakona o zaštiti poslovne tajne propisuje prava držaoca poslovne tajne na naknadu štete.\n\nProtiv lica koje je povredilo poslovnu tajnu koje je znalo ili je moralo da zna da učestvuje u nezakonitom pribavljanju, korišćenju ili otkrivanju poslovne tajne, držalac poslovne tajne, odnosno sticalac licence može tužbom da zahteva naknadu štete prema opštim pravilima o naknadi štete i u skladu sa ovim zakonom.\n\nPrilikom određivanja visine naknade štete sud uzima u obzir sve okolnosti slučaja, kao što su negativne ekonomske posledice koje je pretrpeo držalac poslovne tajne, odnosno sticalac licence, koje obuhvataju običnu štetu, izmaklu korist i korist koju je povredom poslovne tajne ostvarilo lice koje je povredilo poslovnu tajnu.\n\nDržalac poslovne tajne, odnosno sticalac licence ima pravo na naknadu nematerijalne štete koja je prouzrokovana nezakonitim pribavljanjem, korišćenjem ili otkrivanjem poslovne tajne.\n\nAko sud ne može da utvrdi visinu naknade štete u skladu sa st. 2. i 3. ovog člana, uzeće u obzir visinu naknade koju bi lice koje je povredilo poslovnu tajnu platilo za zakonito korišćenje poslovne tajne."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o zaštiti poslovne tajne",
+      "lawSlug": "zakon-o-za-titi-poslovne-tajne",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "zastita_konkurencije",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Držalac poslovne tajne može tužbom zahtevati da pravosnažna presuda kojom su u celini ili delimično prihvaćeni tužbeni zahtevi iz čl. 5. i 8. ovog zakona bude objavljena u celini ili delimično u sredstvima javnog informisanja o trošku tuženog.\n\nAko sud odluči da se objavi samo deo presude, u granicama tužbenog zahteva će odrediti da se objavi izreka i deo presude iz kog je vidljivo kakva je povreda učinjena.\n\nPrilikom donošenja odluke da li će odrediti meru objavljivanja presude i procenjivanja njene srazmere prema učinjenoj povredi sud uzima u obzir vrednost poslovne tajne, postupanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne, posledice nezakonitog korišćenja ili otkrivanja poslovne tajne i verovatnoću da će lice koje je povredilo poslovnu tajnu ponovo nezakonito koristiti ili otkriti poslovnu tajnu. Sud takođe uzima u obzir da li informacije o licu koje je povredilo poslovnu tajnu sadrže podatke o ličnosti fizičkog lica i da li bi objavljivanje takvih informacija bilo opravdano, posebno imajući u vidu moguću štetu koju bi objavljivanje moglo prouzrokovati za privatnost i ugled tog fizičkog lica.\n\nObjavljivanje presude u smislu ovog člana mora biti učinjeno na način da se očuva poverljivost poslovne tajne u skladu sa članom 19. ovog zakona.",
+      "chunks": [
+        {
+          "id": "4a6e8c59-e8c9-50d3-94c1-0396c30205c6",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Držalac poslovne tajne može tužbom zahtevati da pravosnažna presuda kojom su u celini ili delimično prihvaćeni tužbeni zahtevi iz čl. 5. i 8. ovog zakona bude objavljena u celini ili delimično u sredstvima javnog informisanja o trošku tuženog.\n\nAko sud odluči da se objavi samo deo presude, u granicama tužbenog zahteva će odrediti da se objavi izreka i deo presude iz kog je vidljivo kakva je povreda učinjena.\n\nPrilikom donošenja odluke da li će odrediti meru objavljivanja presude i procenjivanja njene srazmere prema učinjenoj povredi sud uzima u obzir vrednost poslovne tajne, postupanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne, posledice nezakonitog korišćenja ili otkrivanja poslovne tajne i verovatnoću da će lice koje je povredilo poslovnu tajnu ponovo nezakonito koristiti ili otkriti poslovnu tajnu. Sud takođe uzima u obzir da li informacije o licu koje je povredilo poslovnu tajnu sadrže podatke o ličnosti fizičkog lica i da li bi objavljivanje takvih informacija bilo opravdano, posebno imajući u vidu moguću štetu koju bi objavljivanje moglo prouzrokovati za privatnost i ugled tog fizičkog lica.\n\nObjavljivanje presude u smislu ovog člana mora biti učinjeno na način da se očuva poverljivost poslovne tajne u skladu sa članom 19. ovog zakona.",
+          "ragContent": "Ovaj član uređuje objavljivanje presude u vezi sa povredom poslovne tajne. Član 9. Zakona o zaštiti poslovne tajne propisuje uslove pod kojima se presuda može objaviti u sredstvima javnog informisanja, uz očuvanje poverljivosti poslovne tajne.\n\nDržalac poslovne tajne može tužbom zahtevati da pravosnažna presuda kojom su u celini ili delimično prihvaćeni tužbeni zahtevi iz čl. 5. i 8. ovog zakona bude objavljena u celini ili delimično u sredstvima javnog informisanja o trošku tuženog.\n\nAko sud odluči da se objavi samo deo presude, u granicama tužbenog zahteva će odrediti da se objavi izreka i deo presude iz kog je vidljivo kakva je povreda učinjena.\n\nPrilikom donošenja odluke da li će odrediti meru objavljivanja presude i procenjivanja njene srazmere prema učinjenoj povredi sud uzima u obzir vrednost poslovne tajne, postupanje lica koje je povredilo poslovnu tajnu prilikom pribavljanja, korišćenja ili otkrivanja poslovne tajne, posledice nezakonitog korišćenja ili otkrivanja poslovne tajne i verovatnoću da će lice koje je povredilo poslovnu tajnu ponovo nezakonito koristiti ili otkriti poslovnu tajnu. Sud takođe uzima u obzir da li informacije o licu koje je povredilo poslovnu tajnu sadrže podatke o ličnosti fizičkog lica i da li bi objavljivanje takvih informacija bilo opravdano, posebno imajući u vidu moguću štetu koju bi objavljivanje moglo prouzrokovati za privatnost i ugled tog fizičkog lica.\n\nObjavljivanje presude u smislu ovog člana mora biti učinjeno na način da se očuva poverljivost poslovne tajne u skladu sa članom 19. ovog zakona."
+        }
+      ]
+    }
+  ]
+}

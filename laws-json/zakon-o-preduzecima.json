@@ -1,0 +1,203 @@
+{
+  "law": "Zakon o preduzećima",
+  "lawSlug": "zakon-o-preduze-ima",
+  "category": "privredna_drustva",
+  "sourceDocumentCount": 11,
+  "articleCount": 9,
+  "articles": [
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 392",
+      "articleNo": "392",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Društveno preduzeće je preduzeće koje u celini posluje društvenim kapitalom.\n\n(2) Društveni kapital društvenog preduzeća podeljen je na akcije ili udele određene nominalne vrednosti i upisuje se u registar.",
+      "chunks": [
+        {
+          "id": "d0b321f0-dde6-531c-b48f-7306f5677ba9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Društveno preduzeće je preduzeće koje u celini posluje društvenim kapitalom.\n\n(2) Društveni kapital društvenog preduzeća podeljen je na akcije ili udele određene nominalne vrednosti i upisuje se u registar.",
+          "ragContent": "Ovaj član definiše društveno preduzeće i njegov kapital. Član 392. Zakona o preduzećima propisuje da društveno preduzeće posluje društvenim kapitalom, koji je podeljen na akcije ili udele.\n\n(1) Društveno preduzeće je preduzeće koje u celini posluje društvenim kapitalom.\n\n(2) Društveni kapital društvenog preduzeća podeljen je na akcije ili udele određene nominalne vrednosti i upisuje se u registar."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 393",
+      "articleNo": "393",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Organi društvenog preduzeća su: skupština, upravni odbor, direktor i nadzorni odbor.\n\n(2) U društvenom preduzeću koje ima do 50 zaposlenih ne bira se upravni i nadzorni odbor, ako statutom preduzeća nije drukčije određeno.\n\n(3) U društvenom preduzeću u kome se ne bira upravni i nadzorni odbor njihove funkcije vrše se na način utvrđen statutom.",
+      "chunks": [
+        {
+          "id": "4a8cbf6b-2b80-53e8-a0ba-8719aadc7a06",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Organi društvenog preduzeća su: skupština, upravni odbor, direktor i nadzorni odbor.\n\n(2) U društvenom preduzeću koje ima do 50 zaposlenih ne bira se upravni i nadzorni odbor, ako statutom preduzeća nije drukčije određeno.\n\n(3) U društvenom preduzeću u kome se ne bira upravni i nadzorni odbor njihove funkcije vrše se na način utvrđen statutom.",
+          "ragContent": "Ovaj član uređuje organe društvenog preduzeća i pravila o njihovom izboru. Član 393. Zakona o preduzećima definiše organe društvenog preduzeća i uslove za izbor upravnog i nadzornog odbora.\n\n(1) Organi društvenog preduzeća su: skupština, upravni odbor, direktor i nadzorni odbor.\n\n(2) U društvenom preduzeću koje ima do 50 zaposlenih ne bira se upravni i nadzorni odbor, ako statutom preduzeća nije drukčije određeno.\n\n(3) U društvenom preduzeću u kome se ne bira upravni i nadzorni odbor njihove funkcije vrše se na način utvrđen statutom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 394",
+      "articleNo": "394",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Skupštinu društvenog preduzeća čine predstavnici zaposlenih.\n\n(2) Skupštinu društvenog preduzeća koje ima delove čine predstavnici zaposlenih u svim delovima.\n\n(3) Statutom se utvrđuje broj članova, način izbora, mandat, sastav i odgovornost članova skupštine.\n\n(4) Skupština društvenog preduzeća, po pravilu, odlučuje javnim glasanjem.\n\n(5) Skupština može odlučivati tajnim glasanjem o izboru i opozivu članova organa društvenog preduzeća.\n\n(6) U društvenom preduzeću s manje od 50 zaposlenih funkciju skupštine vrše svi zaposleni.\n\n(7) Skupština društvenog preduzeća odlučuje većinom glasova svih članova, ako statutom nije predviđena druga kvalifikovana većina.\n\n(8) Skupština društvenog preduzeća, pored delokruga iz člana 61. ovog zakona, odlučuje i o:\n\n1) ostarivanju zahteva prema članovima uprave i nadzornog odbora u vezi s naknadom štete nastalom u vođenju poslova, kao i zahtevima za poništaj nezakonite odluke;\n\n2) zastupanju društvenog preduzeća u sudskim postupcima protiv članova uprave;\n\n3) pitanjima iz delokruga upravnog odbora – samo na zahtev upravnog odbora.",
+      "chunks": [
+        {
+          "id": "001781e0-ae2b-59b2-a685-dcf867812f18",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Skupštinu društvenog preduzeća čine predstavnici zaposlenih.\n\n(2) Skupštinu društvenog preduzeća koje ima delove čine predstavnici zaposlenih u svim delovima.\n\n(3) Statutom se utvrđuje broj članova, način izbora, mandat, sastav i odgovornost članova skupštine.\n\n(4) Skupština društvenog preduzeća, po pravilu, odlučuje javnim glasanjem.\n\n(5) Skupština može odlučivati tajnim glasanjem o izboru i opozivu članova organa društvenog preduzeća.\n\n(6) U društvenom preduzeću s manje od 50 zaposlenih funkciju skupštine vrše svi zaposleni.\n\n(7) Skupština društvenog preduzeća odlučuje većinom glasova svih članova, ako statutom nije predviđena druga kvalifikovana većina.\n\n(8) Skupština društvenog preduzeća, pored delokruga iz člana 61. ovog zakona, odlučuje i o:\n\n1) ostarivanju zahteva prema članovima uprave i nadzornog odbora u vezi s naknadom štete nastalom u vođenju poslova, kao i zahtevima za poništaj nezakonite odluke;\n\n2) zastupanju društvenog preduzeća u sudskim postupcima protiv članova uprave;\n\n3) pitanjima iz delokruga upravnog odbora – samo na zahtev upravnog odbora.",
+          "ragContent": "Ovaj član uređuje sastav i način odlučivanja skupštine društvenog preduzeća. Član 394. Zakona o preduzećima definiše strukturu i funkcije skupštine društvenog preduzeća, uključujući način izbora i odlučivanja.\n\n(1) Skupštinu društvenog preduzeća čine predstavnici zaposlenih.\n\n(2) Skupštinu društvenog preduzeća koje ima delove čine predstavnici zaposlenih u svim delovima.\n\n(3) Statutom se utvrđuje broj članova, način izbora, mandat, sastav i odgovornost članova skupštine.\n\n(4) Skupština društvenog preduzeća, po pravilu, odlučuje javnim glasanjem.\n\n(5) Skupština može odlučivati tajnim glasanjem o izboru i opozivu članova organa društvenog preduzeća.\n\n(6) U društvenom preduzeću s manje od 50 zaposlenih funkciju skupštine vrše svi zaposleni.\n\n(7) Skupština društvenog preduzeća odlučuje većinom glasova svih članova, ako statutom nije predviđena druga kvalifikovana većina.\n\n(8) Skupština društvenog preduzeća, pored delokruga iz člana 61. ovog zakona, odlučuje i o:\n\n1) ostarivanju zahteva prema članovima uprave i nadzornog odbora u vezi s naknadom štete nastalom u vođenju poslova, kao i zahtevima za poništaj nezakonite odluke;\n\n2) zastupanju društvenog preduzeća u sudskim postupcima protiv članova uprave;\n\n3) pitanjima iz delokruga upravnog odbora – samo na zahtev upravnog odbora."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 395",
+      "articleNo": "395",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Upravni odbor društvenog preduzeća bira skupština.\n\n(2) Članovi upravnog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na upravni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o delokrugu i načinu odlučivanja upravnog odbora, zamenicima, opozivu, isključenju prava glasa i odgovornosti članova upravnog odbora akcionarskog društva.",
+      "chunks": [
+        {
+          "id": "6f301d0d-3e10-5385-a7e1-9515db16f119",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Upravni odbor društvenog preduzeća bira skupština.\n\n(2) Članovi upravnog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na upravni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o delokrugu i načinu odlučivanja upravnog odbora, zamenicima, opozivu, isključenju prava glasa i odgovornosti članova upravnog odbora akcionarskog društva.",
+          "ragContent": "Ovaj član uređuje izbor i sastav upravnog odbora društvenog preduzeća. Član 395. Zakona o preduzećima definiše način izbora članova upravnog odbora i primenu odredbi o njihovim pravima i obavezama.\n\n(1) Upravni odbor društvenog preduzeća bira skupština.\n\n(2) Članovi upravnog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na upravni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o delokrugu i načinu odlučivanja upravnog odbora, zamenicima, opozivu, isključenju prava glasa i odgovornosti članova upravnog odbora akcionarskog društva."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 396",
+      "articleNo": "396",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Direktora društvenog preduzeća bira i razrešava upravni odbor.\n\n(2) U društvenom preduzeću u kome se ne obrazuje upravni odbor, direktora bira i razrešava skupština.\n\n(3) Ako direktor društvenog preduzeća nije izabran, upravni odbor, odnosno skupština ako upravni odbor nije obrazovan, postavlja vršioca dužnosti direktora, s pravima, dužnostima i odgovornostima direktora, na period do godinu dana.\n\n(4) Direktor društvenog preduzeća vrši svoje funkcije u interesu preduzeća.\n\n(5) Pored delokruga utvrđenog u odredbama člana 63. ovog zakona, direktor društvenog preduzeća vrši i druge poslove koji zakonom, statutom ili drugim opštim aktom nisu stavljeni u delokrug skupštine, upravnog odbora i nadzornog odbora.\n\n(6) Direktor društvenog preduzeća može biti razrešen ako postoje gubici u poslovanju, ako prekrši pravila klauzule konkurencije i pravila postupanja u slučaju sukoba interesa s preduzećem, zbog nesposobnosti, kao i iz drugih razloga utvrđenih statutom.",
+      "chunks": [
+        {
+          "id": "7f831b95-e9dc-522f-b5de-5996d78a61df",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Direktora društvenog preduzeća bira i razrešava upravni odbor.\n\n(2) U društvenom preduzeću u kome se ne obrazuje upravni odbor, direktora bira i razrešava skupština.\n\n(3) Ako direktor društvenog preduzeća nije izabran, upravni odbor, odnosno skupština ako upravni odbor nije obrazovan, postavlja vršioca dužnosti direktora, s pravima, dužnostima i odgovornostima direktora, na period do godinu dana.\n\n(4) Direktor društvenog preduzeća vrši svoje funkcije u interesu preduzeća.\n\n(5) Pored delokruga utvrđenog u odredbama člana 63. ovog zakona, direktor društvenog preduzeća vrši i druge poslove koji zakonom, statutom ili drugim opštim aktom nisu stavljeni u delokrug skupštine, upravnog odbora i nadzornog odbora.\n\n(6) Direktor društvenog preduzeća može biti razrešen ako postoje gubici u poslovanju, ako prekrši pravila klauzule konkurencije i pravila postupanja u slučaju sukoba interesa s preduzećem, zbog nesposobnosti, kao i iz drugih razloga utvrđenih statutom.",
+          "ragContent": "Ovaj član uređuje izbor i razrešenje direktora društvenog preduzeća. Član 396. Zakona o preduzećima definiše procedure izbora direktora i razlohe za razrešenje.\n\n(1) Direktora društvenog preduzeća bira i razrešava upravni odbor.\n\n(2) U društvenom preduzeću u kome se ne obrazuje upravni odbor, direktora bira i razrešava skupština.\n\n(3) Ako direktor društvenog preduzeća nije izabran, upravni odbor, odnosno skupština ako upravni odbor nije obrazovan, postavlja vršioca dužnosti direktora, s pravima, dužnostima i odgovornostima direktora, na period do godinu dana.\n\n(4) Direktor društvenog preduzeća vrši svoje funkcije u interesu preduzeća.\n\n(5) Pored delokruga utvrđenog u odredbama člana 63. ovog zakona, direktor društvenog preduzeća vrši i druge poslove koji zakonom, statutom ili drugim opštim aktom nisu stavljeni u delokrug skupštine, upravnog odbora i nadzornog odbora.\n\n(6) Direktor društvenog preduzeća može biti razrešen ako postoje gubici u poslovanju, ako prekrši pravila klauzule konkurencije i pravila postupanja u slučaju sukoba interesa s preduzećem, zbog nesposobnosti, kao i iz drugih razloga utvrđenih statutom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 397",
+      "articleNo": "397",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Statutom društvenog preduća može se predvideti postojanje izvršnog odbora direktora.\n\n(2) Izvršni odbor direktora je pomoćni i izvršni organ direktora.\n\n(3) Članovi izvršnog odbora direktora postavljaju se i razrešavaju na način utvrđen statutom.\n\n(4) Članovi izvršnog odbora direktora mogu biti izabrani za članove upravnog odbora, s tim što broj tih članova ne može preći trećinu članova upravnog odbora.",
+      "chunks": [
+        {
+          "id": "d44ce71a-4e44-5e13-b362-df268b0d493a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Statutom društvenog preduća može se predvideti postojanje izvršnog odbora direktora.\n\n(2) Izvršni odbor direktora je pomoćni i izvršni organ direktora.\n\n(3) Članovi izvršnog odbora direktora postavljaju se i razrešavaju na način utvrđen statutom.\n\n(4) Članovi izvršnog odbora direktora mogu biti izabrani za članove upravnog odbora, s tim što broj tih članova ne može preći trećinu članova upravnog odbora.",
+          "ragContent": "Ovaj član uređuje postojanje izvršnog odbora direktora u društvenim preduzećima. Član 397. Zakona o preduzećima definiše izvršni odbor kao pomoćni organ direktora i propisuje način postavljanja članova.\n\n(1) Statutom društvenog preduća može se predvideti postojanje izvršnog odbora direktora.\n\n(2) Izvršni odbor direktora je pomoćni i izvršni organ direktora.\n\n(3) Članovi izvršnog odbora direktora postavljaju se i razrešavaju na način utvrđen statutom.\n\n(4) Članovi izvršnog odbora direktora mogu biti izabrani za članove upravnog odbora, s tim što broj tih članova ne može preći trećinu članova upravnog odbora."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 398",
+      "articleNo": "398",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "(1) Nadzorni odbor društvenog preduzeća ima najmanje tri člana.\n\n(2) Članovi nadzornog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na nadzorni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o nadzornom odboru akcionarskog društva.",
+      "chunks": [
+        {
+          "id": "3b286b98-1c31-527d-a637-a655a7f9cb31",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "(1) Nadzorni odbor društvenog preduzeća ima najmanje tri člana.\n\n(2) Članovi nadzornog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na nadzorni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o nadzornom odboru akcionarskog društva.",
+          "ragContent": "Ovaj član uređuje sastav i pravila o nadzornom odboru društvenog preduzeća. Član 398. Zakona o preduzećima propisuje da nadzorni odbor mora imati najmanje tri člana i da se članovi mogu birati iz reda stručnjaka izvan preduzeća.\n\n(1) Nadzorni odbor društvenog preduzeća ima najmanje tri člana.\n\n(2) Članovi nadzornog odbora mogu se birati i iz reda stručnjaka izvan društvenog preduzeća.\n\n(3) Na nadzorni odbor društvenog preduzeća shodno se primenjuju odredbe ovog zakona o nadzornom odboru akcionarskog društva."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 399",
+      "articleNo": "399",
+      "section": null,
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Statut društvenog preduzeća sadrži odredbe o:\n\n1) firmi i sedištu preduzeća;\n\n2) delatnosti preduzeća;\n\n3) zastupanju;\n\n4) načinu raspoređivanja dobiti i pokriću gubitaka;\n\n5) rezervama;\n\n6) organima preduzeća i izboru, opozivu i delokrugu organa preduzeća;\n\n7) opštim aktima i načinu njihovog donošenja;\n\n8) pravima, obavezama i odgovornostima organa preduzeća;\n\n9) ovlašćenjima delova preduzeća u pravnom prometu;\n\n10) načinu statusnih promena preduzeća;\n\n11) zaštiti životne sredine;\n\n12) drugim pitanjima značajnim za rad i poslovanje preduzeća i za ostvarivanje prava, obaveza i odgovornosti zaposlenih u preduzeću.",
+      "chunks": [
+        {
+          "id": "78e307ff-0531-55c7-b6e7-675d6a593de9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Statut društvenog preduzeća sadrži odredbe o:\n\n1) firmi i sedištu preduzeća;\n\n2) delatnosti preduzeća;\n\n3) zastupanju;\n\n4) načinu raspoređivanja dobiti i pokriću gubitaka;\n\n5) rezervama;\n\n6) organima preduzeća i izboru, opozivu i delokrugu organa preduzeća;\n\n7) opštim aktima i načinu njihovog donošenja;\n\n8) pravima, obavezama i odgovornostima organa preduzeća;\n\n9) ovlašćenjima delova preduzeća u pravnom prometu;\n\n10) načinu statusnih promena preduzeća;\n\n11) zaštiti životne sredine;\n\n12) drugim pitanjima značajnim za rad i poslovanje preduzeća i za ostvarivanje prava, obaveza i odgovornosti zaposlenih u preduzeću.",
+          "ragContent": "Ovaj član uređuje sadržaj statuta društvenog preduzeća. Član 399. Zakona o preduzećima definiše odredbe koje statut mora sadržati, uključujući firmu, delatnost, organe preduzeća i druga važna pitanja.\n\nStatut društvenog preduzeća sadrži odredbe o:\n\n1) firmi i sedištu preduzeća;\n\n2) delatnosti preduzeća;\n\n3) zastupanju;\n\n4) načinu raspoređivanja dobiti i pokriću gubitaka;\n\n5) rezervama;\n\n6) organima preduzeća i izboru, opozivu i delokrugu organa preduzeća;\n\n7) opštim aktima i načinu njihovog donošenja;\n\n8) pravima, obavezama i odgovornostima organa preduzeća;\n\n9) ovlašćenjima delova preduzeća u pravnom prometu;\n\n10) načinu statusnih promena preduzeća;\n\n11) zaštiti životne sredine;\n\n12) drugim pitanjima značajnim za rad i poslovanje preduzeća i za ostvarivanje prava, obaveza i odgovornosti zaposlenih u preduzeću."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o preduzećima",
+      "lawSlug": "zakon-o-preduze-ima",
+      "article": "Član 400",
+      "articleNo": "400",
+      "section": null,
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "U preduzeću koje posluje društvenim ili državnim kapitalom vlada republike članice imenuje predstavnike društvenog ili državnog kapitala u skupštini i upravnom odboru od lica iz preduzeća ili izvan preduzeća, kad organ nadležan za sprovođenje postupka privatizacije utvrdi da je organ preduzeća doneo odluku kojom se sprečava ili otežava sprovođenje postupka privatizacije, kao i kad ovaj organ propusti da donese odluku, zaključi ugovor ili preduzme druge mere u postupku privatizacije. Odluka kojom se sprečava ili otežava postupak privatizacije ništava je. U preduzeću koje posluje društvenim kapitalom, društveni kapital iskazuje se u akcijama ili udelima određene nominalne vrednosti koji nemaju status sopstvenih akcija, odnosno udela, u smislu ovog zakona.\n\nKupac društvenog, odnosno državnog kapitala ili imovine stiče pravo svojine nad tim kapitalom ili imovinom isplatom prodajne cene. Isplatom prodajne cene smatra se i uplata prodajne cene na devizni račun sa posebnom namenom. Izuzetno, kada se prodajna cena plaća u ratama, kupac stiče pravo svojine nad kapitalom uplatom u visini od 45% od prodajne cene. Kupcu kapitala ili imovine iz stava 1. ovog člana izdaje se potvrda o akcijama ili udelima, u skladu sa saveznim zakonom, koja se može zameniti za akcije ili udele. Odredba stava 1. ovog člana ne odnosi se na ugovore o kupovini akcija ili udela društvenog, odnosno državnog kapitala zaključene do dana stupanja na snagu ovog zakona.\n\nZavisno preduzeće može, radi sprovođenja postupka privatizacije, da donese odluku o istupanju iz holdinga, odnosno matičnog preduzeća u slučajevima organizovanja prenosom kapitala bez naknade, podele imovine, sticanja kapitala u drugom preduzeću, investiranja kapitala u nova preduzeća, kao i u drugim slučajevima. Pravo na istupanje iz holdinga, odnosno matičnog preduzeća ne može se statutom isključiti, odnosno ograničiti. U slučaju iz stava 1. ovog člana holding, odnosno matično preduzeće obavezno je da, bez naknade, prenese na zavisno društvo akcije ili udele koje poseduje u njemu, odnosno akcije ili udele koje poseduje po osnovu dela društvenog, odnosno državnog kapitala. Zavisno preduzeće koje istupi iz holdinga, odnosno matičnog preduzeća odgovara neograničeno solidarno sa holdingom, odnosno matičnim preduzećem za obaveze zavisnog preduzeća nastale do dana istupanja.",
+      "chunks": [
+        {
+          "id": "7b3e1868-166f-51cd-9126-3c02a2683c93",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U preduzeću koje posluje društvenim ili državnim kapitalom vlada republike članice imenuje predstavnike društvenog ili državnog kapitala u skupštini i upravnom odboru od lica iz preduzeća ili izvan preduzeća, kad organ nadležan za sprovođenje postupka privatizacije utvrdi da je organ preduzeća doneo odluku kojom se sprečava ili otežava sprovođenje postupka privatizacije, kao i kad ovaj organ propusti da donese odluku, zaključi ugovor ili preduzme druge mere u postupku privatizacije. Odluka kojom se sprečava ili otežava postupak privatizacije ništava je. U preduzeću koje posluje društvenim kapitalom, društveni kapital iskazuje se u akcijama ili udelima određene nominalne vrednosti koji nemaju status sopstvenih akcija, odnosno udela, u smislu ovog zakona.",
+          "ragContent": "Ovaj član uređuje imenovanje predstavnika društvenog ili državnog kapitala u preduzećima. Član 400a. Zakona o preduzećima propisuje da vlada republike članice imenuje predstavnike u slučaju otežavanja privatizacije.\n\nU preduzeću koje posluje društvenim ili državnim kapitalom vlada republike članice imenuje predstavnike društvenog ili državnog kapitala u skupštini i upravnom odboru od lica iz preduzeća ili izvan preduzeća, kad organ nadležan za sprovođenje postupka privatizacije utvrdi da je organ preduzeća doneo odluku kojom se sprečava ili otežava sprovođenje postupka privatizacije, kao i kad ovaj organ propusti da donese odluku, zaključi ugovor ili preduzme druge mere u postupku privatizacije. Odluka kojom se sprečava ili otežava postupak privatizacije ništava je. U preduzeću koje posluje društvenim kapitalom, društveni kapital iskazuje se u akcijama ili udelima određene nominalne vrednosti koji nemaju status sopstvenih akcija, odnosno udela, u smislu ovog zakona."
+        },
+        {
+          "id": "80b1bcf7-5bcf-52a7-930f-f40f2768fb49",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Kupac društvenog, odnosno državnog kapitala ili imovine stiče pravo svojine nad tim kapitalom ili imovinom isplatom prodajne cene. Isplatom prodajne cene smatra se i uplata prodajne cene na devizni račun sa posebnom namenom. Izuzetno, kada se prodajna cena plaća u ratama, kupac stiče pravo svojine nad kapitalom uplatom u visini od 45% od prodajne cene. Kupcu kapitala ili imovine iz stava 1. ovog člana izdaje se potvrda o akcijama ili udelima, u skladu sa saveznim zakonom, koja se može zameniti za akcije ili udele. Odredba stava 1. ovog člana ne odnosi se na ugovore o kupovini akcija ili udela društvenog, odnosno državnog kapitala zaključene do dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje sticanje prava svojine nad društvenim ili državnim kapitalom. Član 400b. Zakona o preduzećima definiše uslove pod kojima kupac stiče pravo svojine isplatom prodajne cene.\n\nKupac društvenog, odnosno državnog kapitala ili imovine stiče pravo svojine nad tim kapitalom ili imovinom isplatom prodajne cene. Isplatom prodajne cene smatra se i uplata prodajne cene na devizni račun sa posebnom namenom. Izuzetno, kada se prodajna cena plaća u ratama, kupac stiče pravo svojine nad kapitalom uplatom u visini od 45% od prodajne cene. Kupcu kapitala ili imovine iz stava 1. ovog člana izdaje se potvrda o akcijama ili udelima, u skladu sa saveznim zakonom, koja se može zameniti za akcije ili udele. Odredba stava 1. ovog člana ne odnosi se na ugovore o kupovini akcija ili udela društvenog, odnosno državnog kapitala zaključene do dana stupanja na snagu ovog zakona."
+        },
+        {
+          "id": "2de8df95-2f74-50b2-807b-a646373e3610",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Zavisno preduzeće može, radi sprovođenja postupka privatizacije, da donese odluku o istupanju iz holdinga, odnosno matičnog preduzeća u slučajevima organizovanja prenosom kapitala bez naknade, podele imovine, sticanja kapitala u drugom preduzeću, investiranja kapitala u nova preduzeća, kao i u drugim slučajevima. Pravo na istupanje iz holdinga, odnosno matičnog preduzeća ne može se statutom isključiti, odnosno ograničiti. U slučaju iz stava 1. ovog člana holding, odnosno matično preduzeće obavezno je da, bez naknade, prenese na zavisno društvo akcije ili udele koje poseduje u njemu, odnosno akcije ili udele koje poseduje po osnovu dela društvenog, odnosno državnog kapitala. Zavisno preduzeće koje istupi iz holdinga, odnosno matičnog preduzeća odgovara neograničeno solidarno sa holdingom, odnosno matičnim preduzećem za obaveze zavisnog preduzeća nastale do dana istupanja.",
+          "ragContent": "Ovaj član uređuje pravo zavisnog preduzeća na istupanje iz holdinga. Član 400v. Zakona o preduzećima propisuje uslove pod kojima zavisno preduzeće može doneti odluku o istupanju iz holdinga.\n\nZavisno preduzeće može, radi sprovođenja postupka privatizacije, da donese odluku o istupanju iz holdinga, odnosno matičnog preduzeća u slučajevima organizovanja prenosom kapitala bez naknade, podele imovine, sticanja kapitala u drugom preduzeću, investiranja kapitala u nova preduzeća, kao i u drugim slučajevima. Pravo na istupanje iz holdinga, odnosno matičnog preduzeća ne može se statutom isključiti, odnosno ograničiti. U slučaju iz stava 1. ovog člana holding, odnosno matično preduzeće obavezno je da, bez naknade, prenese na zavisno društvo akcije ili udele koje poseduje u njemu, odnosno akcije ili udele koje poseduje po osnovu dela društvenog, odnosno državnog kapitala. Zavisno preduzeće koje istupi iz holdinga, odnosno matičnog preduzeća odgovara neograničeno solidarno sa holdingom, odnosno matičnim preduzećem za obaveze zavisnog preduzeća nastale do dana istupanja."
+        }
+      ]
+    }
+  ]
+}

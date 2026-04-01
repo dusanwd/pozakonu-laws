@@ -1,0 +1,323 @@
+{
+  "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+  "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+  "category": "krivicna_dela",
+  "sourceDocumentCount": 17,
+  "articleCount": 15,
+  "articles": [
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom uređuje se obrazovanje, organizacija, nadležnost i ovlašćenja posebnih organizacionih jedinica državnih organa radi otkrivanja, krivičnog gonjenja i suđenja za krivična dela određena ovim zakonom.",
+      "chunks": [
+        {
+          "id": "37421bc3-3c0a-5100-aea9-c8e4dd18ea75",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuje se obrazovanje, organizacija, nadležnost i ovlašćenja posebnih organizacionih jedinica državnih organa radi otkrivanja, krivičnog gonjenja i suđenja za krivična dela određena ovim zakonom.",
+          "ragContent": "Ovaj član definiše osnovne aspekte organizacije i nadležnosti državnih organa. Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala, član 1, uređuje obrazovanje, organizaciju, nadležnost i ovlašćenja posebnih organizacionih jedinica.  Ovim zakonom uređuje se obrazovanje, organizacija, nadležnost i ovlašćenja posebnih organizacionih jedinica državnih organa radi otkrivanja, krivičnog gonjenja i suđenja za krivična dela određena ovim zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST” ZAKONA",
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležan je Viši sud u Beogradu, za teritoriju Republike Srbije.\n\nZa odlučivanje u drugom stepenu nadležan je Apelacioni sud u Beogradu.\n\nKrivični postupci za krivična dela iz člana 2. ovog zakona, u kojima je doneto rešenje o sprovođenju istrage, odnosno u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona, okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "04c6f0b5-d869-5a79-8d9a-225a90f3408e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležan je Viši sud u Beogradu, za teritoriju Republike Srbije.\n\nZa odlučivanje u drugom stepenu nadležan je Apelacioni sud u Beogradu.",
+          "ragContent": "Ovaj chunk uređuje nadležnost sudova za krivična dela. Član 10. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše nadležnost Višeg suda u Beogradu i Apelacionog suda u Beogradu.\n\nZa postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležan je Viši sud u Beogradu, za teritoriju Republike Srbije.\n\nZa odlučivanje u drugom stepenu nadležan je Apelacioni sud u Beogradu."
+        },
+        {
+          "id": "f5785c89-72ae-58cf-a281-3148f68825a8",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Krivični postupci za krivična dela iz člana 2. ovog zakona, u kojima je doneto rešenje o sprovođenju istrage, odnosno u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona, okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj chunk se bavi okončanjem krivičnih postupaka prema prethodnim pravilima. Član 10. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala propisuje da se postupci okončavaju prema prethodnoj nadležnosti.\n\nKrivični postupci za krivična dela iz člana 2. ovog zakona, u kojima je doneto rešenje o sprovođenju istrage, odnosno u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona, okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST” ZAKONA",
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "U Višem sudu u Beogradu za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona obrazuje se Odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Odeljenje).\n\nSudije u Odeljenje raspoređuje predsednik Višeg suda u Beogradu iz reda sudija tog suda. Prednost imaju sudije koje poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nU skladu sa odredbama Zakona o sudijama, Visoki savet sudstva može privremeno uputiti sudiju iz drugog suda na rad u Odeljenje. Sudija koji se privremeno upućuje mora ispunjavati uslove za izbor sudije višeg suda.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, izuzev odredaba čl. 3. do 9. ovog zakona koje stupaju na snagu 1. januara 2010. godine.",
+      "chunks": [
+        {
+          "id": "d489d4fc-2376-5194-a785-6f3e9f5f2550",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U Višem sudu u Beogradu za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona obrazuje se Odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Odeljenje).\n\nSudije u Odeljenje raspoređuje predsednik Višeg suda u Beogradu iz reda sudija tog suda. Prednost imaju sudije koje poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nU skladu sa odredbama Zakona o sudijama, Visoki savet sudstva može privremeno uputiti sudiju iz drugog suda na rad u Odeljenje. Sudija koji se privremeno upućuje mora ispunjavati uslove za izbor sudije višeg suda.",
+          "ragContent": "Ovaj član uređuje formiranje Odeljenja za borbu protiv visokotehnološkog kriminala u Višem sudu u Beogradu. Član 11. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše način raspoređivanja sudija i uslove za privremeno upućivanje sudija iz drugih sudova.\n\nU Višem sudu u Beogradu za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona obrazuje se Odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Odeljenje).\n\nSudije u Odeljenje raspoređuje predsednik Višeg suda u Beogradu iz reda sudija tog suda. Prednost imaju sudije koje poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nU skladu sa odredbama Zakona o sudijama, Visoki savet sudstva može privremeno uputiti sudiju iz drugog suda na rad u Odeljenje. Sudija koji se privremeno upućuje mora ispunjavati uslove za izbor sudije višeg suda."
+        },
+        {
+          "id": "68a7c98e-af85-5118-bb9c-0db4f27dd795",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, izuzev odredaba čl. 3. do 9. ovog zakona koje stupaju na snagu 1. januara 2010. godine.",
+          "ragContent": "Ovaj deo člana definiše kada zakon stupa na snagu. Član 11. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala propisuje rokove za stupanje na snagu odredaba zakona.\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, izuzev odredaba čl. 3. do 9. ovog zakona koje stupaju na snagu 1. januara 2010. godine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ministarstvo nadležno za poslove pravosuđa obezbeđuje odgovarajuće prostorije i sve druge tehničke uslove potrebne za efikasan rad Posebnog odeljenja i Odeljenja.",
+      "chunks": [
+        {
+          "id": "b6850244-0996-57a6-9d1b-85e7595d09c0",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ministarstvo nadležno za poslove pravosuđa obezbeđuje odgovarajuće prostorije i sve druge tehničke uslove potrebne za efikasan rad Posebnog odeljenja i Odeljenja.",
+          "ragContent": "Ministarstvo pravosuđa obezbeđuje prostorije i tehničke uslove za rad odeljenja. Član 12. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala uređuje obezbeđivanje uslova za rad odeljenja.\nMinistarstvo nadležno za poslove pravosuđa obezbeđuje odgovarajuće prostorije i sve druge tehničke uslove potrebne za efikasan rad Posebnog odeljenja i Odeljenja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Sredstva za rad Posebnog odeljenja, Službe i Odeljenja obezbeđuju se u budžetu Republike Srbije.",
+      "chunks": [
+        {
+          "id": "66bdd3ea-9d3b-50bc-85f3-dfad67905b07",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Sredstva za rad Posebnog odeljenja, Službe i Odeljenja obezbeđuju se u budžetu Republike Srbije.",
+          "ragContent": "Ovaj član uređuje finansiranje posebnih odeljenja za borbu protiv visokotehnološkog kriminala. Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala, član 13, definiše obezbeđivanje sredstava za rad ovih odeljenja.  Sredstva za rad Posebnog odeljenja, Službe i Odeljenja obezbeđuju se u budžetu Republike Srbije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Krivični postupci za krivična dela iz člana 3. ovog zakona u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "efef8b96-722b-5119-a1df-a2d01c6120cd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Krivični postupci za krivična dela iz člana 3. ovog zakona u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje okončanje krivičnih postupaka za dela iz člana 3. zakona. Član 14. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala propisuje da se postupci okončavaju pred nadležnim sudovima pre stupanja na snagu zakona.  Krivični postupci za krivična dela iz člana 3. ovog zakona u kojima je optužnica stupila na pravnu snagu do dana stupanja na snagu ovog zakona okončaće se pred sudovima koji su bili stvarno i mesno nadležni pre stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "6dfa43d1-c575-5b2c-b61d-daed6d3226a7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 15. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Visokotehnološki kriminal u smislu ovog zakona predstavlja vršenje krivičnih dela kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže, računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku.\n\nPod proizvodima u elektronskom obliku posebno se podrazumevaju računarski programi i autorska dela koja se mogu upotrebiti u elektronskom obliku.\n\nIzrazi: računar, računarski podatak, računarski program, računarski virus, računarski sistem i računarska mreža koriste se u ovom zakonu i imaju značenje u smislu odredaba Krivičnog zakonika.",
+      "chunks": [
+        {
+          "id": "b25cc6a4-e715-542e-8940-0fd55a5f16af",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Visokotehnološki kriminal u smislu ovog zakona predstavlja vršenje krivičnih dela kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže, računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku.\n\nPod proizvodima u elektronskom obliku posebno se podrazumevaju računarski programi i autorska dela koja se mogu upotrebiti u elektronskom obliku.\n\nIzrazi: računar, računarski podatak, računarski program, računarski virus, računarski sistem i računarska mreža koriste se u ovom zakonu i imaju značenje u smislu odredaba Krivičnog zakonika.",
+          "ragContent": "Ovaj član definiše pojam visokotehnološkog kriminala. Član 2. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše visokotehnološki kriminal i relevantne termine.\n\nVisokotehnološki kriminal u smislu ovog zakona predstavlja vršenje krivičnih dela kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže, računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku.\n\nPod proizvodima u elektronskom obliku posebno se podrazumevaju računarski programi i autorska dela koja se mogu upotrebiti u elektronskom obliku.\n\nIzrazi: računar, računarski podatak, računarski program, računarski virus, računarski sistem i računarska mreža koriste se u ovom zakonu i imaju značenje u smislu odredaba Krivičnog zakonika."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon primenjuje se radi otkrivanja, krivičnog gonjenja i suđenja za:\n\n1) krivična dela protiv bezbednosti računarskih podataka određena Krivičnim zakonikom;\n\n2) krivična dela protiv intelektualne svojine, imovine, privrede i pravnog saobraćaja, kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže i računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku, ako broj primeraka autorskih dela prelazi 2000 ili nastala materijalna šteta prelazi iznos od 1.000.000 dinara;\n\n3) krivična dela protiv sloboda i prava čoveka i građanina, polne slobode, javnog reda i mira i ustavnog uređenja i bezbednosti Republike Srbije, koja se zbog načina izvršenja ili upotrebljenih sredstava mogu smatrati krivičnim delima visokotehnološkog kriminala, u skladu sa članom 2. stav 1. ovog zakona.",
+      "chunks": [
+        {
+          "id": "5a3121b9-860a-5abc-b10f-57e654746f9a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon primenjuje se radi otkrivanja, krivičnog gonjenja i suđenja za:\n\n1) krivična dela protiv bezbednosti računarskih podataka određena Krivičnim zakonikom;\n\n2) krivična dela protiv intelektualne svojine, imovine, privrede i pravnog saobraćaja, kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže i računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku, ako broj primeraka autorskih dela prelazi 2000 ili nastala materijalna šteta prelazi iznos od 1.000.000 dinara;\n\n3) krivična dela protiv sloboda i prava čoveka i građanina, polne slobode, javnog reda i mira i ustavnog uređenja i bezbednosti Republike Srbije, koja se zbog načina izvršenja ili upotrebljenih sredstava mogu smatrati krivičnim delima visokotehnološkog kriminala, u skladu sa članom 2. stav 1. ovog zakona.",
+          "ragContent": "Ovaj član definiše primenu zakona u vezi sa krivičnim delima. Član 3. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala propisuje krivična dela koja se gonjenju i suđenju.\n\nOvaj zakon primenjuje se radi otkrivanja, krivičnog gonjenja i suđenja za:\n\n1) krivična dela protiv bezbednosti računarskih podataka određena Krivičnim zakonikom;\n\n2) krivična dela protiv intelektualne svojine, imovine, privrede i pravnog saobraćaja, kod kojih se kao objekat ili sredstvo izvršenja krivičnih dela javljaju računari, računarski sistemi, računarske mreže i računarski podaci, kao i njihovi proizvodi u materijalnom ili elektronskom obliku, ako broj primeraka autorskih dela prelazi 2000 ili nastala materijalna šteta prelazi iznos od 1.000.000 dinara;\n\n3) krivična dela protiv sloboda i prava čoveka i građanina, polne slobode, javnog reda i mira i ustavnog uređenja i bezbednosti Republike Srbije, koja se zbog načina izvršenja ili upotrebljenih sredstava mogu smatrati krivičnim delima visokotehnološkog kriminala, u skladu sa članom 2. stav 1. ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležno je Više javno tužilaštvo u Beogradu za teritoriju Republike Srbije.\n\nU Višem javnom tužilaštvu u Beogradu obrazuje se Posebno odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Posebno odeljenje).\n\nAko ovim zakonom nije drukčije određeno, na Posebno odeljenje primenjuju se odredbe zakona kojim se uređuje javno tužilaštvo.",
+      "chunks": [
+        {
+          "id": "0d7c2ac5-c443-535b-b282-d74eb2b1d480",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležno je Više javno tužilaštvo u Beogradu za teritoriju Republike Srbije.\n\nU Višem javnom tužilaštvu u Beogradu obrazuje se Posebno odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Posebno odeljenje).\n\nAko ovim zakonom nije drukčije određeno, na Posebno odeljenje primenjuju se odredbe zakona kojim se uređuje javno tužilaštvo.",
+          "ragContent": "Ovaj član uređuje nadležnost Višeg javnog tužilaštva u Beogradu za krivična dela. Član 4. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše nadležnost i formiranje posebnog odeljenja.\n\nZa postupanje u predmetima krivičnih dela iz člana 3. ovog zakona nadležno je Više javno tužilaštvo u Beogradu za teritoriju Republike Srbije.\n\nU Višem javnom tužilaštvu u Beogradu obrazuje se Posebno odeljenje za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Posebno odeljenje).\n\nAko ovim zakonom nije drukčije određeno, na Posebno odeljenje primenjuju se odredbe zakona kojim se uređuje javno tužilaštvo."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Radom Posebnog odeljenja rukovodi rukovodilac Posebnog odeljenja (u daljem tekstu: rukovodilac Posebnog odeljenja).\n\nRukovodioca Posebnog odeljenja postavlja glavni javni tužilac Višeg javnog tužilaštva u Beogradu iz reda javnih tužilaca višeg javnog tužilaštva ili apelacionog javnog tužilaštva. Prilikom postavljenja prednost imaju javni tužioci koji poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nRukovodilac Posebnog odeljenja postavlja se na šest godina i ne može biti ponovo postavljen.",
+      "chunks": [
+        {
+          "id": "ad2f72c3-3639-54de-b9c7-7324a1849c36",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Radom Posebnog odeljenja rukovodi rukovodilac Posebnog odeljenja (u daljem tekstu: rukovodilac Posebnog odeljenja).\n\nRukovodioca Posebnog odeljenja postavlja glavni javni tužilac Višeg javnog tužilaštva u Beogradu iz reda javnih tužilaca višeg javnog tužilaštva ili apelacionog javnog tužilaštva. Prilikom postavljenja prednost imaju javni tužioci koji poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nRukovodilac Posebnog odeljenja postavlja se na šest godina i ne može biti ponovo postavljen.",
+          "ragContent": "Ovaj član uređuje način postavljanja rukovodioca Posebnog odeljenja. Član 5. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše procedure i kriterijume za postavljanje rukovodioca.\n\nRadom Posebnog odeljenja rukovodi rukovodilac Posebnog odeljenja (u daljem tekstu: rukovodilac Posebnog odeljenja).\n\nRukovodioca Posebnog odeljenja postavlja glavni javni tužilac Višeg javnog tužilaštva u Beogradu iz reda javnih tužilaca višeg javnog tužilaštva ili apelacionog javnog tužilaštva. Prilikom postavljenja prednost imaju javni tužioci koji poseduju posebna znanja iz oblasti informatičkih tehnologija.\n\nRukovodilac Posebnog odeljenja postavlja se na šest godina i ne može biti ponovo postavljen."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Rukovodilac Posebnog odeljenja odgovara za rad Posebnog odeljenja i za svoj rad, glavnom javnom tužiocu Višeg javnog tužilaštva u Beogradu, u skladu sa zakonom.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu bliže uređuje rad Posebnog odeljenja.\n\nAko dođe do saznanja da se u jednom krivičnom predmetu radi o slučajevima propisanim u članu 3. ovog zakona, rukovodilac Posebnog odeljenja ili glavni javni tužilac Višeg javnog tužilaštva u Beogradu se u pismenoj formi obraća Vrhovnom javnom tužiocu, sa zahtevom da se predmet prenese u nadležnost Posebnog odeljenja.",
+      "chunks": [
+        {
+          "id": "917a677d-4f4b-510e-ac04-284c34703d34",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Rukovodilac Posebnog odeljenja odgovara za rad Posebnog odeljenja i za svoj rad, glavnom javnom tužiocu Višeg javnog tužilaštva u Beogradu, u skladu sa zakonom.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu bliže uređuje rad Posebnog odeljenja.\n\nAko dođe do saznanja da se u jednom krivičnom predmetu radi o slučajevima propisanim u članu 3. ovog zakona, rukovodilac Posebnog odeljenja ili glavni javni tužilac Višeg javnog tužilaštva u Beogradu se u pismenoj formi obraća Vrhovnom javnom tužiocu, sa zahtevom da se predmet prenese u nadležnost Posebnog odeljenja.",
+          "ragContent": "Ovaj član uređuje odgovornost rukovodioca Posebnog odeljenja i postupak prenosa predmeta. Član 6. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše obaveze rukovodioca i glavnog javnog tužioca u vezi sa radom Posebnog odeljenja.\n\nRukovodilac Posebnog odeljenja odgovara za rad Posebnog odeljenja i za svoj rad, glavnom javnom tužiocu Višeg javnog tužilaštva u Beogradu, u skladu sa zakonom.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu bliže uređuje rad Posebnog odeljenja.\n\nAko dođe do saznanja da se u jednom krivičnom predmetu radi o slučajevima propisanim u članu 3. ovog zakona, rukovodilac Posebnog odeljenja ili glavni javni tužilac Višeg javnog tužilaštva u Beogradu se u pismenoj formi obraća Vrhovnom javnom tužiocu, sa zahtevom da se predmet prenese u nadležnost Posebnog odeljenja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST” ZAKONA",
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Brisan je (vidi član 5. Zakona – 104/2009-6)\n\nRešenje o postavljenju posebnog tužioca za visokotehnološki kriminal doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena postavljenja.\n\nRešenje o upućivanju zamenika javnog tužioca u Posebno odeljenje Višeg javnog tužilaštva za borbu protiv visokotehnološkog kriminala doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena upućivanja.\n\nRešenje o raspoređivanju sudije u Odeljenje za borbu protiv visokotehnološkog kriminala Višeg suda u Beogradu doneto pre konstituisanja Visokog saveta sudstva važi do isteka vremena raspoređivanja, odnosno upućivanja na rad u taj sud.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu postaviće u roku od 30 dana od dana stupanja na snagu ovog zakona, rukovodioca Posebnog odeljenja u skladu sa odredbama ovog zakona.\n\nDo postavljenja rukovodioca Posebnog odeljenja iz stava 1. ovog člana, rukovođenje radom Posebnog odeljenja vršiće Posebni javni tužilac postavljen u skladu sa Zakonom o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala („Službeni glasnik RS”, br. 61/05, 104/09, 10/23 i 10/23 – dr. zakon).\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu doneće akt koji bliže uređuje rad Posebnog odeljenja u roku od 30 dana od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "3716a4c6-4eb0-5324-8f74-f0541acf6223",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Brisan je (vidi član 5. Zakona – 104/2009-6)\n\nRešenje o postavljenju posebnog tužioca za visokotehnološki kriminal doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena postavljenja.\n\nRešenje o upućivanju zamenika javnog tužioca u Posebno odeljenje Višeg javnog tužilaštva za borbu protiv visokotehnološkog kriminala doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena upućivanja.\n\nRešenje o raspoređivanju sudije u Odeljenje za borbu protiv visokotehnološkog kriminala Višeg suda u Beogradu doneto pre konstituisanja Visokog saveta sudstva važi do isteka vremena raspoređivanja, odnosno upućivanja na rad u taj sud.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu postaviće u roku od 30 dana od dana stupanja na snagu ovog zakona, rukovodioca Posebnog odeljenja u skladu sa odredbama ovog zakona.\n\nDo postavljenja rukovodioca Posebnog odeljenja iz stava 1. ovog člana, rukovođenje radom Posebnog odeljenja vršiće Posebni javni tužilac postavljen u skladu sa Zakonom o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala („Službeni glasnik RS”, br. 61/05, 104/09, 10/23 i 10/23 – dr. zakon).\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu doneće akt koji bliže uređuje rad Posebnog odeljenja u roku od 30 dana od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje postupke vezane za postavljanje i rad posebnog tužilaštva za visokotehnološki kriminal. Član 7. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše važenje rešenja o postavljenju tužioca i sudija, kao i obaveze glavnog javnog tužioca.\n\nBrisan je (vidi član 5. Zakona – 104/2009-6)\n\nRešenje o postavljenju posebnog tužioca za visokotehnološki kriminal doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena postavljenja.\n\nRešenje o upućivanju zamenika javnog tužioca u Posebno odeljenje Višeg javnog tužilaštva za borbu protiv visokotehnološkog kriminala doneto pre dana konstituisanja Visokog saveta tužilaštva važi do isteka vremena upućivanja.\n\nRešenje o raspoređivanju sudije u Odeljenje za borbu protiv visokotehnološkog kriminala Višeg suda u Beogradu doneto pre konstituisanja Visokog saveta sudstva važi do isteka vremena raspoređivanja, odnosno upućivanja na rad u taj sud.\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu postaviće u roku od 30 dana od dana stupanja na snagu ovog zakona, rukovodioca Posebnog odeljenja u skladu sa odredbama ovog zakona.\n\nDo postavljenja rukovodioca Posebnog odeljenja iz stava 1. ovog člana, rukovođenje radom Posebnog odeljenja vršiće Posebni javni tužilac postavljen u skladu sa Zakonom o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala („Službeni glasnik RS”, br. 61/05, 104/09, 10/23 i 10/23 – dr. zakon).\n\nGlavni javni tužilac Višeg javnog tužilaštva u Beogradu doneće akt koji bliže uređuje rad Posebnog odeljenja u roku od 30 dana od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": "ODREDBE KOJE NISU UNETE U „PREČIŠĆEN TEKST” ZAKONA",
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Prestao je da važi (vidi član 153. Zakona - 10/2023-34)\n\n2. Služba za borbu protiv visokotehničkog kriminala\n\nOvaj zakon stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od dana konstituisanja Visokog saveta sudstva, odnosno Visokog saveta tužilaštva.\n\nZakon o izmenama i dopunama Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala: „Službeni glasnik RS”, broj 9/2026-4\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "f925cfe0-de6d-5e08-be8a-fd3d36855b1b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Prestao je da važi (vidi član 153. Zakona - 10/2023-34)\n\n2. Služba za borbu protiv visokotehničkog kriminala\n\nOvaj zakon stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od dana konstituisanja Visokog saveta sudstva, odnosno Visokog saveta tužilaštva.\n\nZakon o izmenama i dopunama Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala: „Službeni glasnik RS”, broj 9/2026-4\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član se odnosi na prestanak važenja prethodnih odredbi i stupanje na snagu novog zakona. Član 8. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše prestanak važenja i primenu zakona.\n\nPrestao je da važi (vidi član 153. Zakona - 10/2023-34)\n\n2. Služba za borbu protiv visokotehničkog kriminala\n\nOvaj zakon stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od dana konstituisanja Visokog saveta sudstva, odnosno Visokog saveta tužilaštva.\n\nZakon o izmenama i dopunama Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala: „Službeni glasnik RS”, broj 9/2026-4\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala",
+      "lawSlug": "zakon-o-organizaciji-i-nadle-nosti-dr-avnih-organa-za-borbu-protiv-visokotehnolo-kog-kriminala",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "krivicna_dela",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Radi obavljanja poslova organa unutrašnjih poslova u vezi sa krivičnim delima iz člana 3. ovog zakona, obrazuje se u okviru ministarstva nadležnog za unutrašnje poslove služba za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Služba).\n\nSlužba postupa po zahtevima rukovodioca Posebnog odeljenja, u skladu sa zakonom.\n\nMinistar nadležan za unutrašnje poslove, po pribavljenom mišljenju rukovodioca Posebnog odeljenja, postavlja i razrešava starešinu Službe i bliže uređuje njen rad, u skladu sa zakonom.",
+      "chunks": [
+        {
+          "id": "18b157ac-2d13-5b53-8093-f261b5db5035",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Radi obavljanja poslova organa unutrašnjih poslova u vezi sa krivičnim delima iz člana 3. ovog zakona, obrazuje se u okviru ministarstva nadležnog za unutrašnje poslove služba za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Služba).\n\nSlužba postupa po zahtevima rukovodioca Posebnog odeljenja, u skladu sa zakonom.\n\nMinistar nadležan za unutrašnje poslove, po pribavljenom mišljenju rukovodioca Posebnog odeljenja, postavlja i razrešava starešinu Službe i bliže uređuje njen rad, u skladu sa zakonom.",
+          "ragContent": "Ovaj član uređuje formiranje i rad Službe za borbu protiv visokotehnološkog kriminala. Član 9. Zakona o organizaciji i nadležnosti državnih organa za borbu protiv visokotehnološkog kriminala definiše nadležnosti i postupke Službe.\n\nRadi obavljanja poslova organa unutrašnjih poslova u vezi sa krivičnim delima iz člana 3. ovog zakona, obrazuje se u okviru ministarstva nadležnog za unutrašnje poslove služba za borbu protiv visokotehnološkog kriminala (u daljem tekstu: Služba).\n\nSlužba postupa po zahtevima rukovodioca Posebnog odeljenja, u skladu sa zakonom.\n\nMinistar nadležan za unutrašnje poslove, po pribavljenom mišljenju rukovodioca Posebnog odeljenja, postavlja i razrešava starešinu Službe i bliže uređuje njen rad, u skladu sa zakonom."
+        }
+      ]
+    }
+  ]
+}

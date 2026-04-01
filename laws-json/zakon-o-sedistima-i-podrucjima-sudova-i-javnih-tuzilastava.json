@@ -1,0 +1,49 @@
+{
+  "law": "Zakon o sedištima i područjima sudova i javnih tužilaštava",
+  "lawSlug": "zakon-o-sedi-tima-i-podru-jima-sudova-i-javnih-tu-ila-tava",
+  "category": "sud",
+  "sourceDocumentCount": 2,
+  "articleCount": 2,
+  "articles": [
+    {
+      "law": "Zakon o sedištima i područjima sudova i javnih tužilaštava",
+      "lawSlug": "zakon-o-sedi-tima-i-podru-jima-sudova-i-javnih-tu-ila-tava",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "sud",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Viša javna tužilaštva jesu:\n\n7) Više javno tužilaštvo u Kosovskoj Mitrovici, za područje Višeg suda u Kosovskoj Mitrovici.",
+      "chunks": [
+        {
+          "id": "434e78d0-2f53-5b3e-8796-c8cc92a53825",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Viša javna tužilaštva jesu:\n\n7) Više javno tužilaštvo u Kosovskoj Mitrovici, za područje Višeg suda u Kosovskoj Mitrovici.",
+          "ragContent": "Ovaj član definiše viša javna tužilaštva. Član 10. Zakona o sedištima i područjima sudova i javnih tužilaštava navodi specifična viša javna tužilaštva, uključujući Više javno tužilaštvo u Kosovskoj Mitrovici.\n\nViša javna tužilaštva jesu:\n\n7) Više javno tužilaštvo u Kosovskoj Mitrovici, za područje Višeg suda u Kosovskoj Mitrovici."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o sedištima i područjima sudova i javnih tužilaštava",
+      "lawSlug": "zakon-o-sedi-tima-i-podru-jima-sudova-i-javnih-tu-ila-tava",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "sud",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Viši sudovi jesu:\n\n7) Viši sud u Kosovskoj Mitrovici, za područje Osnovnog suda u Kosovskoj Mitrovici.",
+      "chunks": [
+        {
+          "id": "5d3d8635-4438-5973-816c-356647bed379",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Viši sudovi jesu:\n\n7) Viši sud u Kosovskoj Mitrovici, za područje Osnovnog suda u Kosovskoj Mitrovici.",
+          "ragContent": "Ovaj chunk definiše viši sud u Kosovskoj Mitrovici. Zakon o sedištima i područjima sudova i javnih tužilaštava, član 4, uređuje viši sud u Kosovskoj Mitrovici.\n\nViši sudovi jesu:\n\n7) Viši sud u Kosovskoj Mitrovici, za područje Osnovnog suda u Kosovskoj Mitrovici."
+        }
+      ]
+    }
+  ]
+}

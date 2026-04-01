@@ -1,0 +1,29 @@
+{
+  "law": "Zakon o privrednim društvima",
+  "lawSlug": "zakon-o-privrednim-dru-tvima",
+  "category": "privredna_drustva",
+  "sourceDocumentCount": 1,
+  "articleCount": 1,
+  "articles": [
+    {
+      "law": "Zakon o privrednim društvima",
+      "lawSlug": "zakon-o-privrednim-dru-tvima",
+      "article": "Član 456",
+      "articleNo": "456",
+      "section": "NAPOMENA IZDAVAČA:",
+      "category": "privredna_drustva",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona, prestaje da važi Zakon o preduzećima, osim čl. 392 do 399. i čl. 400a, 400b, 400v i 421a koji ostaju na snazi do isteka rokova za privatizaciju utvrđenih zakonom kojim se uređuje privatizacija.",
+      "chunks": [
+        {
+          "id": "d9806d6f-71d9-58d1-86bd-3517b0b59e3a",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona, prestaje da važi Zakon o preduzećima, osim čl. 392 do 399. i čl. 400a, 400b, 400v i 421a koji ostaju na snazi do isteka rokova za privatizaciju utvrđenih zakonom kojim se uređuje privatizacija.",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnog zakona o preduzećima. Član 456. Zakona o privrednim društvima definiše koji delovi prethodnog zakona ostaju na snazi.  Danom stupanja na snagu ovog zakona, prestaje da važi Zakon o preduzećima, osim čl. 392 do 399. i čl. 400a, 400b, 400v i 421a koji ostaju na snazi do isteka rokova za privatizaciju utvrđenih zakonom kojim se uređuje privatizacija."
+        }
+      ]
+    }
+  ]
+}

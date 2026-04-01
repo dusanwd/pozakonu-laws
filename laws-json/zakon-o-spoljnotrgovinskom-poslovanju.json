@@ -1,0 +1,1010 @@
+{
+  "law": "Zakon o spoljnotrgovinskom poslovanju",
+  "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+  "category": "spoljna_trgovina",
+  "sourceDocumentCount": 52,
+  "articleCount": 49,
+  "articles": [
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Ovim zakonom uređuje se spoljnotrgovinsko poslovanje u skladu sa pravilima Svetske trgovinske organizacije (STO) i propisima Evropske unije (EU), kao i nadležnost Agencije za strana ulaganja i promociju izvoza.\n\nSpoljnotrgovinsko poslovanje je spoljnotrgovinski promet robe i usluga i obavljanje privrednih delatnosti stranog lica u Republici Srbiji i domaćeg lica u drugoj državi ili carinskoj teritoriji.\n\nSpoljnotrgovinski promet pojedinom vrstom robe i usluge može se posebno urediti u skladu sa pravilima STO i propisima EU.\n\nSpoljna trgovina naoružanjem, vojnom opremom i robom dvostruke namene uređuje se posebnim zakonom.",
+      "chunks": [
+        {
+          "id": "426ffdaf-f8f1-5a37-867c-da6bff8501fe",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuje se spoljnotrgovinsko poslovanje u skladu sa pravilima Svetske trgovinske organizacije (STO) i propisima Evropske unije (EU), kao i nadležnost Agencije za strana ulaganja i promociju izvoza.\n\nSpoljnotrgovinsko poslovanje je spoljnotrgovinski promet robe i usluga i obavljanje privrednih delatnosti stranog lica u Republici Srbiji i domaćeg lica u drugoj državi ili carinskoj teritoriji.",
+          "ragContent": "Ovaj član definiše spoljnotrgovinsko poslovanje i njegovu regulaciju. Zakon o spoljnotrgovinskom poslovanju, član 1, uređuje spoljnotrgovinski promet robe i usluga, kao i nadležnost Agencije za strana ulaganja.\n\nOvim zakonom uređuje se spoljnotrgovinsko poslovanje u skladu sa pravilima Svetske trgovinske organizacije (STO) i propisima Evropske unije (EU), kao i nadležnost Agencije za strana ulaganja i promociju izvoza.\n\nSpoljnotrgovinsko poslovanje je spoljnotrgovinski promet robe i usluga i obavljanje privrednih delatnosti stranog lica u Republici Srbiji i domaćeg lica u drugoj državi ili carinskoj teritoriji."
+        },
+        {
+          "id": "b2735074-67f8-56f9-aa73-19db04429831",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Spoljnotrgovinski promet pojedinom vrstom robe i usluge može se posebno urediti u skladu sa pravilima STO i propisima EU.\n\nSpoljna trgovina naoružanjem, vojnom opremom i robom dvostruke namene uređuje se posebnim zakonom.",
+          "ragContent": "Ovaj deo člana se odnosi na specifične regulative za određene vrste robe i usluga. Zakon o spoljnotrgovinskom poslovanju, član 1, omogućava posebno uređenje spoljnotrgovinskog prometa u skladu sa pravilima STO i EU.\n\nSpoljnotrgovinski promet pojedinom vrstom robe i usluge može se posebno urediti u skladu sa pravilima STO i propisima EU.\n\nSpoljna trgovina naoružanjem, vojnom opremom i robom dvostruke namene uređuje se posebnim zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Informacije pribavljene u skladu sa ovim zakonom smatraju se poverljivim i ne mogu se objaviti, niti dostaviti trećim licima bez pismene saglasnosti lica na koje se odnose, osim kada je nadležni organ obavezan da to učini u skladu sa zakonom.",
+      "chunks": [
+        {
+          "id": "186f26fd-ce92-53c4-a25a-3a7dd66fdc2f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Informacije pribavljene u skladu sa ovim zakonom smatraju se poverljivim i ne mogu se objaviti, niti dostaviti trećim licima bez pismene saglasnosti lica na koje se odnose, osim kada je nadležni organ obavezan da to učini u skladu sa zakonom.",
+          "ragContent": "Ovaj član uređuje poverljivost informacija prikupljenih prema zakonu. Član 10. Zakona o spoljnotrgovinskom poslovanju definiše da su informacije poverljive i ne mogu se deliti bez saglasnosti.\n\nInformacije pribavljene u skladu sa ovim zakonom smatraju se poverljivim i ne mogu se objaviti, niti dostaviti trećim licima bez pismene saglasnosti lica na koje se odnose, osim kada je nadležni organ obavezan da to učini u skladu sa zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Odredbe ovog zakona neće se tumačiti tako da sprečavaju uvođenje ili primenu mera koje utiču na spoljnotrgovinski promet robom, ukoliko se ove mere ne primenjuju tako da čine proizvoljnu ili neopravdanu diskriminaciju među državama, odnosno carinskim teritorijama gde su na snazi isti uslovi ili kao prikriveno ograničavanje međunarodne trgovine i ako se ove mere:\n\n1) uvode ili primenjuju u cilju neophodne zaštite javnog morala,\n\n2) uvode ili primenjuju u cilju neophodne zaštite života i zdravlja ljudi, životinja ili biljaka,\n\n3) odnose na uvoz ili izvoz zlata ili srebra,\n\n4) uvode ili primenjuju kao neophodne da obezbede usaglašenost sa propisima koji nisu u suprotnosti sa odredbama sporazuma STO, uključujući primenu carinskih propisa, propisa kojima se uređuje zaštita patenata, žigova i autorskih prava, kao i sprečavanje dovođenja u zabludu,\n\n5) odnose na proizvode izrađene u zatvorima,\n\n6) uvode u cilju zaštite umetničkog, istorijskog ili arheološkog blaga,\n\n7) odnose na zaštitu neobnovljivih prirodnih bogatstava, ako se te mere primenjuju uporedo sa ograničenjem domaće proizvodnje ili potrošnje,\n\n8) preduzimaju u cilju poštovanja obaveza iz međunarodnog robnog sporazuma koji je u saglasnosti sa kriterijumima podnetim članicama STO ili koji je podnet članicama STO, a članice STO nisu imale primedaba,\n\n9) odnose na ograničavanje izvoza sirovina proizvedenih u Republici Srbiji i potrebnih da se domaćoj prerađivačkoj industriji obezbede neophodne količine tih sirovina u periodima kada se domaća cena održava na nivou ispod svetske cene po odluci Vlade u okviru stabilizacije tržišta te robe, pod uslovom da to ograničavanje nema za posledicu povećanje izvoza ili zaštite za tu domaću industriju i da se tom merom ne vrši nikakva diskriminacija,\n\n10) uvode ili primenjuju zbog nestašice proizvoda (opšte ili lokalne) kako bi se ti proizvodi pribavili ili raspodelili, pod uslovom da sve države imaju pravo na pravičan udeo u snabdevanju ovim proizvodima i da se takve mere ukidaju kada prestanu da postoje razlozi zbog kojih su uvedene, ili\n\n11) uvode ili primenjuju u cilju zaštite bezbednosti ako se:\n\n– odnose na fisione materijale ili materijale od kojih oni potiču,\n\n– odnose na promet oružja, municije i sredstava za vođenje rata, kao i na promet druge robe i materijala koji se vrši posredno ili neposredno za potrebe snabdevanja oružanih snaga,\n\n– preduzimaju u vreme rata ili drugih vanrednih situacija u međunarodnim odnosima, ili\n\n– uvode ili primenjuju u cilju ispunjavanja obaveza iz Povelje Ujedinjenih nacija u smislu održavanja međunarodnog mira i bezbednosti.",
+      "chunks": [
+        {
+          "id": "e3931efc-8993-597e-8b3e-f7f3de8e587c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Odredbe ovog zakona neće se tumačiti tako da sprečavaju uvođenje ili primenu mera koje utiču na spoljnotrgovinski promet robom, ukoliko se ove mere ne primenjuju tako da čine proizvoljnu ili neopravdanu diskriminaciju među državama, odnosno carinskim teritorijama gde su na snazi isti uslovi ili kao prikriveno ograničavanje međunarodne trgovine i ako se ove mere:\n\n1) uvode ili primenjuju u cilju neophodne zaštite javnog morala,\n\n2) uvode ili primenjuju u cilju neophodne zaštite života i zdravlja ljudi, životinja ili biljaka,\n\n3) odnose na uvoz ili izvoz zlata ili srebra,\n\n4) uvode ili primenjuju kao neophodne da obezbede usaglašenost sa propisima koji nisu u suprotnosti sa odredbama sporazuma STO, uključujući primenu carinskih propisa, propisa kojima se uređuje zaštita patenata, žigova i autorskih prava, kao i sprečavanje dovođenja u zabludu,\n\n5) odnose na proizvode izrađene u zatvorima,\n\n6) uvode u cilju zaštite umetničkog, istorijskog ili arheološkog blaga,\n\n7) odnose na zaštitu neobnovljivih prirodnih bogatstava, ako se te mere primenjuju uporedo sa ograničenjem domaće proizvodnje ili potrošnje,\n\n8) preduzimaju u cilju poštovanja obaveza iz međunarodnog robnog sporazuma koji je u saglasnosti sa kriterijumima podnetim članicama STO ili koji je podnet članicama STO, a članice STO nisu imale primedaba,\n\n9) odnose na ograničavanje izvoza sirovina proizvedenih u Republici Srbiji i potrebnih da se domaćoj prerađivačkoj industriji obezbede neophodne količine tih sirovina u periodima kada se domaća cena održava na nivou ispod svetske cene po odluci Vlade u okviru stabilizacije tržišta te robe, pod uslovom da to ograničavanje nema za posledicu povećanje izvoza ili zaštite za tu domaću industriju i da se tom merom ne vrši nikakva diskriminacija,\n\n10) uvode ili primenjuju zbog nestašice proizvoda (opšte ili lokalne) kako bi se ti proizvodi pribavili ili raspodelili, pod uslovom da sve države imaju pravo na pravičan udeo u snabdevanju ovim proizvodima i da se takve mere ukidaju kada prestanu da postoje razlozi zbog kojih su uvedene, ili\n\n11) uvode ili primenjuju u cilju zaštite bezbednosti ako se:\n\n– odnose na fisione materijale ili materijale od kojih oni potiču,\n\n– odnose na promet oružja, municije i sredstava za vođenje rata, kao i na promet druge robe i materijala koji se vrši posredno ili neposredno za potrebe snabdevanja oružanih snaga,\n\n– preduzimaju u vreme rata ili drugih vanrednih situacija u međunarodnim odnosima, ili\n\n– uvode ili primenjuju u cilju ispunjavanja obaveza iz Povelje Ujedinjenih nacija u smislu održavanja međunarodnog mira i bezbednosti.",
+          "ragContent": "Ovaj član uređuje uslove pod kojima se mogu uvesti ili primeniti mere koje utiču na spoljnotrgovinski promet. Član 11. Zakona o spoljnotrgovinskom poslovanju definiše situacije kada se mere ne smatraju diskriminatornim ili ograničavajućim.\n\nOdredbe ovog zakona neće se tumačiti tako da sprečavaju uvođenje ili primenu mera koje utiču na spoljnotrgovinski promet robom, ukoliko se ove mere ne primenjuju tako da čine proizvoljnu ili neopravdanu diskriminaciju među državama, odnosno carinskim teritorijama gde su na snazi isti uslovi ili kao prikriveno ograničavanje međunarodne trgovine i ako se ove mere:\n\n1) uvode ili primenjuju u cilju neophodne zaštite javnog morala,\n\n2) uvode ili primenjuju u cilju neophodne zaštite života i zdravlja ljudi, životinja ili biljaka,\n\n3) odnose na uvoz ili izvoz zlata ili srebra,\n\n4) uvode ili primenjuju kao neophodne da obezbede usaglašenost sa propisima koji nisu u suprotnosti sa odredbama sporazuma STO, uključujući primenu carinskih propisa, propisa kojima se uređuje zaštita patenata, žigova i autorskih prava, kao i sprečavanje dovođenja u zabludu,\n\n5) odnose na proizvode izrađene u zatvorima,\n\n6) uvode u cilju zaštite umetničkog, istorijskog ili arheološkog blaga,\n\n7) odnose na zaštitu neobnovljivih prirodnih bogatstava, ako se te mere primenjuju uporedo sa ograničenjem domaće proizvodnje ili potrošnje,\n\n8) preduzimaju u cilju poštovanja obaveza iz međunarodnog robnog sporazuma koji je u saglasnosti sa kriterijumima podnetim članicama STO ili koji je podnet članicama STO, a članice STO nisu imale primedaba,\n\n9) odnose na ograničavanje izvoza sirovina proizvedenih u Republici Srbiji i potrebnih da se domaćoj prerađivačkoj industriji obezbede neophodne količine tih sirovina u periodima kada se domaća cena održava na nivou ispod svetske cene po odluci Vlade u okviru stabilizacije tržišta te robe, pod uslovom da to ograničavanje nema za posledicu povećanje izvoza ili zaštite za tu domaću industriju i da se tom merom ne vrši nikakva diskriminacija,\n\n10) uvode ili primenjuju zbog nestašice proizvoda (opšte ili lokalne) kako bi se ti proizvodi pribavili ili raspodelili, pod uslovom da sve države imaju pravo na pravičan udeo u snabdevanju ovim proizvodima i da se takve mere ukidaju kada prestanu da postoje razlozi zbog kojih su uvedene, ili\n\n11) uvode ili primenjuju u cilju zaštite bezbednosti ako se:\n\n– odnose na fisione materijale ili materijale od kojih oni potiču,\n\n– odnose na promet oružja, municije i sredstava za vođenje rata, kao i na promet druge robe i materijala koji se vrši posredno ili neposredno za potrebe snabdevanja oružanih snaga,\n\n– preduzimaju u vreme rata ili drugih vanrednih situacija u međunarodnim odnosima, ili\n\n– uvode ili primenjuju u cilju ispunjavanja obaveza iz Povelje Ujedinjenih nacija u smislu održavanja međunarodnog mira i bezbednosti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mere koje utiču na spoljnotrgovinsko poslovanje (u daljem tekstu: mere) propisuju se, sprovode i tumače u skladu sa principima ovog zakona i pravilima STO, propisima EU i obavezama iz međunarodnih sporazuma.\n\nMere iz stava 1. ovog člana dozvoljene su samo u slučaju kada:\n\n1) je to neophodno za postizanje ciljeva predviđenih ovim zakonom,\n\n2) je to izričito propisano zakonom, i\n\n3) su stepen, obim i trajanje mere srazmerni njenoj svrsi, odnosno kada su ograničeni na minimum neophodan za postizanje ciljeva mere.",
+      "chunks": [
+        {
+          "id": "efa7f2dc-973b-5034-929b-6f7553c46a78",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mere koje utiču na spoljnotrgovinsko poslovanje (u daljem tekstu: mere) propisuju se, sprovode i tumače u skladu sa principima ovog zakona i pravilima STO, propisima EU i obavezama iz međunarodnih sporazuma.\n\nMere iz stava 1. ovog člana dozvoljene su samo u slučaju kada:\n\n1) je to neophodno za postizanje ciljeva predviđenih ovim zakonom,\n\n2) je to izričito propisano zakonom, i\n\n3) su stepen, obim i trajanje mere srazmerni njenoj svrsi, odnosno kada su ograničeni na minimum neophodan za postizanje ciljeva mere.",
+          "ragContent": "Ovaj član uređuje mere koje utiču na spoljnotrgovinsko poslovanje. Član 12. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima su mere dozvoljene.\n\nMere koje utiču na spoljnotrgovinsko poslovanje (u daljem tekstu: mere) propisuju se, sprovode i tumače u skladu sa principima ovog zakona i pravilima STO, propisima EU i obavezama iz međunarodnih sporazuma.\n\nMere iz stava 1. ovog člana dozvoljene su samo u slučaju kada:\n\n1) je to neophodno za postizanje ciljeva predviđenih ovim zakonom,\n\n2) je to izričito propisano zakonom, i\n\n3) su stepen, obim i trajanje mere srazmerni njenoj svrsi, odnosno kada su ograničeni na minimum neophodan za postizanje ciljeva mere."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mera koja se uvodi u skladu sa ovim zakonom ne sme da ima za cilj ili posledicu narušavanje slobode trgovine i konkurentnosti učesnika u određenom spoljnotrgovinskom poslu.\n\nMera se ukida, ili se njen stepen ili obim umanjuje kada prestanu da postoje razlozi za njenu primenu, ili kada se promene okolnosti zbog kojih je mera uvedena.",
+      "chunks": [
+        {
+          "id": "ff79b458-89d0-5efc-8feb-dffd4afb2a5c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mera koja se uvodi u skladu sa ovim zakonom ne sme da ima za cilj ili posledicu narušavanje slobode trgovine i konkurentnosti učesnika u određenom spoljnotrgovinskom poslu.\n\nMera se ukida, ili se njen stepen ili obim umanjuje kada prestanu da postoje razlozi za njenu primenu, ili kada se promene okolnosti zbog kojih je mera uvedena.",
+          "ragContent": "Ovaj član uređuje uslove pod kojima se mere u spoljnotrgovinskom poslovanju mogu primenjivati. Član 13. Zakona o spoljnotrgovinskom poslovanju propisuje da mere ne smeju narušavati slobodu trgovine i konkurentnost.\n\nMera koja se uvodi u skladu sa ovim zakonom ne sme da ima za cilj ili posledicu narušavanje slobode trgovine i konkurentnosti učesnika u određenom spoljnotrgovinskom poslu.\n\nMera se ukida, ili se njen stepen ili obim umanjuje kada prestanu da postoje razlozi za njenu primenu, ili kada se promene okolnosti zbog kojih je mera uvedena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mere i bliže uslove za primenu mera propisuje Vlada, na predlog ministarstva ili drugog nadležnog organa. Ako se merom iz stava 1. ovog člana propisuje pribavljanje isprave koja je uslov za uvoz, izvoz ili tranzit robe, spisak takve robe objavljuje se u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "e85ebfa1-df9e-5015-8b63-919f7779781d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mere i bliže uslove za primenu mera propisuje Vlada, na predlog ministarstva ili drugog nadležnog organa. Ako se merom iz stava 1. ovog člana propisuje pribavljanje isprave koja je uslov za uvoz, izvoz ili tranzit robe, spisak takve robe objavljuje se u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje propisivanje mera i uslova za uvoz, izvoz ili tranzit robe. Član 14. Zakona o spoljnotrgovinskom poslovanju definiše nadležnost Vlade za propisivanje mera i objavljivanje spiska robe.\n\nMere i bliže uslove za primenu mera propisuje Vlada, na predlog ministarstva ili drugog nadležnog organa. Ako se merom iz stava 1. ovog člana propisuje pribavljanje isprave koja je uslov za uvoz, izvoz ili tranzit robe, spisak takve robe objavljuje se u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Na postupak donošenja pojedinačnih upravnih akata, u smislu ovog zakona, primenjuju se odredbe zakona kojima se uređuje opšti upravni postupak, osim ako ovim zakonom nije drugačije predviđeno. Protiv akta iz stava 1. ovog člana može da se pokrene upravni spor.",
+      "chunks": [
+        {
+          "id": "eeaa1b70-5c55-5963-868e-14112134f2a1",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Na postupak donošenja pojedinačnih upravnih akata, u smislu ovog zakona, primenjuju se odredbe zakona kojima se uređuje opšti upravni postupak, osim ako ovim zakonom nije drugačije predviđeno. Protiv akta iz stava 1. ovog člana može da se pokrene upravni spor.",
+          "ragContent": "Ovaj član uređuje postupak donošenja upravnih akata i mogućnost pokretanja upravnog spora. Član 15. Zakona o spoljnotrgovinskom poslovanju propisuje primenu opštih pravila upravnog postupka i mogućnost pokretanja upravnog spora protiv donetih akata.  Na postupak donošenja pojedinačnih upravnih akata, u smislu ovog zakona, primenjuju se odredbe zakona kojima se uređuje opšti upravni postupak, osim ako ovim zakonom nije drugačije predviđeno. Protiv akta iz stava 1. ovog člana može da se pokrene upravni spor."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Iznos naknada za administrativne usluge koje organi, odnosno lica kojima su zakonom poverena javna ovlašćenja, pružaju licima u spoljnotrgovinskom poslovanju ne može:\n\n1) biti veći od stvarnih troškova pruženih usluga,\n\n2) predstavljati indirektnu zaštitu domaće proizvodnje, i\n\n3) predstavljati indirektno opterećenje uvoza i izvoza.",
+      "chunks": [
+        {
+          "id": "ea082abb-1ae3-505e-b1ac-50551863d861",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Iznos naknada za administrativne usluge koje organi, odnosno lica kojima su zakonom poverena javna ovlašćenja, pružaju licima u spoljnotrgovinskom poslovanju ne može:\n\n1) biti veći od stvarnih troškova pruženih usluga,\n\n2) predstavljati indirektnu zaštitu domaće proizvodnje, i\n\n3) predstavljati indirektno opterećenje uvoza i izvoza.",
+          "ragContent": "Ovaj član uređuje iznos naknada za administrativne usluge u spoljnotrgovinskom poslovanju. Član 16. Zakona o spoljnotrgovinskom poslovanju propisuje da naknade ne mogu biti veće od stvarnih troškova, ne smeju predstavljati zaštitu domaće proizvodnje i ne smeju opterećivati uvoz i izvoz.\n\nIznos naknada za administrativne usluge koje organi, odnosno lica kojima su zakonom poverena javna ovlašćenja, pružaju licima u spoljnotrgovinskom poslovanju ne može:\n\n1) biti veći od stvarnih troškova pruženih usluga,\n\n2) predstavljati indirektnu zaštitu domaće proizvodnje, i\n\n3) predstavljati indirektno opterećenje uvoza i izvoza."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Izvoz robe je iznošenje, slanje, odnosno isporuka robe sa teritorije Republike Srbije na teritoriju druge države ili carinske teritorije, u skladu sa carinskim propisima Republike Srbije.\n\nUvoz robe je unošenje, dopremanje, odnosno isporuka robe sa teritorije druge države ili carinske teritorije na teritoriju Republike Srbije, u skladu sa carinskim propisima Republike Srbije.\n\nTranzit robe je prelazak robe preko carinske teritorije Republike Srbije, u skladu sa carinskim propisima Republike Srbije.",
+      "chunks": [
+        {
+          "id": "ce33283c-62c0-5d99-bb74-947a308a4f44",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izvoz robe je iznošenje, slanje, odnosno isporuka robe sa teritorije Republike Srbije na teritoriju druge države ili carinske teritorije, u skladu sa carinskim propisima Republike Srbije.\n\nUvoz robe je unošenje, dopremanje, odnosno isporuka robe sa teritorije druge države ili carinske teritorije na teritoriju Republike Srbije, u skladu sa carinskim propisima Republike Srbije.\n\nTranzit robe je prelazak robe preko carinske teritorije Republike Srbije, u skladu sa carinskim propisima Republike Srbije.",
+          "ragContent": "Ovaj član definiše izvoz, uvoz i tranzit robe. Član 17. Zakona o spoljnotrgovinskom poslovanju reguliše postupke vezane za izvoz, uvoz i tranzit robe.\n\nIzvoz robe je iznošenje, slanje, odnosno isporuka robe sa teritorije Republike Srbije na teritoriju druge države ili carinske teritorije, u skladu sa carinskim propisima Republike Srbije.\n\nUvoz robe je unošenje, dopremanje, odnosno isporuka robe sa teritorije druge države ili carinske teritorije na teritoriju Republike Srbije, u skladu sa carinskim propisima Republike Srbije.\n\nTranzit robe je prelazak robe preko carinske teritorije Republike Srbije, u skladu sa carinskim propisima Republike Srbije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kvantitativno ograničenje je najveći ukupan obim pojedine robe određen po vrednosti ili po količini koji može da se izveze ili uveze u propisanom roku.\n\nKvantitativno ograničenje raspodeljuje se na kvote, osim ako nije drugačije propisano.",
+      "chunks": [
+        {
+          "id": "1c6c3e79-99aa-58a9-989e-da2b24375e68",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kvantitativno ograničenje je najveći ukupan obim pojedine robe određen po vrednosti ili po količini koji može da se izveze ili uveze u propisanom roku.\n\nKvantitativno ograničenje raspodeljuje se na kvote, osim ako nije drugačije propisano.",
+          "ragContent": "Ovaj član definiše kvantitativno ograničenje za izvoz i uvoz robe. Član 18. Zakona o spoljnotrgovinskom poslovanju propisuje uslove za kvantitativna ograničenja.\n\nKvantitativno ograničenje je najveći ukupan obim pojedine robe određen po vrednosti ili po količini koji može da se izveze ili uveze u propisanom roku.\n\nKvantitativno ograničenje raspodeljuje se na kvote, osim ako nije drugačije propisano."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kvantitativno ograničenje uvoza može da se uvede radi:\n\n1) zaštite od prekomernog uvoza u skladu sa članom 34. ovog zakona, ili\n\n2) zaštite platnog bilansa u skladu sa čl. 35, 36. i 36a ovog zakona.\n\nKvantitativno ograničenje izvoza može da se uvede privremeno, u cilju sprečavanja kritične nestašice osnovnih proizvoda ili radi ublažavanja posledica takve nestašice u Republici Srbiji.\n\nKvantitativna ograničenja uvoza i izvoza mogu da se uvedu:\n\n1) u slučajevima predviđenim članom 11. ovog zakona, ili\n\n2) radi primene normi ili propisa o klasifikaciji, rangiranju ili plasiranju robe u međunarodnoj trgovini.\n\nVlada, na predlog ministarstva, uvodi kvantitativna ograničenja iz st. 1. i 2. ovog člana, a na predlog ministarstva ili drugog nadležnog organa – kvantitativna ograničenja iz stava 3. ovog člana.",
+      "chunks": [
+        {
+          "id": "f98277d7-8b8c-5ee6-97e3-fe6fdcb1a8af",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kvantitativno ograničenje uvoza može da se uvede radi:\n\n1) zaštite od prekomernog uvoza u skladu sa članom 34. ovog zakona, ili\n\n2) zaštite platnog bilansa u skladu sa čl. 35, 36. i 36a ovog zakona.\n\nKvantitativno ograničenje izvoza može da se uvede privremeno, u cilju sprečavanja kritične nestašice osnovnih proizvoda ili radi ublažavanja posledica takve nestašice u Republici Srbiji.\n\nKvantitativna ograničenja uvoza i izvoza mogu da se uvedu:\n\n1) u slučajevima predviđenim članom 11. ovog zakona, ili\n\n2) radi primene normi ili propisa o klasifikaciji, rangiranju ili plasiranju robe u međunarodnoj trgovini.\n\nVlada, na predlog ministarstva, uvodi kvantitativna ograničenja iz st. 1. i 2. ovog člana, a na predlog ministarstva ili drugog nadležnog organa – kvantitativna ograničenja iz stava 3. ovog člana.",
+          "ragContent": "Ovaj član uređuje kvantitativna ograničenja uvoza i izvoza. Član 19. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se mogu uvesti kvantitativna ograničenja.\n\nKvantitativno ograničenje uvoza može da se uvede radi:\n\n1) zaštite od prekomernog uvoza u skladu sa članom 34. ovog zakona, ili\n\n2) zaštite platnog bilansa u skladu sa čl. 35, 36. i 36a ovog zakona.\n\nKvantitativno ograničenje izvoza može da se uvede privremeno, u cilju sprečavanja kritične nestašice osnovnih proizvoda ili radi ublažavanja posledica takve nestašice u Republici Srbiji.\n\nKvantitativna ograničenja uvoza i izvoza mogu da se uvedu:\n\n1) u slučajevima predviđenim članom 11. ovog zakona, ili\n\n2) radi primene normi ili propisa o klasifikaciji, rangiranju ili plasiranju robe u međunarodnoj trgovini.\n\nVlada, na predlog ministarstva, uvodi kvantitativna ograničenja iz st. 1. i 2. ovog člana, a na predlog ministarstva ili drugog nadležnog organa – kvantitativna ograničenja iz stava 3. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Spoljnotrgovinski promet je promet između domaćih i stranih lica koji se obavlja na osnovu ugovora zaključenih u skladu sa domaćim propisima i međunarodnim ugovorima.\n\nObavljanje privrednih delatnosti obuhvata direktno ulaganje i investicione radove stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji.\n\nU smislu stava 2. ovog člana:\n\n1) direktno ulaganje je osnivanje privrednog društva, ogranka, predstavništva, kupovina udela ili akcija u kapitalu privrednog društva, dokapitalizacija privrednog društva i svaki drugi oblik ulaganja stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji.\n\n2) investicioni radovi su projektovanje, građevinski i zanatski radovi, inženjerski radovi i svi ostali radovi i usluge na objektima koje vrši, odnosno pruža strano lice u Republici Srbiji, odnosno domaće lice u drugoj državi ili carinskoj teritoriji.",
+      "chunks": [
+        {
+          "id": "e3185b5f-4a49-53c8-96a5-87a8b96b18d8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Spoljnotrgovinski promet je promet između domaćih i stranih lica koji se obavlja na osnovu ugovora zaključenih u skladu sa domaćim propisima i međunarodnim ugovorima.\n\nObavljanje privrednih delatnosti obuhvata direktno ulaganje i investicione radove stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji.",
+          "ragContent": "Ovaj član definiše spoljnotrgovinski promet i obavljanje privrednih delatnosti. Član 2. Zakona o spoljnotrgovinskom poslovanju propisuje da se spoljnotrgovinski promet obavlja na osnovu ugovora u skladu sa domaćim i međunarodnim propisima.\n\nSpoljnotrgovinski promet je promet između domaćih i stranih lica koji se obavlja na osnovu ugovora zaključenih u skladu sa domaćim propisima i međunarodnim ugovorima.\n\nObavljanje privrednih delatnosti obuhvata direktno ulaganje i investicione radove stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji."
+        },
+        {
+          "id": "b4970f2f-6dbe-5841-975c-94bb96d64cb9",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "U smislu stava 2. ovog člana:\n\n1) direktno ulaganje je osnivanje privrednog društva, ogranka, predstavništva, kupovina udela ili akcija u kapitalu privrednog društva, dokapitalizacija privrednog društva i svaki drugi oblik ulaganja stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji.\n\n2) investicioni radovi su projektovanje, građevinski i zanatski radovi, inženjerski radovi i svi ostali radovi i usluge na objektima koje vrši, odnosno pruža strano lice u Republici Srbiji, odnosno domaće lice u drugoj državi ili carinskoj teritoriji.",
+          "ragContent": "Ovaj deo člana objašnjava direktna ulaganja i investicione radove. Član 2. Zakona o spoljnotrgovinskom poslovanju definiše direktno ulaganje i investicione radove kao ključne aspekte obavljanja privrednih delatnosti.\n\nU smislu stava 2. ovog člana:\n\n1) direktno ulaganje je osnivanje privrednog društva, ogranka, predstavništva, kupovina udela ili akcija u kapitalu privrednog društva, dokapitalizacija privrednog društva i svaki drugi oblik ulaganja stranog lica u Republici Srbiji, odnosno domaćeg lica u drugoj državi ili carinskoj teritoriji.\n\n2) investicioni radovi su projektovanje, građevinski i zanatski radovi, inženjerski radovi i svi ostali radovi i usluge na objektima koje vrši, odnosno pruža strano lice u Republici Srbiji, odnosno domaće lice u drugoj državi ili carinskoj teritoriji."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 2,
+      "content": "Ministarstvo, odnosno drugi nadležni organ raspodeljuje kvote na zahtev podnosioca, u skladu sa uslovima koji uključuju naročito:\n\n1) ekonomski opravdanu količinu robe obuhvaćenu kvotom,\n\n2) stepen iskorišćenosti ranije dodeljenih kvota i\n\n3) mogućnost dodele kvote licima kojima ranije nisu dodeljivane kvote.\n\nKvote se raspodeljuju:\n\n1) izdavanjem dozvola na neautomatski način za uvoz, odnosno izvoz dodeljene kvote,\n\n2) otpisivanjem od strane nadležnog carinskog organa, u momentu carinjenja robe, prema redosledu prihvatanja carinske deklaracije.\n\nDodeljena kvota je neprenosiva.\n\nKvota se može iskoristiti u roku koji ne može biti duži od godinu dana od dana njene dodele.\n\nBroj isporuka tokom roka u kome se kvota može iskoristiti nije ograničen.\n\nAko lice ne koristi kvotu u skladu sa uslovima utvrđenim propisom o uvođenju kvantitativnog ograničenja, odnosno aktom o dodeli kvote, ministarstvo, odnosno drugi nadležni organ može da stavi van snage akt o dodeli kvote.\n\nVlada može da propiše bliže uslove za raspodelu kvota.",
+      "chunks": [
+        {
+          "id": "96c33f8d-322d-5c12-8f11-f9d877631cec",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ministarstvo, odnosno drugi nadležni organ raspodeljuje kvote na zahtev podnosioca, u skladu sa uslovima koji uključuju naročito:\n\n1) ekonomski opravdanu količinu robe obuhvaćenu kvotom,\n\n2) stepen iskorišćenosti ranije dodeljenih kvota i\n\n3) mogućnost dodele kvote licima kojima ranije nisu dodeljivane kvote.\n\nKvote se raspodeljuju:\n\n1) izdavanjem dozvola na neautomatski način za uvoz, odnosno izvoz dodeljene kvote,\n\n2) otpisivanjem od strane nadležnog carinskog organa, u momentu carinjenja robe, prema redosledu prihvatanja carinske deklaracije.\n\nDodeljena kvota je neprenosiva.\n\nKvota se može iskoristiti u roku koji ne može biti duži od godinu dana od dana njene dodele.\n\nBroj isporuka tokom roka u kome se kvota može iskoristiti nije ograničen.",
+          "ragContent": "Ovaj deo uređuje raspodelu kvota za spoljnotrgovinsko poslovanje. Član 20. Zakona o spoljnotrgovinskom poslovanju definiše uslove i način raspodele kvota, kao i rokove za njihovo korišćenje.\n\nMinistarstvo, odnosno drugi nadležni organ raspodeljuje kvote na zahtev podnosioca, u skladu sa uslovima koji uključuju naročito:\n\n1) ekonomski opravdanu količinu robe obuhvaćenu kvotom,\n\n2) stepen iskorišćenosti ranije dodeljenih kvota i\n\n3) mogućnost dodele kvote licima kojima ranije nisu dodeljivane kvote.\n\nKvote se raspodeljuju:\n\n1) izdavanjem dozvola na neautomatski način za uvoz, odnosno izvoz dodeljene kvote,\n\n2) otpisivanjem od strane nadležnog carinskog organa, u momentu carinjenja robe, prema redosledu prihvatanja carinske deklaracije.\n\nDodeljena kvota je neprenosiva.\n\nKvota se može iskoristiti u roku koji ne može biti duži od godinu dana od dana njene dodele.\n\nBroj isporuka tokom roka u kome se kvota može iskoristiti nije ograničen."
+        },
+        {
+          "id": "a28745d0-48be-5673-a7c4-35b0b134b5a5",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ako lice ne koristi kvotu u skladu sa uslovima utvrđenim propisom o uvođenju kvantitativnog ograničenja, odnosno aktom o dodeli kvote, ministarstvo, odnosno drugi nadležni organ može da stavi van snage akt o dodeli kvote.\n\nVlada može da propiše bliže uslove za raspodelu kvota.",
+          "ragContent": "Ovaj deo se bavi posledicama neiskorišćenja kvote i mogućnošću propisivanja dodatnih uslova. Član 20. Zakona o spoljnotrgovinskom poslovanju predviđa da ministarstvo može da stavi van snage akt o dodeli kvote ako se kvota ne koristi u skladu sa propisima.\n\nAko lice ne koristi kvotu u skladu sa uslovima utvrđenim propisom o uvođenju kvantitativnog ograničenja, odnosno aktom o dodeli kvote, ministarstvo, odnosno drugi nadležni organ može da stavi van snage akt o dodeli kvote.\n\nVlada može da propiše bliže uslove za raspodelu kvota."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Dozvola je isprava koja se, na zahtev podnosioca, izdaje za uvoz, izvoz ili tranzit pojedine robe.\n\nIzdavanje dozvole može biti automatsko i neautomatsko.\n\nAutomatsko izdavanje dozvole je izdavanje dozvole kada se zahtev odobrava u svim slučajevima uz podnetu propisanu dokumentaciju.\n\nNeautomatsko izdavanje dozvole je izdavanje dozvole koje nije obuhvaćeno odredbom stava 3. ovog člana.",
+      "chunks": [
+        {
+          "id": "1f7a490d-0522-5437-a8b6-7ee9827541c9",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Dozvola je isprava koja se, na zahtev podnosioca, izdaje za uvoz, izvoz ili tranzit pojedine robe.\n\nIzdavanje dozvole može biti automatsko i neautomatsko.\n\nAutomatsko izdavanje dozvole je izdavanje dozvole kada se zahtev odobrava u svim slučajevima uz podnetu propisanu dokumentaciju.\n\nNeautomatsko izdavanje dozvole je izdavanje dozvole koje nije obuhvaćeno odredbom stava 3. ovog člana.",
+          "ragContent": "Ovaj član definiše dozvolu za uvoz, izvoz ili tranzit robe. Član 21. Zakona o spoljnotrgovinskom poslovanju propisuje vrste izdavanja dozvola.\n\nDozvola je isprava koja se, na zahtev podnosioca, izdaje za uvoz, izvoz ili tranzit pojedine robe.\n\nIzdavanje dozvole može biti automatsko i neautomatsko.\n\nAutomatsko izdavanje dozvole je izdavanje dozvole kada se zahtev odobrava u svim slučajevima uz podnetu propisanu dokumentaciju.\n\nNeautomatsko izdavanje dozvole je izdavanje dozvole koje nije obuhvaćeno odredbom stava 3. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ministarstvo, odnosno drugi nadležni organ, u skladu sa propisima, odlučuje o zahtevu za izdavanje dozvole.\n\nAko je u postupku odlučivanja o zahtevu za izdavanje dozvole potrebno, organ iz stava 1. ovog člana pribavlja mišljenje drugih organa, organizacija, institucija i udruženja, koji su dužni da dostave mišljenje u roku koji odredi organ iz stava 1. ovog člana.",
+      "chunks": [
+        {
+          "id": "7250539b-a389-5774-a2ae-4d30ccd9553b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ministarstvo, odnosno drugi nadležni organ, u skladu sa propisima, odlučuje o zahtevu za izdavanje dozvole.\n\nAko je u postupku odlučivanja o zahtevu za izdavanje dozvole potrebno, organ iz stava 1. ovog člana pribavlja mišljenje drugih organa, organizacija, institucija i udruženja, koji su dužni da dostave mišljenje u roku koji odredi organ iz stava 1. ovog člana.",
+          "ragContent": "Ovaj član uređuje postupak odlučivanja o zahtevu za izdavanje dozvole. Zakon o spoljnotrgovinskom poslovanju, član 22, propisuje da nadležni organ odlučuje o zahtevu i može pribaviti mišljenja drugih subjekata.\n\nMinistarstvo, odnosno drugi nadležni organ, u skladu sa propisima, odlučuje o zahtevu za izdavanje dozvole.\n\nAko je u postupku odlučivanja o zahtevu za izdavanje dozvole potrebno, organ iz stava 1. ovog člana pribavlja mišljenje drugih organa, organizacija, institucija i udruženja, koji su dužni da dostave mišljenje u roku koji odredi organ iz stava 1. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 23",
+      "articleNo": "23",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zahtev za izdavanje dozvole podnosi se organu iz člana 22. stav 1. ovog zakona.\n\nBrisan je raniji stav 2. (vidi član 12. Zakona - 88/2011-50)\n\nZahtev za izdavanje dozvole ne može da bude odbijen zbog manjih nedostataka u dokumentaciji koji ne utiču na osnovne podatke sadržane u zahtevu.\n\nPropis iz člana 14. stav 1. ovog zakona kojim se utvrđuje izdavanje uvozne dozvole, kao i propis kojim se utvrđuju izuzeća, odstupanja ili izmene uslova za izdavanje uvozne dozvole, odnosno spisak robe koja se uvozi na osnovu dozvole, objavljuje se kad god je to moguće 21 dan pre dana početka njegove primene.\n\nPropisom iz stava 3. ovog člana kojim se utvrđuju izuzeća od obaveze pribavljanja dozvole, obavezno se utvrđuju i kriterijumi za ta izuzeća, način podnošenja zahteva za ta izuzeća, kao i način odlučivanja o zahtevu za izuzeće.\n\nNačin podnošenja zahteva za izdavanje dozvole, za izmenu, odnosno produženje dozvole, propisuje se tako da bude što jednostavniji.\n\nZahtev za izdavanje dozvole podnosi se jednom organu, a izuzetno, u slučaju kada je neophodno, dostavlja se najviše u tri organa.\n\nVlada, na predlog organa iz člana 22. stav 1. ovog zakona, propisuje bliže uslove za izdavanje, korišćenje i ukidanje dozvola, u skladu sa pravilima STO i propisima EU.",
+      "chunks": [
+        {
+          "id": "c2414c27-e907-58b0-bbe1-f2d84c154e96",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zahtev za izdavanje dozvole podnosi se organu iz člana 22. stav 1. ovog zakona.\n\nBrisan je raniji stav 2. (vidi član 12. Zakona - 88/2011-50)\n\nZahtev za izdavanje dozvole ne može da bude odbijen zbog manjih nedostataka u dokumentaciji koji ne utiču na osnovne podatke sadržane u zahtevu.\n\nPropis iz člana 14. stav 1. ovog zakona kojim se utvrđuje izdavanje uvozne dozvole, kao i propis kojim se utvrđuju izuzeća, odstupanja ili izmene uslova za izdavanje uvozne dozvole, odnosno spisak robe koja se uvozi na osnovu dozvole, objavljuje se kad god je to moguće 21 dan pre dana početka njegove primene.\n\nPropisom iz stava 3. ovog člana kojim se utvrđuju izuzeća od obaveze pribavljanja dozvole, obavezno se utvrđuju i kriterijumi za ta izuzeća, način podnošenja zahteva za ta izuzeća, kao i način odlučivanja o zahtevu za izuzeće.\n\nNačin podnošenja zahteva za izdavanje dozvole, za izmenu, odnosno produženje dozvole, propisuje se tako da bude što jednostavniji.\n\nZahtev za izdavanje dozvole podnosi se jednom organu, a izuzetno, u slučaju kada je neophodno, dostavlja se najviše u tri organa.\n\nVlada, na predlog organa iz člana 22. stav 1. ovog zakona, propisuje bliže uslove za izdavanje, korišćenje i ukidanje dozvola, u skladu sa pravilima STO i propisima EU.",
+          "ragContent": "Ovaj član uređuje postupak podnošenja zahteva za izdavanje dozvole. Član 23. Zakona o spoljnotrgovinskom poslovanju definiše uslove i procedure za podnošenje zahteva za dozvolu, kao i izuzeća od obaveze pribavljanja dozvole.\n\nZahtev za izdavanje dozvole podnosi se organu iz člana 22. stav 1. ovog zakona.\n\nBrisan je raniji stav 2. (vidi član 12. Zakona - 88/2011-50)\n\nZahtev za izdavanje dozvole ne može da bude odbijen zbog manjih nedostataka u dokumentaciji koji ne utiču na osnovne podatke sadržane u zahtevu.\n\nPropis iz člana 14. stav 1. ovog zakona kojim se utvrđuje izdavanje uvozne dozvole, kao i propis kojim se utvrđuju izuzeća, odstupanja ili izmene uslova za izdavanje uvozne dozvole, odnosno spisak robe koja se uvozi na osnovu dozvole, objavljuje se kad god je to moguće 21 dan pre dana početka njegove primene.\n\nPropisom iz stava 3. ovog člana kojim se utvrđuju izuzeća od obaveze pribavljanja dozvole, obavezno se utvrđuju i kriterijumi za ta izuzeća, način podnošenja zahteva za ta izuzeća, kao i način odlučivanja o zahtevu za izuzeće.\n\nNačin podnošenja zahteva za izdavanje dozvole, za izmenu, odnosno produženje dozvole, propisuje se tako da bude što jednostavniji.\n\nZahtev za izdavanje dozvole podnosi se jednom organu, a izuzetno, u slučaju kada je neophodno, dostavlja se najviše u tri organa.\n\nVlada, na predlog organa iz člana 22. stav 1. ovog zakona, propisuje bliže uslove za izdavanje, korišćenje i ukidanje dozvola, u skladu sa pravilima STO i propisima EU."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 24",
+      "articleNo": "24",
+      "section": "ODREDBE KOJE NISU UNETE U \"PREČIŠĆEN TEKST\" ZAKONA",
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako je ugovorom, domaćim ili stranim propisom ili potvrđenim međunarodnim ugovorom predviđeno da robu u izvozu, uvozu i tranzitu prate određene isprave, a nadležnost za izdavanje ili overu tih isprava nije propisana, te isprave izdaje ili overava organ, odnosno drugo lice koje na predlog ministarstva ovlasti Vlada.\n\nVlada, na predlog ministarstva, propisuje način izdavanja i overe isprava iz stava 1. ovog člana.\n\nSanitarni, veterinarski i fitosanitarni zahtevi\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. februara 2012. godine.",
+      "chunks": [
+        {
+          "id": "27b33667-b0f0-59a3-922f-269b49e9e88c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako je ugovorom, domaćim ili stranim propisom ili potvrđenim međunarodnim ugovorom predviđeno da robu u izvozu, uvozu i tranzitu prate određene isprave, a nadležnost za izdavanje ili overu tih isprava nije propisana, te isprave izdaje ili overava organ, odnosno drugo lice koje na predlog ministarstva ovlasti Vlada.\n\nVlada, na predlog ministarstva, propisuje način izdavanja i overe isprava iz stava 1. ovog člana.\n\nSanitarni, veterinarski i fitosanitarni zahtevi\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. februara 2012. godine.",
+          "ragContent": "Ovaj član uređuje izdavanje i overu isprava za robu u spoljnotrgovinskom poslovanju. Član 24. Zakona o spoljnotrgovinskom poslovanju definiše nadležnost za izdavanje isprava i propisuje način njihove overe.\n\nAko je ugovorom, domaćim ili stranim propisom ili potvrđenim međunarodnim ugovorom predviđeno da robu u izvozu, uvozu i tranzitu prate određene isprave, a nadležnost za izdavanje ili overu tih isprava nije propisana, te isprave izdaje ili overava organ, odnosno drugo lice koje na predlog ministarstva ovlasti Vlada.\n\nVlada, na predlog ministarstva, propisuje način izdavanja i overe isprava iz stava 1. ovog člana.\n\nSanitarni, veterinarski i fitosanitarni zahtevi\n\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1. februara 2012. godine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 25",
+      "articleNo": "25",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Roba koja se izvozi, uvozi, tranzitira ili se nalazi u nekom carinskom postupku podleže ispunjenju sanitarnih, veterinarskih i fitosanitarnih uslova, u skladu sa propisima.\n\nUslovi iz stava 1. ovog člana ne mogu da imaju za posledicu dodatno ograničenje izvoza, uvoza ili tranzita.",
+      "chunks": [
+        {
+          "id": "7f25c873-aefe-595c-949e-63998b1f3be0",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Roba koja se izvozi, uvozi, tranzitira ili se nalazi u nekom carinskom postupku podleže ispunjenju sanitarnih, veterinarskih i fitosanitarnih uslova, u skladu sa propisima.\n\nUslovi iz stava 1. ovog člana ne mogu da imaju za posledicu dodatno ograničenje izvoza, uvoza ili tranzita.",
+          "ragContent": "Ovaj član uređuje uslove za robu u spoljnotrgovinskom poslovanju. Zakon o spoljnotrgovinskom poslovanju, član 25, definiše sanitarne, veterinarske i fitosanitarne uslove za robu.\n\nRoba koja se izvozi, uvozi, tranzitira ili se nalazi u nekom carinskom postupku podleže ispunjenju sanitarnih, veterinarskih i fitosanitarnih uslova, u skladu sa propisima.\n\nUslovi iz stava 1. ovog člana ne mogu da imaju za posledicu dodatno ograničenje izvoza, uvoza ili tranzita."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 26",
+      "articleNo": "26",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Tehnički propis, u smislu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, može se primeniti na uvoz robe, a njegova primena ne može imati za posledicu dodatno ograničenje uvoza.\n\nUsaglašenost sa standardima nije uslov za uvoz robe.",
+      "chunks": [
+        {
+          "id": "517413fc-9805-5640-ade3-a7342a1dcd75",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Tehnički propis, u smislu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, može se primeniti na uvoz robe, a njegova primena ne može imati za posledicu dodatno ograničenje uvoza.\n\nUsaglašenost sa standardima nije uslov za uvoz robe.",
+          "ragContent": "Ovaj član uređuje primenu tehničkih propisa na uvoz robe. Član 26. Zakona o spoljnotrgovinskom poslovanju definiše da tehnički propis ne može dodatno ograničiti uvoz i da usaglašenost sa standardima nije uslov za uvoz.\n\nTehnički propis, u smislu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, može se primeniti na uvoz robe, a njegova primena ne može imati za posledicu dodatno ograničenje uvoza.\n\nUsaglašenost sa standardima nije uslov za uvoz robe."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 27",
+      "articleNo": "27",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Spoljnotrgovinski promet usluga obavlja se u skladu sa zakonom, međunarodnim sporazumima i preuzetim obavezama Republike Srbije.\n\nPružanje usluga domaćeg lica u drugoj državi ili carinskoj teritoriji, slobodno je.\n\nStrana lica na teritoriji Republike Srbije pružaju usluge u skladu sa propisima koji uređuju pružanje pojedinih vrsta usluga.",
+      "chunks": [
+        {
+          "id": "5f2a5c50-9141-50b4-aeb9-ab892e76f276",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Spoljnotrgovinski promet usluga obavlja se u skladu sa zakonom, međunarodnim sporazumima i preuzetim obavezama Republike Srbije.\n\nPružanje usluga domaćeg lica u drugoj državi ili carinskoj teritoriji, slobodno je.\n\nStrana lica na teritoriji Republike Srbije pružaju usluge u skladu sa propisima koji uređuju pružanje pojedinih vrsta usluga.",
+          "ragContent": "Ovaj član uređuje spoljnotrgovinski promet usluga. Član 27. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se obavlja promet usluga.\n\nSpoljnotrgovinski promet usluga obavlja se u skladu sa zakonom, međunarodnim sporazumima i preuzetim obavezama Republike Srbije.\n\nPružanje usluga domaćeg lica u drugoj državi ili carinskoj teritoriji, slobodno je.\n\nStrana lica na teritoriji Republike Srbije pružaju usluge u skladu sa propisima koji uređuju pružanje pojedinih vrsta usluga."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 28",
+      "articleNo": "28",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Dan pružanja usluge u spoljnotrgovinskom prometu određuje se ugovorom.\n\nMinistarstvo propisuje dan pružanja usluge ako taj dan nije određen ili odrediv na osnovu ugovora.",
+      "chunks": [
+        {
+          "id": "62cc8bac-5116-5939-9df7-47308afa7b25",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Dan pružanja usluge u spoljnotrgovinskom prometu određuje se ugovorom.\n\nMinistarstvo propisuje dan pružanja usluge ako taj dan nije određen ili odrediv na osnovu ugovora.",
+          "ragContent": "Ovaj član uređuje dan pružanja usluge u spoljnotrgovinskom prometu. Član 28. Zakona o spoljnotrgovinskom poslovanju definiše da se dan pružanja usluge određuje ugovorom, a ako nije, propisuje ga Ministarstvo.\n\nDan pružanja usluge u spoljnotrgovinskom prometu određuje se ugovorom.\n\nMinistarstvo propisuje dan pružanja usluge ako taj dan nije određen ili odrediv na osnovu ugovora."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 29",
+      "articleNo": "29",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Vlada može da propiše sledeće mere zaštite:\n\n1) antidampinške mere;\n\n2) kompenzatorne mere;\n\n3) mere za zaštitu od prekomernog uvoza;\n\n4) mere za zaštitu ravnoteže platnog bilansa.",
+      "chunks": [
+        {
+          "id": "fe24fa97-de2e-5d05-a6cc-2b15449d5b54",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Vlada može da propiše sledeće mere zaštite:\n\n1) antidampinške mere;\n\n2) kompenzatorne mere;\n\n3) mere za zaštitu od prekomernog uvoza;\n\n4) mere za zaštitu ravnoteže platnog bilansa.",
+          "ragContent": "Ovaj član uređuje mere zaštite koje može da propiše Vlada. Član 29. Zakona o spoljnotrgovinskom poslovanju definiše antidampinške, kompenzatorne mere, mere za zaštitu od prekomernog uvoza i mere za zaštitu ravnoteže platnog bilansa.\n\nVlada može da propiše sledeće mere zaštite:\n\n1) antidampinške mere;\n\n2) kompenzatorne mere;\n\n3) mere za zaštitu od prekomernog uvoza;\n\n4) mere za zaštitu ravnoteže platnog bilansa."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Domaće lice, u smislu ovog zakona je, pravno lice, ogranak domaćeg i stranog pravnog lica i preduzetnik koji imaju sedište, odnosno koji su registrovani u Republici Srbiji, kao i fizičko lice koje ima prebivalište u Republici Srbiji, osim fizičkog lica koje ima prebivalište, odnosno boravište van Republike Srbije duže od godinu dana.\n\nStrano lice, u smislu ovog zakona, je svako lice koje nije navedeno u stavu 1. ovog člana.",
+      "chunks": [
+        {
+          "id": "7d9e9f92-9dd4-57a3-8011-f25e2705c21c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Domaće lice, u smislu ovog zakona je, pravno lice, ogranak domaćeg i stranog pravnog lica i preduzetnik koji imaju sedište, odnosno koji su registrovani u Republici Srbiji, kao i fizičko lice koje ima prebivalište u Republici Srbiji, osim fizičkog lica koje ima prebivalište, odnosno boravište van Republike Srbije duže od godinu dana.\n\nStrano lice, u smislu ovog zakona, je svako lice koje nije navedeno u stavu 1. ovog člana.",
+          "ragContent": "Ovaj član definiše domaće i strano lice u kontekstu spoljnotrgovinskog poslovanja. Član 3. Zakona o spoljnotrgovinskom poslovanju precizira ko se smatra domaćim i stranim licem.\n\nDomaće lice, u smislu ovog zakona je, pravno lice, ogranak domaćeg i stranog pravnog lica i preduzetnik koji imaju sedište, odnosno koji su registrovani u Republici Srbiji, kao i fizičko lice koje ima prebivalište u Republici Srbiji, osim fizičkog lica koje ima prebivalište, odnosno boravište van Republike Srbije duže od godinu dana.\n\nStrano lice, u smislu ovog zakona, je svako lice koje nije navedeno u stavu 1. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 30",
+      "articleNo": "30",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U smislu ovog zakona:\n\n1) „antidampinška mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja dampinga;\n\n2) „damping” je uvoz proizvoda u Republiku Srbiju po ceni koja je niža od normalne vrednosti sličnih proizvoda u državi ili carinskoj teritoriji izvoza;\n\n3) „normalna vrednost” je cena sličnog proizvoda na tržištu države ili carinske teritorije izvoza, utvrđena u normalnim uslovima trgovine u toj državi ili carinskoj teritoriji izvoza, ili u slučaju nedovoljne prodaje na domaćem tržištu, cena koštanja uvećana za prodajne, opšte i administrativne troškove.",
+      "chunks": [
+        {
+          "id": "0963e2c6-bfba-5a8b-b6ac-dfbd4e33c4fd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U smislu ovog zakona:\n\n1) „antidampinška mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja dampinga;\n\n2) „damping” je uvoz proizvoda u Republiku Srbiju po ceni koja je niža od normalne vrednosti sličnih proizvoda u državi ili carinskoj teritoriji izvoza;\n\n3) „normalna vrednost” je cena sličnog proizvoda na tržištu države ili carinske teritorije izvoza, utvrđena u normalnim uslovima trgovine u toj državi ili carinskoj teritoriji izvoza, ili u slučaju nedovoljne prodaje na domaćem tržištu, cena koštanja uvećana za prodajne, opšte i administrativne troškove.",
+          "ragContent": "Ovaj član definiše ključne pojmove vezane za antidampinške mere. Član 30. Zakona o spoljnotrgovinskom poslovanju definiše pojmove kao što su antidampinška mera, damping i normalna vrednost.\n\nU smislu ovog zakona:\n\n1) „antidampinška mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja dampinga;\n\n2) „damping” je uvoz proizvoda u Republiku Srbiju po ceni koja je niža od normalne vrednosti sličnih proizvoda u državi ili carinskoj teritoriji izvoza;\n\n3) „normalna vrednost” je cena sličnog proizvoda na tržištu države ili carinske teritorije izvoza, utvrđena u normalnim uslovima trgovine u toj državi ili carinskoj teritoriji izvoza, ili u slučaju nedovoljne prodaje na domaćem tržištu, cena koštanja uvećana za prodajne, opšte i administrativne troškove."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 31",
+      "articleNo": "31",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Vlada uvodi antidampinške dažbine na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo ukoliko se utvrdi da postoji:\n\n1) damping,\n\n2) šteta za domaću industriju i\n\n3) postojanje uzročne veze između dampinga i štete.\n\nU smislu stava 1. ovog člana:\n\n1) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih proizvoda ili onih čija ukupna proizvodnja sličnih proizvoda čini pretežni deo ukupne domaće proizvodnje tih proizvoda;\n\n2) „šteta” je materijalna šteta naneta domaćoj industriji, opasnost od nastajanja materijalne štete ili znatno usporavanje osnivanja takve industrije.\n\nVlada propisuje bliže uslove za primenu antidampinških mera.",
+      "chunks": [
+        {
+          "id": "2061cc2c-b5d1-5067-9755-5c62dd0484a4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Vlada uvodi antidampinške dažbine na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo ukoliko se utvrdi da postoji:\n\n1) damping,\n\n2) šteta za domaću industriju i\n\n3) postojanje uzročne veze između dampinga i štete.\n\nU smislu stava 1. ovog člana:\n\n1) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih proizvoda ili onih čija ukupna proizvodnja sličnih proizvoda čini pretežni deo ukupne domaće proizvodnje tih proizvoda;\n\n2) „šteta” je materijalna šteta naneta domaćoj industriji, opasnost od nastajanja materijalne štete ili znatno usporavanje osnivanja takve industrije.\n\nVlada propisuje bliže uslove za primenu antidampinških mera.",
+          "ragContent": "Ovaj član uređuje uvođenje antidampinških dažbina. Član 31. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se uvode antidampinške mere.\n\nVlada uvodi antidampinške dažbine na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo ukoliko se utvrdi da postoji:\n\n1) damping,\n\n2) šteta za domaću industriju i\n\n3) postojanje uzročne veze između dampinga i štete.\n\nU smislu stava 1. ovog člana:\n\n1) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih proizvoda ili onih čija ukupna proizvodnja sličnih proizvoda čini pretežni deo ukupne domaće proizvodnje tih proizvoda;\n\n2) „šteta” je materijalna šteta naneta domaćoj industriji, opasnost od nastajanja materijalne štete ili znatno usporavanje osnivanja takve industrije.\n\nVlada propisuje bliže uslove za primenu antidampinških mera."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 32",
+      "articleNo": "32",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U smislu ovog zakona:\n\n1) „kompenzatorna mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja subvencionisanja, koje se vrši u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda;\n\n2) „subvencija” je direktni ili indirektni finansijski doprinos ili bilo koja podrška cenama ili dohotku koju vrši vlada u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda, u korist proizvođača, proizvodnje, izvoza ili transporta tih proizvoda u Republiku Srbiju, čime primaoci subvencije ostvaruju korist.",
+      "chunks": [
+        {
+          "id": "6cc0bbff-7f8e-5964-b83a-05f9997f54fe",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U smislu ovog zakona:\n\n1) „kompenzatorna mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja subvencionisanja, koje se vrši u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda;\n\n2) „subvencija” je direktni ili indirektni finansijski doprinos ili bilo koja podrška cenama ili dohotku koju vrši vlada u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda, u korist proizvođača, proizvodnje, izvoza ili transporta tih proizvoda u Republiku Srbiju, čime primaoci subvencije ostvaruju korist.",
+          "ragContent": "Ovaj član definiše kompenzatorne mere i subvencije u spoljnotrgovinskom poslovanju. Član 32. Zakona o spoljnotrgovinskom poslovanju objašnjava pojmove kompenzatorne mere i subvencije.\n\nU smislu ovog zakona:\n\n1) „kompenzatorna mera” je posebna dažbina na uvoz proizvoda koja se uvodi radi otklanjanja negativnih uticaja subvencionisanja, koje se vrši u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda;\n\n2) „subvencija” je direktni ili indirektni finansijski doprinos ili bilo koja podrška cenama ili dohotku koju vrši vlada u državi ili carinskoj teritoriji porekla, odnosno izvoza proizvoda, u korist proizvođača, proizvodnje, izvoza ili transporta tih proizvoda u Republiku Srbiju, čime primaoci subvencije ostvaruju korist."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 33",
+      "articleNo": "33",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Vlada uvodi kompenzatornu dažbinu na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo, ukoliko se utvrdi da postoji:\n\n1) subvencija,\n\n2) šteta za domaću industriju u smislu člana 31. stava 2. ovog zakona i\n\n3) postojanje uzročne veze između subvencije i štete.\n\nVlada propisuje bliže uslove za primenu kompenzatornih mera.",
+      "chunks": [
+        {
+          "id": "a35815b5-1f21-5d2e-a6a4-767a85c1ff00",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Vlada uvodi kompenzatornu dažbinu na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo, ukoliko se utvrdi da postoji:\n\n1) subvencija,\n\n2) šteta za domaću industriju u smislu člana 31. stava 2. ovog zakona i\n\n3) postojanje uzročne veze između subvencije i štete.\n\nVlada propisuje bliže uslove za primenu kompenzatornih mera.",
+          "ragContent": "Ovaj član uređuje uvođenje kompenzatorne dažbine. Član 33. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se uvodi kompenzatorna dažbina.\n\nVlada uvodi kompenzatornu dažbinu na predlog ministarstva i po okončanju postupka ispitivanja koje sprovodi ministarstvo, ukoliko se utvrdi da postoji:\n\n1) subvencija,\n\n2) šteta za domaću industriju u smislu člana 31. stava 2. ovog zakona i\n\n3) postojanje uzročne veze između subvencije i štete.\n\nVlada propisuje bliže uslove za primenu kompenzatornih mera."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 34",
+      "articleNo": "34",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mera za zaštitu od prekomernog uvoza se može primeniti na neki proizvod samo ukoliko se utvrdi da se takav proizvod uvozi u tako povećanim količinama, u apsolutnim ili relativnim vrednostima u odnosu na domaću proizvodnju i pod uslovima da prouzrokuje ili preti da izazove ozbiljnu štetu domaćoj industriji, koja proizvodi slične ili direktno konkurentne proizvode.\n\nU smislu stava 1. ovog člana:\n\n1) „ozbiljna šteta” je značajno opšte pogoršanje položaja domaće industrije;\n\n2) „opasnost od nastajanja ozbiljne štete” je nedvosmislena pretnja da će nastati ozbiljna šteta. Utvrđivanje postojanja opasnosti od nastajanja ozbiljne štete biće zasnovano na činjenicama, a ne na izjavama, nagađanju ili eventualnoj mogućnosti;\n\n3) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih ili direktno konkurentnih proizvoda, ili onih proizvođača čija ukupna zajednička proizvodnja takvih proizvoda, čini pretežni deo ukupne domaće proizvodnje tih proizvoda.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu od prekomernog uvoza.",
+      "chunks": [
+        {
+          "id": "66fd8592-43fd-5590-bc69-1781ea2d7413",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mera za zaštitu od prekomernog uvoza se može primeniti na neki proizvod samo ukoliko se utvrdi da se takav proizvod uvozi u tako povećanim količinama, u apsolutnim ili relativnim vrednostima u odnosu na domaću proizvodnju i pod uslovima da prouzrokuje ili preti da izazove ozbiljnu štetu domaćoj industriji, koja proizvodi slične ili direktno konkurentne proizvode.\n\nU smislu stava 1. ovog člana:\n\n1) „ozbiljna šteta” je značajno opšte pogoršanje položaja domaće industrije;\n\n2) „opasnost od nastajanja ozbiljne štete” je nedvosmislena pretnja da će nastati ozbiljna šteta. Utvrđivanje postojanja opasnosti od nastajanja ozbiljne štete biće zasnovano na činjenicama, a ne na izjavama, nagađanju ili eventualnoj mogućnosti;\n\n3) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih ili direktno konkurentnih proizvoda, ili onih proizvođača čija ukupna zajednička proizvodnja takvih proizvoda, čini pretežni deo ukupne domaće proizvodnje tih proizvoda.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu od prekomernog uvoza.",
+          "ragContent": "Ovaj član uređuje mere za zaštitu domaće industrije od prekomernog uvoza. Član 34. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se može primeniti mera zaštite od prekomernog uvoza.\n\nMera za zaštitu od prekomernog uvoza se može primeniti na neki proizvod samo ukoliko se utvrdi da se takav proizvod uvozi u tako povećanim količinama, u apsolutnim ili relativnim vrednostima u odnosu na domaću proizvodnju i pod uslovima da prouzrokuje ili preti da izazove ozbiljnu štetu domaćoj industriji, koja proizvodi slične ili direktno konkurentne proizvode.\n\nU smislu stava 1. ovog člana:\n\n1) „ozbiljna šteta” je značajno opšte pogoršanje položaja domaće industrije;\n\n2) „opasnost od nastajanja ozbiljne štete” je nedvosmislena pretnja da će nastati ozbiljna šteta. Utvrđivanje postojanja opasnosti od nastajanja ozbiljne štete biće zasnovano na činjenicama, a ne na izjavama, nagađanju ili eventualnoj mogućnosti;\n\n3) „domaća industrija” je ukupna proizvodnja svih domaćih proizvođača sličnih ili direktno konkurentnih proizvoda, ili onih proizvođača čija ukupna zajednička proizvodnja takvih proizvoda, čini pretežni deo ukupne domaće proizvodnje tih proizvoda.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu od prekomernog uvoza."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 35",
+      "articleNo": "35",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mera za zaštitu ravnoteže platnog bilansa može da se uvede ako je neophodno da se:\n\n1) zaustavi znatno opadanje deviznih rezervi ili spreči neposredna opasnost od znatnijeg opadanja deviznih rezervi, ili\n\n2) uvećaju veoma niske devizne rezerve.\n\nRadi zaštite ravnoteže platnog bilansa mogu se uvesti mere zasnovane na ceni, u skladu sa zakonom.\n\nMere zasnovane na ceni obuhvataju uvozne dažbine, zahteve za polaganjem uvoznog depozita i druge trgovinske mere koje utiču na cenu uvezene robe.",
+      "chunks": [
+        {
+          "id": "29e9bbb7-7deb-5115-8443-4cb510fc7bfc",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mera za zaštitu ravnoteže platnog bilansa može da se uvede ako je neophodno da se:\n\n1) zaustavi znatno opadanje deviznih rezervi ili spreči neposredna opasnost od znatnijeg opadanja deviznih rezervi, ili\n\n2) uvećaju veoma niske devizne rezerve.\n\nRadi zaštite ravnoteže platnog bilansa mogu se uvesti mere zasnovane na ceni, u skladu sa zakonom.\n\nMere zasnovane na ceni obuhvataju uvozne dažbine, zahteve za polaganjem uvoznog depozita i druge trgovinske mere koje utiču na cenu uvezene robe.",
+          "ragContent": "Ovaj član uređuje mere za zaštitu ravnoteže platnog bilansa. Član 35. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se mogu uvesti mere zaštite ravnoteže platnog bilansa.\n\nMera za zaštitu ravnoteže platnog bilansa može da se uvede ako je neophodno da se:\n\n1) zaustavi znatno opadanje deviznih rezervi ili spreči neposredna opasnost od znatnijeg opadanja deviznih rezervi, ili\n\n2) uvećaju veoma niske devizne rezerve.\n\nRadi zaštite ravnoteže platnog bilansa mogu se uvesti mere zasnovane na ceni, u skladu sa zakonom.\n\nMere zasnovane na ceni obuhvataju uvozne dažbine, zahteve za polaganjem uvoznog depozita i druge trgovinske mere koje utiču na cenu uvezene robe."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 36",
+      "articleNo": "36",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Izuzetno od člana 35. ovog zakona, Vlada, na predlog ministarstva i na osnovu podataka i mišljenja dobijenih od Narodne banke Srbije, može da ograniči količinu i vrednost uvoza radi zaštite platnog bilansa, ako mere zasnovane na ceni ne mogu da zaustave naglo pogoršanje platnog bilansa.\n\nPredlog iz stava 1. ovog člana mora da sadrži obrazloženje razloga zbog kojih mere zasnovane na ceni ne rešavaju platnobilansnu situaciju.",
+      "chunks": [
+        {
+          "id": "6f4c9472-05a5-5cbb-a550-742d0245c68e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izuzetno od člana 35. ovog zakona, Vlada, na predlog ministarstva i na osnovu podataka i mišljenja dobijenih od Narodne banke Srbije, može da ograniči količinu i vrednost uvoza radi zaštite platnog bilansa, ako mere zasnovane na ceni ne mogu da zaustave naglo pogoršanje platnog bilansa.\n\nPredlog iz stava 1. ovog člana mora da sadrži obrazloženje razloga zbog kojih mere zasnovane na ceni ne rešavaju platnobilansnu situaciju.",
+          "ragContent": "Ovaj član uređuje mogućnost Vlade da ograniči uvoz radi zaštite platnog bilansa. Član 36. Zakona o spoljnotrgovinskom poslovanju omogućava Vladi da donese mere u slučaju naglog pogoršanja platnog bilansa.\nIzuzetno od člana 35. ovog zakona, Vlada, na predlog ministarstva i na osnovu podataka i mišljenja dobijenih od Narodne banke Srbije, može da ograniči količinu i vrednost uvoza radi zaštite platnog bilansa, ako mere zasnovane na ceni ne mogu da zaustave naglo pogoršanje platnog bilansa.\n\nPredlog iz stava 1. ovog člana mora da sadrži obrazloženje razloga zbog kojih mere zasnovane na ceni ne rešavaju platnobilansnu situaciju."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 36a",
+      "articleNo": "36a",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mere za zaštitu ravnoteže platnog bilansa primenjuju se samo u meri koja je opravdana pod uslovima navedenim u članu 35. ovog zakona, a stepen mera će se postepeno smanjivati sa poboljšavanjem platnog bilansa.\n\nKriterijumi za određivanje proizvoda koji podležu merama za zaštitu ravnoteže platnog bilansa moraju biti obrazloženi.\n\nOdređeni osnovni proizvodi mogu se izuzeti od primene mera za zaštitu ravnoteže platnog bilansa.\n\nMere za zaštitu ravnoteže platnog bilansa ne mogu da se uvedu ni da se primene radi zaštite domaćih proizvođača.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu ravnoteže platnog bilansa na predlog nadležnog ministarstva, odnosno Narodne banke Srbije, u skladu sa zakonom.",
+      "chunks": [
+        {
+          "id": "19596779-8c0e-52e8-808f-43a5ffc1ea74",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mere za zaštitu ravnoteže platnog bilansa primenjuju se samo u meri koja je opravdana pod uslovima navedenim u članu 35. ovog zakona, a stepen mera će se postepeno smanjivati sa poboljšavanjem platnog bilansa.\n\nKriterijumi za određivanje proizvoda koji podležu merama za zaštitu ravnoteže platnog bilansa moraju biti obrazloženi.\n\nOdređeni osnovni proizvodi mogu se izuzeti od primene mera za zaštitu ravnoteže platnog bilansa.\n\nMere za zaštitu ravnoteže platnog bilansa ne mogu da se uvedu ni da se primene radi zaštite domaćih proizvođača.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu ravnoteže platnog bilansa na predlog nadležnog ministarstva, odnosno Narodne banke Srbije, u skladu sa zakonom.",
+          "ragContent": "Ovaj član uređuje mere za zaštitu ravnoteže platnog bilansa. Član 36a Zakona o spoljnotrgovinskom poslovanju definiše uslove i kriterijume za primenu ovih mera.\n\nMere za zaštitu ravnoteže platnog bilansa primenjuju se samo u meri koja je opravdana pod uslovima navedenim u članu 35. ovog zakona, a stepen mera će se postepeno smanjivati sa poboljšavanjem platnog bilansa.\n\nKriterijumi za određivanje proizvoda koji podležu merama za zaštitu ravnoteže platnog bilansa moraju biti obrazloženi.\n\nOdređeni osnovni proizvodi mogu se izuzeti od primene mera za zaštitu ravnoteže platnog bilansa.\n\nMere za zaštitu ravnoteže platnog bilansa ne mogu da se uvedu ni da se primene radi zaštite domaćih proizvođača.\n\nVlada propisuje bliže uslove za primenu mera za zaštitu ravnoteže platnog bilansa na predlog nadležnog ministarstva, odnosno Narodne banke Srbije, u skladu sa zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 37",
+      "articleNo": "37",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Domaće lice može robu koju izvozi, odnosno uvozi, kao i usluge u spoljnotrgovinskom prometu da naplati, odnosno plati u robi, odnosno uslugama, a naročito ako se radi o nabavci opreme, repromaterijala i sirovina namenjenih proizvodnji robe i pružanju usluga i ako se radi o uslugama koje se pružaju u postupku aktivnog ili pasivnog oplemenjivanja, u skladu sa carinskim propisima, a naplata ili plaćanje se vrši u robi koja je predmet oplemenjivanja, odnosno u oplemenjenoj robi. Vlada može da propiše bliže uslove za plaćanje i naplatu u robi, odnosno uslugama.",
+      "chunks": [
+        {
+          "id": "7b72432b-930f-53bc-856a-4c926f7009bd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Domaće lice može robu koju izvozi, odnosno uvozi, kao i usluge u spoljnotrgovinskom prometu da naplati, odnosno plati u robi, odnosno uslugama, a naročito ako se radi o nabavci opreme, repromaterijala i sirovina namenjenih proizvodnji robe i pružanju usluga i ako se radi o uslugama koje se pružaju u postupku aktivnog ili pasivnog oplemenjivanja, u skladu sa carinskim propisima, a naplata ili plaćanje se vrši u robi koja je predmet oplemenjivanja, odnosno u oplemenjenoj robi. Vlada može da propiše bliže uslove za plaćanje i naplatu u robi, odnosno uslugama.",
+          "ragContent": "Ovaj član uređuje mogućnost naplate i plaćanja u robi ili uslugama u spoljnotrgovinskom prometu. Član 37. Zakona o spoljnotrgovinskom poslovanju omogućava domaćim licima da robu i usluge naplate ili plate u robi, posebno u kontekstu nabavke opreme i sirovina.\nDomaće lice može robu koju izvozi, odnosno uvozi, kao i usluge u spoljnotrgovinskom prometu da naplati, odnosno plati u robi, odnosno uslugama, a naročito ako se radi o nabavci opreme, repromaterijala i sirovina namenjenih proizvodnji robe i pružanju usluga i ako se radi o uslugama koje se pružaju u postupku aktivnog ili pasivnog oplemenjivanja, u skladu sa carinskim propisima, a naplata ili plaćanje se vrši u robi koja je predmet oplemenjivanja, odnosno u oplemenjenoj robi. Vlada može da propiše bliže uslove za plaćanje i naplatu u robi, odnosno uslugama."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 38",
+      "articleNo": "38",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Izvoz, odnosno uvoz robe i usluga može da se vrši bez naplate, odnosno plaćanja radi ispunjenja obaveza iz ugovora i u drugim slučajevima koje propiše Vlada.",
+      "chunks": [
+        {
+          "id": "7a55cccf-8878-5d69-968e-0aa73c45ce32",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Izvoz, odnosno uvoz robe i usluga može da se vrši bez naplate, odnosno plaćanja radi ispunjenja obaveza iz ugovora i u drugim slučajevima koje propiše Vlada.",
+          "ragContent": "Ovaj član uređuje uslove pod kojima se može vršiti izvoz i uvoz bez naplate. Član 38. Zakona o spoljnotrgovinskom poslovanju propisuje mogućnost izvoza i uvoza bez plaćanja u skladu sa odredbama Vlade.  Izvoz, odnosno uvoz robe i usluga može da se vrši bez naplate, odnosno plaćanja radi ispunjenja obaveza iz ugovora i u drugim slučajevima koje propiše Vlada."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 39",
+      "articleNo": "39",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Domaće lice robu kupljenu u drugoj državi ili carinskoj teritoriji ne mora da:\n\n1) uveze ako se ta roba, na osnovu ugovora, neposredno isporučuje u drugu državu ili carinsku teritoriju, ili\n\n2) stavi u slobodan promet, ako se ta roba nakon sprovedenog odgovarajućeg carinskog postupka otprema sa teritorije Republike Srbije.",
+      "chunks": [
+        {
+          "id": "4e39fff6-13d0-5e33-9a03-21b039bc38c7",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Domaće lice robu kupljenu u drugoj državi ili carinskoj teritoriji ne mora da:\n\n1) uveze ako se ta roba, na osnovu ugovora, neposredno isporučuje u drugu državu ili carinsku teritoriju, ili\n\n2) stavi u slobodan promet, ako se ta roba nakon sprovedenog odgovarajućeg carinskog postupka otprema sa teritorije Republike Srbije.",
+          "ragContent": "Ovaj član uređuje izuzeća od obaveze uvoza i stavljanja u slobodan promet za domaća lica. Član 39. Zakona o spoljnotrgovinskom poslovanju definiše situacije kada domaće lice ne mora da uveze robu ili je stavi u slobodan promet.\n\nDomaće lice robu kupljenu u drugoj državi ili carinskoj teritoriji ne mora da:\n\n1) uveze ako se ta roba, na osnovu ugovora, neposredno isporučuje u drugu državu ili carinsku teritoriju, ili\n\n2) stavi u slobodan promet, ako se ta roba nakon sprovedenog odgovarajućeg carinskog postupka otprema sa teritorije Republike Srbije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 40",
+      "articleNo": "40",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Vlada, u cilju unapređivanja spoljnotrgovinskog poslovanja i efikasnije primene ovog zakona i drugih propisa koji utiču na spoljnotrgovinsko poslovanje, može da propiše obavezu evidencije ili izveštavanja o pojedinim spoljnotrgovinskim poslovima i sadržaj tih evidencija i izveštaja.\n\nPrimena odredbe stava 1. ovog člana ne može da ima za cilj ili za posledicu dodatno ograničenje slobode spoljne trgovine.",
+      "chunks": [
+        {
+          "id": "03fc1c66-6788-5c20-925f-6487ac0d9d6d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Vlada, u cilju unapređivanja spoljnotrgovinskog poslovanja i efikasnije primene ovog zakona i drugih propisa koji utiču na spoljnotrgovinsko poslovanje, može da propiše obavezu evidencije ili izveštavanja o pojedinim spoljnotrgovinskim poslovima i sadržaj tih evidencija i izveštaja.\n\nPrimena odredbe stava 1. ovog člana ne može da ima za cilj ili za posledicu dodatno ograničenje slobode spoljne trgovine.",
+          "ragContent": "Ovaj član uređuje obavezu evidencije ili izveštavanja o spoljnotrgovinskim poslovima. Član 40. Zakona o spoljnotrgovinskom poslovanju omogućava Vladi da propiše obavezu evidencije ili izveštavanja o spoljnotrgovinskim poslovima, uz uslov da to ne ograničava slobodu spoljne trgovine.\n\nVlada, u cilju unapređivanja spoljnotrgovinskog poslovanja i efikasnije primene ovog zakona i drugih propisa koji utiču na spoljnotrgovinsko poslovanje, može da propiše obavezu evidencije ili izveštavanja o pojedinim spoljnotrgovinskim poslovima i sadržaj tih evidencija i izveštaja.\n\nPrimena odredbe stava 1. ovog člana ne može da ima za cilj ili za posledicu dodatno ograničenje slobode spoljne trgovine."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 41",
+      "articleNo": "41",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Brisan je (vidi član 18. Zakona - 88/2011-50)\n\nVIII. PROMOCIJA IZVOZA I STRANIH ULAGANjA\n\nPrestala je da važi (vidi član 46. Zakona - 89/2015-3)\n\nČl. 42-46.",
+      "chunks": [
+        {
+          "id": "aa4d0bd2-4e9e-56d7-bacd-d12840e63146",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Brisan je (vidi član 18. Zakona - 88/2011-50)\n\nVIII. PROMOCIJA IZVOZA I STRANIH ULAGANjA\n\nPrestala je da važi (vidi član 46. Zakona - 89/2015-3)\n\nČl. 42-46.",
+          "ragContent": "Ovaj član se odnosi na brisanje odredbi u vezi sa promocijom izvoza i stranih ulaganja. Član 41. Zakona o spoljnotrgovinskom poslovanju ukazuje na to da su određene odredbe brisane ili prestale da važe.\n\nBrisan je (vidi član 18. Zakona - 88/2011-50)\n\nVIII. PROMOCIJA IZVOZA I STRANIH ULAGANjA\n\nPrestala je da važi (vidi član 46. Zakona - 89/2015-3)\n\nČl. 42-46."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 47",
+      "articleNo": "47",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje dodeljenu kvotu ne koristi u skladu sa uslovima iz člana 20. stav 6. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+      "chunks": [
+        {
+          "id": "7e174c3c-1830-5a9e-9fd5-f69316918718",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje dodeljenu kvotu ne koristi u skladu sa uslovima iz člana 20. stav 6. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+          "ragContent": "Ovaj član uređuje kazne za nepoštovanje dodeljenih kvota. Član 47. Zakona o spoljnotrgovinskom poslovanju propisuje novčane kazne za pravna lica i preduzetnike koji ne koriste dodeljene kvote u skladu sa zakonom.\n\nNovčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje dodeljenu kvotu ne koristi u skladu sa uslovima iz člana 20. stav 6. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 48",
+      "articleNo": "48",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje krši propisane uslove za korišćenje dozvole izdate u skladu sa članom 22. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu.",
+      "chunks": [
+        {
+          "id": "02e613ba-0094-5f9e-8bbc-62effb4a8bce",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje krši propisane uslove za korišćenje dozvole izdate u skladu sa članom 22. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu.",
+          "ragContent": "Ovaj član uređuje novčane kazne za prekršaje u vezi sa dozvolama. Član 48. Zakona o spoljnotrgovinskom poslovanju propisuje kazne za pravna lica i preduzetnike koji krše uslove korišćenja dozvola.\n\nNovčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje krši propisane uslove za korišćenje dozvole izdate u skladu sa članom 22. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 48a",
+      "articleNo": "48a",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice ako u zahtevu, odnosno dokumentaciji iz člana 23. ovog zakona da netačne podatke.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu.\n\nUkoliko je prekršaj iz stava 1. ovog člana učinjen bez namere obmanjivanja ili grubog nemara, učiniocu se može izreći opomena.",
+      "chunks": [
+        {
+          "id": "726d6403-aa33-5158-b9f9-959338ab3d4f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice ako u zahtevu, odnosno dokumentaciji iz člana 23. ovog zakona da netačne podatke.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu.\n\nUkoliko je prekršaj iz stava 1. ovog člana učinjen bez namere obmanjivanja ili grubog nemara, učiniocu se može izreći opomena.",
+          "ragContent": "Ovaj član uređuje kazne za netačne podatke u spoljnotrgovinskoj dokumentaciji. Član 48a Zakona o spoljnotrgovinskom poslovanju propisuje novčane kazne za pravna lica i preduzetnike zbog netačnih podataka.\n\nNovčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice ako u zahtevu, odnosno dokumentaciji iz člana 23. ovog zakona da netačne podatke.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, fizičko lice, odnosno odgovorno lice u pravnom licu.\n\nUkoliko je prekršaj iz stava 1. ovog člana učinjen bez namere obmanjivanja ili grubog nemara, učiniocu se može izreći opomena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 49",
+      "articleNo": "49",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje robu izvozi, odnosno uvozi, a usluge u spoljnotrgovinskom poslu plaća, odnosno naplaćuje u robi ili uslugama, a koje ne postupa u skladu sa uslovima propisanim aktom donetim na osnovu člana 37. stav 2. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+      "chunks": [
+        {
+          "id": "a5e43b27-61b4-5228-b534-041184f84982",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje robu izvozi, odnosno uvozi, a usluge u spoljnotrgovinskom poslu plaća, odnosno naplaćuje u robi ili uslugama, a koje ne postupa u skladu sa uslovima propisanim aktom donetim na osnovu člana 37. stav 2. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+          "ragContent": "Ovaj član uređuje novčane kazne za prekršaje u spoljnotrgovinskom poslovanju. Član 49. Zakona o spoljnotrgovinskom poslovanju propisuje kazne za pravna lica i preduzetnike koji ne postupe u skladu sa uslovima iz člana 37. stav 2. ovog zakona.\n\nNovčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje robu izvozi, odnosno uvozi, a usluge u spoljnotrgovinskom poslu plaća, odnosno naplaćuje u robi ili uslugama, a koje ne postupa u skladu sa uslovima propisanim aktom donetim na osnovu člana 37. stav 2. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Spoljnotrgovinski promet robom je slobodan i može se ograničiti samo u skladu sa odredbama ovog zakona.\n\nDomaća i strana pravna lica, njihovi ogranci, kao i preduzetnici, stiču pravo i obavljaju spoljnotrgovinski promet robom pod jednakim uslovima.\n\nPredstavništvo stranog pravnog lica obavlja poslove vezane za spoljnotrgovinsko poslovanje u skladu sa zakonom kojim se uređuju privredna društva.\n\nDomaća i strana fizička lica imaju ista prava u spoljnotrgovinskom prometu robom i taj promet obavljaju isključivo za sopstvene potrebe.\n\nDržavni organi, verske, sportske, humanitarne i ostale organizacije spoljnotrgovinski promet robom obavljaju isključivo za sopstvene potrebe.",
+      "chunks": [
+        {
+          "id": "71484503-ccf6-5d09-824b-bc451f1de4dd",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Spoljnotrgovinski promet robom je slobodan i može se ograničiti samo u skladu sa odredbama ovog zakona.\n\nDomaća i strana pravna lica, njihovi ogranci, kao i preduzetnici, stiču pravo i obavljaju spoljnotrgovinski promet robom pod jednakim uslovima.\n\nPredstavništvo stranog pravnog lica obavlja poslove vezane za spoljnotrgovinsko poslovanje u skladu sa zakonom kojim se uređuju privredna društva.\n\nDomaća i strana fizička lica imaju ista prava u spoljnotrgovinskom prometu robom i taj promet obavljaju isključivo za sopstvene potrebe.\n\nDržavni organi, verske, sportske, humanitarne i ostale organizacije spoljnotrgovinski promet robom obavljaju isključivo za sopstvene potrebe.",
+          "ragContent": "Ovaj član uređuje slobodu spoljnotrgovinskog prometa robom i prava domaćih i stranih lica. Član 5. Zakona o spoljnotrgovinskom poslovanju definiše uslove pod kojima se obavlja spoljnotrgovinski promet robom.\n\nSpoljnotrgovinski promet robom je slobodan i može se ograničiti samo u skladu sa odredbama ovog zakona.\n\nDomaća i strana pravna lica, njihovi ogranci, kao i preduzetnici, stiču pravo i obavljaju spoljnotrgovinski promet robom pod jednakim uslovima.\n\nPredstavništvo stranog pravnog lica obavlja poslove vezane za spoljnotrgovinsko poslovanje u skladu sa zakonom kojim se uređuju privredna društva.\n\nDomaća i strana fizička lica imaju ista prava u spoljnotrgovinskom prometu robom i taj promet obavljaju isključivo za sopstvene potrebe.\n\nDržavni organi, verske, sportske, humanitarne i ostale organizacije spoljnotrgovinski promet robom obavljaju isključivo za sopstvene potrebe."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 50",
+      "articleNo": "50",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje ne ispuni obavezu evidentiranja i izveštavanja o pojedinom poslu spoljne trgovine propisanu u skladu sa članom 40. stav 1. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+      "chunks": [
+        {
+          "id": "03c69f1c-1065-5ab4-b320-c1be47f9781b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje ne ispuni obavezu evidentiranja i izveštavanja o pojedinom poslu spoljne trgovine propisanu u skladu sa članom 40. stav 1. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu.",
+          "ragContent": "Ovaj član uređuje kazne za pravna lica i preduzetnike koji ne ispune obaveze u spoljnoj trgovini. Član 50. Zakona o spoljnotrgovinskom poslovanju propisuje novčane kazne za prekršaje u vezi sa evidentiranjem i izveštavanjem o poslovima spoljne trgovine.\n\nNovčanom kaznom od 100.000 do 1.000.000 dinara kazniće se za prekršaj pravno lice koje ne ispuni obavezu evidentiranja i izveštavanja o pojedinom poslu spoljne trgovine propisanu u skladu sa članom 40. stav 1. ovog zakona.\n\nNovčanom kaznom od 10.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik, odnosno odgovorno lice u pravnom licu."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 51",
+      "articleNo": "51",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za odlučivanje u prvom stepenu za prekršaje iz čl. 47. do 50. nadležno je Ministarstvo finansija – Devizni inspektorat.",
+      "chunks": [
+        {
+          "id": "1beae760-29fd-5ed3-83ae-1ee2caa249fa",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za odlučivanje u prvom stepenu za prekršaje iz čl. 47. do 50. nadležno je Ministarstvo finansija – Devizni inspektorat.",
+          "ragContent": "Ovaj član uređuje nadležnost za odlučivanje o prekršajima. Član 51. Zakona o spoljnotrgovinskom poslovanju propisuje da je nadležno Ministarstvo finansija – Devizni inspektorat.  Za odlučivanje u prvom stepenu za prekršaje iz čl. 47. do 50. nadležno je Ministarstvo finansija – Devizni inspektorat."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 52",
+      "articleNo": "52",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05).\n\nDanom upisa Agencije iz člana 42. ovog zakona u sudski registar, prestaje da važi odredba člana 30. tačka 8) i člana 38. Zakona o ministarstvima („Službeni glasnik RS”, broj 65/08).\n\nDo donošenja propisa za izvršavanje ovog zakona, primenjivaće se propisi doneti na osnovu Zakona o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05).",
+      "chunks": [
+        {
+          "id": "928882e5-fe31-5aa5-af29-7bb375bc5a1f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05).\n\nDanom upisa Agencije iz člana 42. ovog zakona u sudski registar, prestaje da važi odredba člana 30. tačka 8) i člana 38. Zakona o ministarstvima („Službeni glasnik RS”, broj 65/08).\n\nDo donošenja propisa za izvršavanje ovog zakona, primenjivaće se propisi doneti na osnovu Zakona o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnih zakona. Član 52. Zakona o spoljnotrgovinskom poslovanju definiše kada prestaju da važe raniji zakoni i propisi.\n\nDanom stupanja na snagu ovog zakona prestaje da važi Zakon o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05).\n\nDanom upisa Agencije iz člana 42. ovog zakona u sudski registar, prestaje da važi odredba člana 30. tačka 8) i člana 38. Zakona o ministarstvima („Službeni glasnik RS”, broj 65/08).\n\nDo donošenja propisa za izvršavanje ovog zakona, primenjivaće se propisi doneti na osnovu Zakona o spoljnotrgovinskom poslovanju („Službeni glasnik RS”, broj 101/05)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 53",
+      "articleNo": "53",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "0debfc72-b34d-537c-8a37-4fc009509166",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 53. Zakona o spoljnotrgovinskom poslovanju propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Tretman najpovlašćenije nacije se primenjuje u spoljnotrgovinskom prometu sa državom ili carinskom teritorijom kojoj je ovaj tretman dodeljen međunarodnim sporazumom ili odlukom Vlade.\n\nTretman najpovlašćenije nacije u odnosu na robu, u smislu ovog zakona, podrazumeva da se sve prednosti, pogodnosti, povlastice ili izuzeća koje Republika Srbija odobri bilo kojoj robi poreklom iz ili koja je namenjena drugoj državi ili carinskoj teritoriji, odmah i bez odlaganja odobravaju istoj ili sličnoj robi poreklom iz ili koja je namenjena bilo kojoj državi ili carinskoj teritoriji.\n\nTretman najpovlašćenije nacije u odnosu na usluge, u smislu ovog zakona, podrazumeva tretman usluga i pružaoca usluga, koji potiču iz jedne države ili carinske teritorije, koji nije nepovoljniji od tretmana sličnih usluga i pružaoca sličnih usluga iz bilo koje druge države ili carinske teritorije.\n\nTretman najpovlašćenije nacije ne uključuje uslove koji su odobreni sporazumom o slobodnoj trgovini, sporazumom o carinskoj uniji, aranžmanom o pograničnoj trgovini i uslove odobrene ili zasnovane na prelaznim sporazumima o uspostavljanju zone slobodne trgovine ili carinske unije.",
+      "chunks": [
+        {
+          "id": "7dd3feca-6db3-556a-b8b0-a81411a66d63",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Tretman najpovlašćenije nacije se primenjuje u spoljnotrgovinskom prometu sa državom ili carinskom teritorijom kojoj je ovaj tretman dodeljen međunarodnim sporazumom ili odlukom Vlade.\n\nTretman najpovlašćenije nacije u odnosu na robu, u smislu ovog zakona, podrazumeva da se sve prednosti, pogodnosti, povlastice ili izuzeća koje Republika Srbija odobri bilo kojoj robi poreklom iz ili koja je namenjena drugoj državi ili carinskoj teritoriji, odmah i bez odlaganja odobravaju istoj ili sličnoj robi poreklom iz ili koja je namenjena bilo kojoj državi ili carinskoj teritoriji.\n\nTretman najpovlašćenije nacije u odnosu na usluge, u smislu ovog zakona, podrazumeva tretman usluga i pružaoca usluga, koji potiču iz jedne države ili carinske teritorije, koji nije nepovoljniji od tretmana sličnih usluga i pružaoca sličnih usluga iz bilo koje druge države ili carinske teritorije.\n\nTretman najpovlašćenije nacije ne uključuje uslove koji su odobreni sporazumom o slobodnoj trgovini, sporazumom o carinskoj uniji, aranžmanom o pograničnoj trgovini i uslove odobrene ili zasnovane na prelaznim sporazumima o uspostavljanju zone slobodne trgovine ili carinske unije.",
+          "ragContent": "Ovaj član uređuje tretman najpovlašćenije nacije u spoljnotrgovinskom prometu. Član 6. Zakona o spoljnotrgovinskom poslovanju definiše kako se primenjuje tretman najpovlašćenije nacije na robu i usluge, kao i izuzetke od ovog tretmana.\n\nTretman najpovlašćenije nacije se primenjuje u spoljnotrgovinskom prometu sa državom ili carinskom teritorijom kojoj je ovaj tretman dodeljen međunarodnim sporazumom ili odlukom Vlade.\n\nTretman najpovlašćenije nacije u odnosu na robu, u smislu ovog zakona, podrazumeva da se sve prednosti, pogodnosti, povlastice ili izuzeća koje Republika Srbija odobri bilo kojoj robi poreklom iz ili koja je namenjena drugoj državi ili carinskoj teritoriji, odmah i bez odlaganja odobravaju istoj ili sličnoj robi poreklom iz ili koja je namenjena bilo kojoj državi ili carinskoj teritoriji.\n\nTretman najpovlašćenije nacije u odnosu na usluge, u smislu ovog zakona, podrazumeva tretman usluga i pružaoca usluga, koji potiču iz jedne države ili carinske teritorije, koji nije nepovoljniji od tretmana sličnih usluga i pružaoca sličnih usluga iz bilo koje druge države ili carinske teritorije.\n\nTretman najpovlašćenije nacije ne uključuje uslove koji su odobreni sporazumom o slobodnoj trgovini, sporazumom o carinskoj uniji, aranžmanom o pograničnoj trgovini i uslove odobrene ili zasnovane na prelaznim sporazumima o uspostavljanju zone slobodne trgovine ili carinske unije."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Strana roba uvezena na teritoriju Republike Srbije neće imati manje povoljan tretman od tretmana koji ima slična domaća roba.\n\nNacionalni tretman u odnosu na usluge, u smislu ovog zakona, podrazumeva da sve mere koje utiču na usluge koje potiču iz druge države ili carinske teritorije, kao i na pružaoce usluga iz druge države ili carinske teritorije, ne mogu biti nepovoljnije od mera koje se primenjuju na slične domaće usluge ili na domaće pružaoce usluga.\n\nUsluge koje potiču iz druge države ili carinske teritorije, kao i pružaoci usluga iz druge države ili carinske teritorije, uživaju nacionalni tretman na osnovu međunarodnog sporazuma.\n\nPrava intelektualne svojine stranih lica neće imati manje povoljan tretman od tretmana koji je dat pravima intelektualne svojine domaćih lica.",
+      "chunks": [
+        {
+          "id": "ac51e6dd-8fda-5e20-b655-1f8fc103d907",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Strana roba uvezena na teritoriju Republike Srbije neće imati manje povoljan tretman od tretmana koji ima slična domaća roba.\n\nNacionalni tretman u odnosu na usluge, u smislu ovog zakona, podrazumeva da sve mere koje utiču na usluge koje potiču iz druge države ili carinske teritorije, kao i na pružaoce usluga iz druge države ili carinske teritorije, ne mogu biti nepovoljnije od mera koje se primenjuju na slične domaće usluge ili na domaće pružaoce usluga.\n\nUsluge koje potiču iz druge države ili carinske teritorije, kao i pružaoci usluga iz druge države ili carinske teritorije, uživaju nacionalni tretman na osnovu međunarodnog sporazuma.\n\nPrava intelektualne svojine stranih lica neće imati manje povoljan tretman od tretmana koji je dat pravima intelektualne svojine domaćih lica.",
+          "ragContent": "Ovaj član uređuje tretman strane robe i usluga u Srbiji. Član 7. Zakona o spoljnotrgovinskom poslovanju propisuje nacionalni tretman za stranu robu, usluge i prava intelektualne svojine.\n\nStrana roba uvezena na teritoriju Republike Srbije neće imati manje povoljan tretman od tretmana koji ima slična domaća roba.\n\nNacionalni tretman u odnosu na usluge, u smislu ovog zakona, podrazumeva da sve mere koje utiču na usluge koje potiču iz druge države ili carinske teritorije, kao i na pružaoce usluga iz druge države ili carinske teritorije, ne mogu biti nepovoljnije od mera koje se primenjuju na slične domaće usluge ili na domaće pružaoce usluga.\n\nUsluge koje potiču iz druge države ili carinske teritorije, kao i pružaoci usluga iz druge države ili carinske teritorije, uživaju nacionalni tretman na osnovu međunarodnog sporazuma.\n\nPrava intelektualne svojine stranih lica neće imati manje povoljan tretman od tretmana koji je dat pravima intelektualne svojine domaćih lica."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U spoljnotrgovinskom prometu robom ne mogu se uvoditi nova niti zadržavati postojeća kvantitativna ograničenja, osim onih koja su propisana ovim zakonom.",
+      "chunks": [
+        {
+          "id": "0d81f0ad-6e31-5b9b-9b8c-fa4fd2435c13",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U spoljnotrgovinskom prometu robom ne mogu se uvoditi nova niti zadržavati postojeća kvantitativna ograničenja, osim onih koja su propisana ovim zakonom.",
+          "ragContent": "Ovaj član uređuje kvantitativna ograničenja u spoljnotrgovinskom prometu. Član 8. Zakona o spoljnotrgovinskom poslovanju propisuje da se ne mogu uvoditi nova niti zadržavati postojeća kvantitativna ograničenja, osim onih koja su propisana ovim zakonom.  U spoljnotrgovinskom prometu robom ne mogu se uvoditi nova niti zadržavati postojeća kvantitativna ograničenja, osim onih koja su propisana ovim zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o spoljnotrgovinskom poslovanju",
+      "lawSlug": "zakon-o-spoljnotrgovinskom-poslovanju",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": null,
+      "category": "spoljna_trgovina",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Mere koje utiču na spoljnotrgovinsko poslovanje koje se donose u skladu sa ovim zakonom objavljuju se u „Službenom glasniku Republike Srbije”.\n\nMinistarstvo nadležno za poslove ekonomskih odnosa sa inostranstvom (u daljem tekstu: ministarstvo), na zahtev zainteresovanog lica, daje informacije o primeni ovog zakona i merama koje se na osnovu njega donose.",
+      "chunks": [
+        {
+          "id": "5570cfd9-6e14-5ed6-8291-477c15dc0b7d",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Mere koje utiču na spoljnotrgovinsko poslovanje koje se donose u skladu sa ovim zakonom objavljuju se u „Službenom glasniku Republike Srbije”.\n\nMinistarstvo nadležno za poslove ekonomskih odnosa sa inostranstvom (u daljem tekstu: ministarstvo), na zahtev zainteresovanog lica, daje informacije o primeni ovog zakona i merama koje se na osnovu njega donose.",
+          "ragContent": "Ovaj član uređuje objavljivanje mera koje utiču na spoljnotrgovinsko poslovanje. Član 9. Zakona o spoljnotrgovinskom poslovanju propisuje obavezu objavljivanja mera u Službenom glasniku i pružanje informacija od strane ministarstva.\n\nMere koje utiču na spoljnotrgovinsko poslovanje koje se donose u skladu sa ovim zakonom objavljuju se u „Službenom glasniku Republike Srbije”.\n\nMinistarstvo nadležno za poslove ekonomskih odnosa sa inostranstvom (u daljem tekstu: ministarstvo), na zahtev zainteresovanog lica, daje informacije o primeni ovog zakona i merama koje se na osnovu njega donose."
+        }
+      ]
+    }
+  ]
+}

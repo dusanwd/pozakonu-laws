@@ -1,0 +1,823 @@
+{
+  "law": "Zakon o registru prostornih jedinica i adresnom registru",
+  "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+  "category": "teritorijalna_organizacija_lokalna_samouprava",
+  "sourceDocumentCount": 42,
+  "articleCount": 40,
+  "articles": [
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom uređuje se nadležnost, sadržaj, način i postupak vođenja Registra prostornih jedinica i Adresnog registra, kao i način prikupljanja, upravljanja, čuvanja, razmene, korišćenja, održavanja i upotrebe podataka, utvrđivanje i označavanje naziva ulica, objekata i katastarskih parcela kućnim brojevima i druga pitanja od značaja za vođenje Registra prostornih jedinica i Adresnog registra u elektronskom obliku.",
+      "chunks": [
+        {
+          "id": "45964933-cc9b-55d9-b378-f5be7bbe3673",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom uređuje se nadležnost, sadržaj, način i postupak vođenja Registra prostornih jedinica i Adresnog registra, kao i način prikupljanja, upravljanja, čuvanja, razmene, korišćenja, održavanja i upotrebe podataka, utvrđivanje i označavanje naziva ulica, objekata i katastarskih parcela kućnim brojevima i druga pitanja od značaja za vođenje Registra prostornih jedinica i Adresnog registra u elektronskom obliku.",
+          "ragContent": "Ovaj član uređuje vođenje Registra prostornih jedinica i Adresnog registra. Zakon o registru prostornih jedinica i adresnom registru, član 1, definiše nadležnost i postupke vezane za vođenje ovih registara.  Ovim zakonom uređuje se nadležnost, sadržaj, način i postupak vođenja Registra prostornih jedinica i Adresnog registra, kao i način prikupljanja, upravljanja, čuvanja, razmene, korišćenja, održavanja i upotrebe podataka, utvrđivanje i označavanje naziva ulica, objekata i katastarskih parcela kućnim brojevima i druga pitanja od značaja za vođenje Registra prostornih jedinica i Adresnog registra u elektronskom obliku."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 10",
+      "articleNo": "10",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Granice prostornih jedinica prate granice katastarskih parcela.\n\nIzuzetno od stava 1. ovog člana granica statističkog kruga, popisnog kruga i područja biračkog mesta ne mora da prati granicu katastarske parcele.\n\nU slučaju da promena granice prostorne jedinice utiče na promenu oblika i površine katastarske parcele obavezna je izrada elaborata geodetskih radova koji se izrađuje u skladu sa zakonom kojim se uređuje državni premer i katastar.\n\nAkt o promeni prostorne jedinice iz stava 1. ovog člana sadrži spisak katastarskih parcela koje čine područje prostorne jedinice.",
+      "chunks": [
+        {
+          "id": "1f0ebf90-0e00-5f74-9c9e-0cf680385861",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Granice prostornih jedinica prate granice katastarskih parcela.\n\nIzuzetno od stava 1. ovog člana granica statističkog kruga, popisnog kruga i područja biračkog mesta ne mora da prati granicu katastarske parcele.\n\nU slučaju da promena granice prostorne jedinice utiče na promenu oblika i površine katastarske parcele obavezna je izrada elaborata geodetskih radova koji se izrađuje u skladu sa zakonom kojim se uređuje državni premer i katastar.\n\nAkt o promeni prostorne jedinice iz stava 1. ovog člana sadrži spisak katastarskih parcela koje čine područje prostorne jedinice.",
+          "ragContent": "Ovaj član uređuje granice prostornih jedinica i njihovu povezanost sa katastarskim parcelama. Član 10. Zakona o registru prostornih jedinica i adresnom registru definiše pravila o granicama prostornih jedinica i obavezama u slučaju promena.\n\nGranice prostornih jedinica prate granice katastarskih parcela.\n\nIzuzetno od stava 1. ovog člana granica statističkog kruga, popisnog kruga i područja biračkog mesta ne mora da prati granicu katastarske parcele.\n\nU slučaju da promena granice prostorne jedinice utiče na promenu oblika i površine katastarske parcele obavezna je izrada elaborata geodetskih radova koji se izrađuje u skladu sa zakonom kojim se uređuje državni premer i katastar.\n\nAkt o promeni prostorne jedinice iz stava 1. ovog člana sadrži spisak katastarskih parcela koje čine područje prostorne jedinice."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 11",
+      "articleNo": "11",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "AR je osnovni i javni registar koji sadrži podatke o ulicama utvrđenim odlukama jedinice lokalne samouprave (u daljem tekstu: JLS) i kućnim brojevima.",
+      "chunks": [
+        {
+          "id": "38d8435a-8f40-5776-8b93-b211493d6e11",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "AR je osnovni i javni registar koji sadrži podatke o ulicama utvrđenim odlukama jedinice lokalne samouprave (u daljem tekstu: JLS) i kućnim brojevima.",
+          "ragContent": "Ovaj član definiše osnovni registar u vezi sa ulicama i kućnim brojevima. Član 11. Zakona o registru prostornih jedinica i adresnom registru propisuje da je AR osnovni i javni registar koji sadrži podatke o ulicama utvrđenim odlukama jedinice lokalne samouprave (u daljem tekstu: JLS) i kućnim brojevima.  AR je osnovni i javni registar koji sadrži podatke o ulicama utvrđenim odlukama jedinice lokalne samouprave (u daljem tekstu: JLS) i kućnim brojevima."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 12",
+      "articleNo": "12",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "AR sadrži izvorne i preuzete podatke.\n\nIzvorni podaci su: naziv ulice, matični broj ulice, vrsta ulice, kućni broj, jedinstveni adresni kod, kao i geoprostorni i istorijski podaci ulica i kućnih brojeva.\n\nPreuzeti podaci u AR su:\n\n1) naziv i matični broj opštine;\n\n2) naziv i matični broj naseljenog mesta;\n\n3) naziv i matični broj katastarske opštine;\n\n4) broj katastarske parcele;\n\n5) broj dela katastarske parcele pod objektom za objekte koji su upisani u bazu podataka katastra nepokretnosti.",
+      "chunks": [
+        {
+          "id": "f9bddf2c-f9af-5a8b-94e3-1915e7b6956e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "AR sadrži izvorne i preuzete podatke.\n\nIzvorni podaci su: naziv ulice, matični broj ulice, vrsta ulice, kućni broj, jedinstveni adresni kod, kao i geoprostorni i istorijski podaci ulica i kućnih brojeva.\n\nPreuzeti podaci u AR su:\n\n1) naziv i matični broj opštine;\n\n2) naziv i matični broj naseljenog mesta;\n\n3) naziv i matični broj katastarske opštine;\n\n4) broj katastarske parcele;\n\n5) broj dela katastarske parcele pod objektom za objekte koji su upisani u bazu podataka katastra nepokretnosti.",
+          "ragContent": "Ovaj član definiše podatke koji se nalaze u adresnom registru. Član 12. Zakona o registru prostornih jedinica i adresnom registru uređuje izvorne i preuzete podatke u adresnom registru.\n\nAR sadrži izvorne i preuzete podatke.\n\nIzvorni podaci su: naziv ulice, matični broj ulice, vrsta ulice, kućni broj, jedinstveni adresni kod, kao i geoprostorni i istorijski podaci ulica i kućnih brojeva.\n\nPreuzeti podaci u AR su:\n\n1) naziv i matični broj opštine;\n\n2) naziv i matični broj naseljenog mesta;\n\n3) naziv i matični broj katastarske opštine;\n\n4) broj katastarske parcele;\n\n5) broj dela katastarske parcele pod objektom za objekte koji su upisani u bazu podataka katastra nepokretnosti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 13",
+      "articleNo": "13",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Skupština JLS odlučuje o nazivima ulica u skladu za zakonom kojim se uređuje lokalna samouprava.\n\nJLS je obavezna da u svakom delu naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti imenuje ulicu.\n\nJLS je obavezna da održava ulični sistem u naseljenom mestu na način da se svakom stambenom ili poslovnom objektu može utvrditi kućni broj.\n\nJLS je obavezna da vodi evidenciju svih naziva ulica po naseljenim mestima sa opisom položaja ulice, kao i da bez odlaganja obavesti Zavod o objavljivanju odluke kojom se vrši promena podataka koji se vode u AR.\n\nKad nadležni organ JLS utvrdi, izmeni ili ugasi naziv ulice dužan je da bez odlaganja dostavi odluku Zavodu elektronskim putem, u skladu sa zakonom.",
+      "chunks": [
+        {
+          "id": "2ea030ae-a7a6-5e73-aa09-5b8bf4232b8b",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Skupština JLS odlučuje o nazivima ulica u skladu za zakonom kojim se uređuje lokalna samouprava.\n\nJLS je obavezna da u svakom delu naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti imenuje ulicu.\n\nJLS je obavezna da održava ulični sistem u naseljenom mestu na način da se svakom stambenom ili poslovnom objektu može utvrditi kućni broj.\n\nJLS je obavezna da vodi evidenciju svih naziva ulica po naseljenim mestima sa opisom položaja ulice, kao i da bez odlaganja obavesti Zavod o objavljivanju odluke kojom se vrši promena podataka koji se vode u AR.\n\nKad nadležni organ JLS utvrdi, izmeni ili ugasi naziv ulice dužan je da bez odlaganja dostavi odluku Zavodu elektronskim putem, u skladu sa zakonom.",
+          "ragContent": "Ovaj član uređuje obaveze JLS u vezi sa imenovanjem i održavanjem ulica. Član 13. Zakona o registru prostornih jedinica i adresnom registru propisuje da JLS mora imenovati ulice, održavati ulični sistem, voditi evidenciju i obaveštavati Zavod o promenama.\n\nSkupština JLS odlučuje o nazivima ulica u skladu za zakonom kojim se uređuje lokalna samouprava.\n\nJLS je obavezna da u svakom delu naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti imenuje ulicu.\n\nJLS je obavezna da održava ulični sistem u naseljenom mestu na način da se svakom stambenom ili poslovnom objektu može utvrditi kućni broj.\n\nJLS je obavezna da vodi evidenciju svih naziva ulica po naseljenim mestima sa opisom položaja ulice, kao i da bez odlaganja obavesti Zavod o objavljivanju odluke kojom se vrši promena podataka koji se vode u AR.\n\nKad nadležni organ JLS utvrdi, izmeni ili ugasi naziv ulice dužan je da bez odlaganja dostavi odluku Zavodu elektronskim putem, u skladu sa zakonom."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 14",
+      "articleNo": "14",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 3,
+      "content": "JLS je u obavezi da istovremeno sa usvajanjem planskog dokumenata utvrdi nazive ulica predviđene planom.\n\nZa ulicu za koju nije utvrđen naziv, a koja je formirana na terenu izgradnjom više od deset objekata na parnoj ili neparnoj strani, Zavod je dužan da se obrati JLS zahtevom da se utvrdi naziv ulice.\n\nUz zahtev iz stava 2. ovog člana Zavod dostavlja i Elaborat uličnog sistema.\n\nAko JLS ne utvrdi naziv ulice u roku od 60 dana, Zavod će o tome obavestiti ministarstvo koje vrši nadzor nad primenom ovog zakona, koje će u roku od pet radnih dana formirati komisiju u čijem sastavu će učestvovati i predstavnici ministarstva nadležnog za poslove lokalne samouprave, odnosno za teritoriju autonomne pokrajine nadležni organ autonomne pokrajine.\n\nKomisija iz stava 4. ovog člana utvrđuje naziv ulice u roku od 30 dana od dana obrazovanja komisije i po donetoj odluci o nazivu obaveštava Zavod i JLS na čijoj teritoriji se nalazi ulica.\n\nOdluka iz stava 5. ovog člana objavljuje se u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "ed10b75c-4677-51e5-8547-47b852283a07",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "JLS je u obavezi da istovremeno sa usvajanjem planskog dokumenata utvrdi nazive ulica predviđene planom.\n\nZa ulicu za koju nije utvrđen naziv, a koja je formirana na terenu izgradnjom više od deset objekata na parnoj ili neparnoj strani, Zavod je dužan da se obrati JLS zahtevom da se utvrdi naziv ulice.\n\nUz zahtev iz stava 2. ovog člana Zavod dostavlja i Elaborat uličnog sistema.",
+          "ragContent": "Ovaj deo člana uređuje obavezu JLS da utvrdi nazive ulica. Član 14. Zakona o registru prostornih jedinica i adresnom registru propisuje da JLS mora utvrditi nazive ulica prilikom usvajanja planskih dokumenata.\n\nJLS je u obavezi da istovremeno sa usvajanjem planskog dokumenata utvrdi nazive ulica predviđene planom.\n\nZa ulicu za koju nije utvrđen naziv, a koja je formirana na terenu izgradnjom više od deset objekata na parnoj ili neparnoj strani, Zavod je dužan da se obrati JLS zahtevom da se utvrdi naziv ulice.\n\nUz zahtev iz stava 2. ovog člana Zavod dostavlja i Elaborat uličnog sistema."
+        },
+        {
+          "id": "e7359f5f-6be6-5c9a-a99a-52a71e56020f",
+          "chunkIndex": 1,
+          "paragraph": null,
+          "content": "Ako JLS ne utvrdi naziv ulice u roku od 60 dana, Zavod će o tome obavestiti ministarstvo koje vrši nadzor nad primenom ovog zakona, koje će u roku od pet radnih dana formirati komisiju u čijem sastavu će učestvovati i predstavnici ministarstva nadležnog za poslove lokalne samouprave, odnosno za teritoriju autonomne pokrajine nadležni organ autonomne pokrajine.\n\nKomisija iz stava 4. ovog člana utvrđuje naziv ulice u roku od 30 dana od dana obrazovanja komisije i po donetoj odluci o nazivu obaveštava Zavod i JLS na čijoj teritoriji se nalazi ulica.",
+          "ragContent": "Ovaj deo člana uređuje postupak u slučaju da JLS ne utvrdi naziv ulice. Član 14. Zakona o registru prostornih jedinica i adresnom registru propisuje da, ako JLS ne utvrdi naziv ulice u roku od 60 dana, Zavod obaveštava ministarstvo koje formira komisiju.\n\nAko JLS ne utvrdi naziv ulice u roku od 60 dana, Zavod će o tome obavestiti ministarstvo koje vrši nadzor nad primenom ovog zakona, koje će u roku od pet radnih dana formirati komisiju u čijem sastavu će učestvovati i predstavnici ministarstva nadležnog za poslove lokalne samouprave, odnosno za teritoriju autonomne pokrajine nadležni organ autonomne pokrajine.\n\nKomisija iz stava 4. ovog člana utvrđuje naziv ulice u roku od 30 dana od dana obrazovanja komisije i po donetoj odluci o nazivu obaveštava Zavod i JLS na čijoj teritoriji se nalazi ulica."
+        },
+        {
+          "id": "9b9069e2-1d69-5e87-ab5d-1d2bae93c963",
+          "chunkIndex": 2,
+          "paragraph": null,
+          "content": "Odluka iz stava 5. ovog člana objavljuje se u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj deo člana uređuje objavljivanje odluke o nazivu ulice. Član 14. Zakona o registru prostornih jedinica i adresnom registru propisuje da se odluka o nazivu ulice objavljuje u Službenom glasniku.\n\nOdluka iz stava 5. ovog člana objavljuje se u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 15",
+      "articleNo": "15",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U slučaju kada se ulica prostire granicom dva susedna naseljena mesta u kojima kućni brojevi na parnoj strani pripadaju jednom naseljenom mestu, a kućni brojevi na neparnoj strani drugom naseljenom mestu, naziv ulice mora biti isti u oba naseljena mesta.\n\nAko ulica iz stava 1. ovog člana ima različite nazive, Zavod je dužan da nadležnim JLS dostavi dopis sa primedbom da postoji greška u nazivu ulice koju treba ispraviti.",
+      "chunks": [
+        {
+          "id": "c010e1d0-dca5-5b22-a713-ada1c141e4b6",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U slučaju kada se ulica prostire granicom dva susedna naseljena mesta u kojima kućni brojevi na parnoj strani pripadaju jednom naseljenom mestu, a kućni brojevi na neparnoj strani drugom naseljenom mestu, naziv ulice mora biti isti u oba naseljena mesta.\n\nAko ulica iz stava 1. ovog člana ima različite nazive, Zavod je dužan da nadležnim JLS dostavi dopis sa primedbom da postoji greška u nazivu ulice koju treba ispraviti.",
+          "ragContent": "Ovaj član uređuje jedinstvenost naziva ulica koje se prostiru između dva naseljena mesta. Član 15. Zakona o registru prostornih jedinica i adresnom registru propisuje da naziv ulice mora biti isti u oba naseljena mesta i obavezu Zavoda da obavesti JLS o grešci u nazivu.\n\nU slučaju kada se ulica prostire granicom dva susedna naseljena mesta u kojima kućni brojevi na parnoj strani pripadaju jednom naseljenom mestu, a kućni brojevi na neparnoj strani drugom naseljenom mestu, naziv ulice mora biti isti u oba naseljena mesta.\n\nAko ulica iz stava 1. ovog člana ima različite nazive, Zavod je dužan da nadležnim JLS dostavi dopis sa primedbom da postoji greška u nazivu ulice koju treba ispraviti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 16",
+      "articleNo": "16",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Po imenovanju ulice, JLS je dužna da obavesti stanovnike naseljenog mesta o donetoj odluci putem sredstava javnog informisanja, kao i u jednom lokalnom listu i na veb prezentaciji JLS.",
+      "chunks": [
+        {
+          "id": "7fe48b81-8a5a-5018-b0d9-48d962c54e33",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Po imenovanju ulice, JLS je dužna da obavesti stanovnike naseljenog mesta o donetoj odluci putem sredstava javnog informisanja, kao i u jednom lokalnom listu i na veb prezentaciji JLS.",
+          "ragContent": "Ovaj član uređuje obavezu JLS da obavesti stanovnike o imenovanju ulice. Zakon o registru prostornih jedinica i adresnom registru, član 16, propisuje način obaveštavanja stanovnika.  Po imenovanju ulice, JLS je dužna da obavesti stanovnike naseljenog mesta o donetoj odluci putem sredstava javnog informisanja, kao i u jednom lokalnom listu i na veb prezentaciji JLS."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 17",
+      "articleNo": "17",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Po dostavljenoj odluci u skladu sa članom 13. stav 5. ovog zakona od strane JLS, Zavod rešenjem utvrđuje kućne brojeve u predmetnoj ulici.\n\nRešenje iz stava 1. ovog člana objavljuje se na veb prezentaciji Zavoda.\n\nRešenje iz stava 1. ovog člana je konačno. Protiv rešenja iz stava 1. ovog člana može se pokrenuti upravni spor u roku od 30 dana od dana objavljivanja ne veb prezentaciji Zavoda.",
+      "chunks": [
+        {
+          "id": "a502f233-2f83-5393-b396-812add7e12ff",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Po dostavljenoj odluci u skladu sa članom 13. stav 5. ovog zakona od strane JLS, Zavod rešenjem utvrđuje kućne brojeve u predmetnoj ulici.\n\nRešenje iz stava 1. ovog člana objavljuje se na veb prezentaciji Zavoda.\n\nRešenje iz stava 1. ovog člana je konačno. Protiv rešenja iz stava 1. ovog člana može se pokrenuti upravni spor u roku od 30 dana od dana objavljivanja ne veb prezentaciji Zavoda.",
+          "ragContent": "Ovaj član uređuje utvrđivanje kućnih brojeva od strane Zavoda. Član 17. Zakona o registru prostornih jedinica i adresnom registru propisuje postupak utvrđivanja kućnih brojeva i mogućnost pokretanja upravnog spora.\n\nPo dostavljenoj odluci u skladu sa članom 13. stav 5. ovog zakona od strane JLS, Zavod rešenjem utvrđuje kućne brojeve u predmetnoj ulici.\n\nRešenje iz stava 1. ovog člana objavljuje se na veb prezentaciji Zavoda.\n\nRešenje iz stava 1. ovog člana je konačno. Protiv rešenja iz stava 1. ovog člana može se pokrenuti upravni spor u roku od 30 dana od dana objavljivanja ne veb prezentaciji Zavoda."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 18",
+      "articleNo": "18",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zavod dodeljuje matični broj ulici.\n\nKod promene naziva ulice matični broj ulice se ne menja.\n\nKod deobe ulice, kada jedan deo ulice zadržava postojeći naziv, a drugi deo ulice dobija nov naziv, deo ulice koji zadržava naziv, zadržava i matični broj ulice, a deo ulice kome je promenjen naziv postaje nova ulica u AR koja dobija nov matični broj.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica zadržava naziv jedne od postojećih, nova ulica zadržava matični broj ulice koja nije promenila naziv, dok se druga ulica gasi.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica dobija nov naziv, ta ulica dobija i nov matični broj.",
+      "chunks": [
+        {
+          "id": "95534315-fc12-5165-8aad-3cf365739e84",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zavod dodeljuje matični broj ulici.\n\nKod promene naziva ulice matični broj ulice se ne menja.\n\nKod deobe ulice, kada jedan deo ulice zadržava postojeći naziv, a drugi deo ulice dobija nov naziv, deo ulice koji zadržava naziv, zadržava i matični broj ulice, a deo ulice kome je promenjen naziv postaje nova ulica u AR koja dobija nov matični broj.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica zadržava naziv jedne od postojećih, nova ulica zadržava matični broj ulice koja nije promenila naziv, dok se druga ulica gasi.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica dobija nov naziv, ta ulica dobija i nov matični broj.",
+          "ragContent": "Ovaj član uređuje dodeljivanje matičnog broja ulicama. Član 18. Zakona o registru prostornih jedinica i adresnom registru definiše pravila za dodeljivanje matičnog broja ulicama u različitim situacijama.\n\nZavod dodeljuje matični broj ulici.\n\nKod promene naziva ulice matični broj ulice se ne menja.\n\nKod deobe ulice, kada jedan deo ulice zadržava postojeći naziv, a drugi deo ulice dobija nov naziv, deo ulice koji zadržava naziv, zadržava i matični broj ulice, a deo ulice kome je promenjen naziv postaje nova ulica u AR koja dobija nov matični broj.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica zadržava naziv jedne od postojećih, nova ulica zadržava matični broj ulice koja nije promenila naziv, dok se druga ulica gasi.\n\nKod spajanja dve postojeće ulice u jednu, tako da nova ulica dobija nov naziv, ta ulica dobija i nov matični broj."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 19",
+      "articleNo": "19",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Održavanje AR jeste provođenje promena u bazi podataka AR koje se odnose na ulice i kućne brojeve.\n\nOdržavanje AR vrši se po zahtevu stranke ili po službenoj dužnosti.\n\nZavod utvrđuje kućni broj rešenjem.\n\nProtiv rešenja iz stava 3. ovog člana može se izjaviti žalba drugostepenom organu Zavoda u roku od osam dana od dana prijema rešenja.\n\nAko je za utvrđivanje kućnog broja neophodno izvršiti uviđaj na terenu, uviđaj obavlja zaposleno lice u Zavodu, o čemu sačinjava zapisnik.",
+      "chunks": [
+        {
+          "id": "9e861899-829c-563f-ba9d-1f728ac2b834",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Održavanje AR jeste provođenje promena u bazi podataka AR koje se odnose na ulice i kućne brojeve.\n\nOdržavanje AR vrši se po zahtevu stranke ili po službenoj dužnosti.\n\nZavod utvrđuje kućni broj rešenjem.\n\nProtiv rešenja iz stava 3. ovog člana može se izjaviti žalba drugostepenom organu Zavoda u roku od osam dana od dana prijema rešenja.\n\nAko je za utvrđivanje kućnog broja neophodno izvršiti uviđaj na terenu, uviđaj obavlja zaposleno lice u Zavodu, o čemu sačinjava zapisnik.",
+          "ragContent": "Ovaj član uređuje održavanje adresnog registra. Član 19. Zakona o registru prostornih jedinica i adresnom registru definiše postupak održavanja AR, uključujući utvrđivanje kućnog broja i mogućnost žalbe.\n\nOdržavanje AR jeste provođenje promena u bazi podataka AR koje se odnose na ulice i kućne brojeve.\n\nOdržavanje AR vrši se po zahtevu stranke ili po službenoj dužnosti.\n\nZavod utvrđuje kućni broj rešenjem.\n\nProtiv rešenja iz stava 3. ovog člana može se izjaviti žalba drugostepenom organu Zavoda u roku od osam dana od dana prijema rešenja.\n\nAko je za utvrđivanje kućnog broja neophodno izvršiti uviđaj na terenu, uviđaj obavlja zaposleno lice u Zavodu, o čemu sačinjava zapisnik."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovim zakonom propisuju se ovlašćenja, dužnosti i odgovornosti državnih organa i organizacija, organa i organizacija pokrajinske autonomije, organa i organizacija jedinica lokalne samouprave, ustanova, javnih preduzeća, posebnih organa preko kojih se ostvaruje regulatorna funkcija i pravnih i fizičkih lica kojima su poverena javna ovlašćenja (u daljem tekstu: organi) kada koriste podatke iz Registra prostornih jedinica i Adresnog registra.\n\nZa sve što nije ovim zakonom propisano primenjuju se odredbe drugih zakona, a naročito zakona kojim se uređuje državni premer i katastar, zakona kojim se uređuje postupak upisa u katastar nepokretnosti, kao i zakona kojim se uređuje opšti upravni postupak.",
+      "chunks": [
+        {
+          "id": "90b5381c-8644-5122-b26a-e586ee0db00e",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovim zakonom propisuju se ovlašćenja, dužnosti i odgovornosti državnih organa i organizacija, organa i organizacija pokrajinske autonomije, organa i organizacija jedinica lokalne samouprave, ustanova, javnih preduzeća, posebnih organa preko kojih se ostvaruje regulatorna funkcija i pravnih i fizičkih lica kojima su poverena javna ovlašćenja (u daljem tekstu: organi) kada koriste podatke iz Registra prostornih jedinica i Adresnog registra.\n\nZa sve što nije ovim zakonom propisano primenjuju se odredbe drugih zakona, a naročito zakona kojim se uređuje državni premer i katastar, zakona kojim se uređuje postupak upisa u katastar nepokretnosti, kao i zakona kojim se uređuje opšti upravni postupak.",
+          "ragContent": "Ovaj član definiše ovlašćenja i odgovornosti različitih organa u vezi sa Registrom prostornih jedinica i Adresnim registrom. Član 2. Zakona o registru prostornih jedinica i adresnom registru propisuje ovlašćenja, dužnosti i odgovornosti državnih organa i drugih organizacija u vezi sa korišćenjem podataka iz registara.\n\nOvim zakonom propisuju se ovlašćenja, dužnosti i odgovornosti državnih organa i organizacija, organa i organizacija pokrajinske autonomije, organa i organizacija jedinica lokalne samouprave, ustanova, javnih preduzeća, posebnih organa preko kojih se ostvaruje regulatorna funkcija i pravnih i fizičkih lica kojima su poverena javna ovlašćenja (u daljem tekstu: organi) kada koriste podatke iz Registra prostornih jedinica i Adresnog registra.\n\nZa sve što nije ovim zakonom propisano primenjuju se odredbe drugih zakona, a naročito zakona kojim se uređuje državni premer i katastar, zakona kojim se uređuje postupak upisa u katastar nepokretnosti, kao i zakona kojim se uređuje opšti upravni postupak."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 20",
+      "articleNo": "20",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kućni broj se utvrđuje za sve stambene i poslovne objekte, za zgrade za privremeno stanovanje, za objekte u izgradnji čiji je postupak izgradnje započet u skladu sa zakonom kojim se uređuje izgradnja objekata, za neizgrađene katastarske parcele koje su urbanističkim planom predviđene za izgradnju, za poseban deo stambenog ili poslovnog objekta, ako taj poseban deo ima neposredan ulaz sa ulice.\n\nKućni broj se ne utvrđuje za pomoćne objekte koji su u funkciji glavnog objekta i izgrađeni su na istoj katastarskoj parceli na kojoj je izgrađen glavni objekat.\n\nKućni broj se ne utvrđuje za: ambare, silose, štale, ribnjake, žičare, mostove, vijadukte, tunele, heliodrome, parkinge, stadione, bazene, relejne stanice i TV tornjeve, osim ako u njima postoji poseban deo namenjen za stanovanje ili obavljanje delatnosti.\n\nVlasnik, korisnik, odnosno zakupac katastarske parcele može i pre izgradnje zgrade da podnese zahtev za utvrđivanje kućnog broja za neizgrađenu katastarsku parcelu.\n\nUz zahtev iz stava 4. ovog člana, kao dokaz da je katastarska parcela predviđena za izgradnju, dostavlja se informacija o lokaciji izdata od nadležnog organa JLS.\n\nUtvrđivanje kućnog broja nije uslovljeno pravnim statusom objekta, niti upisom objekta u bazu podataka katastra nepokretnosti.",
+      "chunks": [
+        {
+          "id": "51b46129-0f7b-51c8-b8bf-7e2a5df88615",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kućni broj se utvrđuje za sve stambene i poslovne objekte, za zgrade za privremeno stanovanje, za objekte u izgradnji čiji je postupak izgradnje započet u skladu sa zakonom kojim se uređuje izgradnja objekata, za neizgrađene katastarske parcele koje su urbanističkim planom predviđene za izgradnju, za poseban deo stambenog ili poslovnog objekta, ako taj poseban deo ima neposredan ulaz sa ulice.\n\nKućni broj se ne utvrđuje za pomoćne objekte koji su u funkciji glavnog objekta i izgrađeni su na istoj katastarskoj parceli na kojoj je izgrađen glavni objekat.\n\nKućni broj se ne utvrđuje za: ambare, silose, štale, ribnjake, žičare, mostove, vijadukte, tunele, heliodrome, parkinge, stadione, bazene, relejne stanice i TV tornjeve, osim ako u njima postoji poseban deo namenjen za stanovanje ili obavljanje delatnosti.\n\nVlasnik, korisnik, odnosno zakupac katastarske parcele može i pre izgradnje zgrade da podnese zahtev za utvrđivanje kućnog broja za neizgrađenu katastarsku parcelu.\n\nUz zahtev iz stava 4. ovog člana, kao dokaz da je katastarska parcela predviđena za izgradnju, dostavlja se informacija o lokaciji izdata od nadležnog organa JLS.\n\nUtvrđivanje kućnog broja nije uslovljeno pravnim statusom objekta, niti upisom objekta u bazu podataka katastra nepokretnosti.",
+          "ragContent": "Ovaj član uređuje utvrđivanje kućnog broja za različite objekte. Član 20. Zakona o registru prostornih jedinica i adresnom registru definiše kada se utvrđuje kućni broj i za koje objekte.\n\nKućni broj se utvrđuje za sve stambene i poslovne objekte, za zgrade za privremeno stanovanje, za objekte u izgradnji čiji je postupak izgradnje započet u skladu sa zakonom kojim se uređuje izgradnja objekata, za neizgrađene katastarske parcele koje su urbanističkim planom predviđene za izgradnju, za poseban deo stambenog ili poslovnog objekta, ako taj poseban deo ima neposredan ulaz sa ulice.\n\nKućni broj se ne utvrđuje za pomoćne objekte koji su u funkciji glavnog objekta i izgrađeni su na istoj katastarskoj parceli na kojoj je izgrađen glavni objekat.\n\nKućni broj se ne utvrđuje za: ambare, silose, štale, ribnjake, žičare, mostove, vijadukte, tunele, heliodrome, parkinge, stadione, bazene, relejne stanice i TV tornjeve, osim ako u njima postoji poseban deo namenjen za stanovanje ili obavljanje delatnosti.\n\nVlasnik, korisnik, odnosno zakupac katastarske parcele može i pre izgradnje zgrade da podnese zahtev za utvrđivanje kućnog broja za neizgrađenu katastarsku parcelu.\n\nUz zahtev iz stava 4. ovog člana, kao dokaz da je katastarska parcela predviđena za izgradnju, dostavlja se informacija o lokaciji izdata od nadležnog organa JLS.\n\nUtvrđivanje kućnog broja nije uslovljeno pravnim statusom objekta, niti upisom objekta u bazu podataka katastra nepokretnosti."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 21",
+      "articleNo": "21",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Utvrđivanje kućnih brojeva vrši se posebno za svaku ulicu u naseljenom mestu, pri čemu objekti, odnosno katastarske parcele sa leve strane ulice, odakle počinje utvrđivanje, dobijaju neparne kućne brojeve, počevši od broja jedan, a objekti, odnosno katastarske parcele sa desne strane ulice, dobijaju parne brojeve, počevši od broja dva.\n\nUtvrđivanje kućnih brojeva u ulici, kao i na keju, vrši se sa kraja ulice koji je bliži glavnom delu, odnosno centru naseljenog mesta i nastavlja se u pravcu periferije.\n\nUtvrđivanje kućnih brojeva na trgu vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od ugla glavne ulice i od broja jedan.\n\nUtvrđivanje kućnih brojeva u zaseoku vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi.\n\nUtvrđivanje kućnih brojeva u naseljenim mestima razbijenog tipa, odnosno u mestima u kojima ne postoje ulice, vrši se od ulaska u naselje iz pravca administrativnog centra JLS, u kontinuitetu počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi.",
+      "chunks": [
+        {
+          "id": "e66ec797-e468-58d1-b09b-551a9ea87c98",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Utvrđivanje kućnih brojeva vrši se posebno za svaku ulicu u naseljenom mestu, pri čemu objekti, odnosno katastarske parcele sa leve strane ulice, odakle počinje utvrđivanje, dobijaju neparne kućne brojeve, počevši od broja jedan, a objekti, odnosno katastarske parcele sa desne strane ulice, dobijaju parne brojeve, počevši od broja dva.\n\nUtvrđivanje kućnih brojeva u ulici, kao i na keju, vrši se sa kraja ulice koji je bliži glavnom delu, odnosno centru naseljenog mesta i nastavlja se u pravcu periferije.\n\nUtvrđivanje kućnih brojeva na trgu vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od ugla glavne ulice i od broja jedan.\n\nUtvrđivanje kućnih brojeva u zaseoku vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi.\n\nUtvrđivanje kućnih brojeva u naseljenim mestima razbijenog tipa, odnosno u mestima u kojima ne postoje ulice, vrši se od ulaska u naselje iz pravca administrativnog centra JLS, u kontinuitetu počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi.",
+          "ragContent": "Ovaj član uređuje utvrđivanje kućnih brojeva u naseljenim mestima. Član 21. Zakona o registru prostornih jedinica i adresnom registru definiše pravila za dodeljivanje kućnih brojeva u različitim tipovima naselja.\n\nUtvrđivanje kućnih brojeva vrši se posebno za svaku ulicu u naseljenom mestu, pri čemu objekti, odnosno katastarske parcele sa leve strane ulice, odakle počinje utvrđivanje, dobijaju neparne kućne brojeve, počevši od broja jedan, a objekti, odnosno katastarske parcele sa desne strane ulice, dobijaju parne brojeve, počevši od broja dva.\n\nUtvrđivanje kućnih brojeva u ulici, kao i na keju, vrši se sa kraja ulice koji je bliži glavnom delu, odnosno centru naseljenog mesta i nastavlja se u pravcu periferije.\n\nUtvrđivanje kućnih brojeva na trgu vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od ugla glavne ulice i od broja jedan.\n\nUtvrđivanje kućnih brojeva u zaseoku vrši se u kontinuitetu u smeru kretanja kazaljke na satu, počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi.\n\nUtvrđivanje kućnih brojeva u naseljenim mestima razbijenog tipa, odnosno u mestima u kojima ne postoje ulice, vrši se od ulaska u naselje iz pravca administrativnog centra JLS, u kontinuitetu počev od broja jedan, onim redom koji je najpovoljniji i najkraći prilaz od jedne ka drugoj zgradi."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 22",
+      "articleNo": "22",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ako objekat ima više zasebnih ulaza ili se nalazi na raskrsnici ulica, svakom ulazu utvrđuje se poseban kućni broj u odnosu na pripadajuću ulicu.\n\nKućni brojevi za objekat sa više ulaza utvrđuju se jednim postupkom za sve ulaze u taj objekat.\n\nAko utvrđivanje dodatnog kućnog broja za ulaz u objekat izaziva potrebu promene ostalih kućnih brojeva na objektu, za sve ulaze u objekat utvrdiće se isti kućni broj kome se dodaju slovne oznake po azbučnom redu sa narednom slovnom oznakom.\n\nZa dvorišne objekte utvrđuje se kućni broj objekta kome se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom, a ako ulični objekat ima više ulaza sa kućnim brojem utvrđenim slovnim oznakama, dvorišnom objektu se utvrđuje kućni broj uličnog objekta sa narednom slovnom oznakom.\n\nObjektu sagrađenom između dva postojeća objekta, posle izvršenog utvrđivanja kućnih brojeva, utvrđuje se kućni broj prvog susednog objekta manjeg kućnog broja, kojem se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom.\n\nSlovnu oznaku iz st. 3–5. ovog člana čini jedno veliko slovo azbuke.",
+      "chunks": [
+        {
+          "id": "802d69bb-3e46-500a-9b6b-2f87048eddcb",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ako objekat ima više zasebnih ulaza ili se nalazi na raskrsnici ulica, svakom ulazu utvrđuje se poseban kućni broj u odnosu na pripadajuću ulicu.\n\nKućni brojevi za objekat sa više ulaza utvrđuju se jednim postupkom za sve ulaze u taj objekat.\n\nAko utvrđivanje dodatnog kućnog broja za ulaz u objekat izaziva potrebu promene ostalih kućnih brojeva na objektu, za sve ulaze u objekat utvrdiće se isti kućni broj kome se dodaju slovne oznake po azbučnom redu sa narednom slovnom oznakom.\n\nZa dvorišne objekte utvrđuje se kućni broj objekta kome se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom, a ako ulični objekat ima više ulaza sa kućnim brojem utvrđenim slovnim oznakama, dvorišnom objektu se utvrđuje kućni broj uličnog objekta sa narednom slovnom oznakom.\n\nObjektu sagrađenom između dva postojeća objekta, posle izvršenog utvrđivanja kućnih brojeva, utvrđuje se kućni broj prvog susednog objekta manjeg kućnog broja, kojem se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom.\n\nSlovnu oznaku iz st. 3–5. ovog člana čini jedno veliko slovo azbuke.",
+          "ragContent": "Ovaj član uređuje utvrđivanje kućnih brojeva za objekte sa više ulaza. Član 22. Zakona o registru prostornih jedinica i adresnom registru definiše pravila za dodeljivanje kućnih brojeva.\n\nAko objekat ima više zasebnih ulaza ili se nalazi na raskrsnici ulica, svakom ulazu utvrđuje se poseban kućni broj u odnosu na pripadajuću ulicu.\n\nKućni brojevi za objekat sa više ulaza utvrđuju se jednim postupkom za sve ulaze u taj objekat.\n\nAko utvrđivanje dodatnog kućnog broja za ulaz u objekat izaziva potrebu promene ostalih kućnih brojeva na objektu, za sve ulaze u objekat utvrdiće se isti kućni broj kome se dodaju slovne oznake po azbučnom redu sa narednom slovnom oznakom.\n\nZa dvorišne objekte utvrđuje se kućni broj objekta kome se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom, a ako ulični objekat ima više ulaza sa kućnim brojem utvrđenim slovnim oznakama, dvorišnom objektu se utvrđuje kućni broj uličnog objekta sa narednom slovnom oznakom.\n\nObjektu sagrađenom između dva postojeća objekta, posle izvršenog utvrđivanja kućnih brojeva, utvrđuje se kućni broj prvog susednog objekta manjeg kućnog broja, kojem se dodaje slovna oznaka po azbučnom redu sa narednom slovnom oznakom.\n\nSlovnu oznaku iz st. 3–5. ovog člana čini jedno veliko slovo azbuke."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 23",
+      "articleNo": "23",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za objekte za koje nije utvrđen kućni broj, stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužan je da Zavodu podnese zahtev za utvrđivanje kućnog broja.\n\nUz zahtev iz stava 1. ovog člana dostavlja se i dokaz o aktivnoj stranačkoj legitimaciji za pokretanje i vođenje postupka.",
+      "chunks": [
+        {
+          "id": "16fbf964-b403-5ab6-b3be-55989c6f0bcf",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za objekte za koje nije utvrđen kućni broj, stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužan je da Zavodu podnese zahtev za utvrđivanje kućnog broja.\n\nUz zahtev iz stava 1. ovog člana dostavlja se i dokaz o aktivnoj stranačkoj legitimaciji za pokretanje i vođenje postupka.",
+          "ragContent": "Ovaj član uređuje obavezu podnošenja zahteva za utvrđivanje kućnog broja. Član 23. Zakona o registru prostornih jedinica i adresnom registru propisuje da su određeni subjekti dužni da podnesu zahtev za utvrđivanje kućnog broja.\n\nZa objekte za koje nije utvrđen kućni broj, stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužan je da Zavodu podnese zahtev za utvrđivanje kućnog broja.\n\nUz zahtev iz stava 1. ovog člana dostavlja se i dokaz o aktivnoj stranačkoj legitimaciji za pokretanje i vođenje postupka."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 24",
+      "articleNo": "24",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zavod će prenumerisati kućne brojeve, ukoliko je odlukom nadležnog organa promenjen naziv dela ulice ili ako kućni broj nije utvrđen u skladu sa ovim zakonom, odnosno ako je ranije utvrđen kućni broj „bb”.\n\nPrenumeracija kućnih brojeva vrši se na osnovu elaborata kućnih brojeva.\n\nNa osnovu elaborata kućnih brojeva iz stava 2. ovog člana, Zavod po službenoj dužnosti donosi rešenje o utvrđivanju kućnog broja.",
+      "chunks": [
+        {
+          "id": "a7694a8a-8821-5933-b730-d753c2f44051",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zavod će prenumerisati kućne brojeve, ukoliko je odlukom nadležnog organa promenjen naziv dela ulice ili ako kućni broj nije utvrđen u skladu sa ovim zakonom, odnosno ako je ranije utvrđen kućni broj „bb”.\n\nPrenumeracija kućnih brojeva vrši se na osnovu elaborata kućnih brojeva.\n\nNa osnovu elaborata kućnih brojeva iz stava 2. ovog člana, Zavod po službenoj dužnosti donosi rešenje o utvrđivanju kućnog broja.",
+          "ragContent": "Ovaj član uređuje prenumeraciju kućnih brojeva. Član 24. Zakona o registru prostornih jedinica i adresnom registru propisuje uslove pod kojima se vrši prenumeracija kućnih brojeva.\n\nZavod će prenumerisati kućne brojeve, ukoliko je odlukom nadležnog organa promenjen naziv dela ulice ili ako kućni broj nije utvrđen u skladu sa ovim zakonom, odnosno ako je ranije utvrđen kućni broj „bb”.\n\nPrenumeracija kućnih brojeva vrši se na osnovu elaborata kućnih brojeva.\n\nNa osnovu elaborata kućnih brojeva iz stava 2. ovog člana, Zavod po službenoj dužnosti donosi rešenje o utvrđivanju kućnog broja."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 25",
+      "articleNo": "25",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Za dva ili više objekta u istoj ulici ne može se utvrditi isti kućni broj.\n\nKada su u jednoj ulici dva ili više objekta obeležena istim kućnim brojem, Zavod će postupiti u skladu sa članom 19. stav 5. ovog zakona i svim licima koja su podnela zahtev iz člana 23. stav 1. ovog zakona, čiji su objekti obeleženi istim kućnim brojem, dostaviti poziv za usmenu raspravu na kojoj će se, na osnovu priloženih dokaza, utvrditi koji od objekata zadržava kućni broj, a sa kojih objekata treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nLica iz stava 2. ovog člana dužna su da u roku od tri dana postupe po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nZa objekte koji su bili neovlašćeno obeleženi donosi se rešenje kojim se utvrđuje kućni broj uz obavezu plaćanja takse.\n\nZa objekte za koje je rešenjem JLS utvrđen duplirani kućni broj ili numeracija objekata ne odgovara parnosti strane ulice, donosi se rešenje kojim se utvrđuje kućni broj bez naplate takse.",
+      "chunks": [
+        {
+          "id": "5374014f-04d5-5b77-a1ba-41d7f2103bec",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Za dva ili više objekta u istoj ulici ne može se utvrditi isti kućni broj.\n\nKada su u jednoj ulici dva ili više objekta obeležena istim kućnim brojem, Zavod će postupiti u skladu sa članom 19. stav 5. ovog zakona i svim licima koja su podnela zahtev iz člana 23. stav 1. ovog zakona, čiji su objekti obeleženi istim kućnim brojem, dostaviti poziv za usmenu raspravu na kojoj će se, na osnovu priloženih dokaza, utvrditi koji od objekata zadržava kućni broj, a sa kojih objekata treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nLica iz stava 2. ovog člana dužna su da u roku od tri dana postupe po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nZa objekte koji su bili neovlašćeno obeleženi donosi se rešenje kojim se utvrđuje kućni broj uz obavezu plaćanja takse.\n\nZa objekte za koje je rešenjem JLS utvrđen duplirani kućni broj ili numeracija objekata ne odgovara parnosti strane ulice, donosi se rešenje kojim se utvrđuje kućni broj bez naplate takse.",
+          "ragContent": "Ovaj član uređuje utvrđivanje kućnog broja za objekte u istoj ulici. Član 25. Zakona o registru prostornih jedinica i adresnom registru propisuje postupak kada su objekti obeleženi istim kućnim brojem, uključujući obavezu uklanjanja neovlašćenih oznaka.\n\nZa dva ili više objekta u istoj ulici ne može se utvrditi isti kućni broj.\n\nKada su u jednoj ulici dva ili više objekta obeležena istim kućnim brojem, Zavod će postupiti u skladu sa članom 19. stav 5. ovog zakona i svim licima koja su podnela zahtev iz člana 23. stav 1. ovog zakona, čiji su objekti obeleženi istim kućnim brojem, dostaviti poziv za usmenu raspravu na kojoj će se, na osnovu priloženih dokaza, utvrditi koji od objekata zadržava kućni broj, a sa kojih objekata treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nLica iz stava 2. ovog člana dužna su da u roku od tri dana postupe po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem.\n\nZa objekte koji su bili neovlašćeno obeleženi donosi se rešenje kojim se utvrđuje kućni broj uz obavezu plaćanja takse.\n\nZa objekte za koje je rešenjem JLS utvrđen duplirani kućni broj ili numeracija objekata ne odgovara parnosti strane ulice, donosi se rešenje kojim se utvrđuje kućni broj bez naplate takse."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 26",
+      "articleNo": "26",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zavod je dužan da po službenoj dužnosti ažurira podatke o adresi objekta u AR u odnosu na faktičko stanje sa terenu.\n\nPodaci o adresi objekta ažuriraju se u bazi podataka katastra nepokretnosti prema podacima AR po službenoj dužnosti, bez donošenja rešenja.\n\nU postupku održavanja baze AR, Zavod je dužan da po službenoj dužnosti ispravi grešku nastalu u AR, kao i da usaglašava podatke o adresi objekta iz baze podataka AR, baze podataka katastra nepokretnosti i faktičkog stanja sa terena.\n\nU postupku ispravke greške, prenumeracija kućnih brojeva vršiće se samo za objekte koji nisu numerisani u skladu sa odredbama ovog zakona, i to umetanjem slovnih oznaka, dok ostali objekti zadržavaju postojeću numeraciju.",
+      "chunks": [
+        {
+          "id": "b758cd13-349c-5aaf-a42d-9134d95f9c34",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zavod je dužan da po službenoj dužnosti ažurira podatke o adresi objekta u AR u odnosu na faktičko stanje sa terenu.\n\nPodaci o adresi objekta ažuriraju se u bazi podataka katastra nepokretnosti prema podacima AR po službenoj dužnosti, bez donošenja rešenja.\n\nU postupku održavanja baze AR, Zavod je dužan da po službenoj dužnosti ispravi grešku nastalu u AR, kao i da usaglašava podatke o adresi objekta iz baze podataka AR, baze podataka katastra nepokretnosti i faktičkog stanja sa terena.\n\nU postupku ispravke greške, prenumeracija kućnih brojeva vršiće se samo za objekte koji nisu numerisani u skladu sa odredbama ovog zakona, i to umetanjem slovnih oznaka, dok ostali objekti zadržavaju postojeću numeraciju.",
+          "ragContent": "Ovaj član uređuje obavezu Zavoda da ažurira podatke o adresama objekata. Član 26. Zakona o registru prostornih jedinica i adresnom registru propisuje da Zavod po službenoj dužnosti ažurira podatke o adresama objekata u skladu sa faktičkim stanjem na terenu.\n\nZavod je dužan da po službenoj dužnosti ažurira podatke o adresi objekta u AR u odnosu na faktičko stanje sa terenu.\n\nPodaci o adresi objekta ažuriraju se u bazi podataka katastra nepokretnosti prema podacima AR po službenoj dužnosti, bez donošenja rešenja.\n\nU postupku održavanja baze AR, Zavod je dužan da po službenoj dužnosti ispravi grešku nastalu u AR, kao i da usaglašava podatke o adresi objekta iz baze podataka AR, baze podataka katastra nepokretnosti i faktičkog stanja sa terena.\n\nU postupku ispravke greške, prenumeracija kućnih brojeva vršiće se samo za objekte koji nisu numerisani u skladu sa odredbama ovog zakona, i to umetanjem slovnih oznaka, dok ostali objekti zadržavaju postojeću numeraciju."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 27",
+      "articleNo": "27",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kućni broj se po službenoj dužnosti briše iz AR prijavom promene nastale uklanjanjem objekta na osnovu elaborata geodetskih radova ili na osnovu uviđaja na terenu, uz zapisnik o izvršenom uviđaju.\n\nPostupak brisanja kućnog broja sprovodi se bez naplate takse.",
+      "chunks": [
+        {
+          "id": "bf05eea6-44d6-5488-b9f6-fb5d8a0b89d4",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kućni broj se po službenoj dužnosti briše iz AR prijavom promene nastale uklanjanjem objekta na osnovu elaborata geodetskih radova ili na osnovu uviđaja na terenu, uz zapisnik o izvršenom uviđaju.\n\nPostupak brisanja kućnog broja sprovodi se bez naplate takse.",
+          "ragContent": "Ovaj član uređuje brisanje kućnog broja iz adresnog registra. Član 27. Zakona o registru prostornih jedinica i adresnom registru propisuje postupak brisanja kućnog broja bez naplate takse.  Kućni broj se po službenoj dužnosti briše iz AR prijavom promene nastale uklanjanjem objekta na osnovu elaborata geodetskih radova ili na osnovu uviđaja na terenu, uz zapisnik o izvršenom uviđaju.\n\nPostupak brisanja kućnog broja sprovodi se bez naplate takse."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 28",
+      "articleNo": "28",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Označavanje naziva ulica i označavanje kućnih brojeva vrši se prema podacima AR.\n\nNazivi ulica ispisuju se u skladu sa zakonom kojim se uređuje službena upotreba jezika i pisma i zakonom kojim se uređuju zaštita prava i sloboda nacionalnih manjina, u delu kojim se uređuje službena upotreba jezika i pisma.",
+      "chunks": [
+        {
+          "id": "076766a0-e549-5420-a80b-e96ca56893a5",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Označavanje naziva ulica i označavanje kućnih brojeva vrši se prema podacima AR.\n\nNazivi ulica ispisuju se u skladu sa zakonom kojim se uređuje službena upotreba jezika i pisma i zakonom kojim se uređuju zaštita prava i sloboda nacionalnih manjina, u delu kojim se uređuje službena upotreba jezika i pisma.",
+          "ragContent": "Ovaj član uređuje način označavanja ulica i kućnih brojeva. Član 28. Zakona o registru prostornih jedinica i adresnom registru propisuje da se označavanje vrši prema podacima AR i u skladu sa relevantnim zakonima o jeziku i pravima manjina.\n\nOznačavanje naziva ulica i označavanje kućnih brojeva vrši se prema podacima AR.\n\nNazivi ulica ispisuju se u skladu sa zakonom kojim se uređuje službena upotreba jezika i pisma i zakonom kojim se uređuju zaštita prava i sloboda nacionalnih manjina, u delu kojim se uređuje službena upotreba jezika i pisma."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 29",
+      "articleNo": "29",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "JLS je u obavezi da izvrši označavanje naziva ulice u roku od 15 dana od dana donošenja odluke o imenovanju ili promeni naziva ulice.\n\nKada odluka o imenovanju ili promeni naziva ulice prouzrokuje i prenumeraciju kućnih brojeva, JLS je dužna da istovremeno sa označavanjem naziva ulice, izvrši i označavanje objekta kućnim brojem prema podacima AR.\n\nNe može se vršiti označavanje objekta kućnim brojem u novoj ulici bez prethodno označenog naziva ulice.\n\nLice iz člana 23. stav 1. ovog zakona je u obavezi da označi objekat, odnosno katastarsku parcelu kućnim brojem u roku od 15 dana od dana utvrđivanja kućnog broja.\n\nZabranjeno je neovlašćeno označavanje, postavljanje ili skidanje tabli sa nazivima ulica i tablica sa kućnim brojevima, kao i uništavanje, oštećivanje ili narušavanje izgleda tabli, odnosno tablica.",
+      "chunks": [
+        {
+          "id": "b02be1f2-70bd-5b94-adc6-82030f01fd54",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "JLS je u obavezi da izvrši označavanje naziva ulice u roku od 15 dana od dana donošenja odluke o imenovanju ili promeni naziva ulice.\n\nKada odluka o imenovanju ili promeni naziva ulice prouzrokuje i prenumeraciju kućnih brojeva, JLS je dužna da istovremeno sa označavanjem naziva ulice, izvrši i označavanje objekta kućnim brojem prema podacima AR.\n\nNe može se vršiti označavanje objekta kućnim brojem u novoj ulici bez prethodno označenog naziva ulice.\n\nLice iz člana 23. stav 1. ovog zakona je u obavezi da označi objekat, odnosno katastarsku parcelu kućnim brojem u roku od 15 dana od dana utvrđivanja kućnog broja.\n\nZabranjeno je neovlašćeno označavanje, postavljanje ili skidanje tabli sa nazivima ulica i tablica sa kućnim brojevima, kao i uništavanje, oštećivanje ili narušavanje izgleda tabli, odnosno tablica.",
+          "ragContent": "Ovaj član uređuje obaveze JLS u vezi sa označavanjem ulica i kućnih brojeva. Član 29. Zakona o registru prostornih jedinica i adresnom registru propisuje rokove i zabrane vezane za označavanje ulica i objekata.\n\nJLS je u obavezi da izvrši označavanje naziva ulice u roku od 15 dana od dana donošenja odluke o imenovanju ili promeni naziva ulice.\n\nKada odluka o imenovanju ili promeni naziva ulice prouzrokuje i prenumeraciju kućnih brojeva, JLS je dužna da istovremeno sa označavanjem naziva ulice, izvrši i označavanje objekta kućnim brojem prema podacima AR.\n\nNe može se vršiti označavanje objekta kućnim brojem u novoj ulici bez prethodno označenog naziva ulice.\n\nLice iz člana 23. stav 1. ovog zakona je u obavezi da označi objekat, odnosno katastarsku parcelu kućnim brojem u roku od 15 dana od dana utvrđivanja kućnog broja.\n\nZabranjeno je neovlašćeno označavanje, postavljanje ili skidanje tabli sa nazivima ulica i tablica sa kućnim brojevima, kao i uništavanje, oštećivanje ili narušavanje izgleda tabli, odnosno tablica."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Pojedini pojmovi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) „adresa” je strukturirani skup geoprostornih podataka koji jedinstveno određuju lokaciju i identifikaciju nepokretnosti na koju se odnose;\n\n2) „izvorni podaci u AR” jesu podaci o ulicama i kućnim brojevima;\n\n3) „preuzeti podaci u AR” jesu podaci koji se preuzimaju iz drugih evidencija (Registra prostornih jedinica i baze podataka katastra nepokretnosti i vodova i digitalnog katastarskog plana);\n\n4) „matični broj ulice” je jedinstveni identifikator (ID) ulice;\n\n5) „ulica” je deo naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti;\n\n6) „kućni broj” je oznaka nepokretnosti koja uvek ima prostornu komponentu (x,y);\n\n7) „jedinstveni adresni kod” je jedinstveni identifikator adrese.",
+      "chunks": [
+        {
+          "id": "7287f253-c5ca-5f0c-858f-0f216a8193c3",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Pojedini pojmovi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) „adresa” je strukturirani skup geoprostornih podataka koji jedinstveno određuju lokaciju i identifikaciju nepokretnosti na koju se odnose;\n\n2) „izvorni podaci u AR” jesu podaci o ulicama i kućnim brojevima;\n\n3) „preuzeti podaci u AR” jesu podaci koji se preuzimaju iz drugih evidencija (Registra prostornih jedinica i baze podataka katastra nepokretnosti i vodova i digitalnog katastarskog plana);\n\n4) „matični broj ulice” je jedinstveni identifikator (ID) ulice;\n\n5) „ulica” je deo naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti;\n\n6) „kućni broj” je oznaka nepokretnosti koja uvek ima prostornu komponentu (x,y);\n\n7) „jedinstveni adresni kod” je jedinstveni identifikator adrese.",
+          "ragContent": "Ovaj član definiše ključne pojmove vezane za adresni registar. Član 3. Zakona o registru prostornih jedinica i adresnom registru sadrži definicije pojmova kao što su adresa, izvorni podaci, preuzeti podaci, matični broj ulice, ulica, kućni broj i jedinstveni adresni kod.\n\nPojedini pojmovi upotrebljeni u ovom zakonu imaju sledeće značenje:\n\n1) „adresa” je strukturirani skup geoprostornih podataka koji jedinstveno određuju lokaciju i identifikaciju nepokretnosti na koju se odnose;\n\n2) „izvorni podaci u AR” jesu podaci o ulicama i kućnim brojevima;\n\n3) „preuzeti podaci u AR” jesu podaci koji se preuzimaju iz drugih evidencija (Registra prostornih jedinica i baze podataka katastra nepokretnosti i vodova i digitalnog katastarskog plana);\n\n4) „matični broj ulice” je jedinstveni identifikator (ID) ulice;\n\n5) „ulica” je deo naseljenog mesta u kome su izgrađeni stambeni ili poslovni objekti;\n\n6) „kućni broj” je oznaka nepokretnosti koja uvek ima prostornu komponentu (x,y);\n\n7) „jedinstveni adresni kod” je jedinstveni identifikator adrese."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 30",
+      "articleNo": "30",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Troškove označavanja ulica snosi JLS.\n\nTroškove označavanja objekata i katastarskih parcela kućnim brojevima snose lica iz člana 23. stav 1. i člana 25. ovog zakona.\n\nIzuzetno, troškove označavanja objekata i katastarskih parcela kućnim brojevima u postupku numeracije ili prenumeracije kućnih brojeva izazvane donošenjem novih ili promenom postojećih naziva ulica, snosi JLS.",
+      "chunks": [
+        {
+          "id": "41e1bf58-d385-569b-bd49-1da7dabc4cf3",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Troškove označavanja ulica snosi JLS.\n\nTroškove označavanja objekata i katastarskih parcela kućnim brojevima snose lica iz člana 23. stav 1. i člana 25. ovog zakona.\n\nIzuzetno, troškove označavanja objekata i katastarskih parcela kućnim brojevima u postupku numeracije ili prenumeracije kućnih brojeva izazvane donošenjem novih ili promenom postojećih naziva ulica, snosi JLS.",
+          "ragContent": "Ovaj član uređuje troškove označavanja ulica i objekata. Član 30. Zakona o registru prostornih jedinica i adresnom registru definiše ko snosi troškove označavanja.\n\nTroškove označavanja ulica snosi JLS.\n\nTroškove označavanja objekata i katastarskih parcela kućnim brojevima snose lica iz člana 23. stav 1. i člana 25. ovog zakona.\n\nIzuzetno, troškove označavanja objekata i katastarskih parcela kućnim brojevima u postupku numeracije ili prenumeracije kućnih brojeva izazvane donošenjem novih ili promenom postojećih naziva ulica, snosi JLS."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 31",
+      "articleNo": "31",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Kontrolu nad označavanjem ulica vrši JLS.\n\nKontrolu nad označavanjem objekata vrši Zavod.\n\nOrgani su dužni da prijave nepravilnosti i nedostatke uočene na terenu organu nadležnom za kontrolu iz st. 1. i 2. ovog člana.",
+      "chunks": [
+        {
+          "id": "309cbcff-9852-5114-a3e3-9cbe6f39f407",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Kontrolu nad označavanjem ulica vrši JLS.\n\nKontrolu nad označavanjem objekata vrši Zavod.\n\nOrgani su dužni da prijave nepravilnosti i nedostatke uočene na terenu organu nadležnom za kontrolu iz st. 1. i 2. ovog člana.",
+          "ragContent": "Ovaj član uređuje kontrolu označavanja ulica i objekata. Član 31. Zakona o registru prostornih jedinica i adresnom registru propisuje da JLS vrši kontrolu označavanja ulica, a Zavod označavanja objekata, uz obavezu prijavljivanja nepravilnosti.\n\nKontrolu nad označavanjem ulica vrši JLS.\n\nKontrolu nad označavanjem objekata vrši Zavod.\n\nOrgani su dužni da prijave nepravilnosti i nedostatke uočene na terenu organu nadležnom za kontrolu iz st. 1. i 2. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 32",
+      "articleNo": "32",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U slučajevima iz člana 25. i člana 29. st. 1. i 2. ovog zakona stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužni su da omoguće JLS označavanje naziva ulice i/ili označavanje objekta ili građevinskog zemljišta unutar katastarske parcele kućnim brojem.",
+      "chunks": [
+        {
+          "id": "147635ee-52e4-5597-bcfa-570df3b8ab65",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U slučajevima iz člana 25. i člana 29. st. 1. i 2. ovog zakona stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužni su da omoguće JLS označavanje naziva ulice i/ili označavanje objekta ili građevinskog zemljišta unutar katastarske parcele kućnim brojem.",
+          "ragContent": "Ovaj član uređuje obavezu označavanja objekata i zemljišta. Član 32. Zakona o registru prostornih jedinica i adresnom registru propisuje da su određeni subjekti dužni da omoguće označavanje naziva ulice i objekata.  U slučajevima iz člana 25. i člana 29. st. 1. i 2. ovog zakona stambena zajednica, odnosno vlasnik objekta, odnosno zakupac na građevinskom zemljištu u javnoj svojini na kojem je izgrađen objekat, odnosno investitor, odnosno podnosilac zahteva za ozakonjenje objekta dužni su da omoguće JLS označavanje naziva ulice i/ili označavanje objekta ili građevinskog zemljišta unutar katastarske parcele kućnim brojem."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 33",
+      "articleNo": "33",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Table sa nazivima ulica izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa odlukom JLS za teritoriju te lokalne samouprave.\n\nTablice sa kućnim brojem izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa izgledom, namenom objekta ili materijalom od koga je zgrada izgrađena.",
+      "chunks": [
+        {
+          "id": "3190e135-2ce5-5f48-92a9-9d132532cce8",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Table sa nazivima ulica izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa odlukom JLS za teritoriju te lokalne samouprave.\n\nTablice sa kućnim brojem izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa izgledom, namenom objekta ili materijalom od koga je zgrada izgrađena.",
+          "ragContent": "Ovaj član uređuje izradu tabela sa nazivima ulica i kućnim brojevima. Član 33. Zakona o registru prostornih jedinica i adresnom registru definiše standarde za izradu ovih tabela.\n\nTable sa nazivima ulica izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa odlukom JLS za teritoriju te lokalne samouprave.\n\nTablice sa kućnim brojem izrađuju se u skladu sa Knjigom grafičkih standarda koju donosi direktor Zavoda ili u skladu sa izgledom, namenom objekta ili materijalom od koga je zgrada izgrađena."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 34",
+      "articleNo": "34",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nadzor nad primenom ovog zakona vrši ministarstvo nadležno za poslove građevinarstva.",
+      "chunks": [
+        {
+          "id": "6b706a16-b085-5363-8845-1ef35b02b448",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nadzor nad primenom ovog zakona vrši ministarstvo nadležno za poslove građevinarstva.",
+          "ragContent": "Ovaj član uređuje nadzor nad primenom zakona. Član 34. Zakona o registru prostornih jedinica i adresnom registru propisuje da nadzor vrši ministarstvo nadležno za poslove građevinarstva.  Nadzor nad primenom ovog zakona vrši ministarstvo nadležno za poslove građevinarstva."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 35",
+      "articleNo": "35",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Novčanom kaznom od 10.000 do 50.000 dinara kazniće se za prekršaj fizičko lice, ako:\n\n1) ne podnese zahtev za utvrđivanje kućnog broja (član 23.);\n\n2) u roku od tri dana ne postupi po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem (član 25. stav 3.);\n\n3) ne označi objekat kućnim brojem (član 29. stav 4.);\n\n4) neovlašćeno označi, skine, uništi, ošteti ili naruši izgled table sa nazivom ulice ili tablice sa kućnim brojem (član 29. stav 5.);\n\n5) ne omogući da se tabla sa nazivom ulice i tablica sa kućnim brojem postavi na njegovom objektu, odnosno katastarskoj parceli (član 32.).\n\nNovčanom kaznom od 100.000 do 150.000 dinara kazniće se za prekršaj iz stava 1. ovog člana pravno lice.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana i odgovorno lice u pravnom licu.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik.",
+      "chunks": [
+        {
+          "id": "37e6e3f4-a9c3-5412-92f7-f92191349d49",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Novčanom kaznom od 10.000 do 50.000 dinara kazniće se za prekršaj fizičko lice, ako:\n\n1) ne podnese zahtev za utvrđivanje kućnog broja (član 23.);\n\n2) u roku od tri dana ne postupi po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem (član 25. stav 3.);\n\n3) ne označi objekat kućnim brojem (član 29. stav 4.);\n\n4) neovlašćeno označi, skine, uništi, ošteti ili naruši izgled table sa nazivom ulice ili tablice sa kućnim brojem (član 29. stav 5.);\n\n5) ne omogući da se tabla sa nazivom ulice i tablica sa kućnim brojem postavi na njegovom objektu, odnosno katastarskoj parceli (član 32.).\n\nNovčanom kaznom od 100.000 do 150.000 dinara kazniće se za prekršaj iz stava 1. ovog člana pravno lice.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana i odgovorno lice u pravnom licu.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik.",
+          "ragContent": "Ovaj član uređuje novčane kazne za fizička i pravna lica zbog prekršaja vezanih za kućne brojeve i oznake ulica. Član 35. Zakona o registru prostornih jedinica i adresnom registru propisuje kazne za nepoštovanje obaveza vezanih za kućne brojeve i oznake ulica.\n\nNovčanom kaznom od 10.000 do 50.000 dinara kazniće se za prekršaj fizičko lice, ako:\n\n1) ne podnese zahtev za utvrđivanje kućnog broja (član 23.);\n\n2) u roku od tri dana ne postupi po nalogu Zavoda po kome treba skinuti neovlašćeno postavljenu tablicu sa kućnim brojem (član 25. stav 3.);\n\n3) ne označi objekat kućnim brojem (član 29. stav 4.);\n\n4) neovlašćeno označi, skine, uništi, ošteti ili naruši izgled table sa nazivom ulice ili tablice sa kućnim brojem (član 29. stav 5.);\n\n5) ne omogući da se tabla sa nazivom ulice i tablica sa kućnim brojem postavi na njegovom objektu, odnosno katastarskoj parceli (član 32.).\n\nNovčanom kaznom od 100.000 do 150.000 dinara kazniće se za prekršaj iz stava 1. ovog člana pravno lice.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana i odgovorno lice u pravnom licu.\n\nNovčanom kaznom od 50.000 do 100.000 dinara kazniće se za prekršaj iz stava 1. ovog člana preduzetnik."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 36",
+      "articleNo": "36",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ministarstvo nadležno za poslove građevinarstva će u roku od šest meseci od dana stupanja na snagu ovog zakona doneti podzakonski akt kojim se bliže uređuje način vođenja RPJ i AR.",
+      "chunks": [
+        {
+          "id": "ef9e376d-9a2c-54c7-ba61-38006baca97c",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ministarstvo nadležno za poslove građevinarstva će u roku od šest meseci od dana stupanja na snagu ovog zakona doneti podzakonski akt kojim se bliže uređuje način vođenja RPJ i AR.",
+          "ragContent": "Ovaj član uređuje obavezu Ministarstva da donese podzakonski akt. Član 36. Zakona o registru prostornih jedinica i adresnom registru propisuje da Ministarstvo nadležno za poslove građevinarstva u roku od šest meseci donosi podzakonski akt.  Ministarstvo nadležno za poslove građevinarstva će u roku od šest meseci od dana stupanja na snagu ovog zakona doneti podzakonski akt kojim se bliže uređuje način vođenja RPJ i AR."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 37",
+      "articleNo": "37",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o registru prostornih jedinica („Službeni glasnik SRS”, broj 19/89), Zakon o jedinstvenoj evidenciji prostornih jedinica („Službeni list SFRJ”, broj 18/88), član 111. st. 4. i 5. i član 181. stav 1. Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15, 47/17 – autentično tumačenje, 113/17 – dr. zakon, 27/18 – dr. zakon i 41/18 – dr. zakon), član 10. Zakona o teritorijalnoj organizaciji Republike Srbije („Službeni glasnik RS”, br. 129/07, 18/16 i 47/18) u delu: „ulica, trgova i zgrada, kao i vođenje registra kućnih brojeva, ulica i trgova” i Uredba o adresnom registru („Službeni glasnik RS”, broj 63/17).",
+      "chunks": [
+        {
+          "id": "04d5f940-1bbe-58cd-b9e2-8703d11877ad",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o registru prostornih jedinica („Službeni glasnik SRS”, broj 19/89), Zakon o jedinstvenoj evidenciji prostornih jedinica („Službeni list SFRJ”, broj 18/88), član 111. st. 4. i 5. i član 181. stav 1. Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15, 47/17 – autentično tumačenje, 113/17 – dr. zakon, 27/18 – dr. zakon i 41/18 – dr. zakon), član 10. Zakona o teritorijalnoj organizaciji Republike Srbije („Službeni glasnik RS”, br. 129/07, 18/16 i 47/18) u delu: „ulica, trgova i zgrada, kao i vođenje registra kućnih brojeva, ulica i trgova” i Uredba o adresnom registru („Službeni glasnik RS”, broj 63/17).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnih zakona i uredbi. Član 37. Zakona o registru prostornih jedinica i adresnom registru definiše koji zakoni prestaju da važe danom stupanja na snagu ovog zakona.\n\nDanom stupanja na snagu ovog zakona prestaje da važi Zakon o registru prostornih jedinica („Službeni glasnik SRS”, broj 19/89), Zakon o jedinstvenoj evidenciji prostornih jedinica („Službeni list SFRJ”, broj 18/88), član 111. st. 4. i 5. i član 181. stav 1. Zakona o državnom premeru i katastru („Službeni glasnik RS”, br. 72/09, 18/10, 65/13, 15/15 – US, 96/15, 47/17 – autentično tumačenje, 113/17 – dr. zakon, 27/18 – dr. zakon i 41/18 – dr. zakon), član 10. Zakona o teritorijalnoj organizaciji Republike Srbije („Službeni glasnik RS”, br. 129/07, 18/16 i 47/18) u delu: „ulica, trgova i zgrada, kao i vođenje registra kućnih brojeva, ulica i trgova” i Uredba o adresnom registru („Službeni glasnik RS”, broj 63/17)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 38",
+      "articleNo": "38",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Zavod će započeti registraciju, vođenje i izdavanje istorijskih podataka o prostornim jedinicama, početkom primene novog informacionog sistema u Zavodu.\n\nZavod se obavezuje da će informacioni sistem iz stava 1. ovog člana biti uspostavljen u roku od godinu dana od dana stupanja na snagu ovog zakona.\n\nRepublički zavod za statistiku nadležan je za izdavanje istorijskih podataka o prostornim jedinicama nastalih pre početka vođenja i održavanja RPJ u Zavodu, odnosno nastalih do uspostavljanja novog informacionog sistema iz stava 1. ovog člana.",
+      "chunks": [
+        {
+          "id": "d0b86a5e-f34c-5588-8474-6ea49a0b9f7f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Zavod će započeti registraciju, vođenje i izdavanje istorijskih podataka o prostornim jedinicama, početkom primene novog informacionog sistema u Zavodu.\n\nZavod se obavezuje da će informacioni sistem iz stava 1. ovog člana biti uspostavljen u roku od godinu dana od dana stupanja na snagu ovog zakona.\n\nRepublički zavod za statistiku nadležan je za izdavanje istorijskih podataka o prostornim jedinicama nastalih pre početka vođenja i održavanja RPJ u Zavodu, odnosno nastalih do uspostavljanja novog informacionog sistema iz stava 1. ovog člana.",
+          "ragContent": "Ovaj član uređuje registraciju i vođenje istorijskih podataka o prostornim jedinicama. Član 38. Zakona o registru prostornih jedinica i adresnom registru definiše obaveze Zavoda i Republičkog zavoda za statistiku.\n\nZavod će započeti registraciju, vođenje i izdavanje istorijskih podataka o prostornim jedinicama, početkom primene novog informacionog sistema u Zavodu.\n\nZavod se obavezuje da će informacioni sistem iz stava 1. ovog člana biti uspostavljen u roku od godinu dana od dana stupanja na snagu ovog zakona.\n\nRepublički zavod za statistiku nadležan je za izdavanje istorijskih podataka o prostornim jedinicama nastalih pre početka vođenja i održavanja RPJ u Zavodu, odnosno nastalih do uspostavljanja novog informacionog sistema iz stava 1. ovog člana."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 39",
+      "articleNo": "39",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Nadležni organ za vođenje biračkog spiska dužan je da Zavodu dostavi sve neophodne podatke za definisanje područja biračkog mesta u roku od 90 dana od dana stupanja na snagu ovog zakona.",
+      "chunks": [
+        {
+          "id": "5d4050ae-5fb8-516f-b4a7-bf0534e86a90",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Nadležni organ za vođenje biračkog spiska dužan je da Zavodu dostavi sve neophodne podatke za definisanje područja biračkog mesta u roku od 90 dana od dana stupanja na snagu ovog zakona.",
+          "ragContent": "Ovaj član uređuje obavezu nadležnog organa u vezi sa biračkim spiskom. Član 39. Zakona o registru prostornih jedinica i adresnom registru propisuje da nadležni organ mora dostaviti podatke Zavodu.  Nadležni organ za vođenje biračkog spiska dužan je da Zavodu dostavi sve neophodne podatke za definisanje područja biračkog mesta u roku od 90 dana od dana stupanja na snagu ovog zakona."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Republički geodetski zavod (u daljem tekstu: Zavod) vodi i održava Registar prostornih jedinica (u daljem tekstu: RPJ) i Adresni registar (u daljem tekstu: AR).",
+      "chunks": [
+        {
+          "id": "eb028d05-02d7-54a1-b3b9-80561024f0cc",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Republički geodetski zavod (u daljem tekstu: Zavod) vodi i održava Registar prostornih jedinica (u daljem tekstu: RPJ) i Adresni registar (u daljem tekstu: AR).",
+          "ragContent": "Ovaj član definiše ulogu Republičkog geodetskog zavoda u vođenju registara. Član 4. Zakona o registru prostornih jedinica i adresnom registru propisuje da Zavod vodi i održava Registar prostornih jedinica i Adresni registar.  Republički geodetski zavod (u daljem tekstu: Zavod) vodi i održava Registar prostornih jedinica (u daljem tekstu: RPJ) i Adresni registar (u daljem tekstu: AR)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 40",
+      "articleNo": "40",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "chunks": [
+        {
+          "id": "6662cca9-1794-5297-838d-2d84f9e13fd6",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 40. Zakona o registru prostornih jedinica i adresnom registru propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Podaci RPJ i AR su javni i deo su Nacionalne infrastrukture geoprostornih podataka i vode se u okviru katastra nepokretnosti i vodova, u skladu sa zakonom. Evidentiranje, prikupljanje, iskazivanje, razmena i povezivanje različitih vrsta prostornih, statističkih podataka i podataka o adresi vrši se na osnovu podataka iz RPJ i AR.",
+      "chunks": [
+        {
+          "id": "0e098e9a-bb10-5e71-9f0a-42c2dab56166",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Podaci RPJ i AR su javni i deo su Nacionalne infrastrukture geoprostornih podataka i vode se u okviru katastra nepokretnosti i vodova, u skladu sa zakonom. Evidentiranje, prikupljanje, iskazivanje, razmena i povezivanje različitih vrsta prostornih, statističkih podataka i podataka o adresi vrši se na osnovu podataka iz RPJ i AR.",
+          "ragContent": "Ovaj član uređuje javnost podataka RPJ i AR kao deo Nacionalne infrastrukture geoprostornih podataka. Član 5. Zakona o registru prostornih jedinica i adresnom registru definiše kako se podaci vode u okviru katastra nepokretnosti i vodova.  Podaci RPJ i AR su javni i deo su Nacionalne infrastrukture geoprostornih podataka i vode se u okviru katastra nepokretnosti i vodova, u skladu sa zakonom. Evidentiranje, prikupljanje, iskazivanje, razmena i povezivanje različitih vrsta prostornih, statističkih podataka i podataka o adresi vrši se na osnovu podataka iz RPJ i AR."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 6",
+      "articleNo": "6",
+      "section": null,
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Podaci iz RPJ i AR koriste se u skladu sa propisima kojima se uređuje elektronska uprava, odnosno u okviru softverskog rešenja koje omogućava korišćenje elektronskih servisa dostupnih na Servisnoj magistrali organa preko Jedinstvene informaciono-komunikacione mreže elektronske uprave.\n\nAko organ nema tehničkih uslova za preuzimanje podataka na način iz stava 1. ovog člana, preuzimanje podataka vrši se preko Sistema za razmenu podataka.\n\nPreuzimanje podataka na način iz stava 1. ovog člana, odnosno izvršen uvid na način propisan stavom 2. ovog člana ima dokaznu snagu javne isprave.\n\nOrgan je dužan da u obavljanju svojih poslova koristi podatke iz RPJ i AR.",
+      "chunks": [
+        {
+          "id": "8a91aea2-e772-5d52-99e5-8024945eca2f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Podaci iz RPJ i AR koriste se u skladu sa propisima kojima se uređuje elektronska uprava, odnosno u okviru softverskog rešenja koje omogućava korišćenje elektronskih servisa dostupnih na Servisnoj magistrali organa preko Jedinstvene informaciono-komunikacione mreže elektronske uprave.\n\nAko organ nema tehničkih uslova za preuzimanje podataka na način iz stava 1. ovog člana, preuzimanje podataka vrši se preko Sistema za razmenu podataka.\n\nPreuzimanje podataka na način iz stava 1. ovog člana, odnosno izvršen uvid na način propisan stavom 2. ovog člana ima dokaznu snagu javne isprave.\n\nOrgan je dužan da u obavljanju svojih poslova koristi podatke iz RPJ i AR.",
+          "ragContent": "Ovaj član uređuje korišćenje podataka iz registra prostornih jedinica i adresnog registra. Član 6. Zakona o registru prostornih jedinica i adresnom registru propisuje način korišćenja podataka i obaveze organa.\n\nPodaci iz RPJ i AR koriste se u skladu sa propisima kojima se uređuje elektronska uprava, odnosno u okviru softverskog rešenja koje omogućava korišćenje elektronskih servisa dostupnih na Servisnoj magistrali organa preko Jedinstvene informaciono-komunikacione mreže elektronske uprave.\n\nAko organ nema tehničkih uslova za preuzimanje podataka na način iz stava 1. ovog člana, preuzimanje podataka vrši se preko Sistema za razmenu podataka.\n\nPreuzimanje podataka na način iz stava 1. ovog člana, odnosno izvršen uvid na način propisan stavom 2. ovog člana ima dokaznu snagu javne isprave.\n\nOrgan je dužan da u obavljanju svojih poslova koristi podatke iz RPJ i AR."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 7",
+      "articleNo": "7",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "RPJ je javna evidencija koja sadrži alfanumeričke i geoprostorne podatke o prostornim jedinicama.\n\nRPJ naročito sadrži podatke o:\n\n1) nazivu prostorne jedinice;\n\n2) matičnom broju odnosno šifri prostorne jedinice;\n\n3) vrsti prostorne jedinice;\n\n4) hijerarhijskoj vezi sa nadređenim i podređenim prostornim jedinicama;\n\n5) geoprostornim podacima;\n\n6) istorijatu promene.",
+      "chunks": [
+        {
+          "id": "f05eac60-ca3d-567c-8092-449c69214334",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "RPJ je javna evidencija koja sadrži alfanumeričke i geoprostorne podatke o prostornim jedinicama.\n\nRPJ naročito sadrži podatke o:\n\n1) nazivu prostorne jedinice;\n\n2) matičnom broju odnosno šifri prostorne jedinice;\n\n3) vrsti prostorne jedinice;\n\n4) hijerarhijskoj vezi sa nadređenim i podređenim prostornim jedinicama;\n\n5) geoprostornim podacima;\n\n6) istorijatu promene.",
+          "ragContent": "Ovaj član definiše javnu evidenciju o prostornim jedinicama. Član 7. Zakona o registru prostornih jedinica i adresnom registru uređuje sadržaj RPJ.\n\nRPJ je javna evidencija koja sadrži alfanumeričke i geoprostorne podatke o prostornim jedinicama.\n\nRPJ naročito sadrži podatke o:\n\n1) nazivu prostorne jedinice;\n\n2) matičnom broju odnosno šifri prostorne jedinice;\n\n3) vrsti prostorne jedinice;\n\n4) hijerarhijskoj vezi sa nadređenim i podređenim prostornim jedinicama;\n\n5) geoprostornim podacima;\n\n6) istorijatu promene."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 8",
+      "articleNo": "8",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Vrste prostornih jedinica su: Republika Srbija, autonomna pokrajina, upravni okrug, jedinica lokalne samouprave (grad Beograd, grad, opština), gradska opština, katastarski srez, katastarska opština, naseljeno mesto, mesna zajednica, statistički krug, popisni krug i područje biračkog mesta.\n\nPored prostornih jedinica iz stava 1. ovog člana, u RPJ vode se i prostorne jedinice definisane nomenklaturom statističkih teritorijalnih jedinica (NSTJ): Srbija-sever i Srbija-jug (NSTJ1), regioni (NSTJ2) i oblasti (NSTJ3).\n\nIzuzetno od člana 7. stav 1. tačka 1) ovog zakona statistički i popisni krug i područje biračkog mesta ne sadrže naziv prostorne jedinice.",
+      "chunks": [
+        {
+          "id": "c29eea2c-0bad-5438-a70b-eb68109bf1bf",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Vrste prostornih jedinica su: Republika Srbija, autonomna pokrajina, upravni okrug, jedinica lokalne samouprave (grad Beograd, grad, opština), gradska opština, katastarski srez, katastarska opština, naseljeno mesto, mesna zajednica, statistički krug, popisni krug i područje biračkog mesta.\n\nPored prostornih jedinica iz stava 1. ovog člana, u RPJ vode se i prostorne jedinice definisane nomenklaturom statističkih teritorijalnih jedinica (NSTJ): Srbija-sever i Srbija-jug (NSTJ1), regioni (NSTJ2) i oblasti (NSTJ3).\n\nIzuzetno od člana 7. stav 1. tačka 1) ovog zakona statistički i popisni krug i područje biračkog mesta ne sadrže naziv prostorne jedinice.",
+          "ragContent": "Ovaj član definiše vrste prostornih jedinica. Član 8. Zakona o registru prostornih jedinica i adresnom registru propisuje različite kategorije prostornih jedinica.\n\nVrste prostornih jedinica su: Republika Srbija, autonomna pokrajina, upravni okrug, jedinica lokalne samouprave (grad Beograd, grad, opština), gradska opština, katastarski srez, katastarska opština, naseljeno mesto, mesna zajednica, statistički krug, popisni krug i područje biračkog mesta.\n\nPored prostornih jedinica iz stava 1. ovog člana, u RPJ vode se i prostorne jedinice definisane nomenklaturom statističkih teritorijalnih jedinica (NSTJ): Srbija-sever i Srbija-jug (NSTJ1), regioni (NSTJ2) i oblasti (NSTJ3).\n\nIzuzetno od člana 7. stav 1. tačka 1) ovog zakona statistički i popisni krug i područje biračkog mesta ne sadrže naziv prostorne jedinice."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o registru prostornih jedinica i adresnom registru",
+      "lawSlug": "zakon-o-registru-prostornih-jedinica-i-adresnom-registru",
+      "article": "Član 9",
+      "articleNo": "9",
+      "section": "RPJ",
+      "category": "teritorijalna_organizacija_lokalna_samouprava",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U zavisnosti od vrste prostorne jedinice, podaci o prostornim jedinicama, unose se u RPJ na osnovu ustava, zakona, uredbe ili akta nadležnog organa.\n\nAkt iz stava 1. ovog člana nadležni organ bez odlaganja dostavlja Zavodu elektronskim putem, u skladu sa zakonom.\n\nZavod unosi podatke u RPJ i bez odlaganja iste objavljuje na veb prezentaciji Zavoda.",
+      "chunks": [
+        {
+          "id": "130681bd-194b-54e4-baed-921f70e251b2",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U zavisnosti od vrste prostorne jedinice, podaci o prostornim jedinicama, unose se u RPJ na osnovu ustava, zakona, uredbe ili akta nadležnog organa.\n\nAkt iz stava 1. ovog člana nadležni organ bez odlaganja dostavlja Zavodu elektronskim putem, u skladu sa zakonom.\n\nZavod unosi podatke u RPJ i bez odlaganja iste objavljuje na veb prezentaciji Zavoda.",
+          "ragContent": "Ovaj član uređuje unos podataka o prostornim jedinicama u RPJ. Član 9. Zakona o registru prostornih jedinica i adresnom registru propisuje način unosa i objavljivanja podataka o prostornim jedinicama.\n\nU zavisnosti od vrste prostorne jedinice, podaci o prostornim jedinicama, unose se u RPJ na osnovu ustava, zakona, uredbe ili akta nadležnog organa.\n\nAkt iz stava 1. ovog člana nadležni organ bez odlaganja dostavlja Zavodu elektronskim putem, u skladu sa zakonom.\n\nZavod unosi podatke u RPJ i bez odlaganja iste objavljuje na veb prezentaciji Zavoda."
+        }
+      ]
+    }
+  ]
+}

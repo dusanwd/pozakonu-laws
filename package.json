@@ -1,0 +1,9 @@
+{
+  "name": "pozakonu-laws",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build-pages": "node scripts/build-pages.mjs",
+    "build-pages:site": "node scripts/build-pages.mjs ../pozakonu-site/public/zakoni"
+  }
+}

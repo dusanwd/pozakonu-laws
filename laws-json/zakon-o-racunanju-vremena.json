@@ -1,0 +1,109 @@
+{
+  "law": "Zakon o računanju vremena",
+  "lawSlug": "zakon-o-ra-unanju-vremena",
+  "category": "racunanje_vremena",
+  "sourceDocumentCount": 5,
+  "articleCount": 5,
+  "articles": [
+    {
+      "law": "Zakon o računanju vremena",
+      "lawSlug": "zakon-o-ra-unanju-vremena",
+      "article": "Član 1",
+      "articleNo": "1",
+      "section": null,
+      "category": "racunanje_vremena",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U Srbiji i Crnoj Gori važi vreme koje odgovara univerzalnom koordiniranom vremenu, uvećanom za jedan čas (srednjoevropsko zonsko vreme).",
+      "chunks": [
+        {
+          "id": "f15f250b-a320-528b-b82c-668090c07c90",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U Srbiji i Crnoj Gori važi vreme koje odgovara univerzalnom koordiniranom vremenu, uvećanom za jedan čas (srednjoevropsko zonsko vreme).",
+          "ragContent": "Ovaj član definiše vreme koje se koristi u Srbiji i Crnoj Gori. Član 1. Zakona o računanju vremena propisuje da važi vreme koje odgovara univerzalnom koordiniranom vremenu, uvećanom za jedan čas.  U Srbiji i Crnoj Gori važi vreme koje odgovara univerzalnom koordiniranom vremenu, uvećanom za jedan čas (srednjoevropsko zonsko vreme)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o računanju vremena",
+      "lawSlug": "zakon-o-ra-unanju-vremena",
+      "article": "Član 2",
+      "articleNo": "2",
+      "section": null,
+      "category": "racunanje_vremena",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "U odnosu na vreme iz člana 1. ovog zakona, uvodi se letnje računanje vremena, pomeranjem za jedan čas unapred.\n\nLetnje računanje vremena počinje poslednje nedelje u martu i završava se poslednje nedelje u oktobru.",
+      "chunks": [
+        {
+          "id": "3f004888-0be9-559c-9031-6c47e86f3a59",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "U odnosu na vreme iz člana 1. ovog zakona, uvodi se letnje računanje vremena, pomeranjem za jedan čas unapred.\n\nLetnje računanje vremena počinje poslednje nedelje u martu i završava se poslednje nedelje u oktobru.",
+          "ragContent": "Ovaj član uređuje letnje računanje vremena. Član 2. Zakona o računanju vremena definiše pomeranje vremena za jedan čas unapred i period letnjeg računanja vremena.\n\nU odnosu na vreme iz člana 1. ovog zakona, uvodi se letnje računanje vremena, pomeranjem za jedan čas unapred.\n\nLetnje računanje vremena počinje poslednje nedelje u martu i završava se poslednje nedelje u oktobru."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o računanju vremena",
+      "lawSlug": "zakon-o-ra-unanju-vremena",
+      "article": "Član 3",
+      "articleNo": "3",
+      "section": null,
+      "category": "racunanje_vremena",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Letnje računanje vremena počinje u nedelju u 2 h, 00 min, 00 s, tako što se, pomeranjem za jedan čas unapred, vreme u 2 h, 00 min, 00 s računa kao 3 h, 00 min, 00 s.\n\nLetnje računanje vremena završava se u nedelju u 3 h, 00 min, 00 s tako što se, pomeranjem za jedan čas unazad, vreme u 3 h, 00 min, 00 s računa kao 2 h, 00 min, 00 s.\n\nČas koji se poslednje nedelje u oktobru, zbog pomeranja za jedan čas unazad, pojavljuje dva puta između 2 h, 00 min, 00 s i 3 h, 00 min, 00 s, označava se prvi put kao čas 2A, a drugi put kao čas 2B.",
+      "chunks": [
+        {
+          "id": "a9059ccd-5e6b-5616-98c2-504c117a83ac",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Letnje računanje vremena počinje u nedelju u 2 h, 00 min, 00 s, tako što se, pomeranjem za jedan čas unapred, vreme u 2 h, 00 min, 00 s računa kao 3 h, 00 min, 00 s.\n\nLetnje računanje vremena završava se u nedelju u 3 h, 00 min, 00 s tako što se, pomeranjem za jedan čas unazad, vreme u 3 h, 00 min, 00 s računa kao 2 h, 00 min, 00 s.\n\nČas koji se poslednje nedelje u oktobru, zbog pomeranja za jedan čas unazad, pojavljuje dva puta između 2 h, 00 min, 00 s i 3 h, 00 min, 00 s, označava se prvi put kao čas 2A, a drugi put kao čas 2B.",
+          "ragContent": "Ovaj član uređuje letnje računanje vremena. Član 3. Zakona o računanju vremena definiše početak i kraj letnjeg računanja vremena, kao i označavanje časova.\n\nLetnje računanje vremena počinje u nedelju u 2 h, 00 min, 00 s, tako što se, pomeranjem za jedan čas unapred, vreme u 2 h, 00 min, 00 s računa kao 3 h, 00 min, 00 s.\n\nLetnje računanje vremena završava se u nedelju u 3 h, 00 min, 00 s tako što se, pomeranjem za jedan čas unazad, vreme u 3 h, 00 min, 00 s računa kao 2 h, 00 min, 00 s.\n\nČas koji se poslednje nedelje u oktobru, zbog pomeranja za jedan čas unazad, pojavljuje dva puta između 2 h, 00 min, 00 s i 3 h, 00 min, 00 s, označava se prvi put kao čas 2A, a drugi put kao čas 2B."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o računanju vremena",
+      "lawSlug": "zakon-o-ra-unanju-vremena",
+      "article": "Član 4",
+      "articleNo": "4",
+      "section": null,
+      "category": "racunanje_vremena",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o računanju vremena (\"Službeni list SRJ\", br. 41/94 i 29/97).",
+      "chunks": [
+        {
+          "id": "291ffcf7-b190-5d2a-9333-718e2198ad00",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o računanju vremena (\"Službeni list SRJ\", br. 41/94 i 29/97).",
+          "ragContent": "Ovaj član uređuje prestanak važenja prethodnog zakona. Član 4. Zakona o računanju vremena definiše trenutak kada prestaje da važi stari zakon.  Danom stupanja na snagu ovog zakona prestaje da važi Zakon o računanju vremena (\"Službeni list SRJ\", br. 41/94 i 29/97)."
+        }
+      ]
+    },
+    {
+      "law": "Zakon o računanju vremena",
+      "lawSlug": "zakon-o-ra-unanju-vremena",
+      "article": "Član 5",
+      "articleNo": "5",
+      "section": null,
+      "category": "racunanje_vremena",
+      "paragraphNumbers": [],
+      "chunkCount": 1,
+      "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu SCG\".",
+      "chunks": [
+        {
+          "id": "5c53b926-d13c-5696-b454-32387a4dc42f",
+          "chunkIndex": 0,
+          "paragraph": null,
+          "content": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu SCG\".",
+          "ragContent": "Ovaj član uređuje stupanje na snagu zakona. Član 5. Zakona o računanju vremena propisuje da zakon stupa na snagu osmog dana od dana objavljivanja.  Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u \"Službenom listu SCG\"."
+        }
+      ]
+    }
+  ]
+}
