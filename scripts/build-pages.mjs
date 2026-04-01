@@ -11,6 +11,7 @@ const OUTPUT_DIR = outputArg
   : path.join(ROOT_DIR, "dist-pages");
 const OUTPUT_ASSETS_DIR = path.join(OUTPUT_DIR, "assets");
 const SITE_URL = process.env.LAWS_SITE_URL ?? "https://www.pozakonu.rs/zakoni";
+const SITEMAP_CHUNK_SIZE = 10000;
 
 function escapeHtml(value) {
   return String(value)
@@ -808,13 +809,36 @@ textarea::placeholder {
   );
 }
 
-async function writeSitemap(urls) {
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+function buildUrlSetSitemapXml(urls) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((url) => `  <url><loc>${escapeHtml(url)}</loc></url>`).join("\n")}
 </urlset>
 `;
-  await writeOutputFile("sitemap.xml", xml);
+}
+
+function buildSitemapIndexXml(urls) {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map((url) => `  <sitemap><loc>${escapeHtml(url)}</loc></sitemap>`).join("\n")}
+</sitemapindex>
+`;
+}
+
+async function writeSitemap(urls) {
+  const sitemapIndexUrls = [];
+  let chunkNumber = 0;
+
+  for (let index = 0; index < urls.length; index += SITEMAP_CHUNK_SIZE) {
+    chunkNumber += 1;
+    const chunk = urls.slice(index, index + SITEMAP_CHUNK_SIZE);
+    const fileName = `sitemap-${chunkNumber}.xml`;
+
+    await writeOutputFile(fileName, buildUrlSetSitemapXml(chunk));
+    sitemapIndexUrls.push(buildCanonicalUrl(fileName));
+  }
+
+  await writeOutputFile("sitemap.xml", buildSitemapIndexXml(sitemapIndexUrls));
 }
 
 async function writeRobots() {
