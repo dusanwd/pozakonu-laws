@@ -709,7 +709,6 @@ textarea::placeholder {
     justify-content: space-between;
   }
   .hero, .panel, .cta-panel { padding: 20px; }
-  .article-nav { flex-direction: column; align-items: flex-start; }
 }
 `;
 

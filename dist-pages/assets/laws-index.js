@@ -5,12 +5,24 @@
   const list = document.querySelector("[data-laws-list]");
   if (!dataEl || !input || !count || !list) return;
 
-  const laws = JSON.parse(dataEl.textContent || "[]");
+  const parseData = () => {
+    const raw = dataEl.textContent || "[]";
+
+    try {
+      return JSON.parse(raw);
+    } catch {
+      const textarea = document.createElement("textarea");
+      textarea.innerHTML = raw;
+      return JSON.parse(textarea.value || "[]");
+    }
+  };
+
+  const laws = parseData();
   const normalize = (value) => value.trim().toLocaleLowerCase("sr");
 
   const render = (items) => {
     list.innerHTML = items.length
-      ? items.map((law) => `<li class="law-item"><a href="${law.slug}/" class="law-card"><span class="law-card-title">${law.title}</span><span class="law-card-meta">${law.articleCount} članova</span></a></li>`).join("")
+      ? items.map((law) => `<li class="law-item"><a href="zakoni/${law.slug}/" class="law-card"><span class="law-card-title">${law.title}</span><span class="law-card-meta">${law.articleCount} članova</span></a></li>`).join("")
       : '<li class="empty-state">Nema rezultata za unetu pretragu.</li>';
     count.textContent = `Prikazano: ${items.length} / ${laws.length}`;
   };

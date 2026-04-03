@@ -5,7 +5,19 @@
   const list = document.querySelector("[data-articles-list]");
   if (!dataEl || !input || !count || !list) return;
 
-  const articles = JSON.parse(dataEl.textContent || "[]");
+  const parseData = () => {
+    const raw = dataEl.textContent || "[]";
+
+    try {
+      return JSON.parse(raw);
+    } catch {
+      const textarea = document.createElement("textarea");
+      textarea.innerHTML = raw;
+      return JSON.parse(textarea.value || "[]");
+    }
+  };
+
+  const articles = parseData();
   const normalize = (value) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 
   const render = (items) => {

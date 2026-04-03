@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.pozakonu.rs/sitemap.xml
+Sitemap: https://www.pozakonu.rs/zakoni/sitemap.xml
